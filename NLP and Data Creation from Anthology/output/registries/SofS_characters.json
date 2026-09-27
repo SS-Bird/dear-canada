@@ -1,0 +1,1295 @@
+[
+  {
+    "character_id": "johanna_leary",
+    "canonical_label": "Johanna Leary",
+    "aliases": [
+      "Johanna",
+      "Johanna Leary",
+      "AnnaJohanna",
+      "The Johanna Leary",
+      "a Joanna Leary",
+      "Michael Leary"
+    ],
+    "relation_to_narrator": "self",
+    "first_mentioned_entry": null,
+    "last_known_location": "Sherbrooke",
+    "last_location_stated_entry": "chc09_e3"
+  },
+  {
+    "character_id": "da",
+    "canonical_label": "Da",
+    "aliases": [
+      "Da",
+      "Grandda"
+    ],
+    "relation_to_narrator": "father",
+    "first_mentioned_entry": null,
+    "last_known_location": "Ireland",
+    "last_location_stated_entry": "chc05_e5"
+  },
+  {
+    "character_id": "ma",
+    "canonical_label": "Ma",
+    "aliases": [
+      "Ma"
+    ],
+    "relation_to_narrator": "mother",
+    "first_mentioned_entry": null,
+    "last_known_location": "Grosse Isle",
+    "last_location_stated_entry": "chc03_e20"
+  },
+  {
+    "character_id": "michael",
+    "canonical_label": "Michael",
+    "aliases": [
+      "Michael"
+    ],
+    "relation_to_narrator": "brother",
+    "first_mentioned_entry": null,
+    "last_known_location": "Montreal",
+    "last_location_stated_entry": "chc09_e11"
+  },
+  {
+    "character_id": "patrick",
+    "canonical_label": "Patrick",
+    "aliases": [
+      "Patrick"
+    ],
+    "relation_to_narrator": "brother",
+    "first_mentioned_entry": null,
+    "last_known_location": "Canada",
+    "last_location_stated_entry": "chc02_e5"
+  },
+  {
+    "character_id": "liam",
+    "canonical_label": "Liam",
+    "aliases": [
+      "Liam",
+      "Uncle Liam",
+      "Uncle Liam's"
+    ],
+    "relation_to_narrator": "uncle/relative",
+    "first_mentioned_entry": null,
+    "last_known_location": "Canada",
+    "last_location_stated_entry": "chc02_e1"
+  },
+  {
+    "character_id": "anna",
+    "canonical_label": "Anna",
+    "aliases": [
+      "Anna",
+      "Anna Riordans"
+    ],
+    "relation_to_narrator": "sister/relative",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "connor",
+    "canonical_label": "Connor",
+    "aliases": [
+      "Connor"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": "Sherbrooke",
+    "last_location_stated_entry": "chc09_e11"
+  },
+  {
+    "character_id": "keenan_family",
+    "canonical_label": "Keenan",
+    "aliases": [
+      "Keenan",
+      "Kerry Keenan",
+      "Kevin Keenan",
+      "Kerry",
+      "Kevin"
+    ],
+    "relation_to_narrator": "acquaintance family",
+    "first_mentioned_entry": null,
+    "last_known_location": "the hospital",
+    "last_location_stated_entry": "chc03_e21"
+  },
+  {
+    "character_id": "kelleher_family",
+    "canonical_label": "Kelleher",
+    "aliases": [
+      "Kelleher",
+      "Kellehers",
+      "Thomas Kelleher",
+      "Thomas"
+    ],
+    "relation_to_narrator": "acquaintance family",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "tattersall_family",
+    "canonical_label": "Tattersall",
+    "aliases": [
+      "Tattersall",
+      "Tattersalls"
+    ],
+    "relation_to_narrator": "acquaintance family",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "daniel",
+    "canonical_label": "Daniel",
+    "aliases": [
+      "Daniel"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "colleen",
+    "canonical_label": "Colleen",
+    "aliases": [
+      "Colleen"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "eileen_cairns",
+    "canonical_label": "Eileen Cairns",
+    "aliases": [
+      "Eileen Cairns",
+      "Eileen"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "annie_malone",
+    "canonical_label": "Annie Malone",
+    "aliases": [
+      "Annie Malone"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": "the hold",
+    "last_location_stated_entry": "chc03_e8"
+  },
+  {
+    "character_id": "stuart_mcewen",
+    "canonical_label": "Stuart McEwen",
+    "aliases": [
+      "Stuart McEwen"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "marie_france",
+    "canonical_label": "Marie-France",
+    "aliases": [
+      "Marie-France"
+    ],
+    "relation_to_narrator": "friend",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "johnson_family",
+    "canonical_label": "Johnson",
+    "aliases": [
+      "Johnson",
+      "Johnsons",
+      "William Johnson",
+      "Nellie Johnson",
+      "Peggy Johnson",
+      "Nellie",
+      "Peggy"
+    ],
+    "relation_to_narrator": "host family",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "pierre",
+    "canonical_label": "Pierre",
+    "aliases": [
+      "Pierre"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "matthew",
+    "canonical_label": "Matthew",
+    "aliases": [
+      "Matthew"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "claire",
+    "canonical_label": "Claire",
+    "aliases": [
+      "Claire"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "lusmore",
+    "canonical_label": "Lusmore",
+    "aliases": [
+      "Lusmore"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mary_catherine",
+    "canonical_label": "Mary Catherine",
+    "aliases": [
+      "Mary Catherine"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "tommy_ryan",
+    "canonical_label": "Tommy Ryan",
+    "aliases": [
+      "Tommy Ryan",
+      "Tommy"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": "Canada",
+    "last_location_stated_entry": "chc05_e19"
+  },
+  {
+    "character_id": "hall_family",
+    "canonical_label": "Hall",
+    "aliases": [
+      "Hall",
+      "Halls"
+    ],
+    "relation_to_narrator": "host family",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "fenton_family",
+    "canonical_label": "Fenton",
+    "aliases": [
+      "Fenton",
+      "Fentons"
+    ],
+    "relation_to_narrator": "host family",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "lucy",
+    "canonical_label": "Lucy",
+    "aliases": [
+      "Lucy"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": "Sherbrooke",
+    "last_location_stated_entry": "chc09_e3"
+  },
+  {
+    "character_id": "catherine",
+    "canonical_label": "Catherine",
+    "aliases": [
+      "Catherine"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": "the Halls' house",
+    "last_location_stated_entry": "chc07_e8"
+  },
+  {
+    "character_id": "lyons_family",
+    "canonical_label": "Lyons",
+    "aliases": [
+      "Lyons",
+      "Lyon"
+    ],
+    "relation_to_narrator": "family",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "elizabeth",
+    "canonical_label": "Elizabeth",
+    "aliases": [
+      "Elizabeth"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": "Montreal",
+    "last_location_stated_entry": "chc06_e4"
+  },
+  {
+    "character_id": "nearing",
+    "canonical_label": "Nearing",
+    "aliases": [
+      "Nearing",
+      "Frederick Nearing"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": "the Halls' house",
+    "last_location_stated_entry": "chc08_e7"
+  },
+  {
+    "character_id": "webley",
+    "canonical_label": "Webley",
+    "aliases": [
+      "Webley",
+      "Duncan Webley"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "leary_surname",
+    "canonical_label": "Leary",
+    "aliases": [
+      "Leary"
+    ],
+    "relation_to_narrator": "family surname reference",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "donnell",
+    "canonical_label": "Donnell",
+    "aliases": [
+      "Donnell"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "sullivan",
+    "canonical_label": "Sullivan",
+    "aliases": [
+      "Sullivan"
+    ],
+    "relation_to_narrator": "unclear",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "kevin",
+    "canonical_label": "Kevin",
+    "aliases": [],
+    "relation_to_narrator": "merged_into_keenan_family",
+    "first_mentioned_entry": null,
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mrs_keenan",
+    "canonical_label": "Mrs. Keenan",
+    "aliases": [
+      "Mrs. Keenan"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc02_e6",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_rude_girl",
+    "canonical_label": "the rude girl",
+    "aliases": [
+      "the rude girl"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc02_e6",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_captain",
+    "canonical_label": "the captain",
+    "aliases": [
+      "the captain"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc02_e6",
+    "last_known_location": "the hold",
+    "last_location_stated_entry": "chc02_e21"
+  },
+  {
+    "character_id": "the_rude_keenan_girl",
+    "canonical_label": "the rude Keenan girl",
+    "aliases": [
+      "the rude Keenan girl"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc02_e13",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mr_sullivan",
+    "canonical_label": "Mr. Sullivan",
+    "aliases": [
+      "Mr. Sullivan"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc02_e14",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mrs_tattersall",
+    "canonical_label": "Mrs. Tattersall",
+    "aliases": [
+      "Mrs. Tattersall"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc02_e14",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mr_tattersall",
+    "canonical_label": "Mr. Tattersall",
+    "aliases": [
+      "Mr. Tattersall"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc02_e14",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mrs_donnell",
+    "canonical_label": "Mrs. Donnell",
+    "aliases": [
+      "Mrs. Donnell"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc02_e19",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_little_tattersalls",
+    "canonical_label": "the little Tattersalls",
+    "aliases": [
+      "the little Tattersalls"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc02_e21",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mr_keenan",
+    "canonical_label": "Mr. Keenan",
+    "aliases": [
+      "Mr. Keenan"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc03_e1",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mrs_kelleher",
+    "canonical_label": "Mrs. Kelleher",
+    "aliases": [
+      "Mrs. Kelleher"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc03_e2",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mr_kelleher",
+    "canonical_label": "Mr. Kelleher",
+    "aliases": [
+      "Mr. Kelleher"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc03_e2",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "connor_s_father",
+    "canonical_label": "Connor's father",
+    "aliases": [
+      "Connor's father"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc03_e4",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "i",
+    "canonical_label": "I",
+    "aliases": [
+      "I"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc03_e13",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_doctor",
+    "canonical_label": "the doctor",
+    "aliases": [
+      "the doctor"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc03_e15",
+    "last_known_location": "the sick room",
+    "last_location_stated_entry": "chc09_e7"
+  },
+  {
+    "character_id": "sister_marie_france",
+    "canonical_label": "Sister Marie-France",
+    "aliases": [
+      "Sister Marie-France"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e2",
+    "last_known_location": "the sheds",
+    "last_location_stated_entry": "chc04_e12"
+  },
+  {
+    "character_id": "the_archbishop",
+    "canonical_label": "the archbishop",
+    "aliases": [
+      "the archbishop"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e2",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "a_nun",
+    "canonical_label": "a nun",
+    "aliases": [
+      "a nun"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e3",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "my_da",
+    "canonical_label": "My da",
+    "aliases": [
+      "My da"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e4",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "a_carter",
+    "canonical_label": "a carter",
+    "aliases": [
+      "a carter"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e6",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_boy",
+    "canonical_label": "the boy",
+    "aliases": [
+      "the boy"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e7",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "one_of_the_brothers",
+    "canonical_label": "one of the brothers",
+    "aliases": [
+      "one of the brothers"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e12",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mr_and_mrs_johnson",
+    "canonical_label": "Mr. and Mrs. Johnson",
+    "aliases": [
+      "Mr. and Mrs. Johnson"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e14",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mrs_coteau",
+    "canonical_label": "Mrs. Coteau",
+    "aliases": [
+      "Mrs. Coteau"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e15",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mrs_johnson",
+    "canonical_label": "Mrs. Johnson",
+    "aliases": [
+      "Mrs. Johnson"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e15",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_gardener",
+    "canonical_label": "the gardener",
+    "aliases": [
+      "the gardener"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e16",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mr_william_johnson",
+    "canonical_label": "Mr. William Johnson",
+    "aliases": [
+      "Mr. William Johnson"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e17",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "my_own_da",
+    "canonical_label": "my own da",
+    "aliases": [
+      "my own da"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e17",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_irish_immigrants",
+    "canonical_label": "the Irish immigrants",
+    "aliases": [
+      "the Irish immigrants"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e20",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "my_ma",
+    "canonical_label": "my ma",
+    "aliases": [
+      "my ma"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc04_e20",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_gentleman",
+    "canonical_label": "the gentleman",
+    "aliases": [
+      "the gentleman"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e1",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mr_johnson",
+    "canonical_label": "Mr. Johnson",
+    "aliases": [
+      "Mr. Johnson"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e3",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_couple_who_adopted_daniel",
+    "canonical_label": "the couple who adopted Daniel",
+    "aliases": [
+      "the couple who adopted Daniel"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e5",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_postmaster_in_bytown",
+    "canonical_label": "the postmaster in Bytown",
+    "aliases": [
+      "the postmaster in Bytown"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e5",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_sister_in_charge_of_the_laundry",
+    "canonical_label": "the sister in charge of the laundry",
+    "aliases": [
+      "the sister in charge of the laundry"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e8",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_johnsons",
+    "canonical_label": "the Johnsons",
+    "aliases": [
+      "the Johnsons"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e9",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_woman",
+    "canonical_label": "the woman",
+    "aliases": [
+      "the woman"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e11",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "a_policeman",
+    "canonical_label": "a policeman",
+    "aliases": [
+      "a policeman"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e11",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "her_husband",
+    "canonical_label": "her husband",
+    "aliases": [
+      "her husband"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e11",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "her_third_child",
+    "canonical_label": "her third child",
+    "aliases": [
+      "her third child"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e11",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_irish",
+    "canonical_label": "the Irish",
+    "aliases": [
+      "the Irish"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e11",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "those_from_the_ships",
+    "canonical_label": "those from the ships",
+    "aliases": [
+      "those from the ships"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e11",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mother_superior",
+    "canonical_label": "Mother Superior",
+    "aliases": [
+      "Mother Superior"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e15",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_two_women",
+    "canonical_label": "the two women",
+    "aliases": [
+      "the two women"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e15",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mrs_hall",
+    "canonical_label": "Mrs. Hall",
+    "aliases": [
+      "Mrs. Hall"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e16",
+    "last_known_location": "England",
+    "last_location_stated_entry": "chc09_e11"
+  },
+  {
+    "character_id": "uncle",
+    "canonical_label": "Uncle",
+    "aliases": [
+      "Uncle"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e16",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "my_uncle",
+    "canonical_label": "my uncle",
+    "aliases": [
+      "my uncle"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e17",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "a_girl",
+    "canonical_label": "a girl",
+    "aliases": [
+      "a girl"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e19",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "tommy_s_ma",
+    "canonical_label": "Tommy's ma",
+    "aliases": [
+      "Tommy's ma"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e19",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "his_da",
+    "canonical_label": "his da",
+    "aliases": [
+      "his da"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e19",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_landlord",
+    "canonical_label": "the landlord",
+    "aliases": [
+      "the landlord"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e19",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_halls",
+    "canonical_label": "the Halls",
+    "aliases": [
+      "the Halls"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e20",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mr_hall",
+    "canonical_label": "Mr. Hall",
+    "aliases": [
+      "Mr. Hall"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e20",
+    "last_known_location": "England",
+    "last_location_stated_entry": "chc09_e9"
+  },
+  {
+    "character_id": "mr_fenton",
+    "canonical_label": "Mr. Fenton",
+    "aliases": [
+      "Mr. Fenton"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e20",
+    "last_known_location": "Sherbrooke",
+    "last_location_stated_entry": "chc09_e3"
+  },
+  {
+    "character_id": "mrs_fenton",
+    "canonical_label": "Mrs. Fenton",
+    "aliases": [
+      "Mrs. Fenton"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e20",
+    "last_known_location": "the Halls' house",
+    "last_location_stated_entry": "chc09_e1"
+  },
+  {
+    "character_id": "fanny",
+    "canonical_label": "Fanny",
+    "aliases": [
+      "Fanny"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e20",
+    "last_known_location": "the Halls' house",
+    "last_location_stated_entry": "chc09_e1"
+  },
+  {
+    "character_id": "mrs_lyons",
+    "canonical_label": "Mrs. Lyons",
+    "aliases": [
+      "Mrs. Lyons"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc05_e20",
+    "last_known_location": "Montreal",
+    "last_location_stated_entry": "chc09_e4"
+  },
+  {
+    "character_id": "her_last_baby",
+    "canonical_label": "her last baby",
+    "aliases": [
+      "her last baby"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc06_e13",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mungo_park",
+    "canonical_label": "Mungo Park",
+    "aliases": [
+      "Mungo Park"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc06_e15",
+    "last_known_location": "Africa",
+    "last_location_stated_entry": "chc06_e15"
+  },
+  {
+    "character_id": "the_little_boy",
+    "canonical_label": "the little boy",
+    "aliases": [
+      "the little boy"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e2",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_little_girl",
+    "canonical_label": "the little girl",
+    "aliases": [
+      "the little girl"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e2",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_little_hall_girls",
+    "canonical_label": "the little Hall girls",
+    "aliases": [
+      "the little Hall girls"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e2",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "my_own_ma",
+    "canonical_label": "my own ma",
+    "aliases": [
+      "my own ma"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e5",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "a_man",
+    "canonical_label": "a man",
+    "aliases": [
+      "a man"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e5",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_priest",
+    "canonical_label": "the priest",
+    "aliases": [
+      "the priest"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e11",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mr_nearing",
+    "canonical_label": "Mr. Nearing",
+    "aliases": [
+      "Mr. Nearing"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e12",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mr_webley",
+    "canonical_label": "Mr. Webley",
+    "aliases": [
+      "Mr. Webley"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e12",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "her_nephew",
+    "canonical_label": "her nephew",
+    "aliases": [
+      "her nephew"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e12",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "my_dear_ma",
+    "canonical_label": "my dear ma",
+    "aliases": [
+      "my dear ma"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e13",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "wee_patrick",
+    "canonical_label": "wee Patrick",
+    "aliases": [
+      "wee Patrick"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc07_e13",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mrs_fenton_s_father",
+    "canonical_label": "Mrs. Fenton's father",
+    "aliases": [
+      "Mrs. Fenton's father"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc08_e4",
+    "last_known_location": "Canada",
+    "last_location_stated_entry": "chc08_e4"
+  },
+  {
+    "character_id": "a_niece",
+    "canonical_label": "a niece",
+    "aliases": [
+      "a niece"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc08_e5",
+    "last_known_location": "Montreal",
+    "last_location_stated_entry": "chc08_e5"
+  },
+  {
+    "character_id": "mr_hall_s_mother",
+    "canonical_label": "Mr. Hall's mother",
+    "aliases": [
+      "Mr. Hall's mother"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc08_e6",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "mrs_webley",
+    "canonical_label": "Mrs. Webley",
+    "aliases": [
+      "Mrs. Webley"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc08_e7",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "her_father",
+    "canonical_label": "her father",
+    "aliases": [
+      "her father"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc09_e3",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "my_brother",
+    "canonical_label": "my brother",
+    "aliases": [
+      "my brother"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc09_e3",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "niece",
+    "canonical_label": "niece",
+    "aliases": [
+      "niece"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc09_e4",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "the_family_who_took_in_daniel",
+    "canonical_label": "the family who took in Daniel",
+    "aliases": [
+      "the family who took in Daniel"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc09_e11",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  },
+  {
+    "character_id": "sister_marie_france_s_replacement",
+    "canonical_label": "Sister Marie-France's replacement",
+    "aliases": [
+      "Sister Marie-France's replacement"
+    ],
+    "relation_to_narrator": "unknown",
+    "first_mentioned_entry": "chc09_e11",
+    "last_known_location": null,
+    "last_location_stated_entry": null
+  }
+]

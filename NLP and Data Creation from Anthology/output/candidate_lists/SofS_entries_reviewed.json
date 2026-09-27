@@ -1,0 +1,491 @@
+{
+  "characters": [
+    {
+      "suggested_id": "johanna_leary",
+      "canonical_label": "Johanna Leary",
+      "aliases": [
+        "Johanna",
+        "Johanna Leary",
+        "AnnaJohanna",
+        "The Johanna Leary",
+        "a Joanna Leary",
+        "Michael Leary"
+      ],
+      "relation_to_narrator": "self"
+    },
+    {
+      "suggested_id": "da",
+      "canonical_label": "Da",
+      "aliases": [
+        "Da",
+        "Grandda"
+      ],
+      "relation_to_narrator": "father"
+    },
+    {
+      "suggested_id": "ma",
+      "canonical_label": "Ma",
+      "aliases": [
+        "Ma"
+      ],
+      "relation_to_narrator": "mother"
+    },
+    {
+      "suggested_id": "michael",
+      "canonical_label": "Michael",
+      "aliases": [
+        "Michael"
+      ],
+      "relation_to_narrator": "brother"
+    },
+    {
+      "suggested_id": "patrick",
+      "canonical_label": "Patrick",
+      "aliases": [
+        "Patrick"
+      ],
+      "relation_to_narrator": "brother"
+    },
+    {
+      "suggested_id": "liam",
+      "canonical_label": "Liam",
+      "aliases": [
+        "Liam",
+        "Uncle Liam",
+        "Uncle Liam's"
+      ],
+      "relation_to_narrator": "uncle/relative"
+    },
+    {
+      "suggested_id": "anna",
+      "canonical_label": "Anna",
+      "aliases": [
+        "Anna",
+        "Anna Riordans"
+      ],
+      "relation_to_narrator": "sister/relative"
+    },
+    {
+      "suggested_id": "connor",
+      "canonical_label": "Connor",
+      "aliases": [
+        "Connor"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "keenan_family",
+      "canonical_label": "Keenan",
+      "aliases": [
+        "Keenan",
+        "Kerry Keenan",
+        "Kevin Keenan",
+        "Kerry",
+        "Kevin"
+      ],
+      "relation_to_narrator": "acquaintance family"
+    },
+    {
+      "suggested_id": "kelleher_family",
+      "canonical_label": "Kelleher",
+      "aliases": [
+        "Kelleher",
+        "Kellehers",
+        "Thomas Kelleher",
+        "Thomas"
+      ],
+      "relation_to_narrator": "acquaintance family"
+    },
+    {
+      "suggested_id": "tattersall_family",
+      "canonical_label": "Tattersall",
+      "aliases": [
+        "Tattersall",
+        "Tattersalls"
+      ],
+      "relation_to_narrator": "acquaintance family"
+    },
+    {
+      "suggested_id": "daniel",
+      "canonical_label": "Daniel",
+      "aliases": [
+        "Daniel"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "colleen",
+      "canonical_label": "Colleen",
+      "aliases": [
+        "Colleen"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "eileen_cairns",
+      "canonical_label": "Eileen Cairns",
+      "aliases": [
+        "Eileen Cairns",
+        "Eileen"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "annie_malone",
+      "canonical_label": "Annie Malone",
+      "aliases": [
+        "Annie Malone"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "stuart_mcewen",
+      "canonical_label": "Stuart McEwen",
+      "aliases": [
+        "Stuart McEwen"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "marie_france",
+      "canonical_label": "Marie-France",
+      "aliases": [
+        "Marie-France"
+      ],
+      "relation_to_narrator": "friend"
+    },
+    {
+      "suggested_id": "johnson_family",
+      "canonical_label": "Johnson",
+      "aliases": [
+        "Johnson",
+        "Johnsons",
+        "William Johnson",
+        "Nellie Johnson",
+        "Peggy Johnson",
+        "Nellie",
+        "Peggy"
+      ],
+      "relation_to_narrator": "host family"
+    },
+    {
+      "suggested_id": "pierre",
+      "canonical_label": "Pierre",
+      "aliases": [
+        "Pierre"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "matthew",
+      "canonical_label": "Matthew",
+      "aliases": [
+        "Matthew"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "claire",
+      "canonical_label": "Claire",
+      "aliases": [
+        "Claire"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "lusmore",
+      "canonical_label": "Lusmore",
+      "aliases": [
+        "Lusmore"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "mary_catherine",
+      "canonical_label": "Mary Catherine",
+      "aliases": [
+        "Mary Catherine"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "tommy_ryan",
+      "canonical_label": "Tommy Ryan",
+      "aliases": [
+        "Tommy Ryan",
+        "Tommy"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "hall_family",
+      "canonical_label": "Hall",
+      "aliases": [
+        "Hall",
+        "Halls"
+      ],
+      "relation_to_narrator": "host family"
+    },
+    {
+      "suggested_id": "fenton_family",
+      "canonical_label": "Fenton",
+      "aliases": [
+        "Fenton",
+        "Fentons"
+      ],
+      "relation_to_narrator": "host family"
+    },
+    {
+      "suggested_id": "lucy",
+      "canonical_label": "Lucy",
+      "aliases": [
+        "Lucy"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "catherine",
+      "canonical_label": "Catherine",
+      "aliases": [
+        "Catherine"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "lyons_family",
+      "canonical_label": "Lyons",
+      "aliases": [
+        "Lyons",
+        "Lyon"
+      ],
+      "relation_to_narrator": "family"
+    },
+    {
+      "suggested_id": "elizabeth",
+      "canonical_label": "Elizabeth",
+      "aliases": [
+        "Elizabeth"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "nearing",
+      "canonical_label": "Nearing",
+      "aliases": [
+        "Nearing",
+        "Frederick Nearing"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "webley",
+      "canonical_label": "Webley",
+      "aliases": [
+        "Webley",
+        "Duncan Webley"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "leary_surname",
+      "canonical_label": "Leary",
+      "aliases": [
+        "Leary"
+      ],
+      "relation_to_narrator": "family surname reference"
+    },
+    {
+      "suggested_id": "donnell",
+      "canonical_label": "Donnell",
+      "aliases": [
+        "Donnell"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "sullivan",
+      "canonical_label": "Sullivan",
+      "aliases": [
+        "Sullivan"
+      ],
+      "relation_to_narrator": "unclear"
+    },
+    {
+      "suggested_id": "kevin",
+      "canonical_label": "Kevin",
+      "aliases": [],
+      "relation_to_narrator": "merged_into_keenan_family"
+    }
+  ],
+  "locations": [
+    {
+      "suggested_id": "ireland",
+      "canonical_label": "Ireland",
+      "aliases": [
+        "Ireland",
+        "Dublin",
+        "County Waterford"
+      ]
+    },
+    {
+      "suggested_id": "england",
+      "canonical_label": "England",
+      "aliases": [
+        "England",
+        "London",
+        "Liverpool"
+      ]
+    },
+    {
+      "suggested_id": "canada",
+      "canonical_label": "Canada",
+      "aliases": [
+        "Canada",
+        "Upper Canada",
+        "New France"
+      ]
+    },
+    {
+      "suggested_id": "america",
+      "canonical_label": "America",
+      "aliases": [
+        "America",
+        "Boston",
+        "New York"
+      ]
+    },
+    {
+      "suggested_id": "grosse_ile",
+      "canonical_label": "Grosse Isle",
+      "aliases": [
+        "Grosse Isle"
+      ]
+    },
+    {
+      "suggested_id": "quebec",
+      "canonical_label": "Quebec",
+      "aliases": [
+        "Quebec",
+        "Quebec City"
+      ]
+    },
+    {
+      "suggested_id": "montreal",
+      "canonical_label": "Montreal",
+      "aliases": [
+        "Montreal"
+      ]
+    },
+    {
+      "suggested_id": "sherbrooke",
+      "canonical_label": "Sherbrooke",
+      "aliases": [
+        "Sherbrooke"
+      ]
+    },
+    {
+      "suggested_id": "bytown",
+      "canonical_label": "Bytown",
+      "aliases": [
+        "Bytown"
+      ]
+    },
+    {
+      "suggested_id": "st_lawrence_river",
+      "canonical_label": "the St. Lawrence River",
+      "aliases": [
+        "the St. Lawrence River",
+        "the St. Lawrence",
+        "the Gulf of St. Lawrence"
+      ]
+    },
+    {
+      "suggested_id": "windmill_point",
+      "canonical_label": "Windmill Point",
+      "aliases": [
+        "Windmill Point"
+      ]
+    },
+    {
+      "suggested_id": "gatineau_hills",
+      "canonical_label": "the Gatineau Hills",
+      "aliases": [
+        "the Gatineau Hills"
+      ]
+    },
+    {
+      "suggested_id": "cape_breton",
+      "canonical_label": "Cape Breton",
+      "aliases": [
+        "Cape Breton"
+      ]
+    },
+    {
+      "suggested_id": "st_paul_island",
+      "canonical_label": "St. Paul Island",
+      "aliases": [
+        "St. Paul Island"
+      ]
+    },
+    {
+      "suggested_id": "richelieu",
+      "canonical_label": "Richelieu",
+      "aliases": [
+        "Richelieu"
+      ]
+    },
+    {
+      "suggested_id": "africa",
+      "canonical_label": "Africa",
+      "aliases": [
+        "Africa"
+      ]
+    },
+    {
+      "suggested_id": "europe",
+      "canonical_label": "Europe",
+      "aliases": [
+        "Europe"
+      ]
+    },
+    {
+      "suggested_id": "france",
+      "canonical_label": "France",
+      "aliases": [
+        "France"
+      ]
+    },
+    {
+      "suggested_id": "coteau",
+      "canonical_label": "Coteau",
+      "aliases": [
+        "Coteau"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "suggested_id": "crown",
+      "canonical_label": "Crown",
+      "aliases": [
+        "Crown"
+      ],
+      "org_type_hint": "governing authority"
+    }
+  ],
+  "likely_false_positives": [
+    "Cuchulain",
+    "St. Joseph",
+    "God",
+    "Noah",
+    "the Beautiful Maiden",
+    "Sister",
+    "Uncle",
+    "Papa",
+    "Madame",
+    "Mungo Park",
+    "Hall",
+    "Halls",
+    "Coteau"
+  ]
+}

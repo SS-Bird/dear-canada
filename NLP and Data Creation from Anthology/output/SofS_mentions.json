@@ -1,0 +1,5420 @@
+[
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "entity_id": "america",
+    "entity_label": "America",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e1",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e1",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e1",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e1",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e1",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e2",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e2",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e2",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e2",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e2",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e3",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e3",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e3",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e3",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e3",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e4",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e4",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e4",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e4",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e5",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e5",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e5",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e5",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e5",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e5",
+    "entity_id": "leary_surname",
+    "entity_label": "Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e5",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e6",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e6",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e6",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e6",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e6",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e6",
+    "entity_id": "the_rude_girl",
+    "entity_label": "the rude girl",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e6",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e7",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e7",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e7",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e7",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e8",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e11",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e11",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e11",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e12",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e12",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e12",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e12",
+    "entity_id": "the_rude_girl",
+    "entity_label": "the rude girl",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e13",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e13",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e13",
+    "entity_id": "the_rude_keenan_girl",
+    "entity_label": "the rude Keenan girl",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e13",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e13",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e14",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e14",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e14",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e14",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e14",
+    "entity_id": "mr_sullivan",
+    "entity_label": "Mr. Sullivan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e14",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e14",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e14",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e14",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e15",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e15",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e15",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e16",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e17",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e17",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e17",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e17",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e18",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e18",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e18",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e18",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e18",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e19",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e19",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e19",
+    "entity_id": "mrs_donnell",
+    "entity_label": "Mrs. Donnell",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e20",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e20",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e20",
+    "entity_id": "tattersall_family",
+    "entity_label": "Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e20",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e20",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e21",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e21",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e21",
+    "entity_id": "the_little_tattersalls",
+    "entity_label": "the little Tattersalls",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e21",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e21",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e21",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e21",
+    "entity_id": "the_hold",
+    "entity_label": "the hold",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "mr_keenan",
+    "entity_label": "Mr. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "colleen",
+    "entity_label": "Colleen",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "keenan_family",
+    "entity_label": "Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "kevin",
+    "entity_label": "Kevin",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "entity_id": "eileen_cairns",
+    "entity_label": "Eileen Cairns",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "entity_id": "kelleher_family",
+    "entity_label": "Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "entity_id": "mrs_kelleher",
+    "entity_label": "Mrs. Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "entity_id": "mr_kelleher",
+    "entity_label": "Mr. Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "entity_id": "colleen",
+    "entity_label": "Colleen",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "entity_id": "kevin",
+    "entity_label": "Kevin",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "entity_id": "keenan_family",
+    "entity_label": "Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "entity_id": "mr_keenan",
+    "entity_label": "Mr. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "connor_s_father",
+    "entity_label": "Connor's father",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "colleen",
+    "entity_label": "Colleen",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "kevin",
+    "entity_label": "Kevin",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "mrs_kelleher",
+    "entity_label": "Mrs. Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "mr_kelleher",
+    "entity_label": "Mr. Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e5",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e5",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e5",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e5",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e5",
+    "entity_id": "mrs_kelleher",
+    "entity_label": "Mrs. Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e6",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e6",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e6",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e7",
+    "entity_id": "mrs_kelleher",
+    "entity_label": "Mrs. Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e7",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e7",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e8",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e8",
+    "entity_id": "annie_malone",
+    "entity_label": "Annie Malone",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e8",
+    "entity_id": "the_hold",
+    "entity_label": "the hold",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e9",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e9",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e9",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e9",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e10",
+    "entity_id": "keenan_family",
+    "entity_label": "Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e11",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e11",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e11",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e11",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e11",
+    "entity_id": "cape_breton",
+    "entity_label": "Cape Breton",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e11",
+    "entity_id": "st_paul_island",
+    "entity_label": "St. Paul Island",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e11",
+    "entity_id": "st_lawrence_river",
+    "entity_label": "the St. Lawrence River",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e11",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e12",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e13",
+    "entity_id": "i",
+    "entity_label": "I",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e14",
+    "entity_id": "quebec",
+    "entity_label": "Quebec",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e14",
+    "entity_id": "st_lawrence_river",
+    "entity_label": "the St. Lawrence River",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e14",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e14",
+    "entity_id": "grosse_ile",
+    "entity_label": "Grosse Isle",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e14",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e14",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e15",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e15",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e15",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e15",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e15",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e15",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e15",
+    "entity_id": "keenan_family",
+    "entity_label": "Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e15",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e15",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e16",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e16",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e16",
+    "entity_id": "grosse_ile",
+    "entity_label": "Grosse Isle",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e17",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e17",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e17",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e17",
+    "entity_id": "quebec",
+    "entity_label": "Quebec",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e17",
+    "entity_id": "st_lawrence_river",
+    "entity_label": "the St. Lawrence River",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e18",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e18",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e19",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e19",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e19",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e19",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e19",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e19",
+    "entity_id": "the_island",
+    "entity_label": "the island",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e20",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e20",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e20",
+    "entity_id": "keenan_family",
+    "entity_label": "Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e20",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e20",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e20",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e20",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e21",
+    "entity_id": "keenan_family",
+    "entity_label": "Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e21",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e21",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e21",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e21",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e21",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "grosse_ile",
+    "entity_label": "Grosse Isle",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "the_hospital",
+    "entity_label": "the hospital",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "the_immigrant_sheds",
+    "entity_label": "the immigrant sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "keenan_family",
+    "entity_label": "Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e2",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e2",
+    "entity_id": "the_archbishop",
+    "entity_label": "the archbishop",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e2",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e3",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e3",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e3",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e3",
+    "entity_id": "a_nun",
+    "entity_label": "a nun",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e4",
+    "entity_id": "my_da",
+    "entity_label": "My da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e4",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e4",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e4",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e5",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e5",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e5",
+    "entity_id": "the_hospital_sheds",
+    "entity_label": "the hospital sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e5",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e6",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e6",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e6",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e6",
+    "entity_id": "the_archbishop",
+    "entity_label": "the archbishop",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e6",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e7",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e7",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e7",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e7",
+    "entity_id": "the_boy",
+    "entity_label": "the boy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e7",
+    "entity_id": "windmill_point",
+    "entity_label": "Windmill Point",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e7",
+    "entity_id": "the_sheds",
+    "entity_label": "the sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e8",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e8",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e8",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e8",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e8",
+    "entity_id": "the_boy",
+    "entity_label": "the boy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e8",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e8",
+    "entity_id": "the_sheds",
+    "entity_label": "the sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e9",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e9",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e9",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e10",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e11",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e11",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e11",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e11",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e11",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e11",
+    "entity_id": "keenan_family",
+    "entity_label": "Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e11",
+    "entity_id": "grosse_ile",
+    "entity_label": "Grosse Isle",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "entity_id": "stuart_mcewen",
+    "entity_label": "Stuart McEwen",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "entity_id": "one_of_the_brothers",
+    "entity_label": "one of the brothers",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "entity_id": "the_sheds",
+    "entity_label": "the sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "entity_id": "gatineau_hills",
+    "entity_label": "the Gatineau Hills",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "entity_id": "bytown",
+    "entity_label": "Bytown",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "entity_id": "an_alley_near_the_water",
+    "entity_label": "an alley near the water",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e13",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e13",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e14",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e14",
+    "entity_id": "mr_and_mrs_johnson",
+    "entity_label": "Mr. and Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e15",
+    "entity_id": "pierre",
+    "entity_label": "Pierre",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e15",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e15",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e15",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e15",
+    "entity_id": "johnson_family",
+    "entity_label": "Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e16",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e16",
+    "entity_id": "the_gardener",
+    "entity_label": "the gardener",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e16",
+    "entity_id": "johnson_family",
+    "entity_label": "Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e17",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e17",
+    "entity_id": "mr_william_johnson",
+    "entity_label": "Mr. William Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e17",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e17",
+    "entity_id": "matthew",
+    "entity_label": "Matthew",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e17",
+    "entity_id": "johnson_family",
+    "entity_label": "Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e17",
+    "entity_id": "johnson_family",
+    "entity_label": "Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e17",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e17",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e17",
+    "entity_id": "my_own_da",
+    "entity_label": "my own da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e18",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e18",
+    "entity_id": "claire",
+    "entity_label": "Claire",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e18",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e19",
+    "entity_id": "johnson_family",
+    "entity_label": "Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e19",
+    "entity_id": "johnson_family",
+    "entity_label": "Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e19",
+    "entity_id": "lusmore",
+    "entity_label": "Lusmore",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e20",
+    "entity_id": "johnson_family",
+    "entity_label": "Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e20",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e20",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e20",
+    "entity_id": "my_ma",
+    "entity_label": "my ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e20",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e20",
+    "entity_id": "the_fever_sheds",
+    "entity_label": "the fever sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e20",
+    "entity_id": "the_irish_immigrants",
+    "entity_label": "the Irish immigrants",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e21",
+    "entity_id": "johnson_family",
+    "entity_label": "Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e21",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e21",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e1",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e1",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e1",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e1",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e1",
+    "entity_id": "my_da",
+    "entity_label": "My da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e1",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e1",
+    "entity_id": "the_gentleman",
+    "entity_label": "the gentleman",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e1",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e1",
+    "entity_id": "the_fever_sheds",
+    "entity_label": "the fever sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e2",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e3",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e3",
+    "entity_id": "claire",
+    "entity_label": "Claire",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e3",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e3",
+    "entity_id": "mr_johnson",
+    "entity_label": "Mr. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e4",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e4",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e4",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e4",
+    "entity_id": "mr_johnson",
+    "entity_label": "Mr. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e4",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e4",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e4",
+    "entity_id": "the_nuns",
+    "entity_label": "the nuns",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e4",
+    "entity_id": "the_library",
+    "entity_label": "the library",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e4",
+    "entity_id": "the_kitchen",
+    "entity_label": "the kitchen",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "the_couple_who_adopted_daniel",
+    "entity_label": "the couple who adopted Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "the_postmaster_in_bytown",
+    "entity_label": "the postmaster in Bytown",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "bytown",
+    "entity_label": "Bytown",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "gatineau_hills",
+    "entity_label": "the Gatineau Hills",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e6",
+    "entity_id": "eileen_cairns",
+    "entity_label": "Eileen Cairns",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e6",
+    "entity_id": "mary_catherine",
+    "entity_label": "Mary Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e6",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e6",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e7",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e7",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e7",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e7",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e7",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e7",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e7",
+    "entity_id": "the_nearby_square",
+    "entity_label": "the nearby square",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e8",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e8",
+    "entity_id": "the_sister_in_charge_of_the_laundry",
+    "entity_label": "the sister in charge of the laundry",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e9",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e9",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e9",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e9",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e9",
+    "entity_id": "the_johnsons",
+    "entity_label": "the Johnsons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e9",
+    "entity_id": "claire",
+    "entity_label": "Claire",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e9",
+    "entity_id": "mr_johnson",
+    "entity_label": "Mr. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e9",
+    "entity_id": "the_fever_sheds",
+    "entity_label": "the fever sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e10",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e10",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e10",
+    "entity_id": "windmill_point",
+    "entity_label": "Windmill Point",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e10",
+    "entity_id": "the_emigrant_sheds",
+    "entity_label": "the emigrant sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e10",
+    "entity_id": "the_gentleman",
+    "entity_label": "the gentleman",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e11",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e11",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e11",
+    "entity_id": "the_sheds",
+    "entity_label": "the sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e11",
+    "entity_id": "the_woman",
+    "entity_label": "the woman",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e11",
+    "entity_id": "a_policeman",
+    "entity_label": "a policeman",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e11",
+    "entity_id": "her_husband",
+    "entity_label": "her husband",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e11",
+    "entity_id": "her_third_child",
+    "entity_label": "her third child",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e11",
+    "entity_id": "the_irish_immigrants",
+    "entity_label": "the Irish immigrants",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e12",
+    "entity_id": "i",
+    "entity_label": "I",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e12",
+    "entity_id": "the_sheds",
+    "entity_label": "the sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e13",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e14",
+    "entity_id": "the_sheds",
+    "entity_label": "the sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e14",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e14",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e14",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e14",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e14",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e14",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e15",
+    "entity_id": "mother_superior",
+    "entity_label": "Mother Superior",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e15",
+    "entity_id": "the_two_women",
+    "entity_label": "the two women",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e16",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e16",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e16",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e16",
+    "entity_id": "uncle",
+    "entity_label": "Uncle",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e16",
+    "entity_id": "her_husband",
+    "entity_label": "her husband",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e16",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e16",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e17",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e17",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e17",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e17",
+    "entity_id": "my_uncle",
+    "entity_label": "my uncle",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e18",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e18",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e18",
+    "entity_id": "the_postmaster_in_bytown",
+    "entity_label": "the postmaster in Bytown",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e18",
+    "entity_id": "bytown",
+    "entity_label": "Bytown",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e18",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e18",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "a_girl",
+    "entity_label": "a girl",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "tommy_ryan",
+    "entity_label": "Tommy Ryan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "my_da",
+    "entity_label": "My da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "tommy_s_ma",
+    "entity_label": "Tommy's ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "his_da",
+    "entity_label": "his da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "the_landlord",
+    "entity_label": "the landlord",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "entity_id": "the_fever_sheds",
+    "entity_label": "the fever sheds",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "st_lawrence_river",
+    "entity_label": "the St. Lawrence River",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "richelieu",
+    "entity_label": "Richelieu",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "entity_id": "the_halls_house",
+    "entity_label": "the Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e21",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e21",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e21",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e1",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e1",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e1",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e1",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e1",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e3",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "elizabeth",
+    "entity_label": "Elizabeth",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "the_halls_house",
+    "entity_label": "the Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "entity_id": "the_kitchen",
+    "entity_label": "the kitchen",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "entity_id": "the_garden",
+    "entity_label": "the garden",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e6",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e6",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e6",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e6",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "entity_id": "keenan_family",
+    "entity_label": "Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "entity_id": "the_americans",
+    "entity_label": "the Americans",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e8",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e8",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e8",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e8",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e8",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e8",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e8",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e8",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e8",
+    "entity_id": "the_woods",
+    "entity_label": "the woods",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e9",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e9",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e10",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e10",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e10",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e10",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e10",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e10",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e10",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e10",
+    "entity_id": "root_cellar",
+    "entity_label": "root cellar",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e11",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e11",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e12",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e12",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e13",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e13",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e13",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e13",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e13",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e13",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e13",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e13",
+    "entity_id": "her_last_baby",
+    "entity_label": "her last baby",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e14",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e14",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e14",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e14",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e14",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e14",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e14",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e15",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e15",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e15",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e15",
+    "entity_id": "mungo_park",
+    "entity_label": "Mungo Park",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e15",
+    "entity_id": "america",
+    "entity_label": "America",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e15",
+    "entity_id": "africa",
+    "entity_label": "Africa",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e15",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e15",
+    "entity_id": "the_kitchen",
+    "entity_label": "the kitchen",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e1",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e1",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e2",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e2",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e2",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e2",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e2",
+    "entity_id": "mungo_park",
+    "entity_label": "Mungo Park",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e2",
+    "entity_id": "the_little_hall_girls",
+    "entity_label": "the little Hall girls",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e2",
+    "entity_id": "the_little_boy",
+    "entity_label": "the little boy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e2",
+    "entity_id": "the_little_girl",
+    "entity_label": "the little girl",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e3",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e3",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e3",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e4",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e4",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e4",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e4",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e4",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e5",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e5",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e5",
+    "entity_id": "my_own_ma",
+    "entity_label": "my own ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e5",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e5",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e5",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e5",
+    "entity_id": "a_man",
+    "entity_label": "a man",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e5",
+    "entity_id": "the_kitchen",
+    "entity_label": "the kitchen",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "the_woods",
+    "entity_label": "the woods",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "entity_id": "the_halls_house",
+    "entity_label": "the Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e7",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e7",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e7",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e7",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e7",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e8",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e8",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e8",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e8",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e8",
+    "entity_id": "the_halls_house",
+    "entity_label": "the Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e8",
+    "entity_id": "a_little_hill_under_an_oak_tree",
+    "entity_label": "a little hill under an oak tree",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e9",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e9",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e9",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e9",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e9",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e10",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e10",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "the_priest",
+    "entity_label": "the priest",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e12",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e12",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e12",
+    "entity_id": "mr_nearing",
+    "entity_label": "Mr. Nearing",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e12",
+    "entity_id": "mr_webley",
+    "entity_label": "Mr. Webley",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e12",
+    "entity_id": "the_logging_company",
+    "entity_label": "the logging company",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e12",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e12",
+    "entity_id": "her_brother_s_house",
+    "entity_label": "her brother's house",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e12",
+    "entity_id": "her_nephew",
+    "entity_label": "her nephew",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "catherine",
+    "entity_label": "Catherine",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "my_dear_ma",
+    "entity_label": "my dear ma",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "wee_patrick",
+    "entity_label": "wee Patrick",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "my_da",
+    "entity_label": "My da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "uncle",
+    "entity_label": "Uncle",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "the_logging_company",
+    "entity_label": "the logging company",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "entity_id": "a_little_hill_under_an_oak_tree",
+    "entity_label": "a little hill under an oak tree",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e14",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e14",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e14",
+    "entity_id": "the_kitchen",
+    "entity_label": "the kitchen",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e15",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e15",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e15",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e16",
+    "entity_id": "da",
+    "entity_label": "Da",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e16",
+    "entity_id": "priests",
+    "entity_label": "priests",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e1",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e1",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e1",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e1",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e1",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e1",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e2",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e2",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e2",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e2",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e2",
+    "entity_id": "the_kitchen",
+    "entity_label": "the kitchen",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e2",
+    "entity_id": "the_veranda",
+    "entity_label": "the veranda",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e2",
+    "entity_id": "the_barn",
+    "entity_label": "the barn",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e2",
+    "entity_id": "the_yard",
+    "entity_label": "the yard",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e3",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e3",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e3",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e3",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e3",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "entity_id": "mrs_fenton_s_father",
+    "entity_label": "Mrs. Fenton's father",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "entity_id": "america",
+    "entity_label": "America",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "entity_id": "crown",
+    "entity_label": "Crown",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e5",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e5",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e5",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e5",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e5",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e5",
+    "entity_id": "a_niece",
+    "entity_label": "a niece",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e5",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e5",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e5",
+    "entity_id": "the_cree",
+    "entity_label": "the Cree",
+    "entity_type": "organization"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e6",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e6",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e6",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e6",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e6",
+    "entity_id": "the_logging_camp",
+    "entity_label": "the logging camp",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e6",
+    "entity_id": "mr_hall_s_mother",
+    "entity_label": "Mr. Hall's mother",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e7",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e7",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e7",
+    "entity_id": "nearing",
+    "entity_label": "Nearing",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e7",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e7",
+    "entity_id": "webley",
+    "entity_label": "Webley",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e7",
+    "entity_id": "mrs_webley",
+    "entity_label": "Mrs. Webley",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e7",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e7",
+    "entity_id": "the_logging_camp",
+    "entity_label": "the logging camp",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e7",
+    "entity_id": "the_yard",
+    "entity_label": "the yard",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e8",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e8",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e8",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e8",
+    "entity_id": "mr_nearing",
+    "entity_label": "Mr. Nearing",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e8",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e8",
+    "entity_id": "mr_webley",
+    "entity_label": "Mr. Webley",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e8",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e8",
+    "entity_id": "europe",
+    "entity_label": "Europe",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e8",
+    "entity_id": "the_logging_camp",
+    "entity_label": "the logging camp",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e9",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e9",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "entity_id": "the_kitchen",
+    "entity_label": "the kitchen",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e2",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e2",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e2",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e2",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e2",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e2",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e2",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e2",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e2",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e3",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e3",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e3",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e3",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e3",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e3",
+    "entity_id": "her_father",
+    "entity_label": "her father",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e3",
+    "entity_id": "my_brother",
+    "entity_label": "my brother",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e3",
+    "entity_id": "the_post_office_in_sherbrooke",
+    "entity_label": "the post office in Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e4",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e4",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e4",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e4",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e4",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e4",
+    "entity_id": "niece",
+    "entity_label": "niece",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e5",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e6",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e6",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e6",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e7",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e7",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e7",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e7",
+    "entity_id": "the_sick_room",
+    "entity_label": "the sick room",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e8",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e8",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e8",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e8",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e9",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e9",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e9",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e9",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e9",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e9",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e9",
+    "entity_id": "her_father",
+    "entity_label": "her father",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e10",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e10",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e10",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "lucy",
+    "entity_label": "Lucy",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "daniel",
+    "entity_label": "Daniel",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "michael",
+    "entity_label": "Michael",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "sister_marie_france",
+    "entity_label": "Sister Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "sister_marie_france_s_replacement",
+    "entity_label": "Sister Marie-France's replacement",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "tommy_ryan",
+    "entity_label": "Tommy Ryan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "keenan_family",
+    "entity_label": "Keenan",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "fenton_family",
+    "entity_label": "Fenton",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "fanny",
+    "entity_label": "Fanny",
+    "entity_type": "character"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "st_lawrence_river",
+    "entity_label": "the St. Lawrence River",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "the_square",
+    "entity_label": "the square",
+    "entity_type": "location"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "entity_id": "the_nuns",
+    "entity_label": "the nuns",
+    "entity_type": "organization"
+  }
+]

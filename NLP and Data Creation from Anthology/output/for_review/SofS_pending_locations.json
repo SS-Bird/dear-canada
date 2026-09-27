@@ -1,0 +1,127 @@
+[
+  {
+    "location_id": "the_hold",
+    "label": "the hold",
+    "entry_id": "chc02_e16"
+  },
+  {
+    "location_id": "the_island",
+    "label": "the island",
+    "entry_id": "chc03_e19"
+  },
+  {
+    "location_id": "the_hospital",
+    "label": "the hospital",
+    "entry_id": "chc03_e21"
+  },
+  {
+    "location_id": "the_immigrant_sheds",
+    "label": "the immigrant sheds",
+    "entry_id": "chc04_e1"
+  },
+  {
+    "location_id": "the_hospital_sheds",
+    "label": "the hospital sheds",
+    "entry_id": "chc04_e5"
+  },
+  {
+    "location_id": "the_sheds",
+    "label": "the sheds",
+    "entry_id": "chc04_e7"
+  },
+  {
+    "location_id": "an_alley_near_the_water",
+    "label": "an alley near the water",
+    "entry_id": "chc04_e12"
+  },
+  {
+    "location_id": "the_fever_sheds",
+    "label": "the fever sheds",
+    "entry_id": "chc04_e20"
+  },
+  {
+    "location_id": "the_library",
+    "label": "the library",
+    "entry_id": "chc05_e4"
+  },
+  {
+    "location_id": "the_kitchen",
+    "label": "the kitchen",
+    "entry_id": "chc05_e4"
+  },
+  {
+    "location_id": "the_nearby_square",
+    "label": "the nearby square",
+    "entry_id": "chc05_e7"
+  },
+  {
+    "location_id": "the_emigrant_sheds",
+    "label": "the emigrant sheds",
+    "entry_id": "chc05_e10"
+  },
+  {
+    "location_id": "the_halls_house",
+    "label": "the Halls' house",
+    "entry_id": "chc05_e20"
+  },
+  {
+    "location_id": "the_garden",
+    "label": "the garden",
+    "entry_id": "chc06_e5"
+  },
+  {
+    "location_id": "the_woods",
+    "label": "the woods",
+    "entry_id": "chc06_e8"
+  },
+  {
+    "location_id": "root_cellar",
+    "label": "root cellar",
+    "entry_id": "chc06_e10"
+  },
+  {
+    "location_id": "a_little_hill_under_an_oak_tree",
+    "label": "a little hill under an oak tree",
+    "entry_id": "chc07_e8"
+  },
+  {
+    "location_id": "her_brother_s_house",
+    "label": "her brother's house",
+    "entry_id": "chc07_e12"
+  },
+  {
+    "location_id": "the_veranda",
+    "label": "the veranda",
+    "entry_id": "chc08_e2"
+  },
+  {
+    "location_id": "the_barn",
+    "label": "the barn",
+    "entry_id": "chc08_e2"
+  },
+  {
+    "location_id": "the_yard",
+    "label": "the yard",
+    "entry_id": "chc08_e2"
+  },
+  {
+    "location_id": "the_logging_camp",
+    "label": "the logging camp",
+    "entry_id": "chc08_e6"
+  },
+  {
+    "location_id": "the_post_office_in_sherbrooke",
+    "label": "the post office in Sherbrooke",
+    "entry_id": "chc09_e3"
+  },
+  {
+    "location_id": "the_sick_room",
+    "label": "the sick room",
+    "entry_id": "chc09_e6"
+  },
+  {
+    "location_id": "the_square",
+    "label": "the square",
+    "entry_id": "chc09_e11"
+  }
+]

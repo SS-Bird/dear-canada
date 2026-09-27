@@ -1,0 +1,961 @@
+[
+  {
+    "book": "SofS",
+    "entry_id": "chc01_e1",
+    "chapter_id": "c01",
+    "entry_date_raw": "April 30, 1847",
+    "entry_date": "1847-04-30"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e1",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 1, 1847",
+    "entry_date": "1847-05-01"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e2",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 3, 1847",
+    "entry_date": "1847-05-03"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e3",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 6, 1847",
+    "entry_date": "1847-05-06"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e4",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 7, 1847",
+    "entry_date": "1847-05-07"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e5",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 8, 1847",
+    "entry_date": "1847-05-08"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e6",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 9, 1847",
+    "entry_date": "1847-05-09"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e7",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 10, 1847",
+    "entry_date": "1847-05-10"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e8",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 11, 1847",
+    "entry_date": "1847-05-11"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e9",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 12, 1847",
+    "entry_date": "1847-05-12"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e10",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 13, 1847",
+    "entry_date": "1847-05-13"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e11",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 14, 1847",
+    "entry_date": "1847-05-14"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e12",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 15, 1847",
+    "entry_date": "1847-05-15"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e13",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 16, 1847",
+    "entry_date": "1847-05-16"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e14",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 19, 1847",
+    "entry_date": "1847-05-19"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e15",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 20, 1847",
+    "entry_date": "1847-05-20"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e16",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 21, 1847",
+    "entry_date": "1847-05-21"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e17",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 22, 1847",
+    "entry_date": "1847-05-22"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e18",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 23, 1847",
+    "entry_date": "1847-05-23"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e19",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 24, 1847",
+    "entry_date": "1847-05-24"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e20",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 27, 1847",
+    "entry_date": "1847-05-27"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e21",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 28, 1847",
+    "entry_date": "1847-05-28"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc02_e22",
+    "chapter_id": "c02",
+    "entry_date_raw": "May 30, 1847",
+    "entry_date": "1847-05-30"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e1",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 1, 1847",
+    "entry_date": "1847-06-01"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e2",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 3, 1847",
+    "entry_date": "1847-06-03"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e3",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 5, 1847",
+    "entry_date": "1847-06-05"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e4",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 8, 1847",
+    "entry_date": "1847-06-08"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e5",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 9, 1847",
+    "entry_date": "1847-06-09"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e6",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 10, 1847",
+    "entry_date": "1847-06-10"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e7",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 11, 1847",
+    "entry_date": "1847-06-11"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e8",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 12, 1847",
+    "entry_date": "1847-06-12"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e9",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 13, 1847",
+    "entry_date": "1847-06-13"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e10",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 14, 1847",
+    "entry_date": "1847-06-14"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e11",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 15, 1847",
+    "entry_date": "1847-06-15"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e12",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 16, 1847",
+    "entry_date": "1847-06-16"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e13",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 17, 1847",
+    "entry_date": "1847-06-17"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e14",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 18, 1847",
+    "entry_date": "1847-06-18"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e15",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 21, 1847",
+    "entry_date": "1847-06-21"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e16",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 22, 1847",
+    "entry_date": "1847-06-22"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e17",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 23, 1847",
+    "entry_date": "1847-06-23"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e18",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 24, 1847",
+    "entry_date": "1847-06-24"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e19",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 25, 1847",
+    "entry_date": "1847-06-25"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e20",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 26, 1847",
+    "entry_date": "1847-06-26"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc03_e21",
+    "chapter_id": "c03",
+    "entry_date_raw": "June 28, 1847",
+    "entry_date": "1847-06-28"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e1",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 3, 1847",
+    "entry_date": "1847-07-03"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e2",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 4, 1847",
+    "entry_date": "1847-07-04"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e3",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 7, 1847",
+    "entry_date": "1847-07-07"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e4",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 10, 1847",
+    "entry_date": "1847-07-10"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e5",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 12, 1847",
+    "entry_date": "1847-07-12"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e6",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 13, 1847",
+    "entry_date": "1847-07-13"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e7",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 14, 1847",
+    "entry_date": "1847-07-14"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e8",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 15, 1847",
+    "entry_date": "1847-07-15"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e9",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 16, 1847",
+    "entry_date": "1847-07-16"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e10",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 17, 1847",
+    "entry_date": "1847-07-17"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e11",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 18, 1847",
+    "entry_date": "1847-07-18"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e12",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 19, 1847",
+    "entry_date": "1847-07-19"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e13",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 20, 1847",
+    "entry_date": "1847-07-20"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e14",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 21, 1847",
+    "entry_date": "1847-07-21"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e15",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 24, 1847",
+    "entry_date": "1847-07-24"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e16",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 25, 1847",
+    "entry_date": "1847-07-25"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e17",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 26, 1847",
+    "entry_date": "1847-07-26"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e18",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 27, 1847",
+    "entry_date": "1847-07-27"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e19",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 28, 1847",
+    "entry_date": "1847-07-28"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e20",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 30, 1847",
+    "entry_date": "1847-07-30"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc04_e21",
+    "chapter_id": "c04",
+    "entry_date_raw": "July 31, 1847",
+    "entry_date": "1847-07-31"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e1",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 1, 1847",
+    "entry_date": "1847-08-01"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e2",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 2, 1847",
+    "entry_date": "1847-08-02"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e3",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 3, 1847",
+    "entry_date": "1847-08-03"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e4",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 5, 1847",
+    "entry_date": "1847-08-05"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e5",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 7, 1847",
+    "entry_date": "1847-08-07"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e6",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 8, 1847",
+    "entry_date": "1847-08-08"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e7",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 9, 1847",
+    "entry_date": "1847-08-09"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e8",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 10, 1847",
+    "entry_date": "1847-08-10"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e9",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 11, 1847",
+    "entry_date": "1847-08-11"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e10",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 12, 1847",
+    "entry_date": "1847-08-12"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e11",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 13, 1847",
+    "entry_date": "1847-08-13"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e12",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 14, 1847",
+    "entry_date": "1847-08-14"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e13",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 16, 1847",
+    "entry_date": "1847-08-16"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e14",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 19, 1847",
+    "entry_date": "1847-08-19"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e15",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 20, 1847",
+    "entry_date": "1847-08-20"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e16",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 21, 1847",
+    "entry_date": "1847-08-21"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e17",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 22, 1847",
+    "entry_date": "1847-08-22"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e18",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 23, 1847",
+    "entry_date": "1847-08-23"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e19",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 25, 1847",
+    "entry_date": "1847-08-25"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e20",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 26, 1847",
+    "entry_date": "1847-08-26"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc05_e21",
+    "chapter_id": "c05",
+    "entry_date_raw": "August 31, 1847",
+    "entry_date": "1847-08-31"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e1",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 1, 1847",
+    "entry_date": "1847-09-01"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e2",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 2, 1847",
+    "entry_date": "1847-09-02"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e3",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 3, 1847",
+    "entry_date": "1847-09-03"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e4",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 4, 1847",
+    "entry_date": "1847-09-04"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e5",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 6, 1847",
+    "entry_date": "1847-09-06"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e6",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 10, 1847",
+    "entry_date": "1847-09-10"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e7",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 13, 1847",
+    "entry_date": "1847-09-13"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e8",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 15, 1847",
+    "entry_date": "1847-09-15"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e9",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 18, 1847",
+    "entry_date": "1847-09-18"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e10",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 21, 1847",
+    "entry_date": "1847-09-21"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e11",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 23, 1847",
+    "entry_date": "1847-09-23"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e12",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 24, 1847",
+    "entry_date": "1847-09-24"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e13",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 25, 1847",
+    "entry_date": "1847-09-25"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e14",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 26, 1847",
+    "entry_date": "1847-09-26"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc06_e15",
+    "chapter_id": "c06",
+    "entry_date_raw": "September 27, 1847",
+    "entry_date": "1847-09-27"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e1",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 2, 1847",
+    "entry_date": "1847-10-02"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e2",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 3, 1847",
+    "entry_date": "1847-10-03"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e3",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 7, 1847",
+    "entry_date": "1847-10-07"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e4",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 9, 1847",
+    "entry_date": "1847-10-09"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e5",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 10, 1847",
+    "entry_date": "1847-10-10"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e6",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 11, 1847",
+    "entry_date": "1847-10-11"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e7",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 12, 1847",
+    "entry_date": "1847-10-12"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e8",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 13, 1847",
+    "entry_date": "1847-10-13"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e9",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 15, 1847",
+    "entry_date": "1847-10-15"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e10",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 17, 1847",
+    "entry_date": "1847-10-17"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e11",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 19, 1847",
+    "entry_date": "1847-10-19"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e12",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 21, 1847",
+    "entry_date": "1847-10-21"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e13",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 23, 1847",
+    "entry_date": "1847-10-23"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e14",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 26, 1847",
+    "entry_date": "1847-10-26"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e15",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 28, 1847",
+    "entry_date": "1847-10-28"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc07_e16",
+    "chapter_id": "c07",
+    "entry_date_raw": "October 31, 1847",
+    "entry_date": "1847-10-31"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e1",
+    "chapter_id": "c08",
+    "entry_date_raw": "November 4, 1847",
+    "entry_date": "1847-11-04"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e2",
+    "chapter_id": "c08",
+    "entry_date_raw": "November 6, 1847",
+    "entry_date": "1847-11-06"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e3",
+    "chapter_id": "c08",
+    "entry_date_raw": "November 10, 1847",
+    "entry_date": "1847-11-10"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e4",
+    "chapter_id": "c08",
+    "entry_date_raw": "November 14, 1847",
+    "entry_date": "1847-11-14"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e5",
+    "chapter_id": "c08",
+    "entry_date_raw": "November 16, 1847",
+    "entry_date": "1847-11-16"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e6",
+    "chapter_id": "c08",
+    "entry_date_raw": "November 19, 1847",
+    "entry_date": "1847-11-19"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e7",
+    "chapter_id": "c08",
+    "entry_date_raw": "November 20, 1847",
+    "entry_date": "1847-11-20"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e8",
+    "chapter_id": "c08",
+    "entry_date_raw": "November 21, 1847",
+    "entry_date": "1847-11-21"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc08_e9",
+    "chapter_id": "c08",
+    "entry_date_raw": "November 30, 1847",
+    "entry_date": "1847-11-30"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e1",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 1, 1847",
+    "entry_date": "1847-12-01"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e2",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 2, 1847",
+    "entry_date": "1847-12-02"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e3",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 3, 1847",
+    "entry_date": "1847-12-03"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e4",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 4, 1847",
+    "entry_date": "1847-12-04"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e5",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 6, 1847",
+    "entry_date": "1847-12-06"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e6",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 7, 1847",
+    "entry_date": "1847-12-07"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e7",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 8, 1847",
+    "entry_date": "1847-12-08"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e8",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 9, 1847",
+    "entry_date": "1847-12-09"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e9",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 10, 1847",
+    "entry_date": "1847-12-10"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e10",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 11, 1847",
+    "entry_date": "1847-12-11"
+  },
+  {
+    "book": "SofS",
+    "entry_id": "chc09_e11",
+    "chapter_id": "c09",
+    "entry_date_raw": "December 13, 1847",
+    "entry_date": "1847-12-13"
+  }
+]
