@@ -1,0 +1,5108 @@
+[
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "grandda",
+    "entity_label": "Grandda",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "cuchulain",
+    "entity_label": "Cuchulain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "dublin",
+    "entity_label": "Dublin",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "liverpool",
+    "entity_label": "Liverpool",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc01_e1",
+    "entity_id": "america",
+    "entity_label": "America",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc02_e1",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e1",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e1",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e1",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc02_e1",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc02_e2",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e2",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e2",
+    "entity_id": "grandda",
+    "entity_label": "Grandda",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e2",
+    "entity_id": "liverpool",
+    "entity_label": "Liverpool",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc02_e3",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc02_e3",
+    "entity_id": "liverpool",
+    "entity_label": "Liverpool",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc02_e3",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc02_e3",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e3",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e3",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e4",
+    "entity_id": "liverpool",
+    "entity_label": "Liverpool",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc02_e4",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e4",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e4",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e4",
+    "entity_id": "our_ship",
+    "entity_label": "our ship",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc02_e5",
+    "entity_id": "the_ship",
+    "entity_label": "The Ship",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc02_e5",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc02_e5",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e5",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e5",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e5",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e5",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e5",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e5",
+    "entity_id": "the_rude_girl",
+    "entity_label": "the rude girl",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e6",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e6",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e6",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e6",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e6",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e6",
+    "entity_id": "the_rude_girl",
+    "entity_label": "the rude girl",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e6",
+    "entity_id": "her_da",
+    "entity_label": "her da",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e6",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e6",
+    "entity_id": "the_committee",
+    "entity_label": "the committee",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc02_e7",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e7",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e7",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e7",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e8",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e9",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e11",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e11",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e11",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e12",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e12",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e12",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e12",
+    "entity_id": "mr_keenan",
+    "entity_label": "Mr. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e12",
+    "entity_id": "the_rude_girl",
+    "entity_label": "the rude girl",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e13",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e13",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e13",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e13",
+    "entity_id": "county_waterford",
+    "entity_label": "County Waterford",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc02_e13",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc02_e14",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e14",
+    "entity_id": "mr_sullivan",
+    "entity_label": "Mr. Sullivan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e14",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e14",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e14",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e14",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e14",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e14",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e14",
+    "entity_id": "liverpool",
+    "entity_label": "Liverpool",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc02_e14",
+    "entity_id": "noah",
+    "entity_label": "Noah",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e15",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e15",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e15",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e15",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e16",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e16",
+    "entity_id": "the_shipping_company",
+    "entity_label": "the shipping company",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc02_e17",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e17",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e17",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e17",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e18",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e18",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e18",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e18",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e18",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e19",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e19",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e19",
+    "entity_id": "mrs_donnell",
+    "entity_label": "Mrs. Donnell",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e20",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e20",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e20",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e20",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e21",
+    "entity_id": "mrs_tattersall",
+    "entity_label": "Mrs. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e21",
+    "entity_id": "mr_tattersall",
+    "entity_label": "Mr. Tattersall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e21",
+    "entity_id": "the_little_tattersalls",
+    "entity_label": "the little Tattersalls",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e21",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e21",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e21",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e22",
+    "entity_id": "two_more_passengers",
+    "entity_label": "two more passengers",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc02_e22",
+    "entity_id": "a_shark",
+    "entity_label": "a shark",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "mr_keenan",
+    "entity_label": "Mr. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "colleen_keenan",
+    "entity_label": "Colleen Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "kevin_keenan",
+    "entity_label": "Kevin Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e1",
+    "entity_id": "moose",
+    "entity_label": "moose",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "eileen_cairns",
+    "entity_label": "Eileen Cairns",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "thomas_kelleher",
+    "entity_label": "Thomas Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "mrs_kelleher",
+    "entity_label": "Mrs. Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "mr_kelleher",
+    "entity_label": "Mr. Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "the_first_mate",
+    "entity_label": "the first mate",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e2",
+    "entity_id": "sailors",
+    "entity_label": "sailors",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e3",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e3",
+    "entity_id": "colleen_keenan",
+    "entity_label": "Colleen Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e3",
+    "entity_id": "his_da",
+    "entity_label": "his da",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e3",
+    "entity_id": "kevin_keenan",
+    "entity_label": "Kevin Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e3",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e3",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e3",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e3",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e3",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e3",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e4",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e4",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc03_e4",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc03_e4",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e4",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e4",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e4",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e5",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e5",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e5",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e5",
+    "entity_id": "liam",
+    "entity_label": "Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e5",
+    "entity_id": "mrs_kelleher",
+    "entity_label": "Mrs. Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e6",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e6",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e6",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e7",
+    "entity_id": "mrs_kelleher",
+    "entity_label": "Mrs. Kelleher",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e7",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e7",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e7",
+    "entity_id": "the_ship",
+    "entity_label": "The Ship",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e8",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e8",
+    "entity_id": "annie_malone",
+    "entity_label": "Annie Malone",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e9",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e9",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e9",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e9",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e9",
+    "entity_id": "sailors",
+    "entity_label": "sailors",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e10",
+    "entity_id": "kevin_keenan",
+    "entity_label": "Kevin Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e11",
+    "entity_id": "cape_breton",
+    "entity_label": "Cape Breton",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc03_e11",
+    "entity_id": "st_paul_island",
+    "entity_label": "St. Paul Island",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e11",
+    "entity_id": "gulf_of_st_lawrence",
+    "entity_label": "the Gulf of St. Lawrence",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc03_e11",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc03_e11",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e11",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e11",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e11",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e12",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc03_e12",
+    "entity_id": "the_ship",
+    "entity_label": "The Ship",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e13",
+    "entity_id": "the_ship",
+    "entity_label": "The Ship",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e14",
+    "entity_id": "quebec_city",
+    "entity_label": "Quebec City",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e14",
+    "entity_id": "st_lawrence_river",
+    "entity_label": "St. Lawrence River",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e14",
+    "entity_id": "grosse_isle",
+    "entity_label": "Grosse Isle",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e14",
+    "entity_id": "government_of_canada",
+    "entity_label": "government of Canada",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc03_e14",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e14",
+    "entity_id": "an_inspector",
+    "entity_label": "an inspector",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e14",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "the_inspector",
+    "entity_label": "the inspector",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "eileen_cairns",
+    "entity_label": "Eileen Cairns",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e15",
+    "entity_id": "grosse_isle",
+    "entity_label": "Grosse Isle",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e16",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e16",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e16",
+    "entity_id": "grosse_isle",
+    "entity_label": "Grosse Isle",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e16",
+    "entity_id": "the_authorities",
+    "entity_label": "the authorities",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc03_e17",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e17",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e17",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e17",
+    "entity_id": "one_of_the_mates",
+    "entity_label": "one of the mates",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e17",
+    "entity_id": "government_of_quebec",
+    "entity_label": "government of Quebec",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc03_e17",
+    "entity_id": "newspapers",
+    "entity_label": "newspapers",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc03_e17",
+    "entity_id": "irish_lords",
+    "entity_label": "Irish lords",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc03_e17",
+    "entity_id": "quebec",
+    "entity_label": "Quebec",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc03_e17",
+    "entity_id": "st_lawrence_river",
+    "entity_label": "St. Lawrence River",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e17",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc03_e18",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e18",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e18",
+    "entity_id": "his_ma",
+    "entity_label": "his ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e18",
+    "entity_id": "nine_more_passengers",
+    "entity_label": "nine more passengers",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e18",
+    "entity_id": "three_children_two_women_and_two_men",
+    "entity_label": "three children, two women and two men",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e18",
+    "entity_id": "hospital",
+    "entity_label": "hospital",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e19",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e19",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e19",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e19",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e19",
+    "entity_id": "the_river",
+    "entity_label": "the river",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e19",
+    "entity_id": "the_island",
+    "entity_label": "the island",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e20",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e20",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e20",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e20",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e20",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e20",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e20",
+    "entity_id": "mrs_keenan",
+    "entity_label": "Mrs. Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e20",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e21",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e21",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e21",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e21",
+    "entity_id": "the_captain",
+    "entity_label": "the captain",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e21",
+    "entity_id": "one_of_the_mates",
+    "entity_label": "one of the mates",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e21",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e21",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc03_e21",
+    "entity_id": "the_authorities",
+    "entity_label": "the authorities",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc03_e21",
+    "entity_id": "hospital",
+    "entity_label": "hospital",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc03_e21",
+    "entity_id": "the_ship",
+    "entity_label": "The Ship",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "grosse_isle",
+    "entity_label": "Grosse Isle",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "hospital",
+    "entity_label": "hospital",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "immigrant_sheds",
+    "entity_label": "immigrant sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "the_steamer",
+    "entity_label": "the steamer",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "the_nun",
+    "entity_label": "the nun",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e1",
+    "entity_id": "large_house",
+    "entity_label": "large house",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e2",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e2",
+    "entity_id": "the_archbishop",
+    "entity_label": "the archbishop",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e2",
+    "entity_id": "parishioners",
+    "entity_label": "parishioners",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e2",
+    "entity_id": "irish_orphans",
+    "entity_label": "Irish orphans",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e2",
+    "entity_id": "the_people_of_montreal",
+    "entity_label": "the people of Montreal",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e2",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e3",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e3",
+    "entity_id": "a_woman",
+    "entity_label": "a woman",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e3",
+    "entity_id": "a_man",
+    "entity_label": "a man",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e3",
+    "entity_id": "a_nun",
+    "entity_label": "a nun",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e3",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e3",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e4",
+    "entity_id": "my_da",
+    "entity_label": "my da",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e4",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e4",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e4",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e4",
+    "entity_id": "someone",
+    "entity_label": "Someone",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e5",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e5",
+    "entity_id": "a_man_selling_fruit",
+    "entity_label": "a man selling fruit",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e5",
+    "entity_id": "a_gentleman",
+    "entity_label": "a gentleman",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e5",
+    "entity_id": "a_lad",
+    "entity_label": "a lad",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e5",
+    "entity_id": "a_crowd_of_people",
+    "entity_label": "a crowd of people",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e5",
+    "entity_id": "a_brother",
+    "entity_label": "a brother",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e5",
+    "entity_id": "one_of_the_sisters",
+    "entity_label": "one of the sisters",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e5",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e5",
+    "entity_id": "hospital_sheds",
+    "entity_label": "hospital sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e5",
+    "entity_id": "quebec_city",
+    "entity_label": "Quebec City",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e6",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e6",
+    "entity_id": "another_girl",
+    "entity_label": "another girl",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e6",
+    "entity_id": "an_older_man",
+    "entity_label": "an older man",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e6",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e6",
+    "entity_id": "the_archbishop",
+    "entity_label": "the archbishop",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e6",
+    "entity_id": "parishioners",
+    "entity_label": "parishioners",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e6",
+    "entity_id": "irish_orphans",
+    "entity_label": "Irish orphans",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e6",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e6",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e6",
+    "entity_id": "a_carter",
+    "entity_label": "a carter",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e7",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e7",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e7",
+    "entity_id": "the_boy",
+    "entity_label": "the boy",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e7",
+    "entity_id": "a_harried_looking_man",
+    "entity_label": "a harried-looking man",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e7",
+    "entity_id": "windmill_point",
+    "entity_label": "Windmill Point",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e8",
+    "entity_id": "grandda",
+    "entity_label": "Grandda",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e8",
+    "entity_id": "the_thief",
+    "entity_label": "the thief",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e8",
+    "entity_id": "the_boy",
+    "entity_label": "the boy",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e8",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e8",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e8",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e8",
+    "entity_id": "emigrant_sheds",
+    "entity_label": "Emigrant Sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e8",
+    "entity_id": "Halls_house",
+    "entity_label": "Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e9",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e9",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e9",
+    "entity_id": "home",
+    "entity_label": "home",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e9",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc04_e10",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "a_man_who_kept_records_of_the_patients",
+    "entity_label": "a man who kept records of the patients",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "a_farm_family",
+    "entity_label": "a farm family",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "the_square",
+    "entity_label": "the square",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "emigrant_sheds",
+    "entity_label": "Emigrant Sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e11",
+    "entity_id": "grosse_isle",
+    "entity_label": "Grosse Isle",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e12",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e12",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e12",
+    "entity_id": "mr_stuart_mcewen",
+    "entity_label": "Mr. Stuart McEwen",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e12",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e12",
+    "entity_id": "one_of_the_brothers",
+    "entity_label": "one of the brothers",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e12",
+    "entity_id": "gatineau_hills",
+    "entity_label": "Gatineau Hills",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc04_e12",
+    "entity_id": "bytown",
+    "entity_label": "Bytown",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc04_e12",
+    "entity_id": "emigrant_sheds",
+    "entity_label": "Emigrant Sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e12",
+    "entity_id": "a_dank_alley_near_the_water",
+    "entity_label": "a dank alley near the water",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e13",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e13",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e14",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e14",
+    "entity_id": "mr_and_mrs_johnson",
+    "entity_label": "Mr. and Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e14",
+    "entity_id": "someone",
+    "entity_label": "Someone",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e15",
+    "entity_id": "pierre",
+    "entity_label": "Pierre",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e15",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e15",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e15",
+    "entity_id": "the_johnsons",
+    "entity_label": "the Johnsons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e15",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e15",
+    "entity_id": "a_large_handsome_house",
+    "entity_label": "a large, handsome house",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e16",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e16",
+    "entity_id": "the_gardener",
+    "entity_label": "the gardener",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e16",
+    "entity_id": "the_johnsons",
+    "entity_label": "the Johnsons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e17",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e17",
+    "entity_id": "mr_william_johnson",
+    "entity_label": "Mr. William Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e17",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e17",
+    "entity_id": "matthew",
+    "entity_label": "Matthew",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e17",
+    "entity_id": "nellie_johnson",
+    "entity_label": "Nellie Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e17",
+    "entity_id": "peggy_johnson",
+    "entity_label": "Peggy Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e17",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e17",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e18",
+    "entity_id": "claire",
+    "entity_label": "Claire",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e18",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e18",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e19",
+    "entity_id": "nellie_johnson",
+    "entity_label": "Nellie Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e19",
+    "entity_id": "peggy_johnson",
+    "entity_label": "Peggy Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e20",
+    "entity_id": "peggy_johnson",
+    "entity_label": "Peggy Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e20",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e20",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e20",
+    "entity_id": "my_ma",
+    "entity_label": "my ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e20",
+    "entity_id": "newspaper",
+    "entity_label": "newspaper",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc04_e20",
+    "entity_id": "london",
+    "entity_label": "London",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e20",
+    "entity_id": "fever_sheds",
+    "entity_label": "fever sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc04_e20",
+    "entity_id": "irish_immigrants",
+    "entity_label": "Irish immigrants",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e21",
+    "entity_id": "peggy_johnson",
+    "entity_label": "Peggy Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e21",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc04_e21",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "grandda",
+    "entity_label": "Grandda",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "my_da",
+    "entity_label": "my da",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "fever_sheds",
+    "entity_label": "fever sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "the_gentleman",
+    "entity_label": "the gentleman",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e1",
+    "entity_id": "the_irish",
+    "entity_label": "the Irish",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e2",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e2",
+    "entity_id": "our_own_home",
+    "entity_label": "our own home",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e3",
+    "entity_id": "claire",
+    "entity_label": "Claire",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e3",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e3",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e3",
+    "entity_id": "mr_johnson",
+    "entity_label": "Mr. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e4",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e4",
+    "entity_id": "mr_johnson",
+    "entity_label": "Mr. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e4",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e4",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e4",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e4",
+    "entity_id": "the_nuns",
+    "entity_label": "the nuns",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e4",
+    "entity_id": "library",
+    "entity_label": "library",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e4",
+    "entity_id": "kitchen",
+    "entity_label": "kitchen",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "his_brother_in_ireland",
+    "entity_label": "his brother in Ireland",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "the_postmaster_in_bytown",
+    "entity_label": "the postmaster in Bytown",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "another_postmaster",
+    "entity_label": "another postmaster",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "bytown",
+    "entity_label": "Bytown",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "gatineau_hills",
+    "entity_label": "Gatineau Hills",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "the_couple_who_adopted_daniel",
+    "entity_label": "the couple who adopted Daniel",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e5",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e6",
+    "entity_id": "eileen_cairns",
+    "entity_label": "Eileen Cairns",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e6",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e6",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e7",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e7",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e7",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e7",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e7",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e7",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e7",
+    "entity_id": "the_square",
+    "entity_label": "the square",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e7",
+    "entity_id": "the_nuns",
+    "entity_label": "the nuns",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e8",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e8",
+    "entity_id": "the_sister_in_charge_of_the_laundry",
+    "entity_label": "the sister in charge of the laundry",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e8",
+    "entity_id": "another_girl",
+    "entity_label": "another girl",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e8",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e8",
+    "entity_id": "new_children",
+    "entity_label": "New children",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e9",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e9",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e9",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e9",
+    "entity_id": "the_johnsons",
+    "entity_label": "the Johnsons",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e9",
+    "entity_id": "mr_johnson",
+    "entity_label": "Mr. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e9",
+    "entity_id": "claire",
+    "entity_label": "Claire",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e9",
+    "entity_id": "newspaper",
+    "entity_label": "newspaper",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e9",
+    "entity_id": "fever_sheds",
+    "entity_label": "fever sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e9",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e10",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e10",
+    "entity_id": "the_emigrant_sheds",
+    "entity_label": "the emigrant sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e10",
+    "entity_id": "windmill_point",
+    "entity_label": "Windmill Point",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e10",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e10",
+    "entity_id": "one_gentleman",
+    "entity_label": "one gentleman",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e10",
+    "entity_id": "another",
+    "entity_label": "another",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e10",
+    "entity_id": "the_irish",
+    "entity_label": "the Irish",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e11",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e11",
+    "entity_id": "the_irish",
+    "entity_label": "the Irish",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e11",
+    "entity_id": "a_woman",
+    "entity_label": "a woman",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e11",
+    "entity_id": "a_policeman",
+    "entity_label": "a policeman",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e11",
+    "entity_id": "her_husband",
+    "entity_label": "her husband",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e11",
+    "entity_id": "her_third_child",
+    "entity_label": "her third child",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e11",
+    "entity_id": "two_small_children",
+    "entity_label": "two small children",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e11",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e11",
+    "entity_id": "emigrant_sheds",
+    "entity_label": "Emigrant Sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e11",
+    "entity_id": "city_fathers",
+    "entity_label": "city fathers",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e12",
+    "entity_id": "emigrant_sheds",
+    "entity_label": "Emigrant Sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e13",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e13",
+    "entity_id": "people",
+    "entity_label": "people",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e14",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e14",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e14",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e14",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e14",
+    "entity_id": "the_ships",
+    "entity_label": "the ships",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e14",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e14",
+    "entity_id": "this_new_country",
+    "entity_label": "this new country",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e15",
+    "entity_id": "mother_superior",
+    "entity_label": "Mother Superior",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e15",
+    "entity_id": "two_women",
+    "entity_label": "two women",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e15",
+    "entity_id": "the_second",
+    "entity_label": "the second",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e15",
+    "entity_id": "irish_girls",
+    "entity_label": "Irish girls",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e16",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e16",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e16",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e16",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e16",
+    "entity_id": "her_husband",
+    "entity_label": "her husband",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e16",
+    "entity_id": "two_small_children",
+    "entity_label": "two small children",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e16",
+    "entity_id": "another_girl",
+    "entity_label": "another girl",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e16",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e16",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e17",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e17",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e17",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e17",
+    "entity_id": "my_uncle",
+    "entity_label": "my uncle",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e18",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e18",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e18",
+    "entity_id": "the_postmaster_in_bytown",
+    "entity_label": "the postmaster in Bytown",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e18",
+    "entity_id": "bytown",
+    "entity_label": "Bytown",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e18",
+    "entity_id": "newspaper",
+    "entity_label": "newspaper",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e18",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "fever_sheds",
+    "entity_label": "fever sheds",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "the_sisters",
+    "entity_label": "the sisters",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "a_girl",
+    "entity_label": "a girl",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "tommy_ryan",
+    "entity_label": "Tommy Ryan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "his_da",
+    "entity_label": "his da",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "his_ma",
+    "entity_label": "his ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "two_little_sisters",
+    "entity_label": "two little sisters",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "the_landlord",
+    "entity_label": "the landlord",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "a_constable",
+    "entity_label": "a constable",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e19",
+    "entity_id": "brothers",
+    "entity_label": "brothers",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "a_man",
+    "entity_label": "a man",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "st_lawrence_river",
+    "entity_label": "St. Lawrence River",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "richelieu",
+    "entity_label": "Richelieu",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "Halls_house",
+    "entity_label": "Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc05_e20",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e21",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e21",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e21",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc05_e21",
+    "entity_id": "Halls_house",
+    "entity_label": "Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc06_e1",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e1",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e1",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e1",
+    "entity_id": "mrs_coteau",
+    "entity_label": "Mrs. Coteau",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e1",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e1",
+    "entity_id": "the_workmen",
+    "entity_label": "the workmen",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e3",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "elizabeth",
+    "entity_label": "Elizabeth",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc06_e4",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "baby_catherine",
+    "entity_label": "baby Catherine",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "workmen",
+    "entity_label": "workmen",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "the_garden",
+    "entity_label": "the garden",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc06_e5",
+    "entity_id": "the_new_barn",
+    "entity_label": "the new barn",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc06_e6",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e6",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e6",
+    "entity_id": "the_workmen",
+    "entity_label": "the workmen",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e6",
+    "entity_id": "a_woman",
+    "entity_label": "a woman",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e6",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc06_e6",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "my_own_dear_da",
+    "entity_label": "my own dear da",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "a_woman_in_the_area",
+    "entity_label": "a woman in the area",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "the_americans",
+    "entity_label": "the Americans",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc06_e7",
+    "entity_id": "this_country",
+    "entity_label": "this country",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc06_e8",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e8",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e8",
+    "entity_id": "ireland",
+    "entity_label": "Ireland",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc06_e8",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e8",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e8",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e8",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc06_e8",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e9",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e9",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e10",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e10",
+    "entity_id": "a_friend_of_mr_hall_s",
+    "entity_label": "a friend of Mr. Hall's",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e10",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e10",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e10",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e10",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e10",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e10",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e10",
+    "entity_id": "the_root_cellar",
+    "entity_label": "the root cellar",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc06_e11",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e11",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e12",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e12",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e13",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e13",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e13",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e13",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e13",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e13",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e13",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e14",
+    "entity_id": "a_man",
+    "entity_label": "a man",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e14",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e14",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e14",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e14",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e14",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e14",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e14",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc06_e14",
+    "entity_id": "the_post_office",
+    "entity_label": "the post office",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc06_e15",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e15",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e15",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e15",
+    "entity_id": "mungo_park",
+    "entity_label": "Mungo Park",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e15",
+    "entity_id": "an_aunt",
+    "entity_label": "an aunt",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc06_e15",
+    "entity_id": "boston",
+    "entity_label": "Boston",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc06_e15",
+    "entity_id": "africa",
+    "entity_label": "Africa",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc06_e15",
+    "entity_id": "the_irish",
+    "entity_label": "the Irish",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc06_e15",
+    "entity_id": "canada",
+    "entity_label": "Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc07_e1",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e1",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e2",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e2",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e2",
+    "entity_id": "mungo_park",
+    "entity_label": "Mungo Park",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e2",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e2",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e2",
+    "entity_id": "the_little_hall_girls",
+    "entity_label": "the little Hall girls",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e3",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e3",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e3",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc07_e4",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e4",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e4",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e4",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e4",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e5",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e5",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e5",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e5",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e5",
+    "entity_id": "my_own_ma",
+    "entity_label": "my own ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e5",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e5",
+    "entity_id": "a_man",
+    "entity_label": "a man",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e6",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e6",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e6",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e6",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e6",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e6",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e6",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e6",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e6",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e7",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e7",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e7",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e7",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e7",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e7",
+    "entity_id": "neighbours",
+    "entity_label": "Neighbours",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e8",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e8",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e8",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e8",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e8",
+    "entity_id": "the_halls_house",
+    "entity_label": "the Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc07_e9",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e9",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e9",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e9",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e9",
+    "entity_id": "her_sister",
+    "entity_label": "her sister",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e10",
+    "entity_id": "ma",
+    "entity_label": "Ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e10",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "the_priest",
+    "entity_label": "the priest",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc07_e11",
+    "entity_id": "newspaper",
+    "entity_label": "newspaper",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc07_e12",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc07_e12",
+    "entity_id": "a_logging_company",
+    "entity_label": "a logging company",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc07_e12",
+    "entity_id": "mr_nearing",
+    "entity_label": "Mr. Nearing",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e12",
+    "entity_id": "mr_webley",
+    "entity_label": "Mr. Webley",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e12",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e12",
+    "entity_id": "her_brother",
+    "entity_label": "her brother",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e12",
+    "entity_id": "her_nephew",
+    "entity_label": "her nephew",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "catherine_hall",
+    "entity_label": "Catherine Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "my_dear_ma",
+    "entity_label": "my dear ma",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "patrick",
+    "entity_label": "Patrick",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "my_da",
+    "entity_label": "my da",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "logging_company",
+    "entity_label": "logging company",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "the_little_hill",
+    "entity_label": "the little hill",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc07_e13",
+    "entity_id": "Halls_house",
+    "entity_label": "Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc07_e14",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e14",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e14",
+    "entity_id": "kitchen",
+    "entity_label": "kitchen",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc07_e15",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e15",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e15",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e16",
+    "entity_id": "grandda",
+    "entity_label": "Grandda",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc07_e16",
+    "entity_id": "priests",
+    "entity_label": "priests",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc07_e16",
+    "entity_id": "home",
+    "entity_label": "home",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e1",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e1",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e1",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e1",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e1",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e1",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e2",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e2",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e2",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e2",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e2",
+    "entity_id": "kitchen",
+    "entity_label": "kitchen",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e2",
+    "entity_id": "barn",
+    "entity_label": "barn",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e2",
+    "entity_id": "veranda",
+    "entity_label": "veranda",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e2",
+    "entity_id": "Halls_house",
+    "entity_label": "Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e3",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e3",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e3",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e3",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e3",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e4",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e4",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e4",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e4",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e4",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e4",
+    "entity_id": "papa",
+    "entity_label": "Papa",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e4",
+    "entity_id": "grandfather",
+    "entity_label": "Grandfather",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e4",
+    "entity_id": "the_crown",
+    "entity_label": "the Crown",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc08_e4",
+    "entity_id": "new_york",
+    "entity_label": "New York",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc08_e4",
+    "entity_id": "upper_canada",
+    "entity_label": "Upper Canada",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc08_e5",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e5",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e5",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e5",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e5",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e5",
+    "entity_id": "a_niece",
+    "entity_label": "a niece",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e5",
+    "entity_id": "new_france",
+    "entity_label": "New France",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e5",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e5",
+    "entity_id": "the_cree",
+    "entity_label": "the Cree",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc08_e5",
+    "entity_id": "an_englishman",
+    "entity_label": "an Englishman",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e6",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e6",
+    "entity_id": "the_logging_camp",
+    "entity_label": "the logging camp",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e6",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e6",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e6",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e6",
+    "entity_id": "mr_hall_s_mother",
+    "entity_label": "Mr. Hall's mother",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e7",
+    "entity_id": "mr_nearing",
+    "entity_label": "Mr. Nearing",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e7",
+    "entity_id": "webley",
+    "entity_label": "Duncan Webley",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e7",
+    "entity_id": "mrs_webley",
+    "entity_label": "Mrs. Webley",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e7",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e7",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e7",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e7",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e7",
+    "entity_id": "the_logging_camp",
+    "entity_label": "the logging camp",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e8",
+    "entity_id": "mr_nearing",
+    "entity_label": "Mr. Nearing",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e8",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e8",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e8",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e8",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e8",
+    "entity_id": "mr_webley",
+    "entity_label": "Mr. Webley",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e8",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e8",
+    "entity_id": "europe",
+    "entity_label": "Europe",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc08_e8",
+    "entity_id": "logging_camp",
+    "entity_label": "logging camp",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc08_e9",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e9",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc08_e9",
+    "entity_id": "her_parents",
+    "entity_label": "her parents",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "kitchen",
+    "entity_label": "kitchen",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e1",
+    "entity_id": "Halls_house",
+    "entity_label": "Halls' house",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e2",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e2",
+    "entity_id": "mrs_fenton",
+    "entity_label": "Mrs. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e2",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e2",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e2",
+    "entity_id": "anna",
+    "entity_label": "Anna",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e2",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e2",
+    "entity_id": "mrs_johnson",
+    "entity_label": "Mrs. Johnson",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e2",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e2",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e3",
+    "entity_id": "mr_fenton",
+    "entity_label": "Mr. Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e3",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e3",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e3",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e3",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e3",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e3",
+    "entity_id": "my_brother",
+    "entity_label": "my brother",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e3",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e3",
+    "entity_id": "post_office",
+    "entity_label": "post office",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e4",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e4",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e4",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e4",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e4",
+    "entity_id": "a_niece",
+    "entity_label": "a niece",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e4",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e4",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e5",
+    "entity_id": "mrs_lyons",
+    "entity_label": "Mrs. Lyons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e5",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e6",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e6",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e6",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e7",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e7",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e7",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e8",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e8",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e8",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e8",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e9",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e9",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e9",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e9",
+    "entity_id": "johanna_leary",
+    "entity_label": "Johanna Leary",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e9",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e9",
+    "entity_id": "her_father",
+    "entity_label": "her father",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e9",
+    "entity_id": "the_new_baby",
+    "entity_label": "the new baby",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e9",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc09_e10",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e10",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e10",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "lucy_hall",
+    "entity_label": "Lucy Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "mrs_hall",
+    "entity_label": "Mrs. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "mr_hall",
+    "entity_label": "Mr. Hall",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "connor",
+    "entity_label": "Connor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "michael_leary_da",
+    "entity_label": "Da (Michael Leary)",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "uncle_liam",
+    "entity_label": "Uncle Liam",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "marie_france",
+    "entity_label": "Marie-France",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "tommy_ryan",
+    "entity_label": "Tommy Ryan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "fanny_fenton",
+    "entity_label": "Fanny Fenton",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "the_fentons",
+    "entity_label": "the Fentons",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "the_nuns",
+    "entity_label": "the nuns",
+    "entity_type": "organization"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "kerry_keenan",
+    "entity_label": "Daniel Keenan",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "the_doctor",
+    "entity_label": "the doctor",
+    "entity_type": "character"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "montreal",
+    "entity_label": "Montreal",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "sherbrooke",
+    "entity_label": "Sherbrooke",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "grosse_isle",
+    "entity_label": "Grosse Isle",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "logging_camp",
+    "entity_label": "logging camp",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "the_square",
+    "entity_label": "the square",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "st_lawrence",
+    "entity_label": "St. Lawrence",
+    "entity_type": "location"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "england",
+    "entity_label": "England",
+    "entity_type": "region"
+  },
+  {
+    "entry_id": "chc09_e11",
+    "entity_id": "the_people_of_montreal",
+    "entity_label": "the people of Montreal",
+    "entity_type": "organization"
+  }
+]

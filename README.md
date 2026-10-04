@@ -55,7 +55,9 @@ Dear Canada/
     ├── notebook_01_text_analysis.ipynb
     └── notebook_02_modelling.ipynb
 ```
-
+---
+## Linked materials
+- https://docs.google.com/spreadsheets/d/1UkWaCTh-HceQEYjTebiS6Oi2fZ9cXofcTSfUPRqSASE/edit?usp=sharing 
 ---
 
 ## Setup

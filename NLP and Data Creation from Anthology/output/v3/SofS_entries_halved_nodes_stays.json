@@ -1,0 +1,1269 @@
+[
+  {
+    "stay_id": "stay_johanna_leary_chc01_e1_0",
+    "stay_type": "intended",
+    "mode": "on foot",
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc01_e1_1",
+    "stay_type": "intended",
+    "mode": "on foot",
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_ma_chc01_e1_2",
+    "stay_type": "intended",
+    "mode": "on foot",
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc01_e1_3",
+    "stay_type": "intended",
+    "mode": "on foot",
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_patrick_chc01_e1_4",
+    "stay_type": "intended",
+    "mode": "on foot",
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc01_e1_5",
+    "stay_type": "intended",
+    "mode": "by steamer",
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc01_e1_6",
+    "stay_type": "intended",
+    "mode": "by steamer",
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_ma_chc01_e1_7",
+    "stay_type": "intended",
+    "mode": "by steamer",
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc01_e1_8",
+    "stay_type": "intended",
+    "mode": "by steamer",
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_patrick_chc01_e1_9",
+    "stay_type": "intended",
+    "mode": "by steamer",
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc01_e1_10",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc01_e1_11",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_ma_chc01_e1_12",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc01_e1_13",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_patrick_chc01_e1_14",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_uncle_liam_chc01_e1_15",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_anna_chc01_e1_16",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-04-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc02_e2_17",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-05-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc02_e3_18",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-05-06",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_ma_chc02_e3_19",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-05-06",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc02_e3_20",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-05-06",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_patrick_chc02_e3_21",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-05-06",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc02_e4_22",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-05-07",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc02_e4_23",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-05-07",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_ma_chc02_e4_24",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-05-07",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc02_e4_25",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-05-07",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc02_e4_26",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-05-07",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc02_e4_27",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-05-07",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_ma_chc02_e4_28",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-05-07",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc02_e4_29",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-05-07",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc02_e5_30",
+    "stay_type": "resident",
+    "mode": "aboard the ship",
+    "arrival_date": "1847-05-08",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc02_e5_31",
+    "stay_type": "resident",
+    "mode": "aboard the ship",
+    "arrival_date": "1847-05-08",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_ma_chc02_e5_32",
+    "stay_type": "resident",
+    "mode": "aboard the ship",
+    "arrival_date": "1847-05-08",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc02_e5_33",
+    "stay_type": "resident",
+    "mode": "aboard the ship",
+    "arrival_date": "1847-05-08",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_patrick_chc02_e5_34",
+    "stay_type": "resident",
+    "mode": "aboard the ship",
+    "arrival_date": "1847-05-08",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc02_e14_35",
+    "stay_type": "confined",
+    "mode": null,
+    "arrival_date": "1847-05-19",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc03_e11_36",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc03_e11_37",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc03_e11_38",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc03_e11_39",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc03_e11_40",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc03_e11_41",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc03_e11_42",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc03_e11_43",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc03_e11_44",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc03_e12_45",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-16",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc03_e13_46",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-06-17",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc03_e14_47",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-06-18",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_ma_chc03_e15_48",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-06-21",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_keenan_chc03_e15_49",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-06-21",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_ma_chc03_e16_50",
+    "stay_type": "confined",
+    "mode": null,
+    "arrival_date": "1847-06-22",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc03_e16_51",
+    "stay_type": "confined",
+    "mode": "aboard the ship",
+    "arrival_date": "1847-06-22",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc03_e16_52",
+    "stay_type": "confined",
+    "mode": "aboard the ship",
+    "arrival_date": "1847-06-22",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc03_e19_53",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-06-25",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_connor_chc03_e20_54",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-06-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_kerry_keenan_chc03_e21_55",
+    "stay_type": "confined",
+    "mode": null,
+    "arrival_date": "1847-06-28",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_connor_chc03_e21_56",
+    "stay_type": "confined",
+    "mode": null,
+    "arrival_date": "1847-06-28",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e1_57",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e1_58",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_ma_chc04_e1_59",
+    "stay_type": "confined",
+    "mode": null,
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e1_60",
+    "stay_type": "pass_through",
+    "mode": "aboard the steamer",
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc04_e1_61",
+    "stay_type": "pass_through",
+    "mode": "aboard the steamer",
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc04_e1_62",
+    "stay_type": "pass_through",
+    "mode": "aboard the steamer",
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_connor_chc04_e1_63",
+    "stay_type": "pass_through",
+    "mode": "aboard the steamer",
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_kerry_keenan_chc04_e1_64",
+    "stay_type": "pass_through",
+    "mode": "aboard the steamer",
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e1_65",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc04_e1_66",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e1_67",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-07-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e5_68",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-07-12",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e7_69",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-07-14",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e8_70",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-07-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e8_71",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-07-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc04_e11_72",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-07-18",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_connor_chc04_e11_73",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-07-18",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_connor_chc04_e11_74",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-07-18",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc04_e12_75",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-07-19",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e12_76",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-07-19",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e15_77",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-07-24",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc04_e15_78",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-07-24",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e4_79",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-05",
+    "departure_date": "1847-08-05"
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e4_80",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-05",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e4_81",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-05",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_uncle_liam_chc05_e5_82",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-07",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_eileen_cairns_chc05_e6_83",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-08",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_catherine_hall_chc05_e6_84",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-08",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e7_85",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-09",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e9_86",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-08-11",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e10_87",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-12",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e11_88",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-13",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_the_woman_chc05_e11_89",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-13",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e12_90",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-14",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e14_91",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-19",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc05_e16_92",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-08-21",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e19_93",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-25",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e19_94",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-08-25",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_tommy_ryan_chc05_e19_95",
+    "stay_type": "pass_through",
+    "mode": "aboard the ship",
+    "arrival_date": "1847-08-25",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e20_96",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e20_97",
+    "stay_type": "pass_through",
+    "mode": "by ferry",
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e20_98",
+    "stay_type": "pass_through",
+    "mode": "by ferry",
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e20_99",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e20_100",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e20_101",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc05_e20_102",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_lucy_hall_chc05_e20_103",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_catherine_hall_chc05_e20_104",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_hall_chc05_e20_105",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_lyons_chc05_e20_106",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_fenton_chc05_e20_107",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-08-26",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc05_e21_108",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-08-31",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc06_e1_109",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-09-01",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_fenton_chc06_e4_110",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-04",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_fanny_fenton_chc06_e4_111",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-04",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_elizabeth_chc06_e4_112",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-04",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_elizabeth_chc06_e4_113",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-09-04",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc06_e4_114",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-04",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_lyons_chc06_e4_115",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-04",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc06_e5_116",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-06",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_lucy_hall_chc06_e5_117",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-06",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_hall_chc06_e5_118",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-06",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_fanny_fenton_chc06_e8_119",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_fanny_fenton_chc06_e8_120",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc06_e8_121",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-15",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_fenton_chc06_e10_122",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-21",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_fanny_fenton_chc06_e10_123",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-21",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_fenton_chc06_e15_124",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-27",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_fanny_fenton_chc06_e15_125",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-09-27",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc07_e3_126",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-10-07",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc07_e6_127",
+    "stay_type": "pass_through",
+    "mode": null,
+    "arrival_date": "1847-10-11",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_fenton_chc07_e6_128",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-10-11",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_fanny_fenton_chc07_e6_129",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-10-11",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_catherine_hall_chc07_e8_130",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-10-13",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc07_e8_131",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-10-13",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc07_e8_132",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-10-13",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_hall_chc07_e11_133",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-10-19",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_lyons_chc07_e12_134",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-10-21",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc07_e13_135",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-10-23",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc07_e13_136",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-10-23",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_lucy_hall_chc07_e13_137",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-10-23",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc07_e13_138",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-10-23",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_fanny_fenton_chc07_e15_139",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-10-28",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_lyons_chc08_e1_140",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-11-04",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc08_e2_141",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-11-06",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_lucy_hall_chc08_e2_142",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-11-06",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_fenton_chc08_e2_143",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-11-06",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_fenton_chc08_e4_144",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-11-14",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_her_great_grandparents_chc08_e5_145",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-11-16",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_a_niece_chc08_e5_146",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-11-16",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_hall_chc08_e6_147",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-11-19",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_hall_chc08_e7_148",
+    "stay_type": "confined",
+    "mode": null,
+    "arrival_date": "1847-11-20",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc08_e7_149",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-11-20",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_nearing_chc08_e7_150",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-11-20",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc08_e8_151",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-11-21",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc08_e9_152",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-11-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_lyons_chc08_e9_153",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-11-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_lucy_hall_chc08_e9_154",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-11-30",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_fenton_chc09_e1_155",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-12-01",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_fenton_chc09_e1_156",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-12-01",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_fanny_fenton_chc09_e1_157",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-12-01",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_hall_chc09_e1_158",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-12-01",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc09_e1_159",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-12-01",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_lucy_hall_chc09_e1_160",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-12-01",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc09_e1_161",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-12-01",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_fenton_chc09_e1_162",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-12-01",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc09_e2_163",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-12-02",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_lucy_hall_chc09_e2_164",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-12-02",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_johanna_leary_chc09_e3_165",
+    "stay_type": "resident",
+    "mode": "by sleigh",
+    "arrival_date": "1847-12-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_lucy_hall_chc09_e3_166",
+    "stay_type": "resident",
+    "mode": "by sleigh",
+    "arrival_date": "1847-12-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_lyons_chc09_e3_167",
+    "stay_type": "resident",
+    "mode": "by sleigh",
+    "arrival_date": "1847-12-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_fenton_chc09_e3_168",
+    "stay_type": "visit",
+    "mode": "by sleigh",
+    "arrival_date": "1847-12-03",
+    "departure_date": "1847-12-03"
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc09_e3_169",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-12-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_hall_chc09_e3_170",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-12-03",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_lyons_chc09_e4_171",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-12-04",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_lyons_chc09_e5_172",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-12-06",
+    "departure_date": "1847-12-06"
+  },
+  {
+    "stay_id": "stay_the_doctor_chc09_e7_173",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-12-08",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mrs_hall_chc09_e9_174",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-12-10",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_mr_hall_chc09_e9_175",
+    "stay_type": "intended",
+    "mode": null,
+    "arrival_date": "1847-12-10",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_connor_chc09_e11_176",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-12-13",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_connor_chc09_e11_177",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-12-13",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_connor_chc09_e11_178",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-12-13",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc09_e11_179",
+    "stay_type": "visit",
+    "mode": null,
+    "arrival_date": "1847-12-13",
+    "departure_date": null
+  },
+  {
+    "stay_id": "stay_michael_leary_da_chc09_e11_180",
+    "stay_type": "resident",
+    "mode": null,
+    "arrival_date": "1847-12-13",
+    "departure_date": null
+  }
+]

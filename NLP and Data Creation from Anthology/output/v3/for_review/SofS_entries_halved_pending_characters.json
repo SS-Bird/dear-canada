@@ -1,0 +1,712 @@
+[
+  {
+    "character_id": "cuchulain",
+    "label": "Cuchulain",
+    "entry_id": "chc01_e1"
+  },
+  {
+    "character_id": "the_rude_girl",
+    "label": "the rude girl",
+    "entry_id": "chc02_e5"
+  },
+  {
+    "character_id": "mrs_keenan",
+    "label": "Mrs. Keenan",
+    "entry_id": "chc02_e6"
+  },
+  {
+    "character_id": "her_da",
+    "label": "her da",
+    "entry_id": "chc02_e6"
+  },
+  {
+    "character_id": "the_captain",
+    "label": "the captain",
+    "entry_id": "chc02_e6"
+  },
+  {
+    "character_id": "mr_keenan",
+    "label": "Mr. Keenan",
+    "entry_id": "chc02_e12"
+  },
+  {
+    "character_id": "mr_sullivan",
+    "label": "Mr. Sullivan",
+    "entry_id": "chc02_e14"
+  },
+  {
+    "character_id": "mrs_tattersall",
+    "label": "Mrs. Tattersall",
+    "entry_id": "chc02_e14"
+  },
+  {
+    "character_id": "mr_tattersall",
+    "label": "Mr. Tattersall",
+    "entry_id": "chc02_e14"
+  },
+  {
+    "character_id": "noah",
+    "label": "Noah",
+    "entry_id": "chc02_e14"
+  },
+  {
+    "character_id": "mrs_donnell",
+    "label": "Mrs. Donnell",
+    "entry_id": "chc02_e19"
+  },
+  {
+    "character_id": "the_little_tattersalls",
+    "label": "the little Tattersalls",
+    "entry_id": "chc02_e21"
+  },
+  {
+    "character_id": "two_more_passengers",
+    "label": "two more passengers",
+    "entry_id": "chc02_e22"
+  },
+  {
+    "character_id": "more_people",
+    "label": "more people",
+    "entry_id": "chc02_e22"
+  },
+  {
+    "character_id": "a_shark",
+    "label": "a shark",
+    "entry_id": "chc02_e22"
+  },
+  {
+    "character_id": "moose",
+    "label": "moose",
+    "entry_id": "chc03_e1"
+  },
+  {
+    "character_id": "mrs_kelleher",
+    "label": "Mrs. Kelleher",
+    "entry_id": "chc03_e2"
+  },
+  {
+    "character_id": "mr_kelleher",
+    "label": "Mr. Kelleher",
+    "entry_id": "chc03_e2"
+  },
+  {
+    "character_id": "the_first_mate",
+    "label": "the first mate",
+    "entry_id": "chc03_e2"
+  },
+  {
+    "character_id": "sailors",
+    "label": "sailors",
+    "entry_id": "chc03_e2"
+  },
+  {
+    "character_id": "his_da",
+    "label": "his da",
+    "entry_id": "chc03_e3"
+  },
+  {
+    "character_id": "connor_s_father",
+    "label": "Connor's father",
+    "entry_id": "chc03_e4"
+  },
+  {
+    "character_id": "liam",
+    "label": "Liam",
+    "entry_id": "chc03_e5"
+  },
+  {
+    "character_id": "people",
+    "label": "people",
+    "entry_id": "chc03_e7"
+  },
+  {
+    "character_id": "one_of_the_sailors",
+    "label": "one of the sailors",
+    "entry_id": "chc03_e9"
+  },
+  {
+    "character_id": "an_inspector",
+    "label": "an inspector",
+    "entry_id": "chc03_e14"
+  },
+  {
+    "character_id": "the_doctor",
+    "label": "the doctor",
+    "entry_id": "chc03_e15"
+  },
+  {
+    "character_id": "the_inspector",
+    "label": "the inspector",
+    "entry_id": "chc03_e15"
+  },
+  {
+    "character_id": "us",
+    "label": "us",
+    "entry_id": "chc03_e17"
+  },
+  {
+    "character_id": "the_people_who_live_in_quebec",
+    "label": "the people who live in Quebec",
+    "entry_id": "chc03_e17"
+  },
+  {
+    "character_id": "one_of_the_mates",
+    "label": "one of the mates",
+    "entry_id": "chc03_e17"
+  },
+  {
+    "character_id": "his_ma",
+    "label": "his ma",
+    "entry_id": "chc03_e18"
+  },
+  {
+    "character_id": "nine_more_passengers",
+    "label": "nine more passengers",
+    "entry_id": "chc03_e18"
+  },
+  {
+    "character_id": "three_children_two_women_and_two_men",
+    "label": "three children, two women and two men",
+    "entry_id": "chc03_e18"
+  },
+  {
+    "character_id": "the_nun",
+    "label": "the nun",
+    "entry_id": "chc04_e1"
+  },
+  {
+    "character_id": "the_archbishop",
+    "label": "the archbishop",
+    "entry_id": "chc04_e2"
+  },
+  {
+    "character_id": "parishioners",
+    "label": "parishioners",
+    "entry_id": "chc04_e2"
+  },
+  {
+    "character_id": "irish_orphans",
+    "label": "Irish orphans",
+    "entry_id": "chc04_e2"
+  },
+  {
+    "character_id": "the_people_of_montreal",
+    "label": "the people of Montreal",
+    "entry_id": "chc04_e2"
+  },
+  {
+    "character_id": "a_woman",
+    "label": "a woman",
+    "entry_id": "chc04_e3"
+  },
+  {
+    "character_id": "a_man",
+    "label": "a man",
+    "entry_id": "chc04_e3"
+  },
+  {
+    "character_id": "a_nun",
+    "label": "a nun",
+    "entry_id": "chc04_e3"
+  },
+  {
+    "character_id": "my_da",
+    "label": "my da",
+    "entry_id": "chc04_e4"
+  },
+  {
+    "character_id": "someone",
+    "label": "Someone",
+    "entry_id": "chc04_e4"
+  },
+  {
+    "character_id": "a_gentleman",
+    "label": "a gentleman",
+    "entry_id": "chc04_e5"
+  },
+  {
+    "character_id": "my_poor_countrymen",
+    "label": "my poor countrymen",
+    "entry_id": "chc04_e5"
+  },
+  {
+    "character_id": "a_crowd_of_people",
+    "label": "a crowd of people",
+    "entry_id": "chc04_e5"
+  },
+  {
+    "character_id": "a_man_selling_fruit",
+    "label": "a man selling fruit",
+    "entry_id": "chc04_e5"
+  },
+  {
+    "character_id": "a_lad",
+    "label": "a lad",
+    "entry_id": "chc04_e5"
+  },
+  {
+    "character_id": "a_brother",
+    "label": "a brother",
+    "entry_id": "chc04_e5"
+  },
+  {
+    "character_id": "one_of_the_sisters",
+    "label": "one of the sisters",
+    "entry_id": "chc04_e5"
+  },
+  {
+    "character_id": "a_carter",
+    "label": "a carter",
+    "entry_id": "chc04_e6"
+  },
+  {
+    "character_id": "another_girl",
+    "label": "another girl",
+    "entry_id": "chc04_e6"
+  },
+  {
+    "character_id": "an_older_man",
+    "label": "an older man",
+    "entry_id": "chc04_e6"
+  },
+  {
+    "character_id": "the_boy",
+    "label": "the boy",
+    "entry_id": "chc04_e7"
+  },
+  {
+    "character_id": "a_harried_looking_man",
+    "label": "a harried-looking man",
+    "entry_id": "chc04_e7"
+  },
+  {
+    "character_id": "the_thief",
+    "label": "the thief",
+    "entry_id": "chc04_e8"
+  },
+  {
+    "character_id": "a_man_who_kept_records_of_the_patients",
+    "label": "a man who kept records of the patients",
+    "entry_id": "chc04_e11"
+  },
+  {
+    "character_id": "a_farm_family",
+    "label": "a farm family",
+    "entry_id": "chc04_e11"
+  },
+  {
+    "character_id": "mr_stuart_mcewen",
+    "label": "Mr. Stuart McEwen",
+    "entry_id": "chc04_e12"
+  },
+  {
+    "character_id": "our_uncle",
+    "label": "our uncle",
+    "entry_id": "chc04_e12"
+  },
+  {
+    "character_id": "one_of_the_brothers",
+    "label": "one of the brothers",
+    "entry_id": "chc04_e12"
+  },
+  {
+    "character_id": "mr_johnson",
+    "label": "Mr. Johnson",
+    "entry_id": "chc04_e14"
+  },
+  {
+    "character_id": "mrs_johnson",
+    "label": "Mrs. Johnson",
+    "entry_id": "chc04_e14"
+  },
+  {
+    "character_id": "mr_and_mrs_johnson",
+    "label": "Mr. and Mrs. Johnson",
+    "entry_id": "chc04_e14"
+  },
+  {
+    "character_id": "mrs_coteau",
+    "label": "Mrs. Coteau",
+    "entry_id": "chc04_e15"
+  },
+  {
+    "character_id": "the_johnsons",
+    "label": "the Johnsons",
+    "entry_id": "chc04_e15"
+  },
+  {
+    "character_id": "the_gardener",
+    "label": "the gardener",
+    "entry_id": "chc04_e16"
+  },
+  {
+    "character_id": "mr_william_johnson",
+    "label": "Mr. William Johnson",
+    "entry_id": "chc04_e17"
+  },
+  {
+    "character_id": "my_own_da",
+    "label": "my own da",
+    "entry_id": "chc04_e17"
+  },
+  {
+    "character_id": "my_ma",
+    "label": "my ma",
+    "entry_id": "chc04_e20"
+  },
+  {
+    "character_id": "the_irish_immigrants",
+    "label": "the Irish immigrants",
+    "entry_id": "chc04_e20"
+  },
+  {
+    "character_id": "irish_immigrants",
+    "label": "Irish immigrants",
+    "entry_id": "chc04_e20"
+  },
+  {
+    "character_id": "the_irish",
+    "label": "the Irish",
+    "entry_id": "chc05_e1"
+  },
+  {
+    "character_id": "the_gentleman",
+    "label": "the gentleman",
+    "entry_id": "chc05_e1"
+  },
+  {
+    "character_id": "his_brother_in_ireland",
+    "label": "his brother in Ireland",
+    "entry_id": "chc05_e5"
+  },
+  {
+    "character_id": "the_postmaster_in_bytown",
+    "label": "the postmaster in Bytown",
+    "entry_id": "chc05_e5"
+  },
+  {
+    "character_id": "another_postmaster",
+    "label": "another postmaster",
+    "entry_id": "chc05_e5"
+  },
+  {
+    "character_id": "the_couple_who_adopted_daniel",
+    "label": "the couple who adopted Daniel",
+    "entry_id": "chc05_e5"
+  },
+  {
+    "character_id": "the_sister_in_charge_of_the_laundry",
+    "label": "the sister in charge of the laundry",
+    "entry_id": "chc05_e8"
+  },
+  {
+    "character_id": "new_children",
+    "label": "New children",
+    "entry_id": "chc05_e8"
+  },
+  {
+    "character_id": "some_people_in_the_city",
+    "label": "some people in the city",
+    "entry_id": "chc05_e10"
+  },
+  {
+    "character_id": "one_gentleman",
+    "label": "one gentleman",
+    "entry_id": "chc05_e10"
+  },
+  {
+    "character_id": "another",
+    "label": "another",
+    "entry_id": "chc05_e10"
+  },
+  {
+    "character_id": "the_city_s_citizens",
+    "label": "the city's citizens",
+    "entry_id": "chc05_e10"
+  },
+  {
+    "character_id": "the_woman",
+    "label": "the woman",
+    "entry_id": "chc05_e11"
+  },
+  {
+    "character_id": "her_husband",
+    "label": "her husband",
+    "entry_id": "chc05_e11"
+  },
+  {
+    "character_id": "her_third_child",
+    "label": "her third child",
+    "entry_id": "chc05_e11"
+  },
+  {
+    "character_id": "two_small_children",
+    "label": "two small children",
+    "entry_id": "chc05_e11"
+  },
+  {
+    "character_id": "those_from_the_ships",
+    "label": "those from the ships",
+    "entry_id": "chc05_e11"
+  },
+  {
+    "character_id": "a_policeman",
+    "label": "a policeman",
+    "entry_id": "chc05_e11"
+  },
+  {
+    "character_id": "irish_girls",
+    "label": "Irish girls",
+    "entry_id": "chc05_e15"
+  },
+  {
+    "character_id": "one_of_the_women",
+    "label": "one of the women",
+    "entry_id": "chc05_e15"
+  },
+  {
+    "character_id": "older_girls_like_me",
+    "label": "older girls like me",
+    "entry_id": "chc05_e15"
+  },
+  {
+    "character_id": "the_second_woman",
+    "label": "the second woman",
+    "entry_id": "chc05_e15"
+  },
+  {
+    "character_id": "mother_superior",
+    "label": "Mother Superior",
+    "entry_id": "chc05_e15"
+  },
+  {
+    "character_id": "two_women",
+    "label": "two women",
+    "entry_id": "chc05_e15"
+  },
+  {
+    "character_id": "the_second",
+    "label": "the second",
+    "entry_id": "chc05_e15"
+  },
+  {
+    "character_id": "mrs_hall",
+    "label": "Mrs. Hall",
+    "entry_id": "chc05_e16"
+  },
+  {
+    "character_id": "my_uncle",
+    "label": "my uncle",
+    "entry_id": "chc05_e17"
+  },
+  {
+    "character_id": "two_little_sisters",
+    "label": "two little sisters",
+    "entry_id": "chc05_e19"
+  },
+  {
+    "character_id": "a_girl",
+    "label": "a girl",
+    "entry_id": "chc05_e19"
+  },
+  {
+    "character_id": "the_landlord",
+    "label": "the landlord",
+    "entry_id": "chc05_e19"
+  },
+  {
+    "character_id": "a_constable",
+    "label": "a constable",
+    "entry_id": "chc05_e19"
+  },
+  {
+    "character_id": "brothers",
+    "label": "brothers",
+    "entry_id": "chc05_e19"
+  },
+  {
+    "character_id": "mr_hall",
+    "label": "Mr. Hall",
+    "entry_id": "chc05_e20"
+  },
+  {
+    "character_id": "mr_fenton",
+    "label": "Mr. Fenton",
+    "entry_id": "chc05_e20"
+  },
+  {
+    "character_id": "mrs_fenton",
+    "label": "Mrs. Fenton",
+    "entry_id": "chc05_e20"
+  },
+  {
+    "character_id": "mrs_lyons",
+    "label": "Mrs. Lyons",
+    "entry_id": "chc05_e20"
+  },
+  {
+    "character_id": "the_workmen",
+    "label": "the workmen",
+    "entry_id": "chc06_e1"
+  },
+  {
+    "character_id": "baby_catherine",
+    "label": "baby Catherine",
+    "entry_id": "chc06_e5"
+  },
+  {
+    "character_id": "workmen",
+    "label": "workmen",
+    "entry_id": "chc06_e5"
+  },
+  {
+    "character_id": "my_own_dear_da",
+    "label": "my own dear da",
+    "entry_id": "chc06_e7"
+  },
+  {
+    "character_id": "a_woman_in_the_area",
+    "label": "a woman in the area",
+    "entry_id": "chc06_e7"
+  },
+  {
+    "character_id": "a_friend_of_mr_hall_s",
+    "label": "a friend of Mr. Hall's",
+    "entry_id": "chc06_e10"
+  },
+  {
+    "character_id": "a_little_boy",
+    "label": "a little boy",
+    "entry_id": "chc06_e13"
+  },
+  {
+    "character_id": "an_aunt",
+    "label": "an aunt",
+    "entry_id": "chc06_e15"
+  },
+  {
+    "character_id": "mungo_park",
+    "label": "Mungo Park",
+    "entry_id": "chc06_e15"
+  },
+  {
+    "character_id": "a_sister",
+    "label": "a sister",
+    "entry_id": "chc07_e2"
+  },
+  {
+    "character_id": "the_little_hall_girls",
+    "label": "the little Hall girls",
+    "entry_id": "chc07_e2"
+  },
+  {
+    "character_id": "my_own_ma",
+    "label": "my own ma",
+    "entry_id": "chc07_e5"
+  },
+  {
+    "character_id": "neighbours",
+    "label": "Neighbours",
+    "entry_id": "chc07_e7"
+  },
+  {
+    "character_id": "her_sister",
+    "label": "her sister",
+    "entry_id": "chc07_e9"
+  },
+  {
+    "character_id": "the_priest",
+    "label": "the priest",
+    "entry_id": "chc07_e11"
+  },
+  {
+    "character_id": "mr_nearing",
+    "label": "Mr. Nearing",
+    "entry_id": "chc07_e12"
+  },
+  {
+    "character_id": "mr_webley",
+    "label": "Mr. Webley",
+    "entry_id": "chc07_e12"
+  },
+  {
+    "character_id": "her_brother",
+    "label": "her brother",
+    "entry_id": "chc07_e12"
+  },
+  {
+    "character_id": "her_nephew",
+    "label": "her nephew",
+    "entry_id": "chc07_e12"
+  },
+  {
+    "character_id": "my_dear_ma",
+    "label": "my dear ma",
+    "entry_id": "chc07_e13"
+  },
+  {
+    "character_id": "papa",
+    "label": "Papa",
+    "entry_id": "chc08_e4"
+  },
+  {
+    "character_id": "grandfather",
+    "label": "Grandfather",
+    "entry_id": "chc08_e4"
+  },
+  {
+    "character_id": "her_great_grandparents",
+    "label": "her great-grandparents",
+    "entry_id": "chc08_e5"
+  },
+  {
+    "character_id": "her_grandmother",
+    "label": "her grandmother",
+    "entry_id": "chc08_e5"
+  },
+  {
+    "character_id": "an_englishman",
+    "label": "an Englishman",
+    "entry_id": "chc08_e5"
+  },
+  {
+    "character_id": "her_father",
+    "label": "her father",
+    "entry_id": "chc08_e5"
+  },
+  {
+    "character_id": "a_niece",
+    "label": "a niece",
+    "entry_id": "chc08_e5"
+  },
+  {
+    "character_id": "mr_hall_s_mother",
+    "label": "Mr. Hall's mother",
+    "entry_id": "chc08_e6"
+  },
+  {
+    "character_id": "mrs_webley",
+    "label": "Mrs. Webley",
+    "entry_id": "chc08_e7"
+  },
+  {
+    "character_id": "her_parents",
+    "label": "her parents",
+    "entry_id": "chc08_e9"
+  },
+  {
+    "character_id": "my_brother",
+    "label": "my brother",
+    "entry_id": "chc09_e3"
+  },
+  {
+    "character_id": "the_new_baby",
+    "label": "the new baby",
+    "entry_id": "chc09_e9"
+  },
+  {
+    "character_id": "the_fentons",
+    "label": "the Fentons",
+    "entry_id": "chc09_e11"
+  }
+]

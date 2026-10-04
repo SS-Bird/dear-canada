@@ -1,0 +1,172 @@
+[
+  {
+    "org_id": "the_crown",
+    "canonical_label": "the Crown",
+    "aliases": [
+      "Crown"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 120
+  },
+  {
+    "org_id": "the_committee",
+    "canonical_label": "the committee",
+    "aliases": [
+      "the committee"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc02_e6",
+    "last_touched_index": 6
+  },
+  {
+    "org_id": "the_shipping_company",
+    "canonical_label": "the shipping company",
+    "aliases": [
+      "the shipping company"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc02_e16",
+    "last_touched_index": 16
+  },
+  {
+    "org_id": "government_of_canada",
+    "canonical_label": "government of Canada",
+    "aliases": [
+      "government of Canada"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc03_e14",
+    "last_touched_index": 36
+  },
+  {
+    "org_id": "the_authorities",
+    "canonical_label": "the authorities",
+    "aliases": [
+      "the authorities"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc03_e16",
+    "last_touched_index": 43
+  },
+  {
+    "org_id": "newspapers",
+    "canonical_label": "newspapers",
+    "aliases": [
+      "newspapers"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc03_e17",
+    "last_touched_index": 63
+  },
+  {
+    "org_id": "government_of_quebec",
+    "canonical_label": "government of Quebec",
+    "aliases": [
+      "government of Quebec"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc03_e17",
+    "last_touched_index": 39
+  },
+  {
+    "org_id": "irish_lords",
+    "canonical_label": "Irish lords",
+    "aliases": [
+      "Irish lords"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc03_e17",
+    "last_touched_index": 39
+  },
+  {
+    "org_id": "newspaper",
+    "canonical_label": "newspaper",
+    "aliases": [
+      "newspaper"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc04_e20",
+    "last_touched_index": 111
+  },
+  {
+    "org_id": "the_nuns",
+    "canonical_label": "the nuns",
+    "aliases": [
+      "the nuns"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc05_e4",
+    "last_touched_index": 136
+  },
+  {
+    "org_id": "the_sisters",
+    "canonical_label": "the sisters",
+    "aliases": [
+      "the sisters"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc05_e8",
+    "last_touched_index": 83
+  },
+  {
+    "org_id": "the_johnsons",
+    "canonical_label": "the Johnsons",
+    "aliases": [
+      "the Johnsons"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc05_e9",
+    "last_touched_index": 73
+  },
+  {
+    "org_id": "city_fathers",
+    "canonical_label": "city fathers",
+    "aliases": [
+      "city fathers"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc05_e11",
+    "last_touched_index": 75
+  },
+  {
+    "org_id": "a_logging_company",
+    "canonical_label": "a logging company",
+    "aliases": [
+      "a logging company"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc07_e12",
+    "last_touched_index": 112
+  },
+  {
+    "org_id": "logging_company",
+    "canonical_label": "logging company",
+    "aliases": [
+      "logging company"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc07_e13",
+    "last_touched_index": 113
+  },
+  {
+    "org_id": "priests",
+    "canonical_label": "priests",
+    "aliases": [
+      "priests"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc07_e16",
+    "last_touched_index": 116
+  },
+  {
+    "org_id": "the_people_of_montreal",
+    "canonical_label": "the people of Montreal",
+    "aliases": [
+      "the people of Montreal"
+    ],
+    "org_type_hint": null,
+    "first_mentioned_entry": "chc09_e11",
+    "last_touched_index": 136
+  }
+]

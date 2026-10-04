@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sophie's Leaflet Quick-Start</title>
+
+  <!-- 1. Leaflet CSS — must come before the JS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+
+  <style>
+    /* ── Reset ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: #f0f4f8;
+      color: #1a202c;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ── */
+    header {
+      background: #1a365d;
+      color: #fff;
+      padding: 1rem 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+    header h1 { font-size: 1.2rem; font-weight: 600; letter-spacing: 0.02em; }
+    header span { font-size: 0.85rem; opacity: 0.65; }
+
+    /* ── Main layout ── */
+    main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 1.5rem;
+      gap: 1.25rem;
+      max-width: 1100px;
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    /* ── Map container ── */
+    #map {
+      width: 100%;
+      height: 520px;
+      border-radius: 10px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+      border: 1px solid #cbd5e0;
+    }
+
+    /* ── Info panel ── */
+    .info-panel {
+      background: #fff;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+    }
+    .info-panel h2 { font-size: 0.95rem; font-weight: 600; margin-bottom: 0.5rem; color: #2d3748; }
+    .info-panel ol { padding-left: 1.2rem; font-size: 0.875rem; color: #4a5568; line-height: 1.75; }
+    .info-panel code {
+      background: #edf2f7;
+      border-radius: 3px;
+      padding: 0.1em 0.35em;
+      font-size: 0.82rem;
+      font-family: 'Courier New', monospace;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.75rem;
+      color: #a0aec0;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0118 0z"/>
+      <circle cx="12" cy="10" r="3"/>
+    </svg>
+    <h1>Sophie's Leaflet Quick-Start</h1>
+    <span>— practice page</span>
+  </header>
+
+  <main>
+
+    <!-- ── THE MAP ── -->
+    <!-- Tutorial step 1: this <div> is where your map will render. -->
+    <div id="map"></div>
+
+    <!-- Info panel to guide you through the tutorial -->
+    <div class="info-panel">
+      <h2>📖 Follow the tutorial</h2>
+      <ol>
+        <li>The map <code>&lt;div id="map"&gt;</code> and Leaflet CSS/JS are already wired up below.</li>
+        <li>Scroll to the <code>&lt;script&gt;</code> block at the bottom of this file and replace the starter code with each tutorial snippet as you go.</li>
+        <li>Use <code>L.map('map')</code> to initialise, <code>L.tileLayer(...)</code> to add tiles, then experiment with markers, circles, and popups.</li>
+        <li>Save and refresh your browser — no build step needed.</li>
+      </ol>
+    </div>
+
+  </main>
+
+  <footer>Leaflet © Volodymyr Agafonkin · Map tiles © OpenStreetMap contributors</footer>
+
+  <!-- 2. Leaflet JS — after the CSS, after the DOM -->
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    crossorigin="">
+  </script>
+
+  <script>
+    // ─────────────────────────────────────────────────────────────
+    //  YOUR CODE GOES HERE
+    //  Replace / extend this block as you follow the tutorial.
+    // ─────────────────────────────────────────────────────────────
+
+    // Initialise the map and set its view (lat, lng, zoom)
+    var map = L.map('map').setView([51.505, -0.09], 13);
+
+    // Add the OpenStreetMap tile layer
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // ── Try these next (from the tutorial) ──────────────────────
+
+    // Marker
+    var marker = L.marker([51.5, -0.09]).addTo(map);
+
+    // Circle
+    var circle = L.circle([51.508, -0.11], {
+      color: 'red', fillColor: '#f03', fillOpacity: 0.5, radius: 500
+    }).addTo(map);
+
+    // Polygon
+    var polygon = L.polygon([
+      [51.509, -0.08], [51.503, -0.06], [51.51, -0.047]
+    ]).addTo(map);
+
+    // Popups
+    // marker.bindPopup('<b>Hello!</b><br>I am a marker.').openPopup();
+    // circle.bindPopup('I am a circle.');
+    // polygon.bindPopup('I am a polygon.');
+
+    // Standalone popup
+    // L.popup().setLatLng([51.513, -0.09])
+    //   .setContent('I am a standalone popup.')
+    //   .openOn(map);
+
+    // Click event
+    // function onMapClick(e) {
+    //   alert('You clicked at ' + e.latlng);
+    // }
+    // map.on('click', onMapClick);
+  </script>
+
+</body>
+</html>
