@@ -1,0 +1,82 @@
+[
+  {
+    "org_id": "the_committee",
+    "label": "the committee",
+    "entry_id": "chc02_e6"
+  },
+  {
+    "org_id": "the_shipping_company",
+    "label": "the shipping company",
+    "entry_id": "chc02_e16"
+  },
+  {
+    "org_id": "government_of_canada",
+    "label": "government of Canada",
+    "entry_id": "chc03_e14"
+  },
+  {
+    "org_id": "the_authorities",
+    "label": "the authorities",
+    "entry_id": "chc03_e16"
+  },
+  {
+    "org_id": "newspapers",
+    "label": "newspapers",
+    "entry_id": "chc03_e17"
+  },
+  {
+    "org_id": "government_of_quebec",
+    "label": "government of Quebec",
+    "entry_id": "chc03_e17"
+  },
+  {
+    "org_id": "irish_lords",
+    "label": "Irish lords",
+    "entry_id": "chc03_e17"
+  },
+  {
+    "org_id": "newspaper",
+    "label": "newspaper",
+    "entry_id": "chc04_e20"
+  },
+  {
+    "org_id": "the_nuns",
+    "label": "the nuns",
+    "entry_id": "chc05_e4"
+  },
+  {
+    "org_id": "the_sisters",
+    "label": "the sisters",
+    "entry_id": "chc05_e8"
+  },
+  {
+    "org_id": "the_johnsons",
+    "label": "the Johnsons",
+    "entry_id": "chc05_e9"
+  },
+  {
+    "org_id": "city_fathers",
+    "label": "city fathers",
+    "entry_id": "chc05_e11"
+  },
+  {
+    "org_id": "a_logging_company",
+    "label": "a logging company",
+    "entry_id": "chc07_e12"
+  },
+  {
+    "org_id": "logging_company",
+    "label": "logging company",
+    "entry_id": "chc07_e13"
+  },
+  {
+    "org_id": "priests",
+    "label": "priests",
+    "entry_id": "chc07_e16"
+  },
+  {
+    "org_id": "the_people_of_montreal",
+    "label": "the people of Montreal",
+    "entry_id": "chc09_e11"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "event_id": "great_famine",
+    "canonical_label": "The Great Famine (An Gorta M\u00f3r)",
+    "aliases": [
+      "the famine",
+      "the great hunger",
+      "the hunger",
+      "potato famine",
+      "potato blight",
+      "the blight"
+    ],
+    "date_range": "1845-1852",
+    "note": "The Irish potato famine driving emigration in this book's setting."
+  },
+  {
+    "event_id": "coffin_ship_emigration_1847",
+    "canonical_label": "Coffin-ship emigration (1847 famine crossings)",
+    "aliases": [
+      "coffin ship",
+      "coffin ships",
+      "the crossing",
+      "emigrant ship",
+      "emigrant ships"
+    ],
+    "date_range": "1847",
+    "note": "Overcrowded, disease-ridden emigrant vessels of the 1847 famine crossing."
+  },
+  {
+    "event_id": "1847_typhus_epidemic",
+    "canonical_label": "1847 typhus epidemic ('ship fever')",
+    "aliases": [
+      "ship fever",
+      "typhus",
+      "the fever",
+      "typhus epidemic",
+      "the sickness"
+    ],
+    "date_range": "1847",
+    "note": "The typhus outbreak among famine emigrants, especially at Grosse \u00cele."
+  },
+  {
+    "event_id": "grosse_ile_quarantine_1847",
+    "canonical_label": "Grosse \u00cele quarantine station operations (1847)",
+    "aliases": [
+      "grosse ile",
+      "grosse isle",
+      "the quarantine station",
+      "the fever sheds",
+      "quarantine island"
+    ],
+    "date_range": "1847",
+    "note": "The quarantine station and fever sheds on Grosse \u00cele, downriver from Quebec City."
+  },
+  {
+    "event_id": "assisted_emigration_schemes",
+    "canonical_label": "Landlord-assisted emigration schemes",
+    "aliases": [
+      "assisted passage",
+      "landlord-assisted emigration",
+      "paid our passage"
+    ],
+    "date_range": "1840s",
+    "note": "Schemes by Irish landlords to pay tenants' passage abroad during the famine."
+  },
+  {
+    "event_id": "irish_discrimination_in_canada",
+    "canonical_label": "Irish discrimination in Canada",
+    "aliases": [
+      "irish discrimination",
+      "discrimination against irish",
+      "irish prejudice"
+    ],
+    "date_range": null,
+    "note": "Discrimination faced by Irish immigrants in Canada, during the famine years especially."
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "date_id": "date_1847-04-30",
+    "normalized_date": "1847-04-30",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-01",
+    "normalized_date": "1847-05-01",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-03",
+    "normalized_date": "1847-05-03",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-06",
+    "normalized_date": "1847-05-06",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-07",
+    "normalized_date": "1847-05-07",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-08",
+    "normalized_date": "1847-05-08",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-09",
+    "normalized_date": "1847-05-09",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-10",
+    "normalized_date": "1847-05-10",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-11",
+    "normalized_date": "1847-05-11",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-12",
+    "normalized_date": "1847-05-12",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-13",
+    "normalized_date": "1847-05-13",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-14",
+    "normalized_date": "1847-05-14",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-15",
+    "normalized_date": "1847-05-15",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-16",
+    "normalized_date": "1847-05-16",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-19",
+    "normalized_date": "1847-05-19",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-20",
+    "normalized_date": "1847-05-20",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-21",
+    "normalized_date": "1847-05-21",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-22",
+    "normalized_date": "1847-05-22",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-23",
+    "normalized_date": "1847-05-23",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-24",
+    "normalized_date": "1847-05-24",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-27",
+    "normalized_date": "1847-05-27",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-28",
+    "normalized_date": "1847-05-28",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-05-30",
+    "normalized_date": "1847-05-30",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-01",
+    "normalized_date": "1847-06-01",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-03",
+    "normalized_date": "1847-06-03",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-05",
+    "normalized_date": "1847-06-05",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-08",
+    "normalized_date": "1847-06-08",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-06",
+    "normalized_date": "1847-06-06",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-09",
+    "normalized_date": "1847-06-09",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-10",
+    "normalized_date": "1847-06-10",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-11",
+    "normalized_date": "1847-06-11",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-12",
+    "normalized_date": "1847-06-12",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-13",
+    "normalized_date": "1847-06-13",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-14",
+    "normalized_date": "1847-06-14",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-15",
+    "normalized_date": "1847-06-15",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-16",
+    "normalized_date": "1847-06-16",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-17",
+    "normalized_date": "1847-06-17",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-18",
+    "normalized_date": "1847-06-18",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-21",
+    "normalized_date": "1847-06-21",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-22",
+    "normalized_date": "1847-06-22",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-23",
+    "normalized_date": "1847-06-23",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-24",
+    "normalized_date": "1847-06-24",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-25",
+    "normalized_date": "1847-06-25",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-26",
+    "normalized_date": "1847-06-26",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-06-28",
+    "normalized_date": "1847-06-28",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-03",
+    "normalized_date": "1847-07-03",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-04",
+    "normalized_date": "1847-07-04",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-07",
+    "normalized_date": "1847-07-07",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-10",
+    "normalized_date": "1847-07-10",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-12",
+    "normalized_date": "1847-07-12",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-13",
+    "normalized_date": "1847-07-13",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-14",
+    "normalized_date": "1847-07-14",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-15",
+    "normalized_date": "1847-07-15",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-16",
+    "normalized_date": "1847-07-16",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-17",
+    "normalized_date": "1847-07-17",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-18",
+    "normalized_date": "1847-07-18",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-19",
+    "normalized_date": "1847-07-19",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-20",
+    "normalized_date": "1847-07-20",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-21",
+    "normalized_date": "1847-07-21",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-24",
+    "normalized_date": "1847-07-24",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-25",
+    "normalized_date": "1847-07-25",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-26",
+    "normalized_date": "1847-07-26",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-27",
+    "normalized_date": "1847-07-27",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-28",
+    "normalized_date": "1847-07-28",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-30",
+    "normalized_date": "1847-07-30",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-07-31",
+    "normalized_date": "1847-07-31",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-01",
+    "normalized_date": "1847-08-01",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-02",
+    "normalized_date": "1847-08-02",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-03",
+    "normalized_date": "1847-08-03",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-05",
+    "normalized_date": "1847-08-05",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-07",
+    "normalized_date": "1847-08-07",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-08",
+    "normalized_date": "1847-08-08",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-09",
+    "normalized_date": "1847-08-09",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-10",
+    "normalized_date": "1847-08-10",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-11",
+    "normalized_date": "1847-08-11",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-12",
+    "normalized_date": "1847-08-12",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-13",
+    "normalized_date": "1847-08-13",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-14",
+    "normalized_date": "1847-08-14",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-16",
+    "normalized_date": "1847-08-16",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-19",
+    "normalized_date": "1847-08-19",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-20",
+    "normalized_date": "1847-08-20",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-21",
+    "normalized_date": "1847-08-21",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-22",
+    "normalized_date": "1847-08-22",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-23",
+    "normalized_date": "1847-08-23",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-25",
+    "normalized_date": "1847-08-25",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-26",
+    "normalized_date": "1847-08-26",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-08-31",
+    "normalized_date": "1847-08-31",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-01",
+    "normalized_date": "1847-09-01",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-02",
+    "normalized_date": "1847-09-02",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-03",
+    "normalized_date": "1847-09-03",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-04",
+    "normalized_date": "1847-09-04",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-06",
+    "normalized_date": "1847-09-06",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-10",
+    "normalized_date": "1847-09-10",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-13",
+    "normalized_date": "1847-09-13",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-15",
+    "normalized_date": "1847-09-15",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-18",
+    "normalized_date": "1847-09-18",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-21",
+    "normalized_date": "1847-09-21",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-23",
+    "normalized_date": "1847-09-23",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-24",
+    "normalized_date": "1847-09-24",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-25",
+    "normalized_date": "1847-09-25",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-26",
+    "normalized_date": "1847-09-26",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-09-27",
+    "normalized_date": "1847-09-27",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-02",
+    "normalized_date": "1847-10-02",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-03",
+    "normalized_date": "1847-10-03",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-07",
+    "normalized_date": "1847-10-07",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-09",
+    "normalized_date": "1847-10-09",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-10",
+    "normalized_date": "1847-10-10",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-11",
+    "normalized_date": "1847-10-11",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-12",
+    "normalized_date": "1847-10-12",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-13",
+    "normalized_date": "1847-10-13",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-15",
+    "normalized_date": "1847-10-15",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-17",
+    "normalized_date": "1847-10-17",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-19",
+    "normalized_date": "1847-10-19",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-21",
+    "normalized_date": "1847-10-21",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-23",
+    "normalized_date": "1847-10-23",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-26",
+    "normalized_date": "1847-10-26",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-28",
+    "normalized_date": "1847-10-28",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-10-31",
+    "normalized_date": "1847-10-31",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-11-04",
+    "normalized_date": "1847-11-04",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-11-06",
+    "normalized_date": "1847-11-06",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-11-10",
+    "normalized_date": "1847-11-10",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-11-14",
+    "normalized_date": "1847-11-14",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-11-16",
+    "normalized_date": "1847-11-16",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-11-19",
+    "normalized_date": "1847-11-19",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-11-20",
+    "normalized_date": "1847-11-20",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-11-21",
+    "normalized_date": "1847-11-21",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-11-30",
+    "normalized_date": "1847-11-30",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-01",
+    "normalized_date": "1847-12-01",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-02",
+    "normalized_date": "1847-12-02",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-03",
+    "normalized_date": "1847-12-03",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-04",
+    "normalized_date": "1847-12-04",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-06",
+    "normalized_date": "1847-12-06",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-07",
+    "normalized_date": "1847-12-07",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-08",
+    "normalized_date": "1847-12-08",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-09",
+    "normalized_date": "1847-12-09",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-10",
+    "normalized_date": "1847-12-10",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-11",
+    "normalized_date": "1847-12-11",
+    "precision": "day"
+  },
+  {
+    "date_id": "date_1847-12-13",
+    "normalized_date": "1847-12-13",
+    "precision": "day"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "character_id": "connor",
+    "character_label": "Connor",
+    "raw_text": "She's a lad, not a lass",
+    "attributed_by": "other_character",
+    "entry_id": "chc03_e21"
+  },
+  {
+    "character_id": "connor",
+    "character_label": "Connor",
+    "raw_text": "girl's disguise",
+    "attributed_by": "narrator",
+    "entry_id": "chc03_e21"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "I am not an orphan",
+    "attributed_by": "self",
+    "entry_id": "chc04_e2"
+  },
+  {
+    "character_id": "michael",
+    "character_label": "Michael",
+    "raw_text": "Irish orphans",
+    "attributed_by": "other_character",
+    "entry_id": "chc04_e6"
+  },
+  {
+    "character_id": "the_boy",
+    "character_label": "the boy",
+    "raw_text": "Irish",
+    "attributed_by": "narrator",
+    "entry_id": "chc04_e8"
+  },
+  {
+    "character_id": "pierre",
+    "character_label": "Pierre",
+    "raw_text": "French",
+    "attributed_by": "narrator",
+    "entry_id": "chc04_e15"
+  },
+  {
+    "character_id": "johnson_family",
+    "character_label": "Johnson",
+    "raw_text": "a banker",
+    "attributed_by": "narrator",
+    "entry_id": "chc04_e17"
+  },
+  {
+    "character_id": "johnson_family",
+    "character_label": "Johnson",
+    "raw_text": "dresses elegantly",
+    "attributed_by": "narrator",
+    "entry_id": "chc04_e17"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "all Irish believe in fairies",
+    "attributed_by": "other_character",
+    "entry_id": "chc04_e19"
+  },
+  {
+    "character_id": "johnson_family",
+    "character_label": "Johnson",
+    "raw_text": "a Protestant",
+    "attributed_by": "narrator",
+    "entry_id": "chc04_e19"
+  },
+  {
+    "character_id": "the_irish_immigrants",
+    "character_label": "the Irish immigrants",
+    "raw_text": "the Irish immigrants",
+    "attributed_by": "other_character",
+    "entry_id": "chc04_e20"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "Irish are lazy",
+    "attributed_by": "other_character",
+    "entry_id": "chc04_e21"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "heathen fairy stories",
+    "attributed_by": "other_character",
+    "entry_id": "chc04_e21"
+  },
+  {
+    "character_id": "the_irish_immigrants",
+    "character_label": "the Irish immigrants",
+    "raw_text": "starving in ditches",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e1"
+  },
+  {
+    "character_id": "the_irish_immigrants",
+    "character_label": "the Irish immigrants",
+    "raw_text": "the Irish are lazy",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e1"
+  },
+  {
+    "character_id": "the_irish_immigrants",
+    "character_label": "the Irish immigrants",
+    "raw_text": "Irish children play in dung heaps",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e1"
+  },
+  {
+    "character_id": "the_irish_immigrants",
+    "character_label": "the Irish immigrants",
+    "raw_text": "a nation of beggars and improvident creatures",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e1"
+  },
+  {
+    "character_id": "the_irish_immigrants",
+    "character_label": "the Irish immigrants",
+    "raw_text": "They are lazy, ignorant creatures",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e1"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "an ignorant thing who had never seen a cookstove before I charitably took her in and whose eyes grow as large as dinner plates at the merest mention of food",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e1"
+  },
+  {
+    "character_id": "da",
+    "character_label": "Da",
+    "raw_text": "a schoolteacher in England",
+    "attributed_by": "narrator",
+    "entry_id": "chc05_e1"
+  },
+  {
+    "character_id": "da",
+    "character_label": "Da",
+    "raw_text": "one of the finest carpenters in the county",
+    "attributed_by": "narrator",
+    "entry_id": "chc05_e1"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "filthy, penniless, diseased",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e4"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "ungrateful and ignorant",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e4"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "those only out of charity",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e4"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "my station",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e5"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "my countrymen",
+    "attributed_by": "self",
+    "entry_id": "chc05_e9"
+  },
+  {
+    "character_id": "the_irish_immigrants",
+    "character_label": "the Irish immigrants",
+    "raw_text": "the Irish",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e10"
+  },
+  {
+    "character_id": "the_irish",
+    "character_label": "the Irish",
+    "raw_text": "lazy and the makers of their own misfortune",
+    "attributed_by": "unspecified",
+    "entry_id": "chc05_e11"
+  },
+  {
+    "character_id": "those_from_the_ships",
+    "character_label": "those from the ships",
+    "raw_text": "afraid to hire those from the ships for fear of contagion",
+    "attributed_by": "unspecified",
+    "entry_id": "chc05_e11"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "little savages",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e15"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "hopeless with housework",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e15"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "ignorant girl",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e15"
+  },
+  {
+    "character_id": "mrs_hall",
+    "character_label": "Mrs. Hall",
+    "raw_text": "She is English",
+    "attributed_by": "narrator",
+    "entry_id": "chc05_e16"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "Irish",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e19"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "those Irish",
+    "attributed_by": "other_character",
+    "entry_id": "chc05_e20"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "the Irish",
+    "attributed_by": "other_character",
+    "entry_id": "chc06_e15"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "the immigrants",
+    "attributed_by": "other_character",
+    "entry_id": "chc06_e15"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "a part of her family",
+    "attributed_by": "other_character",
+    "entry_id": "chc06_e15"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "a kinless stranger in this country",
+    "attributed_by": "self",
+    "entry_id": "chc07_e11"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "an Irish girl",
+    "attributed_by": "other_character",
+    "entry_id": "chc08_e4"
+  },
+  {
+    "character_id": "johanna_leary",
+    "character_label": "Johanna Leary",
+    "raw_text": "You people are no better than animals",
+    "attributed_by": "other_character",
+    "entry_id": "chc08_e4"
+  },
+  {
+    "character_id": "the_irish",
+    "character_label": "the Irish",
+    "raw_text": "the Irish are lazy beggars",
+    "attributed_by": "other_character",
+    "entry_id": "chc08_e4"
+  },
+  {
+    "character_id": "mrs_lyons",
+    "character_label": "Mrs. Lyons",
+    "raw_text": "French",
+    "attributed_by": "narrator",
+    "entry_id": "chc08_e5"
+  },
+  {
+    "character_id": "mrs_lyons",
+    "character_label": "Mrs. Lyons",
+    "raw_text": "an Englishman",
+    "attributed_by": "narrator",
+    "entry_id": "chc08_e5"
+  },
+  {
+    "character_id": "the_irish",
+    "character_label": "the Irish",
+    "raw_text": "all the Irish who had flooded the city",
+    "attributed_by": "other_character",
+    "entry_id": "chc09_e11"
+  },
+  {
+    "character_id": "connor",
+    "character_label": "Connor",
+    "raw_text": "one Irish lad among thousands",
+    "attributed_by": "other_character",
+    "entry_id": "chc09_e11"
+  },
+  {
+    "character_id": "tommy_ryan",
+    "character_label": "Tommy Ryan",
+    "raw_text": "Irish as well",
+    "attributed_by": "narrator",
+    "entry_id": "chc09_e11"
+  }
+]

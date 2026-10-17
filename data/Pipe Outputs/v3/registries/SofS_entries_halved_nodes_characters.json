@@ -1,0 +1,2324 @@
+[
+  {
+    "character_id": "johanna_leary",
+    "canonical_label": "Johanna Leary",
+    "aliases": [
+      "Johanna",
+      "Johanna Leary",
+      "The Johanna Leary",
+      "a Joanna Leary",
+      "Leary",
+      "I",
+      "me"
+    ],
+    "relation_to_narrator": "self",
+    "historicity": "unknown",
+    "last_known_location": "Sherbrooke",
+    "last_location_stated_entry": "chc09_e3",
+    "first_mentioned_entry": null,
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "michael_leary_da",
+    "canonical_label": "Da (Michael Leary)",
+    "aliases": [
+      "Da",
+      "Michael",
+      "Michael Leary"
+    ],
+    "relation_to_narrator": "father",
+    "historicity": "unknown",
+    "last_known_location": "a farm",
+    "last_location_stated_entry": "chc09_e11",
+    "first_mentioned_entry": null,
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "ma",
+    "canonical_label": "Ma",
+    "aliases": [
+      "Ma"
+    ],
+    "relation_to_narrator": "mother",
+    "historicity": "unknown",
+    "last_known_location": "hospital",
+    "last_location_stated_entry": "chc04_e1",
+    "first_mentioned_entry": null,
+    "last_touched_index": 110
+  },
+  {
+    "character_id": "grandda",
+    "canonical_label": "Grandda",
+    "aliases": [
+      "Grandda"
+    ],
+    "relation_to_narrator": "grandfather",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 116
+  },
+  {
+    "character_id": "patrick",
+    "canonical_label": "Patrick",
+    "aliases": [
+      "Patrick"
+    ],
+    "relation_to_narrator": "sibling",
+    "historicity": "unknown",
+    "last_known_location": "the ship",
+    "last_location_stated_entry": "chc02_e5",
+    "first_mentioned_entry": null,
+    "last_touched_index": 113
+  },
+  {
+    "character_id": "anna",
+    "canonical_label": "Anna",
+    "aliases": [
+      "Anna",
+      "AnnaJohanna",
+      "Anna Riordans"
+    ],
+    "relation_to_narrator": "sibling",
+    "historicity": "unknown",
+    "last_known_location": "Canada",
+    "last_location_stated_entry": "chc01_e1",
+    "first_mentioned_entry": null,
+    "last_touched_index": 127
+  },
+  {
+    "character_id": "uncle_liam",
+    "canonical_label": "Uncle Liam",
+    "aliases": [
+      "Uncle Liam",
+      "Uncle Liam\u2019s",
+      "Uncle"
+    ],
+    "relation_to_narrator": "uncle",
+    "historicity": "unknown",
+    "last_known_location": "the Gatineau Hills",
+    "last_location_stated_entry": "chc05_e5",
+    "first_mentioned_entry": null,
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "kevin_keenan",
+    "canonical_label": "Kevin Keenan",
+    "aliases": [
+      "Kevin",
+      "Kevin Keenan",
+      "Keenan"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 32
+  },
+  {
+    "character_id": "kerry_keenan",
+    "canonical_label": "Daniel Keenan",
+    "aliases": [
+      "Daniel"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": "the ship",
+    "last_location_stated_entry": "chc04_e1",
+    "first_mentioned_entry": null,
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "connor",
+    "canonical_label": "Connor",
+    "aliases": [
+      "Connor"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": "logging camp",
+    "last_location_stated_entry": "chc09_e11",
+    "first_mentioned_entry": null,
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "sullivan",
+    "canonical_label": "Sullivan",
+    "aliases": [
+      "Sullivan"
+    ],
+    "relation_to_narrator": "minor character",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": -1
+  },
+  {
+    "character_id": "tattersall",
+    "canonical_label": "Tattersall",
+    "aliases": [
+      "Tattersall",
+      "Tattersalls"
+    ],
+    "relation_to_narrator": "family on the ship",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": -1
+  },
+  {
+    "character_id": "donnell",
+    "canonical_label": "Donnell",
+    "aliases": [
+      "Donnell"
+    ],
+    "relation_to_narrator": "minor character",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": -1
+  },
+  {
+    "character_id": "colleen_keenan",
+    "canonical_label": "Colleen Keenan",
+    "aliases": [
+      "Colleen"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 26
+  },
+  {
+    "character_id": "eileen_cairns",
+    "canonical_label": "Eileen Cairns",
+    "aliases": [
+      "Eileen Cairns",
+      "Eileen"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": "the nuns",
+    "last_location_stated_entry": "chc05_e6",
+    "first_mentioned_entry": null,
+    "last_touched_index": 70
+  },
+  {
+    "character_id": "thomas_kelleher",
+    "canonical_label": "Thomas Kelleher",
+    "aliases": [
+      "Thomas Kelleher",
+      "Kelleher",
+      "Thomas",
+      "Kellehers"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 24
+  },
+  {
+    "character_id": "annie_malone",
+    "canonical_label": "Annie Malone",
+    "aliases": [
+      "Annie Malone"
+    ],
+    "relation_to_narrator": "minor character",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 30
+  },
+  {
+    "character_id": "marie_france",
+    "canonical_label": "Marie-France",
+    "aliases": [
+      "Marie-France",
+      "sister Marie-France",
+      "sister"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "stuart_mcewen",
+    "canonical_label": "Stuart McEwen",
+    "aliases": [
+      "Stuart McEwen"
+    ],
+    "relation_to_narrator": "minor character",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": -1
+  },
+  {
+    "character_id": "william_johnson",
+    "canonical_label": "William Johnson",
+    "aliases": [
+      "Johnson",
+      "Johnsons",
+      "William Johnson"
+    ],
+    "relation_to_narrator": "employer",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": -1
+  },
+  {
+    "character_id": "nellie_johnson",
+    "canonical_label": "Nellie Johnson",
+    "aliases": [
+      "Nellie",
+      "Nellie Johnson"
+    ],
+    "relation_to_narrator": "employer's family",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 62
+  },
+  {
+    "character_id": "peggy_johnson",
+    "canonical_label": "Peggy Johnson",
+    "aliases": [
+      "Peggy",
+      "Peggy Johnson"
+    ],
+    "relation_to_narrator": "employer's family",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 64
+  },
+  {
+    "character_id": "pierre",
+    "canonical_label": "Pierre",
+    "aliases": [
+      "Pierre"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 58
+  },
+  {
+    "character_id": "matthew",
+    "canonical_label": "Matthew",
+    "aliases": [
+      "Matthew"
+    ],
+    "relation_to_narrator": "minor character",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 60
+  },
+  {
+    "character_id": "claire",
+    "canonical_label": "Claire",
+    "aliases": [
+      "Claire"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 73
+  },
+  {
+    "character_id": "tommy_ryan",
+    "canonical_label": "Tommy Ryan",
+    "aliases": [
+      "Tommy Ryan",
+      "Tommy"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": "the ship",
+    "last_location_stated_entry": "chc05_e19",
+    "first_mentioned_entry": null,
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "fenton",
+    "canonical_label": "Fenton",
+    "aliases": [
+      "Fenton",
+      "Fentons"
+    ],
+    "relation_to_narrator": "employer family",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": -1
+  },
+  {
+    "character_id": "fanny_fenton",
+    "canonical_label": "Fanny Fenton",
+    "aliases": [
+      "Fanny Fenton",
+      "Fanny"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": "Halls' house",
+    "last_location_stated_entry": "chc09_e1",
+    "first_mentioned_entry": null,
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "lucy_hall",
+    "canonical_label": "Lucy Hall",
+    "aliases": [
+      "Lucy Hall",
+      "Lucy"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": "Sherbrooke",
+    "last_location_stated_entry": "chc09_e3",
+    "first_mentioned_entry": null,
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "catherine_hall",
+    "canonical_label": "Catherine Hall",
+    "aliases": [
+      "Catherine Hall",
+      "Mary Catherine",
+      "Catherine"
+    ],
+    "relation_to_narrator": "friend",
+    "historicity": "unknown",
+    "last_known_location": "a little hill under an oak tree behind the Halls' house",
+    "last_location_stated_entry": "chc07_e8",
+    "first_mentioned_entry": null,
+    "last_touched_index": 113
+  },
+  {
+    "character_id": "lyons",
+    "canonical_label": "Lyons",
+    "aliases": [
+      "Lyons",
+      "Lyon"
+    ],
+    "relation_to_narrator": "employer family",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": -1
+  },
+  {
+    "character_id": "elizabeth",
+    "canonical_label": "Elizabeth",
+    "aliases": [
+      "Elizabeth"
+    ],
+    "relation_to_narrator": "minor character",
+    "historicity": "unknown",
+    "last_known_location": "Montreal",
+    "last_location_stated_entry": "chc06_e4",
+    "first_mentioned_entry": null,
+    "last_touched_index": 89
+  },
+  {
+    "character_id": "nearing",
+    "canonical_label": "Frederick Nearing",
+    "aliases": [
+      "Nearing",
+      "Frederick Nearing"
+    ],
+    "relation_to_narrator": "acquaintance",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": -1
+  },
+  {
+    "character_id": "webley",
+    "canonical_label": "Duncan Webley",
+    "aliases": [
+      "Webley",
+      "Duncan Webley"
+    ],
+    "relation_to_narrator": "acquaintance",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": null,
+    "last_touched_index": 123
+  },
+  {
+    "character_id": "cuchulain",
+    "canonical_label": "Cuchulain",
+    "aliases": [
+      "Cuchulain"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc01_e1",
+    "last_touched_index": 0
+  },
+  {
+    "character_id": "the_rude_girl",
+    "canonical_label": "the rude girl",
+    "aliases": [
+      "the rude girl"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e5",
+    "last_touched_index": 12
+  },
+  {
+    "character_id": "mrs_keenan",
+    "canonical_label": "Mrs. Keenan",
+    "aliases": [
+      "Mrs. Keenan"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "Grosse Isle",
+    "last_location_stated_entry": "chc03_e15",
+    "first_mentioned_entry": "chc02_e6",
+    "last_touched_index": 42
+  },
+  {
+    "character_id": "her_da",
+    "canonical_label": "her da",
+    "aliases": [
+      "her da"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e6",
+    "last_touched_index": 6
+  },
+  {
+    "character_id": "the_captain",
+    "canonical_label": "the captain",
+    "aliases": [
+      "the captain"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e6",
+    "last_touched_index": 43
+  },
+  {
+    "character_id": "mr_keenan",
+    "canonical_label": "Mr. Keenan",
+    "aliases": [
+      "Mr. Keenan"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e12",
+    "last_touched_index": 23
+  },
+  {
+    "character_id": "mr_sullivan",
+    "canonical_label": "Mr. Sullivan",
+    "aliases": [
+      "Mr. Sullivan"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e14",
+    "last_touched_index": 14
+  },
+  {
+    "character_id": "mrs_tattersall",
+    "canonical_label": "Mrs. Tattersall",
+    "aliases": [
+      "Mrs. Tattersall"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e14",
+    "last_touched_index": 21
+  },
+  {
+    "character_id": "mr_tattersall",
+    "canonical_label": "Mr. Tattersall",
+    "aliases": [
+      "Mr. Tattersall"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e14",
+    "last_touched_index": 21
+  },
+  {
+    "character_id": "noah",
+    "canonical_label": "Noah",
+    "aliases": [
+      "Noah"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e14",
+    "last_touched_index": 14
+  },
+  {
+    "character_id": "mrs_donnell",
+    "canonical_label": "Mrs. Donnell",
+    "aliases": [
+      "Mrs. Donnell"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e19",
+    "last_touched_index": 19
+  },
+  {
+    "character_id": "the_little_tattersalls",
+    "canonical_label": "the little Tattersalls",
+    "aliases": [
+      "the little Tattersalls"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e21",
+    "last_touched_index": 21
+  },
+  {
+    "character_id": "two_more_passengers",
+    "canonical_label": "two more passengers",
+    "aliases": [
+      "two more passengers"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e22",
+    "last_touched_index": 22
+  },
+  {
+    "character_id": "more_people",
+    "canonical_label": "more people",
+    "aliases": [
+      "more people"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e22",
+    "last_touched_index": 22
+  },
+  {
+    "character_id": "a_shark",
+    "canonical_label": "a shark",
+    "aliases": [
+      "a shark"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc02_e22",
+    "last_touched_index": 22
+  },
+  {
+    "character_id": "moose",
+    "canonical_label": "moose",
+    "aliases": [
+      "moose"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e1",
+    "last_touched_index": 23
+  },
+  {
+    "character_id": "mrs_kelleher",
+    "canonical_label": "Mrs. Kelleher",
+    "aliases": [
+      "Mrs. Kelleher"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e2",
+    "last_touched_index": 29
+  },
+  {
+    "character_id": "mr_kelleher",
+    "canonical_label": "Mr. Kelleher",
+    "aliases": [
+      "Mr. Kelleher"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e2",
+    "last_touched_index": 24
+  },
+  {
+    "character_id": "the_first_mate",
+    "canonical_label": "the first mate",
+    "aliases": [
+      "the first mate"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e2",
+    "last_touched_index": 24
+  },
+  {
+    "character_id": "sailors",
+    "canonical_label": "sailors",
+    "aliases": [
+      "sailors"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e2",
+    "last_touched_index": 31
+  },
+  {
+    "character_id": "his_da",
+    "canonical_label": "his da",
+    "aliases": [
+      "his da"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e3",
+    "last_touched_index": 83
+  },
+  {
+    "character_id": "connor_s_father",
+    "canonical_label": "Connor's father",
+    "aliases": [
+      "Connor's father"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e4",
+    "last_touched_index": 26
+  },
+  {
+    "character_id": "liam",
+    "canonical_label": "Liam",
+    "aliases": [
+      "Liam"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e5",
+    "last_touched_index": 27
+  },
+  {
+    "character_id": "people",
+    "canonical_label": "people",
+    "aliases": [
+      "people"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e7",
+    "last_touched_index": 77
+  },
+  {
+    "character_id": "one_of_the_sailors",
+    "canonical_label": "one of the sailors",
+    "aliases": [
+      "one of the sailors"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e9",
+    "last_touched_index": 31
+  },
+  {
+    "character_id": "an_inspector",
+    "canonical_label": "an inspector",
+    "aliases": [
+      "an inspector"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e14",
+    "last_touched_index": 36
+  },
+  {
+    "character_id": "the_doctor",
+    "canonical_label": "the doctor",
+    "aliases": [
+      "the doctor"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "Halls' house",
+    "last_location_stated_entry": "chc09_e7",
+    "first_mentioned_entry": "chc03_e15",
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "the_inspector",
+    "canonical_label": "the inspector",
+    "aliases": [
+      "the inspector"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e15",
+    "last_touched_index": 37
+  },
+  {
+    "character_id": "us",
+    "canonical_label": "us",
+    "aliases": [
+      "us"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e17",
+    "last_touched_index": 39
+  },
+  {
+    "character_id": "the_people_who_live_in_quebec",
+    "canonical_label": "the people who live in Quebec",
+    "aliases": [
+      "the people who live in Quebec"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e17",
+    "last_touched_index": 39
+  },
+  {
+    "character_id": "one_of_the_mates",
+    "canonical_label": "one of the mates",
+    "aliases": [
+      "one of the mates"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e17",
+    "last_touched_index": 43
+  },
+  {
+    "character_id": "his_ma",
+    "canonical_label": "his ma",
+    "aliases": [
+      "his ma"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e18",
+    "last_touched_index": 83
+  },
+  {
+    "character_id": "nine_more_passengers",
+    "canonical_label": "nine more passengers",
+    "aliases": [
+      "nine more passengers"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e18",
+    "last_touched_index": 40
+  },
+  {
+    "character_id": "three_children_two_women_and_two_men",
+    "canonical_label": "three children, two women and two men",
+    "aliases": [
+      "three children, two women and two men"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc03_e18",
+    "last_touched_index": 40
+  },
+  {
+    "character_id": "the_nun",
+    "canonical_label": "the nun",
+    "aliases": [
+      "the nun"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e1",
+    "last_touched_index": 44
+  },
+  {
+    "character_id": "the_archbishop",
+    "canonical_label": "the archbishop",
+    "aliases": [
+      "the archbishop"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e2",
+    "last_touched_index": 49
+  },
+  {
+    "character_id": "parishioners",
+    "canonical_label": "parishioners",
+    "aliases": [
+      "parishioners"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e2",
+    "last_touched_index": 49
+  },
+  {
+    "character_id": "irish_orphans",
+    "canonical_label": "Irish orphans",
+    "aliases": [
+      "Irish orphans"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e2",
+    "last_touched_index": 49
+  },
+  {
+    "character_id": "the_people_of_montreal",
+    "canonical_label": "the people of Montreal",
+    "aliases": [
+      "the people of Montreal"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e2",
+    "last_touched_index": 45
+  },
+  {
+    "character_id": "a_woman",
+    "canonical_label": "a woman",
+    "aliases": [
+      "a woman"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e3",
+    "last_touched_index": 91
+  },
+  {
+    "character_id": "a_man",
+    "canonical_label": "a man",
+    "aliases": [
+      "a man"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e3",
+    "last_touched_index": 105
+  },
+  {
+    "character_id": "a_nun",
+    "canonical_label": "a nun",
+    "aliases": [
+      "a nun"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e3",
+    "last_touched_index": 46
+  },
+  {
+    "character_id": "my_da",
+    "canonical_label": "my da",
+    "aliases": [
+      "my da"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e4",
+    "last_touched_index": 113
+  },
+  {
+    "character_id": "someone",
+    "canonical_label": "Someone",
+    "aliases": [
+      "Someone"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e4",
+    "last_touched_index": 57
+  },
+  {
+    "character_id": "a_gentleman",
+    "canonical_label": "a gentleman",
+    "aliases": [
+      "a gentleman"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e5",
+    "last_touched_index": 48
+  },
+  {
+    "character_id": "my_poor_countrymen",
+    "canonical_label": "my poor countrymen",
+    "aliases": [
+      "my poor countrymen"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e5",
+    "last_touched_index": 48
+  },
+  {
+    "character_id": "a_crowd_of_people",
+    "canonical_label": "a crowd of people",
+    "aliases": [
+      "a crowd of people"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e5",
+    "last_touched_index": 48
+  },
+  {
+    "character_id": "a_man_selling_fruit",
+    "canonical_label": "a man selling fruit",
+    "aliases": [
+      "a man selling fruit"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e5",
+    "last_touched_index": 48
+  },
+  {
+    "character_id": "a_lad",
+    "canonical_label": "a lad",
+    "aliases": [
+      "a lad"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e5",
+    "last_touched_index": 48
+  },
+  {
+    "character_id": "a_brother",
+    "canonical_label": "a brother",
+    "aliases": [
+      "a brother"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e5",
+    "last_touched_index": 102
+  },
+  {
+    "character_id": "one_of_the_sisters",
+    "canonical_label": "one of the sisters",
+    "aliases": [
+      "one of the sisters"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e5",
+    "last_touched_index": 48
+  },
+  {
+    "character_id": "a_carter",
+    "canonical_label": "a carter",
+    "aliases": [
+      "a carter"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e6",
+    "last_touched_index": 49
+  },
+  {
+    "character_id": "another_girl",
+    "canonical_label": "another girl",
+    "aliases": [
+      "another girl"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e6",
+    "last_touched_index": 80
+  },
+  {
+    "character_id": "an_older_man",
+    "canonical_label": "an older man",
+    "aliases": [
+      "an older man"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e6",
+    "last_touched_index": 49
+  },
+  {
+    "character_id": "the_boy",
+    "canonical_label": "the boy",
+    "aliases": [
+      "the boy"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e7",
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "a_harried_looking_man",
+    "canonical_label": "a harried-looking man",
+    "aliases": [
+      "a harried-looking man"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e7",
+    "last_touched_index": 50
+  },
+  {
+    "character_id": "the_thief",
+    "canonical_label": "the thief",
+    "aliases": [
+      "the thief"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e8",
+    "last_touched_index": 51
+  },
+  {
+    "character_id": "a_man_who_kept_records_of_the_patients",
+    "canonical_label": "a man who kept records of the patients",
+    "aliases": [
+      "a man who kept records of the patients"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e11",
+    "last_touched_index": 54
+  },
+  {
+    "character_id": "a_farm_family",
+    "canonical_label": "a farm family",
+    "aliases": [
+      "a farm family"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e11",
+    "last_touched_index": 54
+  },
+  {
+    "character_id": "mr_stuart_mcewen",
+    "canonical_label": "Mr. Stuart McEwen",
+    "aliases": [
+      "Mr. Stuart McEwen"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e12",
+    "last_touched_index": 55
+  },
+  {
+    "character_id": "our_uncle",
+    "canonical_label": "our uncle",
+    "aliases": [
+      "our uncle"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e12",
+    "last_touched_index": 55
+  },
+  {
+    "character_id": "one_of_the_brothers",
+    "canonical_label": "one of the brothers",
+    "aliases": [
+      "one of the brothers"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e12",
+    "last_touched_index": 55
+  },
+  {
+    "character_id": "mr_johnson",
+    "canonical_label": "Mr. Johnson",
+    "aliases": [
+      "Mr. Johnson"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e14",
+    "last_touched_index": 73
+  },
+  {
+    "character_id": "mrs_johnson",
+    "canonical_label": "Mrs. Johnson",
+    "aliases": [
+      "Mrs. Johnson"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e14",
+    "last_touched_index": 127
+  },
+  {
+    "character_id": "mr_and_mrs_johnson",
+    "canonical_label": "Mr. and Mrs. Johnson",
+    "aliases": [
+      "Mr. and Mrs. Johnson"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e14",
+    "last_touched_index": 57
+  },
+  {
+    "character_id": "mrs_coteau",
+    "canonical_label": "Mrs. Coteau",
+    "aliases": [
+      "Mrs. Coteau"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e15",
+    "last_touched_index": 86
+  },
+  {
+    "character_id": "the_johnsons",
+    "canonical_label": "the Johnsons",
+    "aliases": [
+      "the Johnsons"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e15",
+    "last_touched_index": 59
+  },
+  {
+    "character_id": "the_gardener",
+    "canonical_label": "the gardener",
+    "aliases": [
+      "the gardener"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e16",
+    "last_touched_index": 59
+  },
+  {
+    "character_id": "mr_william_johnson",
+    "canonical_label": "Mr. William Johnson",
+    "aliases": [
+      "Mr. William Johnson"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e17",
+    "last_touched_index": 60
+  },
+  {
+    "character_id": "my_own_da",
+    "canonical_label": "my own da",
+    "aliases": [
+      "my own da"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e17",
+    "last_touched_index": 60
+  },
+  {
+    "character_id": "my_ma",
+    "canonical_label": "my ma",
+    "aliases": [
+      "my ma"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e20",
+    "last_touched_index": 63
+  },
+  {
+    "character_id": "the_irish_immigrants",
+    "canonical_label": "the Irish immigrants",
+    "aliases": [
+      "the Irish immigrants"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e20",
+    "last_touched_index": 63
+  },
+  {
+    "character_id": "irish_immigrants",
+    "canonical_label": "Irish immigrants",
+    "aliases": [
+      "Irish immigrants"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc04_e20",
+    "last_touched_index": 63
+  },
+  {
+    "character_id": "the_irish",
+    "canonical_label": "the Irish",
+    "aliases": [
+      "the Irish"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e1",
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "the_gentleman",
+    "canonical_label": "the gentleman",
+    "aliases": [
+      "the gentleman"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e1",
+    "last_touched_index": 65
+  },
+  {
+    "character_id": "his_brother_in_ireland",
+    "canonical_label": "his brother in Ireland",
+    "aliases": [
+      "his brother in Ireland"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e5",
+    "last_touched_index": 69
+  },
+  {
+    "character_id": "the_postmaster_in_bytown",
+    "canonical_label": "the postmaster in Bytown",
+    "aliases": [
+      "the postmaster in Bytown"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e5",
+    "last_touched_index": 82
+  },
+  {
+    "character_id": "another_postmaster",
+    "canonical_label": "another postmaster",
+    "aliases": [
+      "another postmaster"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e5",
+    "last_touched_index": 69
+  },
+  {
+    "character_id": "the_couple_who_adopted_daniel",
+    "canonical_label": "the couple who adopted Daniel",
+    "aliases": [
+      "the couple who adopted Daniel"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e5",
+    "last_touched_index": 69
+  },
+  {
+    "character_id": "the_sister_in_charge_of_the_laundry",
+    "canonical_label": "the sister in charge of the laundry",
+    "aliases": [
+      "the sister in charge of the laundry"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e8",
+    "last_touched_index": 72
+  },
+  {
+    "character_id": "new_children",
+    "canonical_label": "New children",
+    "aliases": [
+      "New children"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e8",
+    "last_touched_index": 72
+  },
+  {
+    "character_id": "some_people_in_the_city",
+    "canonical_label": "some people in the city",
+    "aliases": [
+      "some people in the city"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e10",
+    "last_touched_index": 74
+  },
+  {
+    "character_id": "one_gentleman",
+    "canonical_label": "one gentleman",
+    "aliases": [
+      "one gentleman"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e10",
+    "last_touched_index": 74
+  },
+  {
+    "character_id": "another",
+    "canonical_label": "another",
+    "aliases": [
+      "another"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e10",
+    "last_touched_index": 74
+  },
+  {
+    "character_id": "the_city_s_citizens",
+    "canonical_label": "the city's citizens",
+    "aliases": [
+      "the city's citizens"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e10",
+    "last_touched_index": 74
+  },
+  {
+    "character_id": "the_woman",
+    "canonical_label": "the woman",
+    "aliases": [
+      "the woman"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "the sheds",
+    "last_location_stated_entry": "chc05_e11",
+    "first_mentioned_entry": "chc05_e11",
+    "last_touched_index": 75
+  },
+  {
+    "character_id": "her_husband",
+    "canonical_label": "her husband",
+    "aliases": [
+      "her husband"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e11",
+    "last_touched_index": 80
+  },
+  {
+    "character_id": "her_third_child",
+    "canonical_label": "her third child",
+    "aliases": [
+      "her third child"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e11",
+    "last_touched_index": 75
+  },
+  {
+    "character_id": "two_small_children",
+    "canonical_label": "two small children",
+    "aliases": [
+      "two small children"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e11",
+    "last_touched_index": 80
+  },
+  {
+    "character_id": "those_from_the_ships",
+    "canonical_label": "those from the ships",
+    "aliases": [
+      "those from the ships"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e11",
+    "last_touched_index": 75
+  },
+  {
+    "character_id": "a_policeman",
+    "canonical_label": "a policeman",
+    "aliases": [
+      "a policeman"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e11",
+    "last_touched_index": 75
+  },
+  {
+    "character_id": "irish_girls",
+    "canonical_label": "Irish girls",
+    "aliases": [
+      "Irish girls"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e15",
+    "last_touched_index": 79
+  },
+  {
+    "character_id": "one_of_the_women",
+    "canonical_label": "one of the women",
+    "aliases": [
+      "one of the women"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e15",
+    "last_touched_index": 79
+  },
+  {
+    "character_id": "older_girls_like_me",
+    "canonical_label": "older girls like me",
+    "aliases": [
+      "older girls like me"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e15",
+    "last_touched_index": 79
+  },
+  {
+    "character_id": "the_second_woman",
+    "canonical_label": "the second woman",
+    "aliases": [
+      "the second woman"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e15",
+    "last_touched_index": 79
+  },
+  {
+    "character_id": "mother_superior",
+    "canonical_label": "Mother Superior",
+    "aliases": [
+      "Mother Superior"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e15",
+    "last_touched_index": 79
+  },
+  {
+    "character_id": "two_women",
+    "canonical_label": "two women",
+    "aliases": [
+      "two women"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e15",
+    "last_touched_index": 79
+  },
+  {
+    "character_id": "the_second",
+    "canonical_label": "the second",
+    "aliases": [
+      "the second"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e15",
+    "last_touched_index": 79
+  },
+  {
+    "character_id": "mrs_hall",
+    "canonical_label": "Mrs. Hall",
+    "aliases": [
+      "Mrs. Hall"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "England",
+    "last_location_stated_entry": "chc09_e9",
+    "first_mentioned_entry": "chc05_e16",
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "my_uncle",
+    "canonical_label": "my uncle",
+    "aliases": [
+      "my uncle"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e17",
+    "last_touched_index": 81
+  },
+  {
+    "character_id": "two_little_sisters",
+    "canonical_label": "two little sisters",
+    "aliases": [
+      "two little sisters"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e19",
+    "last_touched_index": 83
+  },
+  {
+    "character_id": "a_girl",
+    "canonical_label": "a girl",
+    "aliases": [
+      "a girl"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e19",
+    "last_touched_index": 83
+  },
+  {
+    "character_id": "the_landlord",
+    "canonical_label": "the landlord",
+    "aliases": [
+      "the landlord"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e19",
+    "last_touched_index": 83
+  },
+  {
+    "character_id": "a_constable",
+    "canonical_label": "a constable",
+    "aliases": [
+      "a constable"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e19",
+    "last_touched_index": 83
+  },
+  {
+    "character_id": "brothers",
+    "canonical_label": "brothers",
+    "aliases": [
+      "brothers"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc05_e19",
+    "last_touched_index": 83
+  },
+  {
+    "character_id": "mr_hall",
+    "canonical_label": "Mr. Hall",
+    "aliases": [
+      "Mr. Hall"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "England",
+    "last_location_stated_entry": "chc09_e9",
+    "first_mentioned_entry": "chc05_e20",
+    "last_touched_index": 136
+  },
+  {
+    "character_id": "mr_fenton",
+    "canonical_label": "Mr. Fenton",
+    "aliases": [
+      "Mr. Fenton"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "Sherbrooke",
+    "last_location_stated_entry": "chc09_e3",
+    "first_mentioned_entry": "chc05_e20",
+    "last_touched_index": 128
+  },
+  {
+    "character_id": "mrs_fenton",
+    "canonical_label": "Mrs. Fenton",
+    "aliases": [
+      "Mrs. Fenton"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "Halls' house",
+    "last_location_stated_entry": "chc09_e1",
+    "first_mentioned_entry": "chc05_e20",
+    "last_touched_index": 127
+  },
+  {
+    "character_id": "mrs_lyons",
+    "canonical_label": "Mrs. Lyons",
+    "aliases": [
+      "Mrs. Lyons"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "Halls' house",
+    "last_location_stated_entry": "chc09_e5",
+    "first_mentioned_entry": "chc05_e20",
+    "last_touched_index": 130
+  },
+  {
+    "character_id": "the_workmen",
+    "canonical_label": "the workmen",
+    "aliases": [
+      "the workmen"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc06_e1",
+    "last_touched_index": 91
+  },
+  {
+    "character_id": "baby_catherine",
+    "canonical_label": "baby Catherine",
+    "aliases": [
+      "baby Catherine"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc06_e5",
+    "last_touched_index": 90
+  },
+  {
+    "character_id": "workmen",
+    "canonical_label": "workmen",
+    "aliases": [
+      "workmen"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc06_e5",
+    "last_touched_index": 90
+  },
+  {
+    "character_id": "my_own_dear_da",
+    "canonical_label": "my own dear da",
+    "aliases": [
+      "my own dear da"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc06_e7",
+    "last_touched_index": 92
+  },
+  {
+    "character_id": "a_woman_in_the_area",
+    "canonical_label": "a woman in the area",
+    "aliases": [
+      "a woman in the area"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc06_e7",
+    "last_touched_index": 92
+  },
+  {
+    "character_id": "a_friend_of_mr_hall_s",
+    "canonical_label": "a friend of Mr. Hall's",
+    "aliases": [
+      "a friend of Mr. Hall's"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc06_e10",
+    "last_touched_index": 95
+  },
+  {
+    "character_id": "a_little_boy",
+    "canonical_label": "a little boy",
+    "aliases": [
+      "a little boy"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc06_e13",
+    "last_touched_index": 98
+  },
+  {
+    "character_id": "an_aunt",
+    "canonical_label": "an aunt",
+    "aliases": [
+      "an aunt"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc06_e15",
+    "last_touched_index": 100
+  },
+  {
+    "character_id": "mungo_park",
+    "canonical_label": "Mungo Park",
+    "aliases": [
+      "Mungo Park"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc06_e15",
+    "last_touched_index": 102
+  },
+  {
+    "character_id": "a_sister",
+    "canonical_label": "a sister",
+    "aliases": [
+      "a sister"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc07_e2",
+    "last_touched_index": 102
+  },
+  {
+    "character_id": "the_little_hall_girls",
+    "canonical_label": "the little Hall girls",
+    "aliases": [
+      "the little Hall girls"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc07_e2",
+    "last_touched_index": 102
+  },
+  {
+    "character_id": "my_own_ma",
+    "canonical_label": "my own ma",
+    "aliases": [
+      "my own ma"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc07_e5",
+    "last_touched_index": 105
+  },
+  {
+    "character_id": "neighbours",
+    "canonical_label": "Neighbours",
+    "aliases": [
+      "Neighbours"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc07_e7",
+    "last_touched_index": 107
+  },
+  {
+    "character_id": "her_sister",
+    "canonical_label": "her sister",
+    "aliases": [
+      "her sister"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc07_e9",
+    "last_touched_index": 109
+  },
+  {
+    "character_id": "the_priest",
+    "canonical_label": "the priest",
+    "aliases": [
+      "the priest"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc07_e11",
+    "last_touched_index": 111
+  },
+  {
+    "character_id": "mr_nearing",
+    "canonical_label": "Mr. Nearing",
+    "aliases": [
+      "Mr. Nearing"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "Halls' house",
+    "last_location_stated_entry": "chc08_e7",
+    "first_mentioned_entry": "chc07_e12",
+    "last_touched_index": 124
+  },
+  {
+    "character_id": "mr_webley",
+    "canonical_label": "Mr. Webley",
+    "aliases": [
+      "Mr. Webley"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc07_e12",
+    "last_touched_index": 124
+  },
+  {
+    "character_id": "her_brother",
+    "canonical_label": "her brother",
+    "aliases": [
+      "her brother"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc07_e12",
+    "last_touched_index": 112
+  },
+  {
+    "character_id": "her_nephew",
+    "canonical_label": "her nephew",
+    "aliases": [
+      "her nephew"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc07_e12",
+    "last_touched_index": 112
+  },
+  {
+    "character_id": "my_dear_ma",
+    "canonical_label": "my dear ma",
+    "aliases": [
+      "my dear ma"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc07_e13",
+    "last_touched_index": 113
+  },
+  {
+    "character_id": "papa",
+    "canonical_label": "Papa",
+    "aliases": [
+      "Papa"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc08_e4",
+    "last_touched_index": 120
+  },
+  {
+    "character_id": "grandfather",
+    "canonical_label": "Grandfather",
+    "aliases": [
+      "Grandfather"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc08_e4",
+    "last_touched_index": 120
+  },
+  {
+    "character_id": "her_great_grandparents",
+    "canonical_label": "her great-grandparents",
+    "aliases": [
+      "her great-grandparents"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "New France",
+    "last_location_stated_entry": "chc08_e5",
+    "first_mentioned_entry": "chc08_e5",
+    "last_touched_index": 121
+  },
+  {
+    "character_id": "her_grandmother",
+    "canonical_label": "her grandmother",
+    "aliases": [
+      "her grandmother"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc08_e5",
+    "last_touched_index": 121
+  },
+  {
+    "character_id": "an_englishman",
+    "canonical_label": "an Englishman",
+    "aliases": [
+      "an Englishman"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc08_e5",
+    "last_touched_index": 121
+  },
+  {
+    "character_id": "her_father",
+    "canonical_label": "her father",
+    "aliases": [
+      "her father"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc08_e5",
+    "last_touched_index": 134
+  },
+  {
+    "character_id": "a_niece",
+    "canonical_label": "a niece",
+    "aliases": [
+      "a niece"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": "Montreal",
+    "last_location_stated_entry": "chc08_e5",
+    "first_mentioned_entry": "chc08_e5",
+    "last_touched_index": 129
+  },
+  {
+    "character_id": "mr_hall_s_mother",
+    "canonical_label": "Mr. Hall's mother",
+    "aliases": [
+      "Mr. Hall's mother"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc08_e6",
+    "last_touched_index": 122
+  },
+  {
+    "character_id": "mrs_webley",
+    "canonical_label": "Mrs. Webley",
+    "aliases": [
+      "Mrs. Webley"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc08_e7",
+    "last_touched_index": 123
+  },
+  {
+    "character_id": "her_parents",
+    "canonical_label": "her parents",
+    "aliases": [
+      "her parents"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc08_e9",
+    "last_touched_index": 125
+  },
+  {
+    "character_id": "my_brother",
+    "canonical_label": "my brother",
+    "aliases": [
+      "my brother"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc09_e3",
+    "last_touched_index": 128
+  },
+  {
+    "character_id": "the_new_baby",
+    "canonical_label": "the new baby",
+    "aliases": [
+      "the new baby"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc09_e9",
+    "last_touched_index": 134
+  },
+  {
+    "character_id": "the_fentons",
+    "canonical_label": "the Fentons",
+    "aliases": [
+      "the Fentons"
+    ],
+    "relation_to_narrator": "unknown",
+    "historicity": "unknown",
+    "last_known_location": null,
+    "last_location_stated_entry": null,
+    "first_mentioned_entry": "chc09_e11",
+    "last_touched_index": 136
+  }
+]
