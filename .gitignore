@@ -2,3 +2,7 @@
 __pycache__/
 .ipynb_checkpoints/
 # output/ # optional, figure this out later
+/ML Asgmts Sentiment Analysis and Generation/
+
+# Model weights/checkpoints (too large for GitHub)
+Tangents/ML Asgmts SA and Generative/models/

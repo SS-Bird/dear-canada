@@ -1,0 +1,123 @@
+book_name,chapter_id,date,sentence,version,neutral,positive,negative,immigration
+AinUTL,,,"By the time the letter reached France, I would be wed.",original,0,1,1,1
+AinUTL,,,"By the time my letter arrived in France, I would already be married.",aug_1,0,1,1,1
+AinUTL,,,The letter would reach France long after I had been wed.,aug_2,0,1,1,1
+AinUTL,,,Then it spreads its wings and soars into the sunshine of a new world.,original,0,1,0,1
+AinUTL,,,Then it opens its wings wide and soars up into the bright sunshine of a new world.,aug_1,0,1,0,1
+AinUTL,,,Then it spreads its wings and rises into the sunshine of a brand new world.,aug_2,0,1,0,1
+AinUTL,,,Or you may return to France.” I said that I could not go back to France.,original,0,1,1,1
+AinUTL,,,"Or you could return to France."" I said that going back to France was not something I could do.",aug_1,0,1,1,1
+AinUTL,,,"Or perhaps you may return to France."" I told him I could not go back to France.",aug_2,0,1,1,1
+AinUTL,,,"I was almost sad to leave our vessel this morning, since it has been my home all these months.",original,0,1,1,1
+AinUTL,,,"I was nearly sad to leave our vessel this morning, for it had been my home throughout all these months.",aug_1,0,1,1,1
+AinUTL,,,"Leaving our vessel this morning made me almost sad, since it has served as my home all these months.",aug_2,0,1,1,1
+AinUTL,,,New France sounds so exciting and mysterious.,original,0,1,0,1
+AinUTL,,,New France sounds truly exciting and rather mysterious.,aug_1,0,1,0,1
+AinUTL,,,How exciting and mysterious New France sounds.,aug_2,0,1,0,1
+AinUTL,,,"The country is wild and beautiful, they have told us, and dangerous beyond belief.",original,0,1,1,1
+AinUTL,,,"They have told us the country is wild and beautiful, yet dangerous beyond all belief.",aug_1,0,1,1,1
+AinUTL,,,"The country, we have been told, is wild and beautiful and dangerous beyond belief.",aug_2,0,1,1,1
+AinUTL,,,"Hopefully you will always see New France in the same way,” he answered.",original,0,1,0,1
+AinUTL,,,"Hopefully you will always view New France in the same way,"" he answered.",aug_1,0,1,0,1
+AinUTL,,,"I hope you will always see New France that way,"" he replied.",aug_2,0,1,0,1
+AinUTL,,,Now they need not travel on to Montréal.” I know short Marie and Marie with the freckles have found what they wanted.,original,0,1,0,1
+AinUTL,,,"Now they need not travel on to Montréal."" I know that short Marie and freckled Marie have found what they were looking for.",aug_1,0,1,0,1
+AinUTL,,,"Now they need not continue on to Montréal."" I know both Maries — the short one and the freckled one — have found what they wanted.",aug_2,0,1,0,1
+AinUTL,,,"I thought leaving New France might help, but running from my grief did not help at all.” His voice was soft and kind.",original,0,1,1,1
+AinUTL,,,"I thought leaving New France might bring some relief, but fleeing my grief did not help at all."" His voice was gentle and kind.",aug_1,0,1,1,1
+AinUTL,,,"I believed leaving New France might help, but running from my grief changed nothing."" His voice was soft and warm.",aug_2,0,1,1,1
+AinUTL,,,"After all this while on the ship, the thought of setting my feet onto dry land was wonderful.",original,0,1,1,1
+AinUTL,,,"After spending all this time aboard the ship, the idea of planting my feet on dry land was truly wonderful.",aug_1,0,1,1,1
+AinUTL,,,The thought of setting my feet on dry land was wonderful after all these weeks on the ship.,aug_2,0,1,1,1
+AinUTL,,,"Home draws closer, Hélène.",original,0,1,0,1
+AinUTL,,,"We are drawing closer to home, Hélène.",aug_1,0,1,0,1
+AinUTL,,,"Home is getting closer now, Hélène.",aug_2,0,1,0,1
+AinUTL,,,"I hope that we reach land quickly, and I told Monsieur Aubry that I could not wait to see Montréal.",original,0,1,0,1
+AinUTL,,,"I hope we reach land soon, and I told Monsieur Aubry I could hardly wait to see Montréal.",aug_1,0,1,0,1
+AinUTL,,,"I told Monsieur Aubry that I could not wait to see Montréal, and I dearly hope we reach land quickly.",aug_2,0,1,0,1
+AinUTL,,,"“We shall make our friends among the better people in Montréal,” she says.",original,0,1,0,1
+AinUTL,,,"""We shall become friends with the better sort of people in Montréal,"" she says.",aug_1,0,1,0,1
+AinUTL,,,"""In Montréal, we shall make our friends among the finer people,"" she says.",aug_2,0,1,0,1
+AinUTL,,,As the ship drew closer I could see that the site chosen for Québec is magnificent and imposing.,original,0,1,0,1
+AinUTL,,,"As we drew closer in the ship, I could see that the location chosen for Québec is magnificent and imposing.",aug_1,0,1,0,1
+AinUTL,,,"Drawing nearer, I saw that the site selected for Québec was truly magnificent and imposing.",aug_2,0,1,0,1
+AinUTL,,,"“You will have to become accustomed to land again.” I set Minette down, for she was struggling, doubtlessly anxious to set her paws down upon the soil of New France.",original,0,1,0,1
+AinUTL,,,"""You will need to get used to land again."" I set Minette down, since she was struggling, clearly eager to place her paws on the soil of New France.",aug_1,0,1,0,1
+AinUTL,,,"""You will have to grow accustomed to land once more."" I put Minette down, for she was restless, doubtlessly anxious to feel the ground of New France beneath her paws.",aug_2,0,1,0,1
+AinUTL,,,The sailors danced on the deck this morning.,original,0,1,0,1
+AinUTL,,,"This morning, the sailors were dancing on the deck.",aug_1,0,1,0,1
+AinUTL,,,The sailors were out dancing on the deck early this morning.,aug_2,0,1,0,1
+AinUTL,,,"Monsieur Aubry was explaining something about a fur trading fair when a man on the shore cheered, 
+“Vive le Roi!”
+ and then others turned to stare.",original,1,1,0,1
+AinUTL,,,"Monsieur Aubry was describing something about a fur trading fair when a man on the shore shouted, ""Vive le Roi!"" and then everyone turned to stare.",aug_1,1,1,0,1
+AinUTL,,,"While Monsieur Aubry was explaining a fur trading fair, a man ashore cheered ""Vive le Roi!"" and others turned to look.",aug_2,1,1,0,1
+AinUTL,,,"Soldiers of the Carignan-Salières Regiment came from France last year to protect the settlements, I heard one man say.",original,1,1,0,1
+AinUTL,,,I heard one man say that soldiers of the Carignan-Salières Regiment arrived from France last year to guard the settlements.,aug_1,1,1,0,1
+AinUTL,,,"Soldiers of the Carignan-Salières Regiment, I heard someone say, came over from France the previous year to protect the settlements.",aug_2,1,1,0,1
+AinUTL,,,"We were all tired when we stopped at this inn for the night, and I fell asleep quickly.",original,1,1,0,1
+AinUTL,,,"We were exhausted when we stopped at the inn for the night, and I quickly fell asleep.",aug_1,1,1,0,1
+AinUTL,,,"When we stopped at this inn for the night, we were all quite tired, and I fell asleep without delay.",aug_2,1,1,0,1
+AinUTL,,,We are to go ashore soon for supplies and an outing.,original,1,1,0,1
+AinUTL,,,We will be going ashore soon to gather supplies and enjoy an outing.,aug_1,1,1,0,1
+AinUTL,,,Soon we are to head ashore for an outing and to pick up supplies.,aug_2,1,1,0,1
+AinUTL,,,"Mère Marie de l’Incarnation, who founded this convent, was so kind as to give us rooms for the night.",original,1,1,0,1
+AinUTL,,,"Mère Marie de l'Incarnation, the founder of this convent, was kind enough to provide us with rooms for the night.",aug_1,1,1,0,1
+AinUTL,,,"We were given rooms for the night by Mère Marie de l'Incarnation, who founded this convent and was most gracious to us.",aug_2,1,1,0,1
+AinUTL,ch1,Mai 1666,There are not enough women in New France.,original,1,0,1,1
+AinUTL,ch1,Mai 1666,New France does not have nearly enough women.,aug_1,1,0,1,1
+AinUTL,ch1,Mai 1666,Women are far too few in New France.,aug_2,1,0,1,1
+AinUTL,ch11,Mars 1667,"It is scurvy, but no one knows what causes it.",original,0,0,1,1
+AinUTL,ch11,Mars 1667,"It is scurvy, yet nobody knows what brings it on.",aug_1,0,0,1,1
+AinUTL,ch11,Mars 1667,"No one understands what causes it, but it is scurvy.",aug_2,0,0,1,1
+AinUTL,ch13,Mai 1667,"By the time the letter reached France, I would be wed.",original,0,1,1,1
+AinUTL,ch13,Mai 1667,"By the time my letter arrived in France, I would already be married.",aug_1,0,1,1,1
+AinUTL,ch13,Mai 1667,The letter would reach France long after I had been wed.,aug_2,0,1,1,1
+AinUTL,ch2,Juin 1666,"The country is wild and beautiful, they have told us, and dangerous beyond belief.",original,0,1,1,1
+AinUTL,ch2,Juin 1666,"They have told us the country is wild and beautiful, yet dangerous beyond all belief.",aug_1,0,1,1,1
+AinUTL,ch2,Juin 1666,"The country, we have been told, is wild and beautiful and dangerous beyond belief.",aug_2,0,1,1,1
+AinUTL,ch2,Juin 1666,"My tears were of loss, born from the idea of leaving France.",original,0,0,1,1
+AinUTL,ch2,Juin 1666,"My tears came from a sense of loss, born of the thought of leaving France behind.",aug_1,0,0,1,1
+AinUTL,ch2,Juin 1666,The idea of leaving France brought tears of loss to my eyes.,aug_2,0,0,1,1
+AinUTL,ch2,Juin 1666,"I want to run!” Louise, wrapped in her shawl, kissed us one last time before we climbed into the carriage.",original,1,0,1,1
+AinUTL,ch2,Juin 1666,"I want to run!"" Louise, wrapped tightly in her shawl, kissed each of us one last time before we got into the carriage.",aug_1,1,0,1,1
+AinUTL,ch2,Juin 1666,"I want to run!"" Before we climbed into the carriage, Louise pulled her shawl around her and kissed us one final time.",aug_2,1,0,1,1
+AinUTL,ch3,Juillet 1666,"I thought leaving New France might help, but running from my grief did not help at all.” His voice was soft and kind.",original,0,1,1,1
+AinUTL,ch3,Juillet 1666,"I believed leaving New France might bring relief, but fleeing my grief did not help at all."" His voice was gentle and kind.",aug_1,0,1,1,1
+AinUTL,ch3,Juillet 1666,"I thought that leaving New France might help, but running away from my grief changed nothing."" His voice was soft and warm.",aug_2,0,1,1,1
+AinUTL,ch3,Juillet 1666,I am weary of the ocean and the wretched bells.,original,0,0,1,1
+AinUTL,ch3,Juillet 1666,I am tired of the endless ocean and the miserable bells.,aug_1,0,0,1,1
+AinUTL,ch3,Juillet 1666,The ocean and those dreadful bells have left me utterly weary.,aug_2,0,0,1,1
+AinUTL,ch3,Juillet 1666,I wonder if he was ever seasick himself?,original,1,0,1,1
+AinUTL,ch3,Juillet 1666,I find myself wondering whether he was ever seasick himself.,aug_1,1,0,1,1
+AinUTL,ch3,Juillet 1666,"Did he ever suffer from seasickness himself, I wonder?",aug_2,1,0,1,1
+AinUTL,ch4,Août 1666,Or you may return to France.” I said that I could not go back to France.,original,0,1,1,1
+AinUTL,ch4,Août 1666,"Or you could return to France."" I said that going back to France was not something I could do.",aug_1,0,1,1,1
+AinUTL,ch4,Août 1666,"Or perhaps you may go back to France."" I told him I simply could not return to France.",aug_2,0,1,1,1
+AinUTL,ch4,Août 1666,I smell only the ocean and the stink of the ship if I am below.,original,0,0,1,1
+AinUTL,ch4,Août 1666,"Down below, all I can smell is the ocean and the foul stench of the ship.",aug_1,0,0,1,1
+AinUTL,ch4,Août 1666,"If I go below, there is nothing but the smell of the ocean and the ship's stink.",aug_2,0,0,1,1
+AinUTL,ch5,Septembre 1666,"I was almost sad to leave our vessel this morning, since it has been my home all these months.",original,0,1,1,1
+AinUTL,ch5,Septembre 1666,"Leaving our vessel this morning made me almost sad, since it had been my home all these months.",aug_1,0,1,1,1
+AinUTL,ch5,Septembre 1666,"I was nearly sad to leave our vessel this morning, for it had served as my home throughout all these months.",aug_2,0,1,1,1
+AinUTL,ch5,Septembre 1666,"After all this while on the ship, the thought of setting my feet onto dry land was wonderful.",original,0,1,1,1
+AinUTL,ch5,Septembre 1666,"After spending all this time aboard the ship, the idea of planting my feet on dry land was truly wonderful.",aug_1,0,1,1,1
+AinUTL,ch5,Septembre 1666,The thought of setting my feet on dry land was wonderful after all these weeks on the ship.,aug_2,0,1,1,1
+AinUTL,ch5,Septembre 1666,"We may only pray a few might be persuaded to change their minds, as is their right, and settle here.” Monsieur Deschamps made his apologies, and led us on to an inn where we were to take refreshment.",original,0,0,1,1
+AinUTL,ch5,Septembre 1666,"We can only pray that a few might be persuaded to change their minds and settle here, as is their right."" Monsieur Deschamps offered his apologies and led us on to an inn where we were to rest and take refreshment.",aug_1,0,0,1,1
+AinUTL,ch5,Septembre 1666,"We may only hope a few could be persuaded to settle here, as is their right."" Monsieur Deschamps made his apologies, then led us to an inn where we were to take some refreshment.",aug_2,0,0,1,1
+AinUTL,ch5,Septembre 1666,Think of how cold the water would be if some person were to accidentally jostle against you and you should take a tumble.,original,0,0,1,1
+AinUTL,ch5,Septembre 1666,Just think of how icy the water would be if someone were to nudge you by accident and you went overboard.,aug_1,0,0,1,1
+AinUTL,ch5,Septembre 1666,Consider how freezing the water would be should some person accidentally jostle you and you were to fall in.,aug_2,0,0,1,1
+AinUTL,ch5,Septembre 1666,It made the water come into my mouth and made me think of home.,original,1,0,1,1
+AinUTL,ch5,Septembre 1666,It brought water to my mouth and turned my thoughts toward home.,aug_1,1,0,1,1
+AinUTL,ch5,Septembre 1666,The taste made my mouth water and my mind drift back to home.,aug_2,1,0,1,1
+AinUTL,ch5,Septembre 1666,"Monsieur Deschamps pressed me again, this time through Madame Laurent as I took the air on deck with Kateri.",original,1,0,1,1
+AinUTL,ch5,Septembre 1666,"Monsieur Deschamps approached me again, this time using Madame Laurent as a go-between while I took the air on deck with Kateri.",aug_1,1,0,1,1
+AinUTL,ch5,Septembre 1666,"Once more Monsieur Deschamps pressed his case through Madame Laurent, as I walked on deck with Kateri taking the air.",aug_2,1,0,1,1
+AinUTL,ch5,Septembre 1666,“But you must go ashore for the sake of safety.” He reached up for my hand.,original,1,0,1,1
+AinUTL,ch5,Septembre 1666,"""You really must go ashore for your own safety."" He stretched up and reached for my hand.",aug_1,1,0,1,1
+AinUTL,ch5,Septembre 1666,"""But for the sake of safety, you must go ashore."" He reached up and took my hand.",aug_2,1,0,1,1
+AinUTL,ch7,Novembre 1666,"He, though, hating the cold beyond all reason, merely went back to France.",original,1,0,1,1
+AinUTL,ch7,Novembre 1666,"He, however, despised the cold more than anything else and simply returned to France.",aug_1,1,0,1,1
+AinUTL,ch7,Novembre 1666,"He could not bear the cold and, hating it beyond all reason, went back to France.",aug_2,1,0,1,1

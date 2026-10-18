@@ -1,0 +1,231 @@
+book_name,chapter_id,date,sentence,version,neutral,positive,negative,immigration
+NbutC,ch6,"March 3rd, 1784",I’ve always loved maple syrup making time.,original,1,1,0,1
+NbutC,ch6,"March 3rd, 1784",Maple syrup making time has always been my favourite.,aug_1,1,1,0,1
+NbutC,ch6,"March 3rd, 1784",I have always had a fondness for the maple syrup making season.,aug_2,1,1,0,1
+NbutC,ch1,"October 6th, 1783",Thank goodness John is with us or we would have lost our way for certain.,original,1,1,0,1
+NbutC,ch1,"October 6th, 1783","It is a good thing John is with us, otherwise we would surely have lost our way.",aug_1,1,1,0,1
+NbutC,ch1,"October 6th, 1783",Without John here we would certainly have gone astray — thank goodness he came.,aug_2,1,1,0,1
+NbutC,ch1,"October 6th, 1783","One old lady passed me by just now and muttered “Tory cowards” under her breath, but not so much under her breath that I could not hear.",original,0,1,1,1
+NbutC,ch1,"October 6th, 1783","An old lady walked past me just now and grumbled ""Tory cowards"" under her breath — though not quietly enough that I missed it.",aug_1,0,1,1,1
+NbutC,ch1,"October 6th, 1783","Just now an old lady went by muttering ""Tory cowards,"" not quite under her breath enough to keep me from hearing.",aug_2,0,1,1,1
+NbutC,ch12,"September 6th, 1784","I could not stop my tongue from wagging, asking him how Hannah was, did her family have their cabin built yet, and a thousand other questions, not to mention, how did he ever get a horse and from where?",original,0,1,0,1
+NbutC,ch12,"September 6th, 1784","I couldn't stop myself from peppering him with questions — how was Hannah, had her family finished building their cabin yet, and above all, where on earth did he get a horse?",aug_1,0,1,0,1
+NbutC,ch12,"September 6th, 1784","My tongue ran away with me as I asked after Hannah, whether her family's cabin was done, and a hundred other things, not least of all how he had come by a horse.",aug_2,0,1,0,1
+NbutC,ch11,"August 2nd, 1784","Just imagine, next spring we will have lilacs in the doorway again.",original,0,1,0,1
+NbutC,ch11,"August 2nd, 1784",To think — come next spring we will have lilacs blooming in the doorway once more.,aug_1,0,1,0,1
+NbutC,ch11,"August 2nd, 1784",Next spring we shall have lilacs in the doorway again — just imagine it.,aug_2,0,1,0,1
+NbutC,ch10,"July 2nd, 1784","Angus and Duncan will help us get our place built, then they will build shanties of their own on their properties.",original,1,1,0,1
+NbutC,ch10,"July 2nd, 1784",Angus and Duncan will lend us a hand getting our place built before turning to put up their own shanties on their land.,aug_1,1,1,0,1
+NbutC,ch10,"July 2nd, 1784","Once they have helped us build our place, Angus and Duncan will go on to build their own shanties on their properties.",aug_2,1,1,0,1
+NbutC,ch1,"October 6th, 1783","Oh, how I hope we can travel up to Canada together.",original,0,1,0,1
+NbutC,ch1,"October 6th, 1783",How I hope we will be able to travel up to Canada together.,aug_1,0,1,0,1
+NbutC,ch1,"October 6th, 1783",My greatest hope is that we can all make the journey up to Canada as one.,aug_2,0,1,0,1
+NbutC,ch12,"September 6th, 1784","Best of all, Hannah and her family brought their tent and are staying over.",original,0,1,0,1
+NbutC,ch12,"September 6th, 1784",The best part of all is that Hannah and her family brought their tent and are spending the night.,aug_1,0,1,0,1
+NbutC,ch12,"September 6th, 1784",Hannah and her family brought their tent and are staying over — and that is the best news of everything.,aug_2,0,1,0,1
+NbutC,ch2,"November 1st, 1783","Mrs. Livingstone, whose family lives just a few cabins away, came over this morning with a crock of yeast starter so that we can make our own bread.",original,1,1,0,1
+NbutC,ch2,"November 1st, 1783","This morning Mrs. Livingstone, whose family lives just a few cabins down, stopped by with a crock of yeast starter so we can bake our own bread.",aug_1,1,1,0,1
+NbutC,ch2,"November 1st, 1783","A few cabins away lives Mrs. Livingstone's family, and she came over this morning carrying a crock of yeast starter for us to use for our bread.",aug_2,1,1,0,1
+NbutC,ch6,"March 3rd, 1784","Now, instead of grumbling, people are beginning to make plans and even look forward to our journey upriver.",original,0,1,0,1
+NbutC,ch6,"March 3rd, 1784","People have stopped grumbling and started making plans, even looking forward to the journey upriver.",aug_1,0,1,0,1
+NbutC,ch6,"March 3rd, 1784","Rather than grumbling as before, people are now making plans and even finding themselves eager for the upriver journey.",aug_2,0,1,0,1
+NbutC,ch12,"September 6th, 1784",The men were all laughing and shouting to each other as they began to gather up all the brushwood and small trees that Father and Angus and Duncan had cut down.,original,0,1,0,1
+NbutC,ch12,"September 6th, 1784","The men laughed and called out to one another as they set about gathering up all the brushwood and small trees that Father, Angus, and Duncan had cut.",aug_1,0,1,0,1
+NbutC,ch12,"September 6th, 1784","Laughing and shouting to each other, the men began collecting the brushwood and small trees that Father and Angus and Duncan had felled.",aug_2,0,1,0,1
+NbutC,ch10,"July 2nd, 1784",I hope Father will put in windows.,original,0,1,0,1
+NbutC,ch10,"July 2nd, 1784",I am hoping Father will put windows in.,aug_1,0,1,0,1
+NbutC,ch10,"July 2nd, 1784",Windows — I do hope Father includes those.,aug_2,0,1,0,1
+NbutC,ch1,"October 6th, 1783",They are going to settle in a big town in Québec called Montréal.,original,1,1,0,1
+NbutC,ch1,"October 6th, 1783",They plan to settle in a large town in Québec by the name of Montréal.,aug_1,1,1,0,1
+NbutC,ch1,"October 6th, 1783","Their destination is Montréal, a big town in Québec.",aug_2,1,1,0,1
+NbutC,ch13,"October 3rd, 1784",I knew that many of the soldiers’ families have been coming up during this past summer and I supposed his might as well.,original,1,1,0,1
+NbutC,ch13,"October 3rd, 1784","I had known that many soldiers' families had been arriving throughout the summer, so I assumed his had come up as well.",aug_1,1,1,0,1
+NbutC,ch13,"October 3rd, 1784","Knowing that soldiers' families had been making their way up all summer, I figured his family must have done the same.",aug_2,1,1,0,1
+NbutC,ch8,"May 2nd, 1784","They did give him ammunition, though, so he will be able to hunt.",original,1,1,0,1
+NbutC,ch8,"May 2nd, 1784","They did give him ammunition at any rate, so hunting will still be possible for him.",aug_1,1,1,0,1
+NbutC,ch8,"May 2nd, 1784","At least they provided him with ammunition, which means he will be able to go out hunting.",aug_2,1,1,0,1
+NbutC,ch2,"November 1st, 1783",More good news is that the cabin we have been allotted is very close to the Ross family’s.,original,0,1,0,1
+NbutC,ch2,"November 1st, 1783",More good news: the cabin we have been given is very near the Ross family's.,aug_1,0,1,0,1
+NbutC,ch2,"November 1st, 1783","To add to the good news, the cabin assigned to us sits very close to where the Ross family is.",aug_2,0,1,0,1
+NbutC,ch3,"December 1st, 1783","There are quite a few Scottish families here, so Hannah and I and the other Scottish children will be going singing at the doors of every house, just as we used to do in Albany.",original,0,1,0,1
+NbutC,ch3,"December 1st, 1783","Since there are quite a few Scottish families here, Hannah and I and the other Scottish children will go from door to door singing, just as we did back in Albany.",aug_1,0,1,0,1
+NbutC,ch3,"December 1st, 1783","There being a good number of Scottish families about, Hannah and I and the other Scottish children plan to go singing at every house, the way we always did in Albany.",aug_2,0,1,0,1
+NbutC,ch5,"February 1st, 1784",My life has settled down into such a routine — sometimes I even forget that I haven’t lived here forever.,original,0,1,0,1
+NbutC,ch5,"February 1st, 1784",My days have fallen into such a steady routine that I sometimes forget I have not always lived here.,aug_1,0,1,0,1
+NbutC,ch5,"February 1st, 1784",Life here has become so routine that I can almost believe I have never lived anywhere else.,aug_2,0,1,0,1
+NbutC,ch1,"October 6th, 1783","There are five sailors manning the boat: four to row and one to steer, but the sailors are happy because the wind is so strong that they can run with the sail up and do not have to row.",original,0,1,0,1
+NbutC,ch1,"October 6th, 1783","Five sailors man the boat — four at the oars, one at the helm — but they are in good spirits because the wind is strong enough to fill the sail and spare them from rowing.",aug_1,0,1,0,1
+NbutC,ch1,"October 6th, 1783","The boat has five sailors: four rowing and one steering, though with the wind as strong as it is they can run under sail and leave the oars alone, which pleases them greatly.",aug_2,0,1,0,1
+NbutC,ch11,"August 2nd, 1784",Father is making furniture for us.,original,1,1,0,1
+NbutC,ch11,"August 2nd, 1784",Father is busy making furniture for the family.,aug_1,1,1,0,1
+NbutC,ch11,"August 2nd, 1784","We are getting furniture, made by Father himself.",aug_2,1,1,0,1
+NbutC,ch2,"November 1st, 1783","“Merci,”
+ we said, and the woman fairly beamed back at us.",original,0,1,0,1
+NbutC,ch2,"November 1st, 1783","""Merci,"" we said, and the woman's face lit up with a broad smile.",aug_1,0,1,0,1
+NbutC,ch2,"November 1st, 1783","We offered our ""Merci"" and the woman beamed back at us with obvious delight.",aug_2,0,1,0,1
+NbutC,ch10,"July 2nd, 1784",Angus is so enthusiastic about starting out all over again here in Canada.,original,0,1,0,1
+NbutC,ch10,"July 2nd, 1784",Angus cannot hide his eagerness to start fresh here in Canada.,aug_1,0,1,0,1
+NbutC,ch10,"July 2nd, 1784",There is no mistaking how excited Angus is about beginning anew here in Canada.,aug_2,0,1,0,1
+NbutC,ch11,"August 2nd, 1784","He is building bunks against the walls for Jamie and me up in the loft, and two larger beds in the main room for Mother and himself and for Grannie.",original,0,1,0,1
+NbutC,ch11,"August 2nd, 1784","Up in the loft he is building bunks along the walls for Jamie and me, and down in the main room two larger beds for Mother, himself, and Grannie.",aug_1,0,1,0,1
+NbutC,ch11,"August 2nd, 1784","He is putting together bunks for Jamie and me in the loft and two bigger beds in the main room for Mother, Grannie, and himself.",aug_2,0,1,0,1
+NbutC,ch7,"April 6th, 1784","I was seated next to Mother and for the first time since we were forced out of our home, I saw her face relax and soften.",original,0,1,1,1
+NbutC,ch7,"April 6th, 1784","Sitting beside Mother, I watched her face — for the first time since we were driven from our home — finally loosen and grow calm.",aug_1,0,1,1,1
+NbutC,ch7,"April 6th, 1784","I was next to Mother and I noticed that, for the first time since we lost our home, the tension left her face.",aug_2,0,1,1,1
+NbutC,ch2,"November 1st, 1783",I do hope we will be able to stay together.,original,0,1,1,1
+NbutC,ch2,"November 1st, 1783",I truly hope we will manage to stay together.,aug_1,0,1,1,1
+NbutC,ch2,"November 1st, 1783",My hope is that we will not be separated.,aug_2,0,1,1,1
+NbutC,ch9,"June 1st, 1784",This is actually a very pleasant way to travel.,original,0,1,0,1
+NbutC,ch9,"June 1st, 1784",Travelling this way is actually quite pleasant.,aug_1,0,1,0,1
+NbutC,ch9,"June 1st, 1784","As it turns out, this is a rather agreeable way to make the journey.",aug_2,0,1,0,1
+NbutC,ch1,"October 6th, 1783","Grannie is the only one of us born in Scotland, and she came here as a babe in her mother’s arms, but she still has a burr to her voice.",original,1,1,0,1
+NbutC,ch1,"October 6th, 1783","Of all of us, only Grannie was born in Scotland — she came over as an infant in her mother's arms — yet she still carries a burr in her voice.",aug_1,1,1,0,1
+NbutC,ch1,"October 6th, 1783","Grannie is the sole one among us who is Scottish-born, arriving here as a baby held in her mother's arms, and yet her voice still holds that Scottish burr.",aug_2,1,1,0,1
+NbutC,ch12,"September 6th, 1784","The Stantons and the Hooples came too, and I was glad to see Annie and Flossie, though not as glad as I was to see Hannah.",original,0,1,0,1
+NbutC,ch12,"September 6th, 1784","The Stantons and the Hooples came along too, and it was good to see Annie and Flossie, even if seeing Hannah made me happier still.",aug_1,0,1,0,1
+NbutC,ch12,"September 6th, 1784","Annie and Flossie were there with the Stantons and Hooples, and I was glad of it, though nothing compared to my joy at seeing Hannah.",aug_2,0,1,0,1
+NbutC,ch10,"July 2nd, 1784","After much conniving, Uncle Andrew and Uncle Allan managed to get land near ours.",original,0,1,0,1
+NbutC,ch10,"July 2nd, 1784","After a great deal of scheming, Uncle Andrew and Uncle Allan managed to secure land close to ours.",aug_1,0,1,0,1
+NbutC,ch10,"July 2nd, 1784","Uncle Andrew and Uncle Allan did quite a bit of conniving, but in the end they got land right near ours.",aug_2,0,1,0,1
+NbutC,ch10,"July 2nd, 1784","I asked him if he didn’t miss Albany at all and he just said, “Not a bit.” I don’t really believe him, but I guess he sure wouldn’t want to go back after having fought on the British side.",original,0,1,1,1
+NbutC,ch10,"July 2nd, 1784","I asked whether he missed Albany even a little, and he said simply, ""Not a bit."" I don't quite believe him, but I suppose he'd never want to go back after fighting on the British side.",aug_1,0,1,1,1
+NbutC,ch10,"July 2nd, 1784","""Not a bit,"" he told me when I asked if he missed Albany — though I'm not entirely convinced, since going back would be impossible for someone who fought for the British.",aug_2,0,1,1,1
+NbutC,ch5,"February 1st, 1784","“Canada is our country now,” he said finally, “We belong here.",original,0,1,0,1
+NbutC,ch5,"February 1st, 1784","""Canada is our country now,"" he said at last. ""This is where we belong.""",aug_1,0,1,0,1
+NbutC,ch5,"February 1st, 1784","""We belong here,"" he said finally. ""Canada is our home now.""",aug_2,0,1,0,1
+NbutC,ch10,"July 2nd, 1784","“We must have good shelter and at least some food of our own,” he says.",original,0,1,1,1
+NbutC,ch10,"July 2nd, 1784","""We need proper shelter and at least a little food of our own,"" he says.",aug_1,0,1,1,1
+NbutC,ch10,"July 2nd, 1784","""Good shelter and some food of our own — that is what we must have,"" he says.",aug_2,0,1,1,1
+NbutC,ch7,"April 6th, 1784","“We hewed our home out of the woods in Albany when we were first wed, and I see no reason why we cannot do so again.”
+The words were so brave.",original,0,1,0,1
+NbutC,ch7,"April 6th, 1784","""We carved our home from the forest in Albany when we were newlyweds, and I see no reason we cannot do it again."" Such brave words they were.",aug_1,0,1,0,1
+NbutC,ch7,"April 6th, 1784","""We built our home out of the Albany woods when we first married — there is no reason we cannot do the same here."" The bravery in those words struck me.",aug_2,0,1,0,1
+NbutC,ch2,"November 1st, 1783","Fortunately, we have the quilts that we managed to bring with us.",original,0,1,0,1
+NbutC,ch2,"November 1st, 1783","Luckily, we were able to bring our quilts along with us.",aug_1,0,1,0,1
+NbutC,ch2,"November 1st, 1783",It is a good thing we managed to carry the quilts when we left.,aug_2,0,1,0,1
+NbutC,ch3,"December 1st, 1783",They have been here for almost three years and are so well settled in they even have a small flock of chickens and a few geese.,original,0,1,0,1
+NbutC,ch3,"December 1st, 1783",They have been settled here for nearly three years and are so established that they even keep a small flock of chickens and a few geese.,aug_1,0,1,0,1
+NbutC,ch3,"December 1st, 1783",Nearly three years here has left them well settled — they even have chickens and geese of their own.,aug_2,0,1,0,1
+NbutC,ch12,"September 6th, 1784",Mother was working in her garden this morning and Father was busy clearing as usual.,original,0,1,0,1
+NbutC,ch12,"September 6th, 1784","This morning Mother tended her garden while Father kept himself busy clearing, as he always does.",aug_1,0,1,0,1
+NbutC,ch12,"September 6th, 1784",Father was at his usual work clearing land this morning while Mother worked in her garden.,aug_2,0,1,0,1
+NbutC,ch1,"October 6th, 1783","Hannah has an Uncle Allan who is also with Sir John Johnson’s Royal Yorkers, which is why her family is going to Sorel too.",original,1,1,0,1
+NbutC,ch1,"October 6th, 1783","Hannah has an Uncle Allan serving with Sir John Johnson's Royal Yorkers, which is why her family is also heading to Sorel.",aug_1,1,1,0,1
+NbutC,ch1,"October 6th, 1783","Because her Uncle Allan is with Sir John Johnson's Royal Yorkers, Hannah's family is bound for Sorel as well.",aug_2,1,1,0,1
+NbutC,ch9,"June 1st, 1784",The boatmen sing constantly as we go along.,original,1,1,0,1
+NbutC,ch9,"June 1st, 1784",The boatmen keep up a constant song as we travel.,aug_1,1,1,0,1
+NbutC,ch9,"June 1st, 1784","All along the way, the boatmen sing without stopping.",aug_2,1,1,0,1
+NbutC,ch2,"November 1st, 1783",She carries her own load and tries to lighten mine when I am carrying the baby.,original,1,1,1,1
+NbutC,ch2,"November 1st, 1783",She shoulders her own load and does what she can to ease mine when I have the baby to carry.,aug_1,1,1,1,1
+NbutC,ch2,"November 1st, 1783","Her own burden is hers to carry, and she still tries to take some of mine off me when I am holding the baby.",aug_2,1,1,1,1
+NbutC,ch3,"December 1st, 1783","“It’s a new country with new ways, Mother,” he said, and would not let up on her, but even so I was amazed that he managed to convince her.",original,0,1,0,1
+NbutC,ch3,"December 1st, 1783","""It's a new country with new ways, Mother,"" he insisted, and kept at her until, to my amazement, she came around.",aug_1,0,1,0,1
+NbutC,ch3,"December 1st, 1783","He would not let it go — ""A new country, new ways, Mother"" — and I was astonished that he actually managed to bring her around.",aug_2,0,1,0,1
+NbutC,ch1,"October 6th, 1783","One old lady passed me by just now and muttered “Tory cowards” under her breath, but not so much under her breath that I could not hear.",original,0,1,1,1
+NbutC,ch1,"October 6th, 1783","A passing old lady grumbled ""Tory cowards"" in what she meant to be a whisper, but I heard every word.",aug_1,0,1,1,1
+NbutC,ch1,"October 6th, 1783","""Tory cowards"" — an old lady muttered it under her breath as she passed, just loudly enough that I caught it.",aug_2,0,1,1,1
+NbutC,ch7,"April 6th, 1784","I was seated next to Mother and for the first time since we were forced out of our home, I saw her face relax and soften.",original,0,1,1,1
+NbutC,ch7,"April 6th, 1784","Seated next to Mother, I saw what I had not seen since we were forced from our home — her face ease and soften.",aug_1,0,1,1,1
+NbutC,ch7,"April 6th, 1784","For the first time since we lost our home, I sat beside Mother and watched the worry leave her face.",aug_2,0,1,1,1
+NbutC,ch2,"November 1st, 1783",I do hope we will be able to stay together.,original,0,1,1,1
+NbutC,ch2,"November 1st, 1783",My hope is that we will be able to remain together.,aug_1,0,1,1,1
+NbutC,ch2,"November 1st, 1783",I dearly hope nothing will separate us.,aug_2,0,1,1,1
+NbutC,ch10,"July 2nd, 1784","I asked him if he didn’t miss Albany at all and he just said, “Not a bit.” I don’t really believe him, but I guess he sure wouldn’t want to go back after having fought on the British side.",original,0,1,1,1
+NbutC,ch10,"July 2nd, 1784","When I asked if he missed Albany at all he said ""Not a bit,"" though I have my doubts — especially since going back after fighting for the British would be out of the question.",aug_1,0,1,1,1
+NbutC,ch10,"July 2nd, 1784","He claimed not to miss Albany in the slightest, but I find that hard to believe, even if returning after siding with the British would be impossible.",aug_2,0,1,1,1
+NbutC,ch10,"July 2nd, 1784","“We must have good shelter and at least some food of our own,” he says.",original,0,1,1,1
+NbutC,ch10,"July 2nd, 1784","""At the very least we need solid shelter and some food to call our own,"" he says.",aug_1,0,1,1,1
+NbutC,ch10,"July 2nd, 1784","""Proper shelter and a bit of food of our own — we cannot do without those,"" he says.",aug_2,0,1,1,1
+NbutC,ch2,"November 1st, 1783",She carries her own load and tries to lighten mine when I am carrying the baby.,original,1,1,1,1
+NbutC,ch2,"November 1st, 1783",She carries her share and still tries to take some of my load when the baby is in my arms.,aug_1,1,1,1,1
+NbutC,ch2,"November 1st, 1783","Even with her own load to carry, she makes an effort to help with mine whenever I have the baby.",aug_2,1,1,1,1
+NbutC,ch3,"December 1st, 1783",We have a barrel of salt pork sitting outside the door (what joy!),original,1,0,1,1
+NbutC,ch3,"December 1st, 1783",Outside the door sits a barrel of salt pork — what a welcome sight that is!,aug_1,1,0,1,1
+NbutC,ch3,"December 1st, 1783","There is a barrel of salt pork just outside the door, and what joy that brings!",aug_2,1,0,1,1
+NbutC,ch1,"October 6th, 1783",I was right to worry about the waves.,original,0,0,1,1
+NbutC,ch1,"October 6th, 1783",My worry about the waves turned out to be well founded.,aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783",I was right to have been anxious about those waves.,aug_2,0,0,1,1
+NbutC,ch9,"June 1st, 1784","When we reach the beginning of the rapids, we passengers all disembark and take whatever is most precious to us, in case one of the boats does tip.",original,1,0,1,1
+NbutC,ch9,"June 1st, 1784","At the start of the rapids we all get out of the boats and take whatever matters most to us, in case any of the boats should overturn.",aug_1,1,0,1,1
+NbutC,ch9,"June 1st, 1784","When we reach the rapids, the passengers disembark and carry their most precious things, just in case a boat tips over.",aug_2,1,0,1,1
+NbutC,ch9,"June 1st, 1784",The summer is wearing on and they have not yet finished surveying the lots.,original,0,0,1,1
+NbutC,ch9,"June 1st, 1784",Summer is slipping by and the lot surveying still isn't finished.,aug_1,0,0,1,1
+NbutC,ch9,"June 1st, 1784",The lots still haven't been surveyed and the summer keeps wearing on.,aug_2,0,0,1,1
+NbutC,ch2,"November 1st, 1783",We walk all day with only a brief stop for a cold meal.,original,0,0,1,1
+NbutC,ch2,"November 1st, 1783","All day we walk, stopping only briefly for a cold meal.",aug_1,0,0,1,1
+NbutC,ch2,"November 1st, 1783","We march the whole day through, with nothing but a short break for a cold meal.",aug_2,0,0,1,1
+NbutC,ch3,"December 1st, 1783",Nor do we have a bootmaker here to make us new boots when the ones we are wearing give out.,original,0,0,1,1
+NbutC,ch3,"December 1st, 1783","There is no bootmaker here either, so when our boots wear out we will have no way to replace them.",aug_1,0,0,1,1
+NbutC,ch3,"December 1st, 1783","We have no bootmaker in the settlement, which means new boots will be impossible to come by when ours give out.",aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783",The lake is huge and the waves are enormous and the boat we are sailing in is so very small!,original,0,0,1,1
+NbutC,ch1,"October 6th, 1783","The lake stretches out enormously, the waves are huge, and the boat carrying us seems so terribly small!",aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783",Our little boat feels very small indeed against the vast lake and its enormous waves.,aug_2,0,0,1,1
+NbutC,ch9,"June 1st, 1784","When we put in to shore for our noon meal we are immediately attacked by the black flies and mosquitoes, and the flies descend in such droves to cover our food that it is hard to take a bite without crunching down on one of them.",original,0,0,1,1
+NbutC,ch9,"June 1st, 1784","The moment we come ashore for our midday meal, the black flies and mosquitoes are on us, and the flies swarm over the food so thickly that every bite risks crunching down on one.",aug_1,0,0,1,1
+NbutC,ch9,"June 1st, 1784","We are barely ashore for our noon meal before the black flies and mosquitoes descend on us, and the food is so covered in flies that it is nearly impossible to eat without swallowing one.",aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783","Mother and Father were sleeping under a tarpaulin with baby Margaret, and Grannie was tucked away in a kind of tent that Father sets up for her.",original,1,0,1,1
+NbutC,ch1,"October 6th, 1783","Mother and Father slept under a tarpaulin with baby Margaret, while Grannie was tucked into the small tent Father rigs up for her.",aug_1,1,0,1,1
+NbutC,ch1,"October 6th, 1783","Father had set up a kind of tent for Grannie, while he and Mother sheltered under a tarpaulin with baby Margaret.",aug_2,1,0,1,1
+NbutC,ch8,"May 2nd, 1784","We had been promised more clothing, too, but it seems that the difficulties of distributing clothing are too great.",original,0,0,1,1
+NbutC,ch8,"May 2nd, 1784","We were promised additional clothing as well, but it seems distributing it is proving too difficult.",aug_1,0,0,1,1
+NbutC,ch8,"May 2nd, 1784","More clothing had been promised to us, though the challenges of getting it distributed appear to be too great.",aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783",Poor little Jamie will be loaded down with as much as he can bear.,original,0,0,1,1
+NbutC,ch1,"October 6th, 1783",Little Jamie will be loaded up with as much weight as he can manage.,aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783",Poor Jamie will have to carry as heavy a load as his small frame can bear.,aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783","He admits now that he has been very worried as to whether we were on the right track or not, and John knows this country.",original,0,0,1,1
+NbutC,ch1,"October 6th, 1783",He admits now to having been deeply worried about whether we were on the right path — and this is a man who knows this country.,aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783","Even John, who knows this land well, confesses he was very troubled about whether we were heading the right way.",aug_2,0,0,1,1
+NbutC,ch2,"November 1st, 1783",It must be so hard for him to see all of us so happy when he had to leave his family behind in Albany — but something tells me there is more to it than that.,original,0,0,1,1
+NbutC,ch2,"November 1st, 1783",It must be so difficult for him to see all of us so cheerful when he had to leave his family behind in Albany — though I sense there is more to it than that.,aug_1,0,0,1,1
+NbutC,ch2,"November 1st, 1783",Watching us all so happy while his own family remains in Albany must be painful for him — but something tells me the full story goes deeper.,aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783",There were times the last two days when I did not think I could walk another step.,original,0,0,1,1
+NbutC,ch1,"October 6th, 1783",There were moments over the past two days when I truly believed I could not take another step.,aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783",More than once these last two days I felt sure my legs would not carry me any further.,aug_2,0,0,1,1
+NbutC,ch13,"October 3rd, 1784","To lose your country is bad enough, but to lose your family as well!",original,0,0,1,1
+NbutC,ch13,"October 3rd, 1784",Losing your homeland is terrible enough — but losing your family along with it!,aug_1,0,0,1,1
+NbutC,ch13,"October 3rd, 1784","It is one thing to lose your country, but to lose your family at the same time — that is too much to bear.",aug_2,0,0,1,1
+NbutC,ch9,"June 1st, 1784",Now I’m remembering old Blue and missing him.,original,0,0,1,1
+NbutC,ch9,"June 1st, 1784",Old Blue has been on my mind and I find I miss him.,aug_1,0,0,1,1
+NbutC,ch9,"June 1st, 1784",Thoughts of old Blue keep coming back to me and I miss him dearly.,aug_2,0,0,1,1
+NbutC,ch10,"July 2nd, 1784",Finally we were able to set up the tents.,original,0,0,1,1
+NbutC,ch10,"July 2nd, 1784",At last we were able to get the tents up.,aug_1,0,0,1,1
+NbutC,ch10,"July 2nd, 1784",We managed to put the tents up in the end.,aug_2,0,0,1,1
+NbutC,ch3,"December 1st, 1783","Of course, once we leave Machiche, there is no telling when we will find another school.",original,0,0,1,1
+NbutC,ch3,"December 1st, 1783","Once we leave Machiche, there is no knowing when we will come across another school.",aug_1,0,0,1,1
+NbutC,ch3,"December 1st, 1783",There is no way of telling when we might find a school again after we move on from Machiche.,aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783","We cannot take old Blue, nor Bess — not even the chickens!",original,0,0,1,1
+NbutC,ch1,"October 6th, 1783","Old Blue cannot come with us, nor Bess — not even the chickens are allowed.",aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783",We must leave behind old Blue and Bess and even the chickens — none of them can come.,aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783","We’ve been on the move for two days now, heading north, and I am bone weary and sick to death.",original,0,0,1,1
+NbutC,ch1,"October 6th, 1783",Two days of travelling north and I am utterly exhausted and at my absolute limit.,aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783",We have been heading north for two days now and I am worn to the bone and quite fed up.,aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783","They still hurt, though, and I’m bruised all over from being jounced around so in the wagon when I couldn’t walk any more.",original,0,0,1,1
+NbutC,ch1,"October 6th, 1783","They are still sore, and being bounced around in the wagon when I could no longer walk has left me bruised all over.",aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783","My feet still ache, and the wagon ride when I couldn't walk anymore has left bruises all over my body.",aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783",“Why can we not just keep our wagon and make our way north by the road?” Mother pleaded when he broke the news to her.,original,0,0,1,1
+NbutC,ch1,"October 6th, 1783","""Why can't we just keep the wagon and travel north by road?"" Mother begged when Father broke the news.",aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783","When Father told her, Mother pleaded, ""Couldn't we simply take the wagon and go north by road?""",aug_2,0,0,1,1
+NbutC,ch5,"February 1st, 1784",I’m sure the weather was never this dreadful back home.,original,0,0,1,1
+NbutC,ch5,"February 1st, 1784",I am certain the weather back home was never as dreadful as this.,aug_1,0,0,1,1
+NbutC,ch5,"February 1st, 1784",The weather at home was never this bad — I am sure of it.,aug_2,0,0,1,1
+NbutC,ch9,"June 1st, 1784",Johnstown is no more than a collection of tents strewn along the riverside.,original,0,0,1,1
+NbutC,ch9,"June 1st, 1784",Johnstown is nothing more than a scattering of tents along the riverbank.,aug_1,0,0,1,1
+NbutC,ch9,"June 1st, 1784",What passes for Johnstown is just a few tents spread out along the riverside.,aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783","Oh, how I used to love this time of year!",original,0,0,1,1
+NbutC,ch1,"October 6th, 1783","Oh, how I used to delight in this time of year!",aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783",This season used to fill me with such happiness.,aug_2,0,0,1,1
+NbutC,ch8,"May 2nd, 1784",We are packing what little we have and this small cabin is in a turmoil.,original,1,0,1,1
+NbutC,ch8,"May 2nd, 1784",We are packing up the little we own and the small cabin has been thrown into complete disorder.,aug_1,1,0,1,1
+NbutC,ch8,"May 2nd, 1784",Packing up our few belongings has put the small cabin into a state of turmoil.,aug_2,1,0,1,1
+NbutC,ch3,"December 1st, 1783",This year we will have to make do with the rations we have received from the soldiers and what Father can shoot.,original,0,0,1,1
+NbutC,ch3,"December 1st, 1783",This year we will have to manage on the soldiers' rations and whatever Father can bring in from hunting.,aug_1,0,0,1,1
+NbutC,ch3,"December 1st, 1783",We shall have to get by this year on the rations from the soldiers and what game Father manages to shoot.,aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783",The path we’re on dwindles down to almost nothing in places and it is very hard to make it out.,original,0,0,1,1
+NbutC,ch1,"October 6th, 1783","The path narrows to almost nothing in places, making it very difficult to follow.",aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783",In spots the path nearly disappears altogether and it becomes very hard to know where to go.,aug_2,0,0,1,1
+NbutC,ch3,"December 1st, 1783",We will have to make do with what we wear on our backs.,original,0,0,1,1
+NbutC,ch3,"December 1st, 1783",We will have to get by with only the clothes on our backs.,aug_1,0,0,1,1
+NbutC,ch3,"December 1st, 1783",Nothing but what we are wearing — that is all we will have to make do with.,aug_2,0,0,1,1
+NbutC,ch1,"October 6th, 1783","The fare for the boat is so exorbitant, we will need the extra money to meet it,” Father answered.",original,0,0,1,1
+NbutC,ch1,"October 6th, 1783","""The boat fare is so outrageously expensive that we will need every extra coin to cover it,"" Father said.",aug_1,0,0,1,1
+NbutC,ch1,"October 6th, 1783",Father explained that the boat passage costs so much that we cannot afford to spare any money — we will need it all.,aug_2,0,0,1,1

@@ -1,0 +1,188 @@
+book_name,chapter_id,date,sentence,version,neutral,positive,negative,immigration
+FitS,4,October 1815,The sun shone and as we sat in the boat it seemed we had arrived in Paradise.,original,0,1,1,1
+FitS,4,October 1815,"The sun was shining and as we sat in the boat, it felt as though we had reached Paradise.",aug_1,0,1,1,1
+FitS,4,October 1815,"Sitting in the boat under the bright sun, it seemed as if we had arrived in Paradise itself.",aug_2,0,1,1,1
+FitS,5,November 1815,The settlers here dance what is called a Red River jig.,original,0,1,1,1
+FitS,5,November 1815,Here the settlers dance a dance they call the Red River jig.,aug_1,0,1,1,1
+FitS,5,November 1815,What the settlers here do is dance something known as a Red River jig.,aug_2,0,1,1,1
+FitS,15,September 1816,"We had a party for Robbie today and all his friends from the settlement came, as did the Indian boys.",original,0,1,1,1
+FitS,15,September 1816,"Today we threw a party for Robbie and all his settlement friends came, along with the Indian boys.",aug_1,0,1,1,1
+FitS,15,September 1816,"We celebrated Robbie today and his friends from the settlement all showed up, as did the Indian boys.",aug_2,0,1,1,1
+FitS,5,November 1815,"It is heartbreaking news that we must spend an entire winter away, and that it will only be in the spring that we can return, to begin our new lives here at The Forks.",original,0,1,1,1
+FitS,5,November 1815,"It is devastating news that we must remain away for a whole winter, and that only in the spring can we return to begin our new lives at The Forks.",aug_1,0,1,1,1
+FitS,5,November 1815,We must spend an entire winter away — heartbreaking as that is — and it will not be until spring that we can come back to start our new lives at The Forks.,aug_2,0,1,1,1
+FitS,3,September 1815,"They go for hours at a time without a break, in a feat of endurance I would not have credited had I not seen it with my own eyes.",original,0,1,1,1
+FitS,3,September 1815,"They paddle on for hours without any rest, a feat of endurance I would never have believed had I not witnessed it myself.",aug_1,0,1,1,1
+FitS,3,September 1815,"Had I not seen it with my own eyes, I never would have believed anyone could go for hours at a stretch without a break like that.",aug_2,0,1,1,1
+FitS,11,May 1816,We moved into our own cabin a week ago and have been so busy that I simply go to sleep at night before I can pick up my pen.,original,0,1,1,1
+FitS,11,May 1816,We moved into our own cabin a week ago and life has been so hectic that I fall asleep each night before I can pick up my pen.,aug_1,0,1,1,1
+FitS,11,May 1816,"A week ago we settled into our own cabin, and we have kept so busy that I simply cannot stay awake long enough to write at night.",aug_2,0,1,1,1
+FitS,5,November 1815,"Our first night spent here at The Forks, or Colony Gardens as the first group of settlers call it, was happy enough.",original,0,1,1,1
+FitS,5,November 1815,"Our first night here at The Forks — or Colony Gardens, as the original settlers call it — was a happy one.",aug_1,0,1,1,1
+FitS,5,November 1815,"Happy enough was our first night spent at The Forks, which the first settlers also call Colony Gardens.",aug_2,0,1,1,1
+FitS,13,July 1816,Father and the other men often meet and talk after camp is set up about what to do once we get to Jack River.,original,1,1,1,1
+FitS,13,July 1816,"After setting up camp, Father and the other men often gather to discuss what they will do once they reach Jack River.",aug_1,1,1,1,1
+FitS,13,July 1816,"Father and the other men tend to meet and talk after camp is ready, planning what to do when they get to Jack River.",aug_2,1,1,1,1
+FitS,12,June 1816,At this point it looks likely that we will be returning to Scotland.,original,0,1,0,1
+FitS,12,June 1816,Things are looking as though we will end up going back to Scotland.,aug_1,0,1,0,1
+FitS,12,June 1816,"It seems increasingly likely, at this point, that we shall return to Scotland.",aug_2,0,1,0,1
+FitS,11,May 1816,As we walked the prairie seemed to explode in colour around us.,original,0,1,0,1
+FitS,11,May 1816,"As we walked, the prairie burst into colour all around us.",aug_1,0,1,0,1
+FitS,11,May 1816,The prairie seemed to erupt in a blaze of colour as we moved through it.,aug_2,0,1,0,1
+FitS,7,January 1816,The band seemed to decide it was time for some fun.,original,0,1,0,1
+FitS,7,January 1816,The band appeared to decide it was time to have a bit of fun.,aug_1,0,1,0,1
+FitS,7,January 1816,It seemed the band had made up their minds that some fun was in order.,aug_2,0,1,0,1
+FitS,15,September 1816,"Then we hurried after Bends Fingers to their encampment, which is through a beautiful stand of tall pine trees and low bushes.",original,1,1,0,1
+FitS,15,September 1816,"Then we hurried to follow Bends Fingers to their encampment, set among a lovely stand of tall pines and low bushes.",aug_1,1,1,0,1
+FitS,15,September 1816,"We rushed after Bends Fingers toward their encampment, which sits behind a beautiful grove of tall pine trees and low shrubs.",aug_2,1,1,0,1
+FitS,13,July 1816,We are almost there.,original,1,1,0,1
+FitS,13,July 1816,We are nearly there now.,aug_1,1,1,0,1
+FitS,13,July 1816,We're just about there.,aug_2,1,1,0,1
+FitS,4,October 1815,"We are still in tents, as there is no room for all of us in the buildings, but tonight we are eating fresh fish, and tomorrow we can wash our clothes!",original,0,1,0,1
+FitS,4,October 1815,"We are still living in tents since there isn't room for everyone in the buildings, but tonight we have fresh fish to eat and tomorrow we can finally wash our clothes!",aug_1,0,1,0,1
+FitS,4,October 1815,"There's no room for all of us in the buildings so we remain in tents, but tonight we eat fresh fish and tomorrow our clothes get a wash!",aug_2,0,1,0,1
+FitS,2,August 1815,We are held fast by the ice.,original,0,1,0,1
+FitS,2,August 1815,The ice has us locked in place.,aug_1,0,1,0,1
+FitS,2,August 1815,We cannot move — the ice holds us fast.,aug_2,0,1,0,1
+FitS,9,March 1816,"But the storm came on so quickly it soon became apparent they would never reach camp by nightfall, or rather the storm would reach them before they reached camp.",original,0,1,0,1
+FitS,9,March 1816,The storm came on so fast that it soon became clear they would never make it back to camp before nightfall — the storm would find them first.,aug_1,0,1,0,1
+FitS,9,March 1816,So quickly did the storm descend that it was soon obvious they had no hope of reaching camp by dark; the storm would overtake them first.,aug_2,0,1,0,1
+FitS,4,October 1815,"Shrubs and pines give way to majestic old trees: oak, elm, poplar and maple.",original,0,1,0,1
+FitS,4,October 1815,"The shrubs and pines give way to grand old trees: oak, elm, poplar, and maple.",aug_1,0,1,0,1
+FitS,4,October 1815,"Beyond the shrubs and pines stand majestic old trees — oak, elm, poplar, and maple.",aug_2,0,1,0,1
+FitS,1,July 1815,"We imagined owning our own land, giving you children a better life.",original,0,1,0,1
+FitS,1,July 1815,We dreamed of owning our own land and giving our children a better life.,aug_1,0,1,0,1
+FitS,1,July 1815,"The idea of land of our own, and a better life for our children, was what we imagined.",aug_2,0,1,0,1
+FitS,14,August 1816,We have been in the New Land for one year.,original,1,1,0,1
+FitS,14,August 1816,A full year has now passed since we arrived in the New Land.,aug_1,1,1,0,1
+FitS,14,August 1816,We have been here in the New Land for an entire year.,aug_2,1,1,0,1
+FitS,1,July 1815,She was so excited as we packed.,original,0,1,0,1
+FitS,1,July 1815,She was brimming with excitement as we packed up.,aug_1,0,1,0,1
+FitS,1,July 1815,The packing filled her with such excitement.,aug_2,0,1,0,1
+FitS,2,August 1815,"There is a hectic hustle and bustle everywhere, as the Hudson’s Bay Company employees stack the animal pelts so they can be loaded onto the schooner, which will take them to the 
+Prince of Wales
+ for its return voyage.",original,1,1,0,1
+FitS,2,August 1815,"All around there is a frantic bustle as Hudson's Bay Company workers stack animal pelts to be loaded onto the schooner, which will carry them to the Prince of Wales for its journey back.",aug_1,1,1,0,1
+FitS,2,August 1815,"The Hudson's Bay Company employees are stacking pelts everywhere in a frenzy of activity, getting them ready to load onto the schooner bound for the Prince of Wales on its return voyage.",aug_2,1,1,0,1
+FitS,5,November 1815,"Robbie and I were the fortunate ones, our belongings being on the Red River carts travelling behind us with those on foot.",original,0,1,0,1
+FitS,5,November 1815,Robbie and I were the lucky ones — our belongings rode behind us on the Red River carts with those travelling on foot.,aug_1,0,1,0,1
+FitS,5,November 1815,"We were fortunate, Robbie and I, since our things were carried on the Red River carts that followed behind those walking.",aug_2,0,1,0,1
+FitS,13,July 1816,"The first order of business, he says, is to build little cabins for the winter, as we certainly do not want to spend it in tents.",original,0,1,0,1
+FitS,13,July 1816,"He says the first thing to do is put up small cabins before winter, since none of us want to be stuck in tents through the cold months.",aug_1,0,1,0,1
+FitS,13,July 1816,"Building little cabins for the winter is the first priority, he says — nobody wants to spend the cold months in tents.",aug_2,0,1,0,1
+FitS,3,September 1815,"She has a brother already in the New World, although she says little about him.",original,1,1,0,1
+FitS,3,September 1815,"She has a brother who is already living in the New World, though she rarely speaks of him.",aug_1,1,1,0,1
+FitS,3,September 1815,"Although she says very little about him, she has a brother already settled in the New World.",aug_2,1,1,0,1
+FitS,1,July 1815,“One day we will own our own land.,original,0,1,0,1
+FitS,1,July 1815,"""Someday we will have land that is our own.""",aug_1,0,1,0,1
+FitS,1,July 1815,"""There will come a day when we own our very own land.""",aug_2,0,1,0,1
+FitS,2,August 1815,And what a joy it was not to be circumscribed by the limits of the ship.,original,0,1,0,1
+FitS,2,August 1815,And what a pleasure it was to be free from the confines of the ship.,aug_1,0,1,0,1
+FitS,2,August 1815,It was such a relief not to be hemmed in by the ship any longer.,aug_2,0,1,0,1
+FitS,3,September 1815,"Although we settlers are so many, we were all included in the festivities.",original,0,1,0,1
+FitS,3,September 1815,"Even though we settlers numbered so many, every one of us was included in the festivities.",aug_1,0,1,0,1
+FitS,3,September 1815,"Despite our large numbers, all of us settlers were welcomed into the celebrations.",aug_2,0,1,0,1
+FitS,5,November 1815,We arrived today at The Forks!,original,0,1,0,1
+FitS,5,November 1815,Today we finally arrived at The Forks!,aug_1,0,1,0,1
+FitS,5,November 1815,At last — we have reached The Forks!,aug_2,0,1,0,1
+FitS,11,May 1816,"Father says this land is perfect for farming, and the settlers who left for Upper Canada had already begun clearing it.",original,0,1,0,1
+FitS,11,May 1816,"Father says this land is ideal for farming, and the settlers who had already left for Upper Canada had begun clearing it.",aug_1,0,1,0,1
+FitS,11,May 1816,"According to Father, the land is perfect for farming, and those settlers who moved on to Upper Canada had already started to clear it.",aug_2,0,1,0,1
+FitS,1,July 1815,"It  be your children who will see the easy life, not you at all.",original,0,1,0,1
+FitS,1,July 1815,"It will be your children, not you, who will enjoy the easy life.",aug_1,0,1,0,1
+FitS,1,July 1815,The easy life is not for you — it will be your children who see it.,aug_2,0,1,0,1
+FitS,2,August 1815,I felt quite giddy — until I realized that most of the sailors had all climbed back up the ladder.,original,0,1,0,1
+FitS,2,August 1815,I felt quite lightheaded — until I noticed that nearly all the sailors had climbed back up the ladder.,aug_1,0,1,0,1
+FitS,2,August 1815,A wave of giddiness came over me — until I saw that most of the sailors had already gone back up the ladder.,aug_2,0,1,0,1
+FitS,5,November 1815,"It is heartbreaking news that we must spend an entire winter away, and that it will only be in the spring that we can return, to begin our new lives here at The Forks.",original,0,1,1,1
+FitS,5,November 1815,"The news that we must stay away for an entire winter is heartbreaking, and we will not be able to return until spring to begin our new lives at The Forks.",aug_1,0,1,1,1
+FitS,5,November 1815,We must endure a whole winter apart — heartbreaking as it is — with only the spring bringing a chance to return and begin fresh at The Forks.,aug_2,0,1,1,1
+FitS,3,September 1815,"They go for hours at a time without a break, in a feat of endurance I would not have credited had I not seen it with my own eyes.",original,0,1,1,1
+FitS,3,September 1815,"They keep going for hours without stopping, displaying an endurance I would never have believed if I hadn't witnessed it myself.",aug_1,0,1,1,1
+FitS,3,September 1815,Without a single break they press on for hours — a feat I couldn't have believed without seeing it firsthand.,aug_2,0,1,1,1
+FitS,12,June 1816,At this point it looks likely that we will be returning to Scotland.,original,0,1,1,1
+FitS,12,June 1816,It seems very probable now that we will be headed back to Scotland.,aug_1,0,1,1,1
+FitS,12,June 1816,Returning to Scotland is looking more and more likely at this point.,aug_2,0,1,1,1
+FitS,4,October 1815,"We are still in tents, as there is no room for all of us in the buildings, but tonight we are eating fresh fish, and tomorrow we can wash our clothes!",original,0,1,1,1
+FitS,4,October 1815,"We're still in tents since the buildings can't fit all of us, but we have fresh fish tonight and get to wash our clothes tomorrow!",aug_1,0,1,1,1
+FitS,4,October 1815,"The buildings have no room for everyone so we stay in tents, yet tonight brings fresh fish and tomorrow we can finally clean our clothes!",aug_2,0,1,1,1
+FitS,13,July 1816,"The first order of business, he says, is to build little cabins for the winter, as we certainly do not want to spend it in tents.",original,0,1,1,1
+FitS,13,July 1816,"He says the priority is getting small cabins built before winter hits, because spending it in tents is something none of us want.",aug_1,0,1,1,1
+FitS,13,July 1816,"Small cabins for winter are the first order of business, he explains — the last thing anyone wants is to face the cold in tents.",aug_2,0,1,1,1
+FitS,2,August 1815,And what a joy it was not to be circumscribed by the limits of the ship.,original,0,1,1,1
+FitS,2,August 1815,What a relief it was to no longer be confined within the limits of the ship.,aug_1,0,1,1,1
+FitS,2,August 1815,The joy of stepping beyond the ship's boundaries was something I had not anticipated.,aug_2,0,1,1,1
+FitS,1,July 1815,"It  be your children who will see the easy life, not you at all.",original,0,1,1,1
+FitS,1,July 1815,It will not be you who sees the easy life — it will be your children.,aug_1,0,1,1,1
+FitS,1,July 1815,"Your children will be the ones to enjoy the easy life, not you yourself.",aug_2,0,1,1,1
+FitS,2,August 1815,I felt quite giddy — until I realized that most of the sailors had all climbed back up the ladder.,original,0,1,1,1
+FitS,2,August 1815,I went quite giddy — right up until I saw that nearly all the sailors had already made their way back up the ladder.,aug_1,0,1,1,1
+FitS,2,August 1815,Giddiness overtook me — until I looked up and realized that most of the sailors had climbed back up the ladder.,aug_2,0,1,1,1
+FitS,6,December 1815,We shall be packing what we can soon — only our warmest clothes.,original,1,0,1,1
+FitS,6,December 1815,We will soon be packing up what we can — nothing but our warmest clothing.,aug_1,1,0,1,1
+FitS,6,December 1815,"Before long we shall be packing, taking only what fits and keeping to our warmest clothes.",aug_2,1,0,1,1
+FitS,12,June 1816,"But feelings in the Company run high.” He went on to say that when Miles Macdonell proclaimed that no pemmican could be taken from the area, the Nor’Westers believed it was a direct insult to them.",original,0,0,1,1
+FitS,12,June 1816,"Feelings in the Company run very high."" He continued, explaining that when Miles Macdonell declared no pemmican could leave the area, the Nor'Westers took it as a direct insult.",aug_1,0,0,1,1
+FitS,12,June 1816,"Passions within the Company are running high."" He went on to explain that the Nor'Westers saw Miles Macdonell's pemmican proclamation as a direct insult aimed at them.",aug_2,0,0,1,1
+FitS,11,May 1816,Is it not up to me to retain the standards of our old life?,original,0,0,1,1
+FitS,11,May 1816,Surely it falls to me to uphold the standards of our former life?,aug_1,0,0,1,1
+FitS,11,May 1816,Is it not my responsibility to keep the standards of the life we once lived?,aug_2,0,0,1,1
+FitS,5,November 1815,"It has been a dreadful journey, ten brutish days — but I get ahead of myself.",original,0,0,1,1
+FitS,5,November 1815,The journey has been truly dreadful — ten brutal days — but I am getting ahead of myself.,aug_1,0,0,1,1
+FitS,5,November 1815,"Ten brutish days of a dreadful journey, but I should not get ahead of myself.",aug_2,0,0,1,1
+FitS,3,September 1815,Our first day on the boats introduced us to almost all of these horrid things.,original,0,0,1,1
+FitS,3,September 1815,Our very first day on the boats brought us face to face with nearly all of these awful things.,aug_1,0,0,1,1
+FitS,3,September 1815,Almost every one of these horrid things made itself known to us on our first day on the boats.,aug_2,0,0,1,1
+FitS,3,September 1815,"Then there are the mosquitoes that seem to arrive in huge clouds, especially in the shady areas as we paddle beneath the trees, and at dusk before we land for the night.",original,0,0,1,1
+FitS,3,September 1815,"Then come the mosquitoes, arriving in vast clouds, especially in the shade as we paddle under the trees and at dusk as we near our landing spot for the night.",aug_1,0,0,1,1
+FitS,3,September 1815,"Mosquitoes descend in enormous clouds, worst of all in the shady stretches as we paddle beneath the trees and at dusk just before we land.",aug_2,0,0,1,1
+FitS,3,September 1815,"It rises, apparently, from here on, so we are going upstream, and today was our first taste of what that means.",original,1,0,1,1
+FitS,3,September 1815,"From here the river rises, so we are paddling upstream, and today gave us our first sense of what that truly means.",aug_1,1,0,1,1
+FitS,3,September 1815,"The river climbs from this point, meaning we travel upstream — and today was the first real taste of what that demands.",aug_2,1,0,1,1
+FitS,3,September 1815,"Father and the other elders had no idea this trip would be so difficult, and I hear quite a lot of complaining at night around the campfire.",original,0,0,1,1
+FitS,3,September 1815,"Father and the other elders had not foreseen how hard this trip would be, and after dark I can hear plenty of grumbling around the campfire.",aug_1,0,0,1,1
+FitS,3,September 1815,"None of the elders, Father included, had any idea the journey would prove this difficult, and every night I hear them complaining around the fire.",aug_2,0,0,1,1
+FitS,1,July 1815,"“It will be a hard life at first,” she warned me.",original,0,0,1,1
+FitS,1,July 1815,"""Life will be hard at the start,"" she cautioned me.",aug_1,0,0,1,1
+FitS,1,July 1815,"""Expect a hard life in the beginning,"" she told me by way of warning.",aug_2,0,0,1,1
+FitS,3,September 1815,We must carry heavy loads up and over huge craggy rocks.,original,0,0,1,1
+FitS,3,September 1815,We have to haul heavy loads up and across enormous jagged rocks.,aug_1,0,0,1,1
+FitS,3,September 1815,Carrying heavy loads over vast craggy rocks is what we must do.,aug_2,0,0,1,1
+FitS,12,June 1816,Colin Robertson still believes that we settlers should be moved into Fort Douglas for our own protection.,original,1,0,1,1
+FitS,12,June 1816,Colin Robertson continues to argue that the settlers ought to be moved inside Fort Douglas for our protection.,aug_1,1,0,1,1
+FitS,12,June 1816,It is still Colin Robertson's view that moving us settlers into Fort Douglas would keep us safe.,aug_2,1,0,1,1
+FitS,12,June 1816,And then they encouraged the Métis to see themselves as a separate nation and told them that their entire way of life was about to be destroyed by our settlement.,original,1,0,1,1
+FitS,12,June 1816,"Beyond that, they pushed the Métis to consider themselves a distinct nation and warned them that our settlement would destroy their entire way of life.",aug_1,1,0,1,1
+FitS,12,June 1816,They also worked to convince the Métis that they were a nation apart and that everything about their way of life was threatened by our arriving settlement.,aug_2,1,0,1,1
+FitS,14,August 1816,"After all, those Métis who do not work for one of the trading companies live from the buffalo, and how can they hunt buffalo if the land is cultivated and the buffalo are driven away?",original,0,0,1,1
+FitS,14,August 1816,"After all, those Métis who don't work for a trading company depend on the buffalo to live — and how are they to hunt if the land is farmed and the buffalo driven off?",aug_1,0,0,1,1
+FitS,14,August 1816,"The Métis who live independently of the trading companies survive by hunting buffalo, so if the land is cultivated and the buffalo chased away, how can they go on?",aug_2,0,0,1,1
+FitS,3,September 1815,"He was chased all the way to the river that evening after we had camped, and his only escape was to dive beneath the icy water.",original,0,0,1,1
+FitS,3,September 1815,"That evening after we had made camp, he was chased all the way down to the river, and his only way out was to plunge into the freezing water.",aug_1,0,0,1,1
+FitS,3,September 1815,"He fled all the way to the river that evening after camp was made, and diving into the icy water was the only escape left to him.",aug_2,0,0,1,1
+FitS,2,August 1815,"After the settlers left, the Nor’Westers burnt down everything that had been built there, and even drove off the animals.” This is surely a disaster.",original,0,0,1,1
+FitS,2,August 1815,"Once the settlers had gone, the Nor'Westers burned everything that had been built there and even chased off the animals."" This is nothing short of a disaster.",aug_1,0,0,1,1
+FitS,2,August 1815,"""After the settlers departed, the Nor'Westers set fire to every building and drove off the animals as well."" It is a complete disaster.",aug_2,0,0,1,1
+FitS,5,November 1815,"Never have I felt so worn out, not even after our terrible walk.",original,0,0,1,1
+FitS,5,November 1815,Never before have I been this worn out — not even after that terrible walk.,aug_1,0,0,1,1
+FitS,5,November 1815,"I have never felt so exhausted, not even following our dreadful walk.",aug_2,0,0,1,1
+FitS,4,October 1815,"It has been nothing but 
+portages
+ and walking, crying children, and men and women with sore feet and backs.",original,0,0,1,1
+FitS,4,October 1815,"It has been nothing except portages and walking, children in tears, and men and women whose feet and backs ache.",aug_1,0,0,1,1
+FitS,4,October 1815,"There has been only portages and endless walking, with children crying and everyone's feet and backs aching.",aug_2,0,0,1,1
+FitS,2,August 1815,"“Remember even before we left Scotland, the Nor’Westers tried to discourage us from coming here?",original,0,0,1,1
+FitS,2,August 1815,"""Do you remember that even before we left Scotland, the Nor'Westers were already trying to put us off from coming here?",aug_1,0,0,1,1
+FitS,2,August 1815,"""Back in Scotland, before we had even set sail, the Nor'Westers were already working to discourage us from making this journey.",aug_2,0,0,1,1
+FitS,2,August 1815,"The ship is navigating through ice fields and the boat lurches from one mountain of ice to the next, the sailors pushing it with their long poles and every once in a while the bottom of the boat making a dreadful sound as it hits the solid ice below.",original,0,0,1,1
+FitS,2,August 1815,"The ship picks its way through ice fields, lurching from one towering block of ice to the next as the sailors push with their long poles, and every so often a dreadful scraping sound rises from the hull as it strikes the solid ice beneath.",aug_1,0,0,1,1
+FitS,2,August 1815,"Ice fields surround the ship as it staggers from one frozen mass to the next, the sailors working their poles steadily, while now and then the hull lets out a terrible groan against the ice below.",aug_2,0,0,1,1
+FitS,12,June 1816,"But then the other man shouted, “Why did you destroy our Fort, you damned rascal?” The two men drew near to each other, the Governor on foot, the other man on his horse.",original,0,0,1,1
+FitS,12,June 1816,"Then the other man cried out, ""Why did you destroy our Fort, you damned rascal?"" The two drew toward each other — the Governor on foot, his challenger on horseback.",aug_1,0,0,1,1
+FitS,12,June 1816,"""Why did you wreck our Fort, you damned rascal?"" the other man shouted, and the two closed in on each other, the Governor on foot while the other man sat on his horse.",aug_2,0,0,1,1
+FitS,12,June 1816,He hurried us into the main room where all the settlers were crammed together.,original,1,0,1,1
+FitS,12,June 1816,He rushed us into the main room where every settler had been crowded together.,aug_1,1,0,1,1
+FitS,12,June 1816,"We were hurried by him into the main room, where all the settlers had been packed in together.",aug_2,1,0,1,1
+FitS,1,July 1815,"They are a fur trading company, and already a rival fur trading company — The North West Company — has been sending men to discourage us from sailing.",original,0,0,1,1
+FitS,1,July 1815,"They are a fur trading company, and a rival — The North West Company — has already been sending men to talk us out of making the voyage.",aug_1,0,0,1,1
+FitS,1,July 1815,"As a fur trading company, they face competition from The North West Company, which has been dispatching men to discourage us from sailing even before we departed.",aug_2,0,0,1,1

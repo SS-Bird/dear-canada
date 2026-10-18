@@ -1,0 +1,103 @@
+book_name,chapter_id,date,sentence,version,neutral,positive,negative,immigration
+DRtoF,c05,July 1863,Farmer let us stay in his barn tonight.,original,1,1,0,1
+DRtoF,c05,July 1863,A farmer allowed us to spend the night in his barn.,aug_1,1,1,0,1
+DRtoF,c05,July 1863,Tonight a farmer let us shelter in his barn.,aug_2,1,1,0,1
+DRtoF,c01,January 1863,"There’d be another Conductor to take us on tonight, they said.",original,0,1,0,1
+DRtoF,c01,January 1863,They told us another Conductor would be coming to take us on that night.,aug_1,0,1,0,1
+DRtoF,c01,January 1863,"Another Conductor was set to take us onward tonight, they said.",aug_2,0,1,0,1
+DRtoF,c02,April 1863,We made it to Albany.,original,0,1,0,1
+DRtoF,c02,April 1863,We managed to reach Albany.,aug_1,0,1,0,1
+DRtoF,c02,April 1863,Albany — we finally made it there.,aug_2,0,1,0,1
+DRtoF,c03,May 1863,Her mama and papa came up from New York after the American Revolution.,original,1,1,0,1
+DRtoF,c03,May 1863,Her mother and father came up from New York following the American Revolution.,aug_1,1,1,0,1
+DRtoF,c03,May 1863,"After the American Revolution, her mama and papa moved up from New York.",aug_2,1,1,0,1
+DRtoF,c11,January 1864,"I can’t believe it, but she’s in Toronto, staying with Missus Blunt.",original,1,1,0,1
+DRtoF,c11,January 1864,"I can hardly believe it, but she is in Toronto, staying at Missus Blunt's.",aug_1,1,1,0,1
+DRtoF,c11,January 1864,She's in Toronto staying with Missus Blunt — I still can't believe it.,aug_2,1,1,0,1
+DRtoF,c01,January 1863,Wonder what’s happening to everybody back at our plantation?,original,0,1,1,1
+DRtoF,c01,January 1863,I wonder what is going on with everyone back at our plantation.,aug_1,0,1,1,1
+DRtoF,c01,January 1863,What could be happening to all the folks we left behind at the plantation?,aug_2,0,1,1,1
+DRtoF,c05,July 1863,"I thought she’d scold us for being so uppity, she being white, but she just greeted us as nicely as you could want and said she’d go fetch Mister Frost.",original,0,1,0,1
+DRtoF,c05,July 1863,"I expected her to scold us for being so uppity, her being white, but she greeted us as warmly as anyone could and said she'd go fetch Mister Frost.",aug_1,0,1,0,1
+DRtoF,c05,July 1863,"She was white, so I thought she'd be cross with us for being so uppity, but she welcomed us as nicely as could be and went off to fetch Mister Frost.",aug_2,0,1,0,1
+DRtoF,c01,January 1863,I’ll see the ocean!,original,0,1,0,1
+DRtoF,c01,January 1863,I am going to see the ocean!,aug_1,0,1,0,1
+DRtoF,c01,January 1863,The ocean — I'll actually get to see it!,aug_2,0,1,0,1
+DRtoF,c11,January 1864,Papa should be in Toronto by now.,original,1,1,0,1
+DRtoF,c11,January 1864,Papa ought to be in Toronto by now.,aug_1,1,1,0,1
+DRtoF,c11,January 1864,"By now, Papa should have arrived in Toronto.",aug_2,1,1,0,1
+DRtoF,c02,April 1863,"The man’s wife came out to the barn today with new clothes for all of us, so we’ll look respectable when we get to Canada.",original,0,1,0,1
+DRtoF,c02,April 1863,"Today the man's wife brought new clothes out to the barn for all of us, so we would look respectable on arriving in Canada.",aug_1,0,1,0,1
+DRtoF,c02,April 1863,"The man's wife came out to the barn with fresh clothes for everyone, wanting us to look respectable when we reached Canada.",aug_2,0,1,0,1
+DRtoF,c01,January 1863,I asked if there were any snakes there and the man just laughed.,original,0,1,1,1
+DRtoF,c01,January 1863,"I wondered aloud if there were snakes there, and the man just laughed at me.",aug_1,0,1,1,1
+DRtoF,c01,January 1863,"When I asked about snakes, the man just laughed.",aug_2,0,1,1,1
+DRtoF,c02,April 1863,I’m so glad we got away before he was sold off.,original,0,1,1,1
+DRtoF,c02,April 1863,I am so relieved we managed to get away before they sold him off.,aug_1,0,1,1,1
+DRtoF,c02,April 1863,It's such a relief that we got out before he could be sold.,aug_2,0,1,1,1
+DRtoF,c05,July 1863,"Missus Long says they’re going to get a piece of land, too, and set up farming there.",original,0,1,0,1
+DRtoF,c05,July 1863,Missus Long says they plan to get a piece of land and start farming up there.,aug_1,0,1,0,1
+DRtoF,c05,July 1863,"According to Missus Long, they're going to acquire some land and take up farming there.",aug_2,0,1,0,1
+DRtoF,c08,October 1863,I never in my life thought leaves could turn the colours that the leaves on these trees hereabouts do.,original,0,1,0,1
+DRtoF,c08,October 1863,Never in all my life had I imagined leaves could turn the colours that the trees around here show.,aug_1,0,1,0,1
+DRtoF,c08,October 1863,I never would have believed leaves could turn such colours as the trees hereabouts do.,aug_2,0,1,0,1
+DRtoF,c02,April 1863,"They mostly call us colored up here in the north, not Negroes.",original,1,1,0,1
+DRtoF,c02,April 1863,"Up here in the north they mostly call us colored, not Negroes.",aug_1,1,1,0,1
+DRtoF,c02,April 1863,"In the north, colored is what they mostly call us, rather than Negroes.",aug_2,1,1,0,1
+DRtoF,c01,January 1863,Our Conductor says there are hundreds of slaves getting shelter there.,original,0,1,0,1
+DRtoF,c01,January 1863,Our Conductor tells us that hundreds of slaves are finding shelter there.,aug_1,0,1,0,1
+DRtoF,c01,January 1863,"There are hundreds of slaves getting shelter there, our Conductor says.",aug_2,0,1,0,1
+DRtoF,c11,January 1864,"Missus Long lent him their good tent and they’ll stay in that on the way there if it’s not too cold, but Papa’s hopeful that they might find places that will take them in on the way back because of the baby.",original,0,1,1,1
+DRtoF,c11,January 1864,"Missus Long lent them her good tent to sleep in on the way there if the cold isn't too bad, but Papa is hopeful they'll find families willing to take them in on the way back, on account of the baby.",aug_1,0,1,1,1
+DRtoF,c11,January 1864,"Their good tent came from Missus Long, and they'll use it if it isn't too cold, though Papa hopes people will take them in on the return trip because of the baby.",aug_2,0,1,1,1
+DRtoF,c01,January 1863,Thomas told us the white man and his wife said they’d take care of the Conductor.,original,0,1,0,1
+DRtoF,c01,January 1863,Thomas told us that the white man and his wife had agreed to look after the Conductor.,aug_1,0,1,0,1
+DRtoF,c01,January 1863,"According to Thomas, the white man and his wife said they would take care of the Conductor.",aug_2,0,1,0,1
+DRtoF,c01,January 1863,Our Conductor says she’ll take us to the Great Dismal Swamp instead and we can wait there till the fighting dies down and it’s safe to go on.,original,0,1,1,1
+DRtoF,c01,January 1863,"Our Conductor says she will bring us to the Great Dismal Swamp instead, where we can wait until the fighting settles down and it is safe to move on.",aug_1,0,1,1,1
+DRtoF,c01,January 1863,"Instead, our Conductor will take us to the Great Dismal Swamp, and we'll wait there until the fighting dies down and the way is safe.",aug_2,0,1,1,1
+DRtoF,c10,December 1863,"Our first Christmas as free folk, not slaves!",original,0,1,0,1
+DRtoF,c10,December 1863,"This is our very first Christmas as free people, not as slaves.",aug_1,0,1,0,1
+DRtoF,c10,December 1863,"For the first time, we are celebrating Christmas as free folk.",aug_2,0,1,0,1
+DRtoF,c01,January 1863,Wonder what’s happening to everybody back at our plantation?,original,0,1,1,1
+DRtoF,c01,January 1863,I keep wondering what is happening to everyone back at our plantation.,aug_1,0,1,1,1
+DRtoF,c01,January 1863,What could be going on with all the people we left behind at the plantation?,aug_2,0,1,1,1
+DRtoF,c01,January 1863,I asked if there were any snakes there and the man just laughed.,original,0,1,1,1
+DRtoF,c01,January 1863,"I asked whether there were any snakes around, and the man simply laughed.",aug_1,0,1,1,1
+DRtoF,c01,January 1863,The man just laughed when I asked if there were snakes there.,aug_2,0,1,1,1
+DRtoF,c02,April 1863,I’m so glad we got away before he was sold off.,original,0,1,1,1
+DRtoF,c02,April 1863,I feel so grateful we escaped before he was sold away.,aug_1,0,1,1,1
+DRtoF,c02,April 1863,"Thank goodness we got away in time, before he could be sold off.",aug_2,0,1,1,1
+DRtoF,c11,January 1864,"Missus Long lent him their good tent and they’ll stay in that on the way there if it’s not too cold, but Papa’s hopeful that they might find places that will take them in on the way back because of the baby.",original,0,1,1,1
+DRtoF,c11,January 1864,"Missus Long lent him the good tent so they can sleep in it if the weather isn't too cold on the way there, and Papa is hopeful folk will take them in on the way back because of the baby.",aug_1,0,1,1,1
+DRtoF,c11,January 1864,"They have Missus Long's good tent for the journey, but Papa hopes people will open their homes to them on the return trip, given the baby.",aug_2,0,1,1,1
+DRtoF,c01,January 1863,Our Conductor says she’ll take us to the Great Dismal Swamp instead and we can wait there till the fighting dies down and it’s safe to go on.,original,0,1,1,1
+DRtoF,c01,January 1863,Our Conductor says she'll lead us to the Great Dismal Swamp and we can shelter there until the fighting eases and it's safe to continue.,aug_1,0,1,1,1
+DRtoF,c01,January 1863,"She'll take us to the Great Dismal Swamp instead, our Conductor says, so we can wait there until it's safe to go on.",aug_2,0,1,1,1
+DRtoF,c05,July 1863,Why did you run away?” Then she came up so close I could feel spit flying from her mouth.,original,0,0,1,1
+DRtoF,c05,July 1863,"""Why did you run away?"" She stepped so close I could feel the spit leaving her mouth.",aug_1,0,0,1,1
+DRtoF,c05,July 1863,"She pressed right up to me, close enough that I felt spit flying from her lips, and demanded, ""Why did you run away?""",aug_2,0,0,1,1
+DRtoF,c06,August 1863,"If they were here first, I don’t see how they would take kindly to being moved out.",original,0,0,1,1
+DRtoF,c06,August 1863,"If they were here before us, I can't imagine they'd be pleased about being pushed out.",aug_1,0,0,1,1
+DRtoF,c06,August 1863,I don't see how people already settled here would be happy about being moved away.,aug_2,0,0,1,1
+DRtoF,c02,April 1863,Couldn’t stand being shut in the dark anymore and had to get out.,original,0,0,1,1
+DRtoF,c02,April 1863,"Being shut in the dark became unbearable, and I had to get myself out.",aug_1,0,0,1,1
+DRtoF,c02,April 1863,"I could no longer stand the darkness closing in on me, so I had to get out.",aug_2,0,0,1,1
+DRtoF,c01,January 1863,"Bessie’s papa, Uncle Bo, tried to make free and they caught him.",original,0,0,1,1
+DRtoF,c01,January 1863,"Bessie's papa, Uncle Bo, tried to escape to freedom but they caught him.",aug_1,0,0,1,1
+DRtoF,c01,January 1863,"Uncle Bo — Bessie's papa — made a run for it, but they caught him.",aug_2,0,0,1,1
+DRtoF,c05,July 1863,When he ran away she wouldn’t go with him.,original,0,0,1,1
+DRtoF,c05,July 1863,She refused to go with him when he ran away.,aug_1,0,0,1,1
+DRtoF,c05,July 1863,"When he made his escape, she would not come along.",aug_2,0,0,1,1
+DRtoF,c01,January 1863,We’re running again.,original,0,0,1,1
+DRtoF,c01,January 1863,We are on the run again.,aug_1,0,0,1,1
+DRtoF,c01,January 1863,"Once again, we've had to run.",aug_2,0,0,1,1
+DRtoF,c01,January 1863,"Our cabin back at the plantation was small, but it was better than this.",original,0,0,1,1
+DRtoF,c01,January 1863,"Our cabin back at the plantation wasn't much, but it was still better than this.",aug_1,0,0,1,1
+DRtoF,c01,January 1863,"Small as it was, our old cabin at the plantation was better than what we have now.",aug_2,0,0,1,1
+DRtoF,c05,July 1863,But where could we go?,original,0,0,1,1
+DRtoF,c05,July 1863,But where was there for us to go?,aug_1,0,0,1,1
+DRtoF,c05,July 1863,"Still, where on earth could we run to?",aug_2,0,0,1,1
+DRtoF,c05,July 1863,"I asked Mama if we were going to farm, but she didn’t answer me.",original,1,0,1,1
+DRtoF,c05,July 1863,"I asked Mama whether we were going to be farming, but she gave me no answer.",aug_1,1,0,1,1
+DRtoF,c05,July 1863,Mama didn't say a word when I asked her if we were going to farm.,aug_2,1,0,1,1

@@ -1,0 +1,25 @@
+book_name,chapter_id,entry_id,date,sentence,positive,negative,neutral,immigration
+NbutC,5,ch5_e1,"February 1st, 1784",Another month begun.,0,0,1,0
+NbutC,5,ch5_e1,"February 1st, 1784",My life has settled down into such a routine — sometimes I even forget that I haven’t lived here forever.,1,0,1,1
+NbutC,5,ch5_e1,"February 1st, 1784","Maybe not quite, but I am finding it more and more difficult to remember what home was like.",1,1,0,1
+NbutC,5,ch5_e1,"February 1st, 1784",What a sad word.,0,1,0,0
+NbutC,5,ch5_e1,"February 1st, 1784",I don’t suppose I shall ever have a home again.,0,1,0,1
+NbutC,5,ch5_e9,"February 29th, 1784","As if this month hasn’t been bad enough, it would have to have one extra day in it!",0,1,0,0
+NbutC,8,ch8_e7,"May 18th, 1784",I am too cold and wet to write much.,0,1,0,0
+NbutC,8,ch8_e7,"May 18th, 1784","It has been raining constantly, with the result that we have had no fire and have had to make do with cold johnnycake and salt pork to eat.",0,1,0,1
+NbutC,8,ch8_e7,"May 18th, 1784",The mud all around our camp is so deep that we cannot move around very much.,0,1,0,1
+NbutC,8,ch8_e7,"May 18th, 1784",Just going over to Hannah’s tent today I got the remains of my boots so muddy that Grannie made me take them off before I came into the tent.,0,1,1,0
+NbutC,8,ch8_e7,"May 18th, 1784",Even that did not help as my boots are so full of holes that my feet were just as filthy.,0,1,0,0
+NbutC,8,ch8_e7,"May 18th, 1784",Grannie fights against dirt and mud constantly but I do not think she will win.,0,1,1,0
+NbutC,9,ch9_e1,"June 1st, 1784",The boatmen sing constantly as we go along.,1,0,0,1
+NbutC,9,ch9_e1,"June 1st, 1784","Even though the boats have sails, they mostly have to row because the wind is against us from the west and we are going into a very strong current.",0,1,1,1
+NbutC,9,ch9_e1,"June 1st, 1784",This is actually a very pleasant way to travel.,1,0,0,1
+NbutC,9,ch9_e1,"June 1st, 1784",Except for the insects.,0,0,1,0
+NbutC,9,ch9_e1,"June 1st, 1784","When we put in to shore for our noon meal we are immediately attacked by the black flies and mosquitoes, and the flies descend in such droves to cover our food that it is hard to take a bite without crunching down on one of them.",0,1,0,1
+NbutC,9,ch9_e6,"June 14th, 1784",Father is worrying.,0,1,0,0
+NbutC,9,ch9_e6,"June 14th, 1784",The summer is wearing on and they have not yet finished surveying the lots.,0,1,0,1
+NbutC,9,ch9_e6,"June 14th, 1784",It will surely be too late to plant crops by the time we are settled.,0,1,0,1
+NbutC,9,ch9_e6,"June 14th, 1784","We will have to depend on Government supplies for the winter, Father says.",1,1,0,0
+NbutC,9,ch9_e6,"June 14th, 1784",He hates that!,0,1,0,0
+NbutC,13,ch13_e6,"October 12th, 1784",We have harvested some small bedraggled turnip roots and a fair crop of beans.,1,0,1,0
+NbutC,13,ch13_e6,"October 12th, 1784",Father wants to trade with the Indians for more corn.,0,0,1,0

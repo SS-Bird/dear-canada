@@ -1,0 +1,113 @@
+book_name,chapter_id,date,sentence,version,neutral,positive,negative,immigration
+PasWide,1,May 16,It was the first time it had been just the two of us since England.,original,1,1,0,1
+PasWide,1,May 16,It was the first time the two of us had been alone together since leaving England.,aug_1,1,1,0,1
+PasWide,1,May 16,"Since England, this was the first moment it had been just us two.",aug_2,1,1,0,1
+PasWide,1,September 7,"Then we sang “The Maple Leaf Forever,” which is different.",original,1,1,0,1
+PasWide,1,September 7,"After that we sang ""The Maple Leaf Forever,"" which felt quite different.",aug_1,1,1,0,1
+PasWide,1,September 7,"We finished by singing ""The Maple Leaf Forever"" — it was a different sort of song.",aug_2,1,1,0,1
+PasWide,1,December 20,Christmas Comes from Home The Christmas parcel from Auntie Lou has arrived!,original,0,1,1,1
+PasWide,1,December 20,The Christmas parcel from Auntie Lou has finally arrived!,aug_1,0,1,1,1
+PasWide,1,December 20,Auntie Lou's Christmas parcel has come — it is here at last!,aug_2,0,1,1,1
+PasWide,1,April 18,Then Mother said that I am a big Canadian Ivy.,original,1,1,0,1
+PasWide,1,April 18,Then Mother told me I am a proper big Canadian Ivy now.,aug_1,1,1,0,1
+PasWide,1,April 18,Mother said it herself — I am a big Canadian Ivy.,aug_2,1,1,0,1
+PasWide,1,May 16,"Then we went back to the coach and Dad saw that nobody was using the stove yet, so he said he would start breakfast for us, and that I should go back to bed and coast until it was ready.",original,0,1,0,1
+PasWide,1,May 16,"When we got back to the coach, Dad noticed the stove wasn't being used, so he offered to make breakfast and sent me back to bed to rest until it was done.",aug_1,0,1,0,1
+PasWide,1,May 16,"Back at the coach, Dad saw the stove sitting idle and decided he'd start breakfast himself, telling me to go back to bed and take it easy until the food was ready.",aug_2,0,1,0,1
+PasWide,1,May 13,Today Dad got out his Canada West booklet and read us bits.,original,0,1,0,1
+PasWide,1,May 13,Dad pulled out his Canada West booklet today and read sections of it aloud to us.,aug_1,0,1,0,1
+PasWide,1,May 13,Today Dad took out his Canada West booklet and read us some of the bits inside.,aug_2,0,1,0,1
+PasWide,1,May 11,She doesn’t understand how big Canada is.,original,1,1,1,1
+PasWide,1,May 11,She has no idea just how enormous Canada really is.,aug_1,1,1,1,1
+PasWide,1,May 11,The sheer size of Canada is something she simply cannot grasp.,aug_2,1,1,1,1
+PasWide,1,May 23,Elizabeth asked if I had been to Buckingham Palace to have tea with the king.,original,0,1,1,1
+PasWide,1,May 23,Elizabeth wanted to know if I had ever visited Buckingham Palace for tea with the king.,aug_1,0,1,1,1
+PasWide,1,May 23,Had I been to Buckingham Palace to take tea with the king? That was what Elizabeth asked.,aug_2,0,1,1,1
+PasWide,1,May 9,"Mother says it is all very well to laugh at Canadian place names, but remember, we come from a country that has places like “Wigglesworth.”",original,0,1,0,1
+PasWide,1,May 9,"Mother says it is all very well to laugh at Canadian place names, but we should remember we come from a country with places called things like ""Wigglesworth.""",aug_1,0,1,0,1
+PasWide,1,May 9,"Laughing at Canadian place names is fine, Mother says, but let's not forget that back home we have towns with names like ""Wigglesworth.""",aug_2,0,1,0,1
+PasWide,1,May 3,"I had a dream about riding a horse, except it was riding across the ocean.",original,0,1,0,1
+PasWide,1,May 3,"I dreamed I was riding a horse, only the horse was galloping across the ocean.",aug_1,0,1,0,1
+PasWide,1,May 3,"In my dream I rode a horse — across the ocean, of all places.",aug_2,0,1,0,1
+PasWide,1,May 19,He gave us huge hugs and pretended not to know me because I was so grown-up and Mother cried a little bit.,original,0,1,1,1
+PasWide,1,May 19,"He wrapped us in enormous hugs and pretended not to recognise me, saying how grown-up I had become, and Mother shed a few tears.",aug_1,0,1,1,1
+PasWide,1,May 19,"He gave great big hugs all around and joked that he didn't know me because I'd grown so much, and Mother cried just a little.",aug_2,0,1,1,1
+PasWide,1,May 11,Land ahoy!,original,0,1,0,1
+PasWide,1,May 11,Land — I can see land!,aug_1,0,1,0,1
+PasWide,1,May 11,There it is — land ahoy!,aug_2,0,1,0,1
+PasWide,1,May 15,I wish I COULD hang upside down in the baggage car.,original,0,1,0,1
+PasWide,1,May 15,Hanging upside down in the baggage car is exactly what I wish I could do.,aug_1,0,1,0,1
+PasWide,1,May 15,How I wish it were actually possible to hang upside down in the baggage car.,aug_2,0,1,0,1
+PasWide,1,August 17,I used caragana leaves and string.,original,1,1,0,1
+PasWide,1,August 17,I made do with caragana leaves and a bit of string.,aug_1,1,1,0,1
+PasWide,1,August 17,Caragana leaves and string were what I used.,aug_2,1,1,0,1
+PasWide,1,May 18,This line is called the Canadian Pacific.,original,1,1,0,1
+PasWide,1,May 18,The name of this railway line is the Canadian Pacific.,aug_1,1,1,0,1
+PasWide,1,May 18,Canadian Pacific — that is what they call this line.,aug_2,1,1,0,1
+PasWide,1,May 13,This is the booklet that tells us everything we need to know.,original,0,1,0,1
+PasWide,1,May 13,This booklet has everything in it that we need to know.,aug_1,0,1,0,1
+PasWide,1,May 13,Everything we could need to know is supposed to be in this booklet.,aug_2,0,1,0,1
+PasWide,1,September 8,So then I said that I had seen it in London before we came here.,original,0,1,0,1
+PasWide,1,September 8,I told them I had already seen it in London before we left for here.,aug_1,0,1,0,1
+PasWide,1,September 8,"So I mentioned that I had seen it in London, back before we came over.",aug_2,0,1,0,1
+PasWide,1,March 13,"Gerhard is playing with a band in Calgary now, in a big hotel.",original,0,1,0,1
+PasWide,1,March 13,Gerhard is now playing with a band at a big hotel in Calgary.,aug_1,0,1,0,1
+PasWide,1,March 13,These days Gerhard plays in a band up at one of the big Calgary hotels.,aug_2,0,1,0,1
+PasWide,1,May 9,“Moose Jaw” and “Medicine Hat” made them laugh so much they got the hiccups.,original,0,1,0,1
+PasWide,1,May 9,"The names ""Moose Jaw"" and ""Medicine Hat"" sent them into such fits of laughter that they got the hiccups.",aug_1,0,1,0,1
+PasWide,1,May 9,"""Moose Jaw"" and ""Medicine Hat"" — they laughed so hard at those that the hiccups set in.",aug_2,0,1,0,1
+PasWide,1,May 21,"Mr. Burgess has found us a house of our own to live in, because we certainly don’t all fit in this one.",original,0,1,1,1
+PasWide,1,May 21,"Mr. Burgess has managed to find us a place of our own, since we clearly cannot all squeeze into this house.",aug_1,0,1,1,1
+PasWide,1,May 21,"Since there is no way we all fit in this house, Mr. Burgess went and found us our own place to live.",aug_2,0,1,1,1
+PasWide,1,May 13,"He told us that luggage is called baggage, that a three-strand barbed wire fence costs $150 a mile and that there is absolutely no malaria in Canada.",original,1,1,0,1
+PasWide,1,May 13,"He explained that what we call luggage they call baggage, that a three-strand barbed wire fence runs $150 a mile, and that Canada has absolutely no malaria.",aug_1,1,1,0,1
+PasWide,1,May 13,"We learned that luggage is baggage here, a three-strand barbed wire fence costs $150 per mile, and there is no malaria whatsoever in Canada.",aug_2,1,1,0,1
+PasWide,1,December 20,The Christmas package from Auntie Lou has made it here at last!,aug_1,0,1,1,1
+PasWide,1,December 20,Auntie Lou's Christmas parcel has arrived — what wonderful news!,aug_2,0,1,1,1
+PasWide,1,May 11,How big Canada truly is — she just doesn't understand it.,aug_1,1,1,1,1
+PasWide,1,May 11,Canada's size is something she really cannot get her head around.,aug_2,1,1,1,1
+PasWide,1,May 23,Elizabeth's question was whether I had ever gone to Buckingham Palace to have tea with the king.,aug_1,0,1,1,1
+PasWide,1,May 23,Elizabeth wondered if I'd actually been to Buckingham Palace and had tea with the king.,aug_2,0,1,1,1
+PasWide,1,May 19,"He hugged us tightly and made a show of not recognising me on account of how grown-up I looked, while Mother cried a little.",aug_1,0,1,1,1
+PasWide,1,May 19,"Huge hugs from him, and he playfully claimed not to know me — I had grown so much — and Mother's eyes filled with tears.",aug_2,0,1,1,1
+PasWide,1,May 21,"Mr. Burgess tracked down a house just for us, since we absolutely cannot all fit in this one.",aug_1,0,1,1,1
+PasWide,1,May 21,"A house of our own — Mr. Burgess found one, which is fortunate since this place certainly has no room for all of us.",aug_2,0,1,1,1
+PasWide,1,March,"isn’t spring in Saskatchewan, it is still blinking cold.)",original,0,0,1,1
+PasWide,1,March,It is not spring in Saskatchewan — it is still bitterly cold.,aug_1,0,0,1,1
+PasWide,1,March,Spring in Saskatchewan? Hardly — it is absolutely freezing still.,aug_2,0,0,1,1
+PasWide,1,August 25,Catharine has been captured by Indians.,original,0,0,1,1
+PasWide,1,August 25,The Indians have taken Catharine captive.,aug_1,0,0,1,1
+PasWide,1,August 25,Catharine has been taken by Indians.,aug_2,0,0,1,1
+PasWide,1,May 18,I was a bit scared because I have never seen a Chinese person before and in Magnet magazine all the Chinese men have long moustaches and long knives.,original,0,0,1,1
+PasWide,1,May 18,"I was a little frightened since I had never seen a Chinese person in my life, and in Magnet magazine all the Chinese men are drawn with long moustaches and long knives.",aug_1,0,0,1,1
+PasWide,1,May 18,"Never having seen a Chinese person before, I felt a bit scared, especially since Magnet magazine always shows Chinese men with long moustaches and long knives.",aug_2,0,0,1,1
+PasWide,1,August 25,"He says they say to each other, “Fee fi fo fum, I smell the blood of an Englishman.” Question about mosquitoes: Why?",original,0,0,1,1
+PasWide,1,August 25,"He says they tell each other, ""Fee fi fo fum, I smell the blood of an Englishman."" Also, a question about the mosquitoes: Why?",aug_1,0,0,1,1
+PasWide,1,August 25,"""Fee fi fo fum, I smell the blood of an Englishman"" — that's apparently what they say to one another. And on the subject of mosquitoes: why?",aug_2,0,0,1,1
+PasWide,1,May 2,“Is that our ship?” “Where’s Frank?” “What are we stopping for?” “Who’s got the luggage?” It was like the Tower of Babel.,original,1,0,1,1
+PasWide,1,May 2,"""Is that our ship?"" ""Where has Frank got to?"" ""Why have we stopped?"" ""Who is watching the luggage?"" It was an absolute Tower of Babel.",aug_1,1,0,1,1
+PasWide,1,May 2,"Questions flying everywhere — ""Our ship?"" ""Frank?"" ""Why are we stopped?"" ""The luggage?"" — a complete Tower of Babel.",aug_2,1,0,1,1
+PasWide,1,May 12,Canadian trains are different.,original,1,0,1,1
+PasWide,1,May 12,The trains here in Canada are not what I expected.,aug_1,1,0,1,1
+PasWide,1,May 12,Canadian trains are not at all the same as what I know.,aug_2,1,0,1,1
+PasWide,1,May 2,I watched them until they disappeared.,original,0,0,1,1
+PasWide,1,May 2,I kept my eyes on them until they were out of sight.,aug_1,0,0,1,1
+PasWide,1,May 2,My eyes followed them all the way until they vanished.,aug_2,0,0,1,1
+PasWide,1,May,Auntie Millie cried when we left.,original,0,0,1,1
+PasWide,1,May,"When we left, Auntie Millie was in tears.",aug_1,0,0,1,1
+PasWide,1,May,Auntie Millie wept as we said our goodbyes.,aug_2,0,0,1,1
+PasWide,1,September 15,This morning somebody had written “Britishers Go Home” in the sand.,original,0,0,1,1
+PasWide,1,September 15,"This morning the words ""Britishers Go Home"" had been scratched into the sand by someone.",aug_1,0,0,1,1
+PasWide,1,September 15,"Someone had written ""Britishers Go Home"" in the sand — I found it there this morning.",aug_2,0,0,1,1
+PasWide,1,May 12,NOT like the seasickness rocking of the ship.,original,0,0,1,1
+PasWide,1,May 12,Nothing like the awful swaying seasickness of the ship.,aug_1,0,0,1,1
+PasWide,1,May 12,It is completely unlike the dreadful rocking that made us seasick on the ship.,aug_2,0,0,1,1
+PasWide,1,July 28,It is going to be strange in Canada with no relatives.,original,1,0,1,1
+PasWide,1,July 28,Having no relatives at all in Canada is going to feel very strange.,aug_1,1,0,1,1
+PasWide,1,July 28,Life in Canada without any family nearby — that is going to take some getting used to.,aug_2,1,0,1,1
+PasWide,1,May 21,"He wanted to be riding the range in Canada, not serving in a shop.",original,0,0,1,1
+PasWide,1,May 21,"What he had wanted was to ride the open range in Canada, not stand behind a shop counter.",aug_1,0,0,1,1
+PasWide,1,May 21,Riding the range in Canada was his dream — not working in a shop.,aug_2,0,0,1,1
+PasWide,1,May 10,What if there is no Moose Jaw or Medicine Hat or Piapot?,original,0,0,1,1
+PasWide,1,May 10,"But what if Moose Jaw doesn't exist, or Medicine Hat, or Piapot?",aug_1,0,0,1,1
+PasWide,1,May 10,"What if none of it is real — no Moose Jaw, no Medicine Hat, no Piapot?",aug_2,0,0,1,1

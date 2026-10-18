@@ -1,0 +1,316 @@
+book_name,chapter_id,date,sentence,version,neutral,positive,negative,immigration
+SofS,c07,"October 2, 1847",I wonder if it will sizzle.,original,0,1,0,0
+SofS,c07,"October 2, 1847",I find myself wondering whether it will sizzle.,aug_1,0,1,0,0
+SofS,c07,"October 2, 1847","Will it sizzle, I wonder?",aug_2,0,1,0,0
+SofS,c07,"October 2, 1847",He loved to tell stories on Hallow Eve about the spirit world and the fires that warmed wandering souls.,original,0,1,0,0
+SofS,c07,"October 2, 1847",He loved telling tales on Hallow Eve about the spirit world and the fires that brought warmth to wandering souls.,aug_1,0,1,0,0
+SofS,c07,"October 2, 1847",Stories about the spirit world and the fires that warmed lost souls — those were what he loved to tell on Hallow Eve.,aug_2,0,1,0,0
+SofS,c04,"July 3, 1847","“Indeed, he did,” I answered, “for he was a good and generous man.” But the second humpback was not like Lusmore.",original,0,1,1,0
+SofS,c04,"July 3, 1847","""He was indeed,"" I replied, ""a good and generous man."" But the second humpback was nothing like Lusmore.",aug_1,0,1,1,0
+SofS,c04,"July 3, 1847","""Indeed he was,"" I said, ""for he was a kind and generous soul."" The second humpback, however, bore no resemblance to Lusmore.",aug_2,0,1,1,0
+SofS,c06,"September 1, 1847","She promises to lend me the book when she has finished reading it, although I think by then that I will already know the whole story!",original,0,1,0,0
+SofS,c06,"September 1, 1847","She has promised to lend me the book once she finishes it, though I suspect I will already know the whole story by then!",aug_1,0,1,0,0
+SofS,c06,"September 1, 1847",Once she is done reading it she will lend it to me — though I imagine I will have learnt the whole story long before that!,aug_2,0,1,0,0
+SofS,c07,"October 2, 1847","I miss them both, especially Patrick’s merry gurgles, which never failed to bring a smile to Ma’s face.",original,0,1,1,0
+SofS,c07,"October 2, 1847","I miss them both dearly, and Patrick's cheerful gurgles most of all — they never once failed to make Ma smile.",aug_1,0,1,1,0
+SofS,c07,"October 2, 1847","Both of them I miss terribly, but especially Patrick's happy gurgles, which always managed to bring a smile to Ma's face.",aug_2,0,1,1,0
+SofS,c07,"October 2, 1847",Mr. Hall spoke at last in a gentle voice and asked me if I wanted him to read the letter to me.,original,0,1,0,0
+SofS,c07,"October 2, 1847","At last Mr. Hall spoke, in a quiet and gentle voice, asking whether I would like him to read the letter aloud to me.",aug_1,0,1,0,0
+SofS,c07,"October 2, 1847","Mr. Hall finally broke the silence, speaking softly, and asked if he should read the letter to me.",aug_2,0,1,0,0
+SofS,c07,"October 2, 1847","She taught Lucy and me some songs with different parts, and when we sang them together, Fanny taking one part and Lucy and I the other, Mrs. Hall declared that we sounded like a choir of angels.",original,0,1,0,0
+SofS,c07,"October 2, 1847","She taught Lucy and me songs in parts, and when we sang together — Fanny on one part, Lucy and I on the other — Mrs. Hall said we sounded like a choir of angels.",aug_1,0,1,0,0
+SofS,c07,"October 2, 1847","Fanny taught us songs with different parts, and Mrs. Hall declared that the three of us, singing together, were like a proper choir of angels.",aug_2,0,1,0,0
+SofS,c05,"August 1, 1847",I smiled as I pictured them and then — I could not help myself — I cried.,original,0,1,1,0
+SofS,c05,"August 1, 1847","I smiled at the picture of them in my mind, but then, despite myself, I wept.",aug_1,0,1,1,0
+SofS,c05,"August 1, 1847","Imagining them made me smile — and then, before I could stop myself, the tears came.",aug_2,0,1,1,0
+SofS,c06,"September 1, 1847",Mrs. Hall is much relieved.,original,1,1,0,0
+SofS,c06,"September 1, 1847",The news has brought Mrs. Hall great relief.,aug_1,1,1,0,0
+SofS,c06,"September 1, 1847",Mrs. Hall is greatly relieved by it.,aug_2,1,1,0,0
+SofS,c08,"November 4, 1847",Before her very eyes he is transformed into the most handsome gentleman she has ever seen.,original,0,1,0,0
+SofS,c08,"November 4, 1847",Right before her eyes he is changed into the most handsome gentleman she has ever laid eyes on.,aug_1,0,1,0,0
+SofS,c08,"November 4, 1847","She watches as he transforms, before her very eyes, into the handsomest man she has ever seen.",aug_2,0,1,0,0
+SofS,c05,"August 1, 1847",She has been told some charitable family will take her in but wishes to stay with the sisters.,original,1,1,0,0
+SofS,c05,"August 1, 1847","A charitable family has offered to take her in, she has been told, but she would rather remain with the sisters.",aug_1,1,1,0,0
+SofS,c05,"August 1, 1847","She has heard that a kind family will take her in, yet she wishes to stay on with the sisters.",aug_2,1,1,0,0
+SofS,c05,"August 1, 1847",I know he’d be looking for me if only he knew I still lived.,original,0,1,1,0
+SofS,c05,"August 1, 1847","If he only knew I was still alive, I am certain he would be searching for me.",aug_1,0,1,1,0
+SofS,c05,"August 1, 1847",He would come looking for me if he knew I had survived — of that I am sure.,aug_2,0,1,1,0
+SofS,c06,"September 1, 1847","When Lucy begs to be picked up or to ride him as if he were a pony, he obliges no matter how tired he is.",original,1,1,0,0
+SofS,c06,"September 1, 1847","Whenever Lucy begs to be lifted or to ride on his back like a pony, he always gives in, no matter how weary he is.",aug_1,1,1,0,0
+SofS,c06,"September 1, 1847","No matter how exhausted he may be, he always obliges when Lucy pleads to be picked up or to use him as her pony.",aug_2,1,1,0,0
+SofS,c02,"May 1, 1847","I whispered one myself, for even though I was determined to be as brave as Da, the truth was that I was in terror.",original,1,1,1,0
+SofS,c02,"May 1, 1847","I said one quietly myself, for although I was set on being as brave as Da, the truth was that fear had gripped me entirely.",aug_1,1,1,1,0
+SofS,c02,"May 1, 1847","I murmured a prayer of my own, for despite my determination to match Da's bravery, I was truly terrified.",aug_2,1,1,1,0
+SofS,c02,"May 1, 1847","It took her an eternity, but she returned with an extra-large portion of oatmeal.",original,0,1,1,0
+SofS,c02,"May 1, 1847","She was gone for what felt like forever, but came back carrying an especially large helping of oatmeal.",aug_1,0,1,1,0
+SofS,c02,"May 1, 1847","An eternity seemed to pass before she came back, but she brought with her a particularly generous portion of oatmeal.",aug_2,0,1,1,0
+SofS,c04,"July 3, 1847","Michael managed to post a letter, but still has heard nothing and says that he does not expect word for some time, as this is a large country and the distances are great.",original,0,1,1,1
+SofS,c04,"July 3, 1847","Michael was able to send a letter, but has received no reply and expects none soon, since the country is vast and distances between places are great.",aug_1,0,1,1,1
+SofS,c04,"July 3, 1847","A letter was sent by Michael, but he has had no word back and does not anticipate any for some time, given how large the country is and how far apart things are.",aug_2,0,1,1,1
+SofS,c05,"August 1, 1847","She and her husband have been in
+ the country only three years.",original,0,1,1,1
+SofS,c05,"August 1, 1847",She and her husband arrived in this country only three years ago.,aug_1,0,1,1,1
+SofS,c05,"August 1, 1847",Three years — that is all the time she and her husband have spent in this country.,aug_2,0,1,1,1
+SofS,c05,"August 1, 1847",“Why have you now decided to accept?” I felt I had no choice then but to explain why I had been torn between going with her and staying in Montreal.,original,0,1,1,1
+SofS,c05,"August 1, 1847","""What made you decide to accept?"" I felt I had little choice but to explain the struggle I had felt between going with her and remaining in Montreal.",aug_1,0,1,1,1
+SofS,c05,"August 1, 1847","""Why accept now?"" she asked, and I had no choice but to tell her how torn I had been between leaving with her and staying behind in Montreal.",aug_2,0,1,1,1
+SofS,c02,"May 1, 1847",The captain came again with his medicine.,original,0,1,1,1
+SofS,c02,"May 1, 1847","Once more the captain arrived, bringing his medicine.",aug_1,0,1,1,1
+SofS,c02,"May 1, 1847","The captain returned, medicine in hand.",aug_2,0,1,1,1
+SofS,c09,"December 1, 1847","For my part, I was happy to reach Sherbrooke.",original,0,1,0,1
+SofS,c09,"December 1, 1847","As for me, arriving in Sherbrooke was a welcome relief.",aug_1,0,1,0,1
+SofS,c09,"December 1, 1847",Reaching Sherbrooke made me genuinely happy.,aug_2,0,1,0,1
+SofS,c03,"June 1, 1847",Some say we will be ashore sooner.,original,0,1,0,1
+SofS,c03,"June 1, 1847",There are those who believe we will reach shore sooner than expected.,aug_1,0,1,0,1
+SofS,c03,"June 1, 1847",Some people are saying we will land earlier than planned.,aug_2,0,1,0,1
+SofS,c05,"August 1, 1847",The older children seem glad to have someone from home to tell them about this new country.,original,0,1,0,1
+SofS,c05,"August 1, 1847",The older children seem pleased to have someone from their homeland who can tell them about this new country.,aug_1,0,1,0,1
+SofS,c05,"August 1, 1847",Having someone from home to speak to them about this new country appears to bring the older children comfort.,aug_2,0,1,0,1
+SofS,c05,"August 1, 1847",At present they are occupying a small shed that he and Mrs. Hall lived in when they first arrived in this country.,original,0,1,1,1
+SofS,c05,"August 1, 1847",For the time being they are living in a small shed that Mr. and Mrs. Hall occupied when they first came to this country.,aug_1,0,1,1,1
+SofS,c05,"August 1, 1847",The small shed they now occupy is the same one Mr. and Mrs. Hall called home when they first arrived here.,aug_2,0,1,1,1
+SofS,c07,"October 2, 1847",It is nice to have a place in the world.,original,1,1,0,1
+SofS,c07,"October 2, 1847","It is a good feeling, having a place where one belongs in the world.",aug_1,1,1,0,1
+SofS,c07,"October 2, 1847",Having somewhere to belong in this world is a comfort.,aug_2,1,1,0,1
+SofS,c02,"May 1, 1847",Da says we were lucky to be on deck where people could be sick over the side of the vessel.,original,0,1,1,1
+SofS,c02,"May 1, 1847","Da says we were fortunate to be up on deck, where those who were ill could be sick over the railing.",aug_1,0,1,1,1
+SofS,c02,"May 1, 1847","According to Da, being on deck was lucky for us — at least those who were unwell could lean over the side of the vessel.",aug_2,0,1,1,1
+SofS,c02,"May 1, 1847","The captain told Da that the storm was as bad as any he has ever seen, and it must be a good omen that no one was lost in it.",original,0,1,1,1
+SofS,c02,"May 1, 1847","Da was told by the captain that the storm ranked among the worst he had ever encountered, and that nobody being lost in it must be taken as a favourable sign.",aug_1,0,1,1,1
+SofS,c02,"May 1, 1847","The captain told Da the storm was among the fiercest he had ever sailed through, and that losing no one in it was surely a good omen.",aug_2,0,1,1,1
+SofS,c05,"August 1, 1847","Finally Mrs. Hall said that she would return in two days and that if I was willing to go with her, the position was mine.",original,0,1,1,1
+SofS,c05,"August 1, 1847","Mrs. Hall finally said she would come back in two days' time, and that the position would be mine if I agreed to go with her.",aug_1,0,1,1,1
+SofS,c05,"August 1, 1847","Two days hence Mrs. Hall would return, she said, and if I chose to go with her, the job was mine.",aug_2,0,1,1,1
+SofS,c09,"December 1, 1847",He told me that Michael had left Montreal and gone back to Uncle Liam’s farm.,original,0,1,1,1
+SofS,c09,"December 1, 1847",He let me know that Michael had departed Montreal and returned to Uncle Liam's farm.,aug_1,0,1,1,1
+SofS,c09,"December 1, 1847",Michael had left Montreal and headed back to Uncle Liam's farm — that is what he told me.,aug_2,0,1,1,1
+SofS,c06,"September 1, 1847",She hastened to add that she is not one of those people and that she does not blame the immigrants themselves for their plight.,original,0,1,1,1
+SofS,c06,"September 1, 1847",She was quick to add that she is not that sort of person and holds the immigrants themselves blameless for the situation they are in.,aug_1,0,1,1,1
+SofS,c06,"September 1, 1847",She made a point of saying she is not among those people and that she places no blame on the immigrants themselves for their circumstances.,aug_2,0,1,1,1
+SofS,c08,"November 4, 1847","While children enjoy my stories, grown-ups in this country do not seem to approve.",original,1,1,1,1
+SofS,c08,"November 4, 1847","Children delight in my stories, but the adults in this country seem to take a dim view of them.",aug_1,1,1,1,1
+SofS,c08,"November 4, 1847","My stories are well received by children, yet grown-ups here appear not to approve.",aug_2,1,1,1,1
+SofS,c01,"April 30, 1847","When we leave, it will bring the day closer when I will be with Anna again and once more hear Da tease us by calling us AnnaJohanna all in one breath, as if we were one person.",original,0,1,0,1
+SofS,c01,"April 30, 1847","Every mile we travel brings me closer to the day I will be reunited with Anna, and once again hear Da tease us by calling us AnnaJohanna in one breath, as if we were a single person.",aug_1,0,1,0,1
+SofS,c01,"April 30, 1847","Leaving will bring that day nearer — the day I see Anna again and hear Da run our names together into AnnaJohanna, as though we are one.",aug_2,0,1,0,1
+SofS,c06,"September 1, 1847",She also reads novels and books about explorations to distant parts of the world.,original,1,1,0,1
+SofS,c06,"September 1, 1847",She also enjoys reading novels and accounts of explorations to far-off corners of the world.,aug_1,1,1,0,1
+SofS,c06,"September 1, 1847",Novels and books about distant explorations are among her favourite reading.,aug_2,1,1,0,1
+SofS,c04,"July 3, 1847","“Indeed, he did,” I answered, “for he was a good and generous man.” But the second humpback was not like Lusmore.",original,0,1,1,0
+SofS,c04,"July 3, 1847","""He was, truly,"" I said, ""a good and generous man."" Yet the second humpback was altogether different from Lusmore.",aug_1,0,1,1,0
+SofS,c04,"July 3, 1847","""He certainly was,"" I answered, ""generous and good."" The second humpback, though, was not cut from the same cloth as Lusmore.",aug_2,0,1,1,0
+SofS,c07,"October 2, 1847","I miss them both, especially Patrick’s merry gurgles, which never failed to bring a smile to Ma’s face.",original,0,1,1,0
+SofS,c07,"October 2, 1847","I miss them both terribly — Patrick's cheerful gurgles above all, which never failed to coax a smile from Ma.",aug_1,0,1,1,0
+SofS,c07,"October 2, 1847","Both of them I miss so much, but especially Patrick's bright gurgles, which could always bring a smile to Ma's face without fail.",aug_2,0,1,1,0
+SofS,c05,"August 1, 1847",I smiled as I pictured them and then — I could not help myself — I cried.,original,0,1,1,0
+SofS,c05,"August 1, 1847","I smiled, picturing them in my mind — then the tears came, and I could not stop them.",aug_1,0,1,1,0
+SofS,c05,"August 1, 1847","The image of them made me smile, and then, in spite of everything, I broke down and cried.",aug_2,0,1,1,0
+SofS,c05,"August 1, 1847",I know he’d be looking for me if only he knew I still lived.,original,0,1,1,0
+SofS,c05,"August 1, 1847","If he only knew that I was still alive, he would surely come looking for me.",aug_1,0,1,1,0
+SofS,c05,"August 1, 1847","He would search for me, I know it — if only he were aware I had survived.",aug_2,0,1,1,0
+SofS,c02,"May 1, 1847","I whispered one myself, for even though I was determined to be as brave as Da, the truth was that I was in terror.",original,1,1,1,0
+SofS,c02,"May 1, 1847","I said a quiet prayer myself, for all my resolve to be as courageous as Da, the truth was I was gripped by terror.",aug_1,1,1,1,0
+SofS,c02,"May 1, 1847","My own lips moved in prayer, for though I was determined to be brave like Da, inside I was absolutely terrified.",aug_2,1,1,1,0
+SofS,c02,"May 1, 1847","It took her an eternity, but she returned with an extra-large portion of oatmeal.",original,0,1,1,0
+SofS,c02,"May 1, 1847","She took what felt like forever to come back, but when she did she carried a larger-than-usual serving of oatmeal.",aug_1,0,1,1,0
+SofS,c02,"May 1, 1847","It seemed to take her an age, but she came back at last with an especially generous helping of oatmeal.",aug_2,0,1,1,0
+SofS,c04,"July 3, 1847","Michael managed to post a letter, but still has heard nothing and says that he does not expect word for some time, as this is a large country and the distances are great.",original,0,1,1,1
+SofS,c04,"July 3, 1847","Michael sent a letter but has yet to hear back and expects it will be a long wait, given how vast this country is and how far apart everything lies.",aug_1,0,1,1,1
+SofS,c04,"July 3, 1847","Although Michael posted a letter, there has been no reply and he expects none for some time — the country is simply too large and the distances too great.",aug_2,0,1,1,1
+SofS,c05,"August 1, 1847","She and her husband have been in
+ the country only three years.",original,0,1,1,1
+SofS,c05,"August 1, 1847",Only three years have passed since she and her husband came to this country.,aug_1,0,1,1,1
+SofS,c05,"August 1, 1847",She and her husband have not been in this country long — just three years.,aug_2,0,1,1,1
+SofS,c05,"August 1, 1847",“Why have you now decided to accept?” I felt I had no choice then but to explain why I had been torn between going with her and staying in Montreal.,original,0,1,1,1
+SofS,c05,"August 1, 1847","""What changed your mind about accepting?"" I had no choice but to explain the pull I had felt between leaving with her and staying in Montreal.",aug_1,0,1,1,1
+SofS,c05,"August 1, 1847","She asked what had made me decide to accept, and I found I had to be honest about how I had wrestled with leaving her versus staying in Montreal.",aug_2,0,1,1,1
+SofS,c02,"May 1, 1847",The captain came again with his medicine.,original,0,1,1,1
+SofS,c02,"May 1, 1847","The captain made another appearance, this time with his medicine.",aug_1,0,1,1,1
+SofS,c02,"May 1, 1847",He came again — the captain — bringing his medicine as before.,aug_2,0,1,1,1
+SofS,c05,"August 1, 1847",At present they are occupying a small shed that he and Mrs. Hall lived in when they first arrived in this country.,original,0,1,1,1
+SofS,c05,"August 1, 1847",Right now they are staying in a little shed that Mr. and Mrs. Hall themselves lived in when they first set foot in this country.,aug_1,0,1,1,1
+SofS,c05,"August 1, 1847",The shed they currently live in is the very same one Mr. and Mrs. Hall made their first home in when they arrived here.,aug_2,0,1,1,1
+SofS,c02,"May 1, 1847",Da says we were lucky to be on deck where people could be sick over the side of the vessel.,original,0,1,1,1
+SofS,c02,"May 1, 1847","Being up on deck was fortunate, Da tells us, since those who were ill could vomit over the ship's side.",aug_1,0,1,1,1
+SofS,c02,"May 1, 1847",Da points out that we were lucky on deck — anyone who fell ill could be sick over the edge of the vessel.,aug_2,0,1,1,1
+SofS,c02,"May 1, 1847","The captain told Da that the storm was as bad as any he has ever seen, and it must be a good omen that no one was lost in it.",original,0,1,1,1
+SofS,c02,"May 1, 1847","The captain told Da that the storm was among the worst he had witnessed, and that no lives being lost in it was a good sign indeed.",aug_1,0,1,1,1
+SofS,c02,"May 1, 1847","According to what the captain told Da, it was one of the most terrible storms he had ever seen, and coming through it with everyone alive had to be a good omen.",aug_2,0,1,1,1
+SofS,c05,"August 1, 1847","Finally Mrs. Hall said that she would return in two days and that if I was willing to go with her, the position was mine.",original,0,1,1,1
+SofS,c05,"August 1, 1847",In the end Mrs. Hall told me she would come back in two days and the position would be mine if I chose to go with her.,aug_1,0,1,1,1
+SofS,c05,"August 1, 1847",Mrs. Hall settled the matter by saying she would return in two days and the job was mine if I said yes.,aug_2,0,1,1,1
+SofS,c09,"December 1, 1847",He told me that Michael had left Montreal and gone back to Uncle Liam’s farm.,original,0,1,1,1
+SofS,c09,"December 1, 1847","I learnt that Michael had packed up and left Montreal, heading back to Uncle Liam's farm.",aug_1,0,1,1,1
+SofS,c09,"December 1, 1847","Michael had gone — left Montreal and returned to Uncle Liam's farm, he told me.",aug_2,0,1,1,1
+SofS,c06,"September 1, 1847",She hastened to add that she is not one of those people and that she does not blame the immigrants themselves for their plight.,original,0,1,1,1
+SofS,c06,"September 1, 1847",She quickly added that she herself was not that sort of person and did not hold the immigrants responsible for their suffering.,aug_1,0,1,1,1
+SofS,c06,"September 1, 1847",She was careful to say that she does not number herself among those people and lays no blame on the immigrants for what has befallen them.,aug_2,0,1,1,1
+SofS,c08,"November 4, 1847","While children enjoy my stories, grown-ups in this country do not seem to approve.",original,1,1,1,1
+SofS,c08,"November 4, 1847","Children take pleasure in my stories, but grown-ups here seem unwilling to give their approval.",aug_1,1,1,1,1
+SofS,c08,"November 4, 1847","My stories please the children, yet the adults in this country appear not to think well of them.",aug_2,1,1,1,1
+SofS,c05,"August 1, 1847","When I said yes, she looked at me for a moment and said I would be better off using my book for reflecting on my own life rather than noting down gossip about ladies like Mrs. Johnson.",original,1,0,1,0
+SofS,c05,"August 1, 1847","When I said yes, she studied me for a moment and told me I would do better to use my book to reflect on my own life rather than jotting down gossip about ladies like Mrs. Johnson.",aug_1,1,0,1,0
+SofS,c05,"August 1, 1847","She paused and looked at me after I said yes, then said my book would serve me better as a record of my own life than as a place for gossip about the likes of Mrs. Johnson.",aug_2,1,0,1,0
+SofS,c03,"June 1, 1847",If only we had not been reduced to this.” Da says “if only” is easy to say but difficult to predict.,original,0,0,1,0
+SofS,c03,"June 1, 1847","""If only we had not been brought so low."" Da says ""if only"" comes easily enough but is impossible to foresee.",aug_1,0,0,1,0
+SofS,c03,"June 1, 1847","""If only it had not come to this."" Da's reply: ""if only"" is simple to say, but no one can predict what is coming.",aug_2,0,0,1,0
+SofS,c08,"November 4, 1847",She has never been separated from both of them at the same time.,original,0,0,1,0
+SofS,c08,"November 4, 1847",Never before has she been parted from both of them simultaneously.,aug_1,0,0,1,0
+SofS,c08,"November 4, 1847",Not once has she had to be away from both of them at the same time.,aug_2,0,0,1,0
+SofS,c04,"July 3, 1847","“I see,” she said, still in her haughty tone.",original,1,0,1,0
+SofS,c04,"July 3, 1847","""I see,"" she replied, her haughty tone unchanged.",aug_1,1,0,1,0
+SofS,c04,"July 3, 1847","She said nothing more than ""I see,"" her voice still carrying that same air of haughtiness.",aug_2,1,0,1,0
+SofS,c02,"May 1, 1847",Fifty folk are said to be dying each day in one county.,original,0,0,1,0
+SofS,c02,"May 1, 1847","In one county alone, fifty people are said to be dying every single day.",aug_1,0,0,1,0
+SofS,c02,"May 1, 1847",Reports say as many as fifty people a day are dying in a single county.,aug_2,0,0,1,0
+SofS,c04,"July 3, 1847","I promised to care for him, and now he is gone.",original,0,0,1,0
+SofS,c04,"July 3, 1847","I made him a promise that I would look after him, and now he is gone.",aug_1,0,0,1,0
+SofS,c04,"July 3, 1847","He is gone now, and I had given him my word that I would keep him safe.",aug_2,0,0,1,0
+SofS,c07,"October 2, 1847",Her face is as white as Mrs. Lyon’s apron but for the two apple-red fever spots on her little cheeks.,original,1,0,1,0
+SofS,c07,"October 2, 1847","Her face is as pale as Mrs. Lyon's apron, broken only by two bright red fever spots on her little cheeks.",aug_1,1,0,1,0
+SofS,c07,"October 2, 1847","Two apple-red fever spots stand out against her face, which is otherwise as white as Mrs. Lyon's apron.",aug_2,1,0,1,0
+SofS,c04,"July 3, 1847",All I could think about was Ma dying alone in that terrible place.,original,0,0,1,1
+SofS,c04,"July 3, 1847","The only thought in my head was of Ma, dying alone in that dreadful place.",aug_1,0,0,1,1
+SofS,c04,"July 3, 1847",Ma dying alone in that terrible place — it was all I could think of.,aug_2,0,0,1,1
+SofS,c08,"November 4, 1847","Lucy ran to her, crying, and wrapped her arms around her mother’s legs, sobbing
+ that Papa would be angry when he saw his watch chain.",original,0,0,1,0
+SofS,c08,"November 4, 1847","Lucy ran to her mother in tears, wrapping her arms around her legs and sobbing that Papa would be furious when he saw what had happened to his watch chain.",aug_1,0,0,1,0
+SofS,c08,"November 4, 1847","Crying, Lucy rushed to her mother and clung to her legs, sobbing about Papa's anger over the watch chain.",aug_2,0,0,1,0
+SofS,c08,"November 4, 1847","She will not let me take Lucy outside, saying I am needed to mind my chores.",original,1,0,1,0
+SofS,c08,"November 4, 1847","She refuses to let me take Lucy outside, insisting I am needed for my household duties.",aug_1,1,0,1,0
+SofS,c08,"November 4, 1847","Taking Lucy outside is something she will not allow, saying my chores require my attention.",aug_2,1,0,1,0
+SofS,c03,"June 1, 1847",He says her heart is broken because of Patrick.,original,0,0,1,0
+SofS,c03,"June 1, 1847","Patrick has broken her heart, he says.",aug_1,0,0,1,0
+SofS,c03,"June 1, 1847",Her heart is broken because of Patrick — that is what he says.,aug_2,0,0,1,0
+SofS,c03,"June 1, 1847","Daniel, who is only three, buries his head in Connor’s chest every time Kerry growls like a bear.",original,1,0,1,0
+SofS,c03,"June 1, 1847","Little Daniel, just three years old, buries his face in Connor's chest every time Kerry growls like a bear.",aug_1,1,0,1,0
+SofS,c03,"June 1, 1847","Each time Kerry lets out a bear-like growl, Daniel — only three — hides his face against Connor's chest.",aug_2,1,0,1,0
+SofS,c07,"October 2, 1847","He told her that she must be strong, if only for Lucy, who is as quiet as can be and as pale as her mother.",original,1,0,1,0
+SofS,c07,"October 2, 1847","He told her she had to be strong, if only for the sake of Lucy, who is silent and pale as her own mother.",aug_1,1,0,1,0
+SofS,c07,"October 2, 1847","She must stay strong, he said — for Lucy at least, who is every bit as quiet and pale as her mother.",aug_2,1,0,1,0
+SofS,c03,"June 1, 1847",They demand to be put ashore.,original,1,0,1,1
+SofS,c03,"June 1, 1847",They are insisting on being let off the ship.,aug_1,1,0,1,1
+SofS,c03,"June 1, 1847",Their demand is to be put ashore immediately.,aug_2,1,0,1,1
+SofS,c05,"August 1, 1847",And it is mine and mine alone!,original,0,0,1,0
+SofS,c05,"August 1, 1847",And it belongs to me and no one else!,aug_1,0,0,1,0
+SofS,c05,"August 1, 1847",It is entirely and only mine!,aug_2,0,0,1,0
+SofS,c02,"May 1, 1847","Last year when things got bad, she had to sell or trade everything we had of value — it was the only way to pay our debts and buy food.",original,0,0,1,0
+SofS,c02,"May 1, 1847","Last year, when things grew desperate, she had no choice but to sell or trade everything of any value we owned — it was the only means of paying our debts and keeping food on the table.",aug_1,0,0,1,0
+SofS,c02,"May 1, 1847","When things turned bad last year, selling or trading everything of worth was the only way she could settle our debts and put food in our mouths.",aug_2,0,0,1,0
+SofS,c03,"June 1, 1847",Our Patrick is gone.,original,0,0,1,0
+SofS,c03,"June 1, 1847",Patrick has left us.,aug_1,0,0,1,0
+SofS,c03,"June 1, 1847",Our Patrick is no longer with us.,aug_2,0,0,1,0
+SofS,c04,"July 3, 1847","Her first words to me were, “I am sorry, Johanna.” I drew in a deep breath to prepare myself for what was to come, for if she had good news for me
+ she would not say she was sorry and she would not have looked so sad.",original,0,0,1,0
+SofS,c04,"July 3, 1847","""I am sorry, Johanna,"" were her first words to me. I braced myself for what was coming, because if her news had been good she would not have said sorry and her face would not have been so heavy with sadness.",aug_1,0,0,1,0
+SofS,c04,"July 3, 1847","She opened with ""I am sorry, Johanna,"" and I took a slow breath to steel myself, knowing that good news does not come wearing that expression.",aug_2,0,0,1,0
+SofS,c04,"July 3, 1847","“You should be ashamed of yourself,” I told him.",original,1,0,1,0
+SofS,c04,"July 3, 1847","""You ought to be ashamed,"" I said to him.",aug_1,1,0,1,0
+SofS,c04,"July 3, 1847","""Shame on you,"" I told him plainly.",aug_2,1,0,1,0
+SofS,c04,"July 3, 1847","Daniel, for his part, was kicking
+ against the man as hard as he could, but he is so small and weak that he was no more threatening than a squirming kitten.",original,0,0,1,0
+SofS,c04,"July 3, 1847","Daniel kicked against the man with all his might, but he is so young and slight that he posed no more threat than a wriggling kitten.",aug_1,0,0,1,0
+SofS,c04,"July 3, 1847","As hard as Daniel kicked at the man, he was too small and too weak — he was about as dangerous as a squirming kitten.",aug_2,0,0,1,0
+SofS,c04,"July 3, 1847",She finished by saying that her mother says that this proves they brought their misery on themselves.,original,1,0,1,0
+SofS,c04,"July 3, 1847",She concluded by saying that her mother believes this proves they brought their own misery upon themselves.,aug_1,1,0,1,0
+SofS,c04,"July 3, 1847",Her final words were that her mother takes this as proof that they are to blame for the misery they are in.,aug_2,1,0,1,0
+SofS,c02,"May 1, 1847",We were not allowed to have even one candle for fear of fire.,original,0,0,1,0
+SofS,c02,"May 1, 1847","Not even a single candle was permitted to us, for fear it might cause a fire.",aug_1,0,0,1,0
+SofS,c02,"May 1, 1847",We were denied even one candle — fire was too great a risk.,aug_2,0,0,1,0
+SofS,c03,"June 1, 1847","As well, people continue to complain about the food.",original,1,0,1,0
+SofS,c03,"June 1, 1847",People have not stopped complaining about the food either.,aug_1,1,0,1,0
+SofS,c03,"June 1, 1847",The complaints about the food continue unabated.,aug_2,1,0,1,0
+SofS,c08,"November 4, 1847","She told me to gather my things, for I was dismissed immediately.",original,0,0,1,0
+SofS,c08,"November 4, 1847","She ordered me to gather my belongings, as I was to leave at once.",aug_1,0,0,1,0
+SofS,c08,"November 4, 1847","Collect my things and go — that was her order, effective immediately.",aug_2,0,0,1,0
+SofS,c08,"November 4, 1847",Her open hand struck my cheek with a sound like the report of a gun.,original,1,0,1,0
+SofS,c08,"November 4, 1847",Her open palm hit my cheek with a crack like a gunshot.,aug_1,1,0,1,0
+SofS,c08,"November 4, 1847",The slap of her open hand against my cheek rang out like the crack of a pistol.,aug_2,1,0,1,0
+SofS,c04,"July 3, 1847","My arms were so sore that I dropped two pots, one of soup and the other of gravy, one right after the other.",original,1,0,1,0
+SofS,c04,"July 3, 1847","My arms ached so badly that I dropped two pots in a row — one of soup, then one of gravy.",aug_1,1,0,1,0
+SofS,c04,"July 3, 1847","The pain in my arms was such that I let fall two pots one after the other, first the soup and then the gravy.",aug_2,1,0,1,0
+SofS,c03,"June 1, 1847","But now that he is gone, our berth seems so quiet and empty, and Ma does not seem to know what to do with herself.",original,0,0,1,1
+SofS,c03,"June 1, 1847","But with him gone, the berth feels so still and hollow, and Ma seems lost without knowing what to do with herself.",aug_1,0,0,1,1
+SofS,c03,"June 1, 1847","Now that he is no longer here, a terrible quiet and emptiness has settled over our berth, and Ma seems at a complete loss.",aug_2,0,0,1,1
+SofS,c09,"December 1, 1847","It was only then that I thought of Connor’s brother Kerry, who had been taken off the ship at Grosse Isle.",original,0,0,1,1
+SofS,c09,"December 1, 1847","Only then did my thoughts turn to Connor's brother Kerry, who had been taken from the ship at Grosse Isle.",aug_1,0,0,1,1
+SofS,c09,"December 1, 1847","It was not until that moment that I remembered Connor's brother Kerry, removed from the ship back at Grosse Isle.",aug_2,0,0,1,1
+SofS,c04,"July 3, 1847","I am writing this in Montreal, and my heart still aches with a greater sadness than I have ever known.",original,0,0,1,1
+SofS,c04,"July 3, 1847","These words are written in Montreal, and a sadness heavier than any I have ever carried still fills my heart.",aug_1,0,0,1,1
+SofS,c04,"July 3, 1847","I write this from Montreal, my heart still heavy with a grief deeper than anything I have felt before.",aug_2,0,0,1,1
+SofS,c02,"May 1, 1847",What if it were overwhelmed by waves?,original,0,0,1,1
+SofS,c02,"May 1, 1847",What would happen if the waves swallowed it whole?,aug_1,0,0,1,1
+SofS,c02,"May 1, 1847",And what if the waves were to overwhelm it entirely?,aug_2,0,0,1,1
+SofS,c02,"May 1, 1847",Uncle Liam writes that he dines like a king on wheat bread with butter made from the milk of his own cows and on eggs from the chickens he keeps.,original,0,0,1,1
+SofS,c02,"May 1, 1847",Uncle Liam writes that he eats like royalty — wheat bread with butter from his own cows' milk and eggs from the hens he keeps.,aug_1,0,0,1,1
+SofS,c02,"May 1, 1847","In his letter, Uncle Liam says he dines like a king on homemade butter, wheat bread, and eggs from his own chickens.",aug_2,0,0,1,1
+SofS,c03,"June 1, 1847",Word came below late in the day that one of the sailors had died of the fever and was sent into the sea.,original,0,0,1,1
+SofS,c03,"June 1, 1847",Word reached us below late in the afternoon that a sailor had succumbed to the fever and been committed to the sea.,aug_1,0,0,1,1
+SofS,c03,"June 1, 1847",Late in the day the news filtered down to us that one of the sailors had died of fever and been given to the ocean.,aug_2,0,0,1,1
+SofS,c02,"May 1, 1847",It is whispered that fear of ship’s fever fills his mind.,original,0,0,1,1
+SofS,c02,"May 1, 1847",It is said in hushed tones that ship's fever has taken hold of his thoughts.,aug_1,0,0,1,1
+SofS,c02,"May 1, 1847",Whispers have it that the fear of ship's fever has consumed him.,aug_2,0,0,1,1
+SofS,c05,"August 1, 1847","She did not know either, but a doctor who overheard my question said that because of the sickness, business and travel about the city have suffered, and the city’s merchants, save the coffin makers, are complaining that something must be done or the city will be ruined.",original,0,0,1,1
+SofS,c05,"August 1, 1847","She did not know either, but a doctor who happened to overhear told us that the illness had taken a toll on trade and movement through the city, and that every merchant except the coffin makers was clamoring for something to be done before the city's ruin was complete.",aug_1,0,0,1,1
+SofS,c05,"August 1, 1847","Neither did she, but a nearby doctor explained that sickness had crippled the city's business and travel, and that every merchant save the coffin makers was demanding action before the city was destroyed.",aug_2,0,0,1,1
+SofS,c03,"June 1, 1847","As her husband was buried at sea, the children have no one to look after them, and she worries what will become of them.",original,0,0,1,1
+SofS,c03,"June 1, 1847","With her husband buried at sea, there is no one to care for her children, and she fears for their future.",aug_1,0,0,1,1
+SofS,c03,"June 1, 1847","Her husband's burial at sea has left her children with no one to look after them, and she is sick with worry about what will become of them.",aug_2,0,0,1,1
+SofS,c05,"August 1, 1847","She called us “a nation of beggars and improvident creatures.” The gentleman protested that the potato crop
+ had been ruined for two years in a row and that people were starving not out of laziness but from lack of food.",original,0,0,1,1
+SofS,c05,"August 1, 1847","She called us ""a nation of beggars and improvident creatures."" A gentleman pushed back, pointing out that the potato crop had failed two years running and that hunger — not laziness — was what was killing people.",aug_1,0,0,1,1
+SofS,c05,"August 1, 1847","""A nation of beggars and improvident creatures"" was how she described us. A gentleman objected, noting that two straight years of failed potato crops had left people starving through no fault of their own.",aug_2,0,0,1,1
+SofS,c04,"July 3, 1847","But then I began to worry that the steamer would sail without me, carrying Da and
+ Michael away to Montreal where I would never find them.",original,0,0,1,1
+SofS,c04,"July 3, 1847","But then the fear crept in that the steamer might leave without me, taking Da and Michael off to Montreal where I would lose them entirely.",aug_1,0,0,1,1
+SofS,c04,"July 3, 1847","A dread came over me that the steamer would sail before I could board, carrying Da and Michael away to Montreal where I might never find them.",aug_2,0,0,1,1
+SofS,c05,"August 1, 1847","Despite the sisters’ best efforts, people continue to arrive ill and many die each day.",original,0,0,1,1
+SofS,c05,"August 1, 1847","For all the sisters' tireless work, people keep arriving in a wretched state and many die every day.",aug_1,0,0,1,1
+SofS,c05,"August 1, 1847","Despite everything the sisters do, the sick keep coming and deaths occur daily.",aug_2,0,0,1,1
+SofS,c04,"July 3, 1847",This is not the great adventure I had expected.,original,1,0,1,1
+SofS,c04,"July 3, 1847",This is nothing at all like the great adventure I had imagined it would be.,aug_1,1,0,1,1
+SofS,c04,"July 3, 1847",The great adventure I had expected — this is not it.,aug_2,1,0,1,1
+SofS,c04,"July 3, 1847","It was a crew member who, with one of his mates, was removing a passenger who had died in the night.",original,0,0,1,1
+SofS,c04,"July 3, 1847","It was a crew member who, together with a mate, was carrying away a passenger who had died during the night.",aug_1,0,0,1,1
+SofS,c04,"July 3, 1847","One of the crew, with help from a companion, was removing a passenger who had not survived the night.",aug_2,0,0,1,1
+SofS,c09,"December 1, 1847","Connor said he had been welcomed and fairly treated when he’d first arrived as an orphan, but soon found himself just one Irish lad among thousands who stood accused of stealing jobs from the people of Montreal and undercutting their wages by agreeing to work for whatever an employer might offer.",original,0,0,1,1
+SofS,c09,"December 1, 1847","Connor said he had been made welcome and treated fairly when he first came as an orphan, but before long found himself just one Irish boy among thousands accused of taking jobs from Montreal's people and driving down wages by accepting whatever pay any employer would offer.",aug_1,0,0,1,1
+SofS,c09,"December 1, 1847","When he first arrived as an orphan he was welcomed and treated well, Connor said, but soon enough he was simply another Irish lad in a crowd of thousands, blamed for stealing work from locals and undercutting wages by taking whatever a boss would pay.",aug_2,0,0,1,1
+SofS,c02,"May 1, 1847","Many were sick during the storm, and none of the waste could be emptied.",original,0,0,1,1
+SofS,c02,"May 1, 1847","The storm left many sick, and none of the waste could be cleared away.",aug_1,0,0,1,1
+SofS,c02,"May 1, 1847",Sickness swept through during the storm and there was no way to empty any of the waste.,aug_2,0,0,1,1
+SofS,c05,"August 1, 1847",He added that there are some people in the city who would like to ship all the Irish back to their landlords and would do it in a trice if there were a way that would not cost them anything.,original,0,0,1,1
+SofS,c05,"August 1, 1847",He added that there are people in the city who would gladly send every Irish person back to their landlords and would do so without a second thought if it could be arranged at no cost to themselves.,aug_1,0,0,1,1
+SofS,c05,"August 1, 1847","Some people in the city, he went on, would ship all the Irish straight back to their landlords in a heartbeat — provided it cost them nothing.",aug_2,0,0,1,1
+SofS,c02,"May 1, 1847",What if I fell overboard?,original,1,0,1,1
+SofS,c02,"May 1, 1847",What if I were to tumble into the sea?,aug_1,1,0,1,1
+SofS,c02,"May 1, 1847",The thought of going overboard terrified me.,aug_2,1,0,1,1
+SofS,c03,"June 1, 1847",Annie Malone in the berth below us shivers under her shawl despite the sweltering heat in the hold.,original,0,0,1,1
+SofS,c03,"June 1, 1847","In the berth below ours, Annie Malone trembles under her shawl despite the suffocating heat down in the hold.",aug_1,0,0,1,1
+SofS,c03,"June 1, 1847","Annie Malone, in the berth just beneath us, shivers beneath her shawl even in the sweltering heat of the hold.",aug_2,0,0,1,1
+SofS,c02,"May 1, 1847","Steamer
+ is not such a fine word after all.",original,1,0,1,1
+SofS,c02,"May 1, 1847",Steamer turns out to be not such a fine word as it sounded.,aug_1,1,0,1,1
+SofS,c02,"May 1, 1847",The word steamer is not quite so pleasing a thing as it seemed.,aug_2,1,0,1,1
+SofS,c07,"October 2, 1847","I have none when I think of my dear ma and wee Patrick, who found their rest in the deep, dark sea.",original,0,0,1,1
+SofS,c07,"October 2, 1847","When I think of my dear ma and little Patrick, who found their rest in the dark depths of the sea, I have none left.",aug_1,0,0,1,1
+SofS,c07,"October 2, 1847","Thinking of my dear ma and wee Patrick, both at rest in the deep dark sea, takes whatever peace I might have had.",aug_2,0,0,1,1
+SofS,c03,"June 1, 1847",Ma stayed in the berth all day with her face to the wall and did not even attend services.,original,0,0,1,1
+SofS,c03,"June 1, 1847","Ma lay in the berth all day long, her face turned to the wall, not even rising for the church service.",aug_1,0,0,1,1
+SofS,c03,"June 1, 1847",All day Ma kept to the berth with her face toward the wall and did not stir even for services.,aug_2,0,0,1,1
+SofS,c02,"May 1, 1847",The weather coming across to England was foul.,original,0,0,1,1
+SofS,c02,"May 1, 1847",The crossing over to England was made in foul weather.,aug_1,0,0,1,1
+SofS,c02,"May 1, 1847",Foul weather was what we had on the voyage across to England.,aug_2,0,0,1,1
+SofS,c03,"June 1, 1847","When his body was finally put into the ocean, Mrs. Kelleher rushed to the side of the ship to follow him.",original,0,0,1,1
+SofS,c03,"June 1, 1847","When they finally put his body into the sea, Mrs. Kelleher ran to the ship's edge as if to throw herself in after him.",aug_1,0,0,1,1
+SofS,c03,"June 1, 1847","As his body was finally committed to the ocean, Mrs. Kelleher rushed to the rail, as though she meant to follow him in.",aug_2,0,0,1,1
+SofS,c02,"May 1, 1847","Many are grumbling that the absence of illness is a miracle, so poor is the food that the shipping company has provided.",original,0,0,1,1
+SofS,c02,"May 1, 1847","There are many grumbling that it is a miracle nobody has fallen ill yet, so poor is the food the shipping company has given us.",aug_1,0,0,1,1
+SofS,c02,"May 1, 1847","People are muttering that avoiding sickness this long is a miracle, given how wretched the food from the shipping company has been.",aug_2,0,0,1,1
+SofS,c02,"May 1, 1847","Now that the ship is underway, many people are sick.",original,0,0,1,1
+SofS,c02,"May 1, 1847","Now that the ship has put to sea, sickness is spreading among many on board.",aug_1,0,0,1,1
+SofS,c02,"May 1, 1847",Many passengers have fallen ill now that the ship is underway.,aug_2,0,0,1,1
+SofS,c04,"July 3, 1847","I wish we were still back
+ home or at least that we had found a place to stay in England.",original,0,0,1,1
+SofS,c04,"July 3, 1847","I wish we had never left home, or at the very least had managed to find somewhere to stay in England.",aug_1,0,0,1,1
+SofS,c04,"July 3, 1847",If only we were still at home — or had at least been able to settle somewhere in England.,aug_2,0,0,1,1
