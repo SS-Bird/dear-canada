@@ -1,0 +1,395 @@
+[
+  {
+    "health_state_id": "hs_michael_leary_da_chc02_e7_0",
+    "mechanism": "other",
+    "condition_name": "fever",
+    "condition_name_history": [
+      "seasickness",
+      "fever"
+    ],
+    "first_entry": "chc02_e7"
+  },
+  {
+    "health_state_id": "hs_ma_chc02_e7_1",
+    "mechanism": "other",
+    "condition_name": "ship fever",
+    "condition_name_history": [
+      "seasickness",
+      "illness",
+      "fever",
+      "ship fever"
+    ],
+    "first_entry": "chc02_e7"
+  },
+  {
+    "health_state_id": "hs_johanna_leary_chc02_e8_2",
+    "mechanism": "disease",
+    "condition_name": "queasiness",
+    "condition_name_history": [
+      "seasickness",
+      "queasiness"
+    ],
+    "first_entry": "chc02_e8"
+  },
+  {
+    "health_state_id": "hs_mr_tattersall_chc02_e17_3",
+    "mechanism": "disease",
+    "condition_name": "fever",
+    "condition_name_history": [
+      "feeling poorly",
+      "fever"
+    ],
+    "first_entry": "chc02_e17"
+  },
+  {
+    "health_state_id": "hs_mrs_donnell_chc02_e19_4",
+    "mechanism": "disease",
+    "condition_name": "aches and fever",
+    "condition_name_history": [
+      "aches and fever"
+    ],
+    "first_entry": "chc02_e19"
+  },
+  {
+    "health_state_id": "hs_two_more_passengers_chc02_e22_5",
+    "mechanism": "other",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc02_e22"
+  },
+  {
+    "health_state_id": "hs_more_people_chc02_e22_6",
+    "mechanism": "other",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc02_e22"
+  },
+  {
+    "health_state_id": "hs_mr_keenan_chc03_e1_7",
+    "mechanism": "disease",
+    "condition_name": "the fever",
+    "condition_name_history": [
+      "the fever"
+    ],
+    "first_entry": "chc03_e1"
+  },
+  {
+    "health_state_id": "hs_colleen_keenan_chc03_e1_8",
+    "mechanism": "disease",
+    "condition_name": "the fever",
+    "condition_name_history": [
+      "the fever"
+    ],
+    "first_entry": "chc03_e1"
+  },
+  {
+    "health_state_id": "hs_eileen_cairns_chc03_e2_9",
+    "mechanism": "disease",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc03_e2"
+  },
+  {
+    "health_state_id": "hs_thomas_kelleher_chc03_e2_10",
+    "mechanism": "disease",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc03_e2"
+  },
+  {
+    "health_state_id": "hs_patrick_chc03_e2_11",
+    "mechanism": "disease",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc03_e2"
+  },
+  {
+    "health_state_id": "hs_kevin_keenan_chc03_e3_12",
+    "mechanism": "disease",
+    "condition_name": "feeling poorly",
+    "condition_name_history": [
+      "feeling poorly"
+    ],
+    "first_entry": "chc03_e3"
+  },
+  {
+    "health_state_id": "hs_kerry_keenan_chc03_e3_13",
+    "mechanism": "disease",
+    "condition_name": "feeling poorly",
+    "condition_name_history": [
+      "feeling poorly"
+    ],
+    "first_entry": "chc03_e3"
+  },
+  {
+    "health_state_id": "hs_connor_s_father_chc03_e4_14",
+    "mechanism": "disease",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc03_e4"
+  },
+  {
+    "health_state_id": "hs_mrs_kelleher_chc03_e4_15",
+    "mechanism": "disease",
+    "condition_name": "fever",
+    "condition_name_history": [
+      "fever"
+    ],
+    "first_entry": "chc03_e4"
+  },
+  {
+    "health_state_id": "hs_people_chc03_e7_16",
+    "mechanism": "other",
+    "condition_name": "illness",
+    "condition_name_history": [
+      "illness"
+    ],
+    "first_entry": "chc03_e7"
+  },
+  {
+    "health_state_id": "hs_one_of_the_sailors_chc03_e9_17",
+    "mechanism": "disease",
+    "condition_name": "the fever",
+    "condition_name_history": [
+      "the fever"
+    ],
+    "first_entry": "chc03_e9"
+  },
+  {
+    "health_state_id": "hs_mrs_keenan_chc03_e15_18",
+    "mechanism": "disease",
+    "condition_name": "illness",
+    "condition_name_history": [
+      "illness"
+    ],
+    "first_entry": "chc03_e15"
+  },
+  {
+    "health_state_id": "hs_connor_chc03_e21_19",
+    "mechanism": "violence",
+    "condition_name": "struck unconscious",
+    "condition_name_history": [
+      "struck unconscious"
+    ],
+    "first_entry": "chc03_e21"
+  },
+  {
+    "health_state_id": "hs_michael_leary_da_chc04_e11_20",
+    "mechanism": "disease",
+    "condition_name": "fever",
+    "condition_name_history": [
+      "fever"
+    ],
+    "first_entry": "chc04_e11"
+  },
+  {
+    "health_state_id": "hs_johanna_leary_chc05_e4_21",
+    "mechanism": "violence",
+    "condition_name": "slapped face",
+    "condition_name_history": [
+      "slap",
+      "slapped face"
+    ],
+    "first_entry": "chc05_e4"
+  },
+  {
+    "health_state_id": "hs_mrs_johnson_chc05_e4_22",
+    "mechanism": "violence",
+    "condition_name": "slap",
+    "condition_name_history": [
+      "slap"
+    ],
+    "first_entry": "chc05_e4"
+  },
+  {
+    "health_state_id": "hs_eileen_cairns_chc05_e6_23",
+    "mechanism": "violence",
+    "condition_name": "beating",
+    "condition_name_history": [
+      "beating"
+    ],
+    "first_entry": "chc05_e6"
+  },
+  {
+    "health_state_id": "hs_catherine_hall_chc05_e6_24",
+    "mechanism": "disease",
+    "condition_name": "illness",
+    "condition_name_history": [
+      "illness"
+    ],
+    "first_entry": "chc05_e6"
+  },
+  {
+    "health_state_id": "hs_her_husband_chc05_e11_25",
+    "mechanism": "other",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc05_e11"
+  },
+  {
+    "health_state_id": "hs_her_third_child_chc05_e11_26",
+    "mechanism": "other",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc05_e11"
+  },
+  {
+    "health_state_id": "hs_a_girl_chc05_e19_27",
+    "mechanism": "disease",
+    "condition_name": "fever",
+    "condition_name_history": [
+      "fever"
+    ],
+    "first_entry": "chc05_e19"
+  },
+  {
+    "health_state_id": "hs_two_little_sisters_chc05_e19_28",
+    "mechanism": "starvation",
+    "condition_name": "hunger",
+    "condition_name_history": [
+      "hunger"
+    ],
+    "first_entry": "chc05_e19"
+  },
+  {
+    "health_state_id": "hs_two_little_sisters_chc05_e19_29",
+    "mechanism": "disease",
+    "condition_name": "fever",
+    "condition_name_history": [
+      "fever"
+    ],
+    "first_entry": "chc05_e19"
+  },
+  {
+    "health_state_id": "hs_his_da_chc05_e19_30",
+    "mechanism": "starvation",
+    "condition_name": "want of food",
+    "condition_name_history": [
+      "want of food"
+    ],
+    "first_entry": "chc05_e19"
+  },
+  {
+    "health_state_id": "hs_his_ma_chc05_e19_31",
+    "mechanism": "disease",
+    "condition_name": "fever",
+    "condition_name_history": [
+      "fever"
+    ],
+    "first_entry": "chc05_e19"
+  },
+  {
+    "health_state_id": "hs_catherine_hall_chc06_e11_32",
+    "mechanism": "disease",
+    "condition_name": "fever",
+    "condition_name_history": [
+      "feverish and vomiting",
+      "fever"
+    ],
+    "first_entry": "chc06_e11"
+  },
+  {
+    "health_state_id": "hs_a_little_boy_chc06_e13_33",
+    "mechanism": "disease",
+    "condition_name": "fever",
+    "condition_name_history": [
+      "fever"
+    ],
+    "first_entry": "chc06_e13"
+  },
+  {
+    "health_state_id": "hs_a_brother_chc07_e2_34",
+    "mechanism": "other",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc07_e2"
+  },
+  {
+    "health_state_id": "hs_a_sister_chc07_e2_35",
+    "mechanism": "other",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc07_e2"
+  },
+  {
+    "health_state_id": "hs_catherine_hall_chc07_e4_36",
+    "mechanism": "disease",
+    "condition_name": "fever",
+    "condition_name_history": [
+      "fever"
+    ],
+    "first_entry": "chc07_e4"
+  },
+  {
+    "health_state_id": "hs_a_man_chc07_e5_37",
+    "mechanism": "accident",
+    "condition_name": "trampled by a team of oxen",
+    "condition_name_history": [
+      "trampled by a team of oxen"
+    ],
+    "first_entry": "chc07_e5"
+  },
+  {
+    "health_state_id": "hs_her_nephew_chc07_e12_38",
+    "mechanism": "accident",
+    "condition_name": "thrown from a horse",
+    "condition_name_history": [
+      "thrown from a horse"
+    ],
+    "first_entry": "chc07_e12"
+  },
+  {
+    "health_state_id": "hs_mr_fenton_chc08_e1_39",
+    "mechanism": "accident",
+    "condition_name": "torn skin from a nail frozen to his hand",
+    "condition_name_history": [
+      "torn skin from a nail frozen to his hand"
+    ],
+    "first_entry": "chc08_e1"
+  },
+  {
+    "health_state_id": "hs_mrs_hall_chc08_e4_40",
+    "mechanism": "other",
+    "condition_name": "nervous state",
+    "condition_name_history": [
+      "nervous state"
+    ],
+    "first_entry": "chc08_e4"
+  },
+  {
+    "health_state_id": "hs_mr_webley_chc08_e7_41",
+    "mechanism": "accident",
+    "condition_name": null,
+    "condition_name_history": [],
+    "first_entry": "chc08_e7"
+  },
+  {
+    "health_state_id": "hs_mr_hall_chc08_e7_42",
+    "mechanism": "accident",
+    "condition_name": "infected crushed arm (amputated)",
+    "condition_name_history": [
+      "crushed right side of body, badly injured arm",
+      "leg broken in many places",
+      "infected crushed arm (amputated)"
+    ],
+    "first_entry": "chc08_e7"
+  },
+  {
+    "health_state_id": "hs_mr_webley_chc08_e8_43",
+    "mechanism": "accident",
+    "condition_name": "crushed by falling logs",
+    "condition_name_history": [
+      "crushed by falling logs"
+    ],
+    "first_entry": "chc08_e8"
+  },
+  {
+    "health_state_id": "hs_marie_france_chc09_e11_44",
+    "mechanism": "disease",
+    "condition_name": "the fever",
+    "condition_name_history": [
+      "the fever"
+    ],
+    "first_entry": "chc09_e11"
+  }
+]

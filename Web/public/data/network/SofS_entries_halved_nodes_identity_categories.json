@@ -1,0 +1,337 @@
+[
+  {
+    "identity_category_id": "ic_bringing_disease_to_their_towns",
+    "raw_text": "bringing disease to their towns",
+    "first_mentioned_entry": "chc03_e17"
+  },
+  {
+    "identity_category_id": "ic_irish_lords_shovelling_their_garbage_into_canada",
+    "raw_text": "Irish lords shovelling their garbage into Canada",
+    "first_mentioned_entry": "chc03_e17"
+  },
+  {
+    "identity_category_id": "ic_the_irish_lords_shovelling_their_garbage_into_canada",
+    "raw_text": "the Irish lords shovelling their garbage into Canada",
+    "first_mentioned_entry": "chc03_e17"
+  },
+  {
+    "identity_category_id": "ic_she_s_a_lad_not_a_lass",
+    "raw_text": "She's a lad, not a lass",
+    "first_mentioned_entry": "chc03_e21"
+  },
+  {
+    "identity_category_id": "ic_his_girl_s_disguise",
+    "raw_text": "his girl's disguise",
+    "first_mentioned_entry": "chc03_e21"
+  },
+  {
+    "identity_category_id": "ic_irish_orphans",
+    "raw_text": "Irish orphans",
+    "first_mentioned_entry": "chc04_e2"
+  },
+  {
+    "identity_category_id": "ic_i_am_not_an_orphan",
+    "raw_text": "I am not an orphan",
+    "first_mentioned_entry": "chc04_e2"
+  },
+  {
+    "identity_category_id": "ic_not_an_orphan",
+    "raw_text": "not an orphan",
+    "first_mentioned_entry": "chc04_e4"
+  },
+  {
+    "identity_category_id": "ic_my_poor_countrymen",
+    "raw_text": "my poor countrymen",
+    "first_mentioned_entry": "chc04_e5"
+  },
+  {
+    "identity_category_id": "ic_they_were_not_irish",
+    "raw_text": "they were not Irish",
+    "first_mentioned_entry": "chc04_e5"
+  },
+  {
+    "identity_category_id": "ic_irish",
+    "raw_text": "Irish",
+    "first_mentioned_entry": "chc04_e8"
+  },
+  {
+    "identity_category_id": "ic_a_banker",
+    "raw_text": "a banker",
+    "first_mentioned_entry": "chc04_e17"
+  },
+  {
+    "identity_category_id": "ic_station",
+    "raw_text": "station",
+    "first_mentioned_entry": "chc04_e18"
+  },
+  {
+    "identity_category_id": "ic_all_irish_believe_in_fairies",
+    "raw_text": "all Irish believe in fairies",
+    "first_mentioned_entry": "chc04_e19"
+  },
+  {
+    "identity_category_id": "ic_a_protestant",
+    "raw_text": "a Protestant",
+    "first_mentioned_entry": "chc04_e19"
+  },
+  {
+    "identity_category_id": "ic_being_irish_immigrants",
+    "raw_text": "being Irish immigrants",
+    "first_mentioned_entry": "chc04_e20"
+  },
+  {
+    "identity_category_id": "ic_the_irish_immigrants",
+    "raw_text": "the Irish immigrants",
+    "first_mentioned_entry": "chc04_e20"
+  },
+  {
+    "identity_category_id": "ic_ethnicity",
+    "raw_text": "ethnicity",
+    "first_mentioned_entry": "chc04_e21"
+  },
+  {
+    "identity_category_id": "ic_religion_folk_belief",
+    "raw_text": "religion/folk belief",
+    "first_mentioned_entry": "chc04_e21"
+  },
+  {
+    "identity_category_id": "ic_heathen_fairy_stories",
+    "raw_text": "heathen fairy stories",
+    "first_mentioned_entry": "chc04_e21"
+  },
+  {
+    "identity_category_id": "ic_irish_are_lazy",
+    "raw_text": "Irish are lazy",
+    "first_mentioned_entry": "chc04_e21"
+  },
+  {
+    "identity_category_id": "ic_irish_nationality",
+    "raw_text": "Irish nationality",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_being_irish_assumed_ignorance",
+    "raw_text": "being Irish / assumed ignorance",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_lazy",
+    "raw_text": "lazy",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_their_sloth",
+    "raw_text": "their sloth",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_a_nation_of_beggars_and_improvident_creatures",
+    "raw_text": "a nation of beggars and improvident creatures",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_lazy_ignorant_creatures",
+    "raw_text": "lazy, ignorant creatures",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_starving_in_ditches",
+    "raw_text": "starving in ditches",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_an_ignorant_thing",
+    "raw_text": "an ignorant thing",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_one_of_the_finest_carpenters_in_the_county",
+    "raw_text": "one of the finest carpenters in the county",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_a_schoolteacher_in_england",
+    "raw_text": "a schoolteacher in England",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_not_ignorant",
+    "raw_text": "not ignorant",
+    "first_mentioned_entry": "chc05_e1"
+  },
+  {
+    "identity_category_id": "ic_poverty_charity",
+    "raw_text": "poverty/charity",
+    "first_mentioned_entry": "chc05_e4"
+  },
+  {
+    "identity_category_id": "ic_filthy_penniless_diseased",
+    "raw_text": "filthy, penniless, diseased",
+    "first_mentioned_entry": "chc05_e4"
+  },
+  {
+    "identity_category_id": "ic_ungrateful_and_ignorant",
+    "raw_text": "ungrateful and ignorant",
+    "first_mentioned_entry": "chc05_e4"
+  },
+  {
+    "identity_category_id": "ic_those_only_out_of_charity",
+    "raw_text": "those only out of charity",
+    "first_mentioned_entry": "chc05_e4"
+  },
+  {
+    "identity_category_id": "ic_a_person_in_my_station",
+    "raw_text": "A person in my station",
+    "first_mentioned_entry": "chc05_e5"
+  },
+  {
+    "identity_category_id": "ic_a_girl_alone_in_the_world",
+    "raw_text": "a girl alone in the world",
+    "first_mentioned_entry": "chc05_e5"
+  },
+  {
+    "identity_category_id": "ic_my_countrymen",
+    "raw_text": "my countrymen",
+    "first_mentioned_entry": "chc05_e9"
+  },
+  {
+    "identity_category_id": "ic_the_irish",
+    "raw_text": "the Irish",
+    "first_mentioned_entry": "chc05_e10"
+  },
+  {
+    "identity_category_id": "ic_valuable_citizens",
+    "raw_text": "valuable citizens",
+    "first_mentioned_entry": "chc05_e10"
+  },
+  {
+    "identity_category_id": "ic_being_irish",
+    "raw_text": "being Irish",
+    "first_mentioned_entry": "chc05_e11"
+  },
+  {
+    "identity_category_id": "ic_fear_of_contagion",
+    "raw_text": "fear of contagion",
+    "first_mentioned_entry": "chc05_e11"
+  },
+  {
+    "identity_category_id": "ic_poverty_class",
+    "raw_text": "poverty/class",
+    "first_mentioned_entry": "chc05_e11"
+  },
+  {
+    "identity_category_id": "ic_lazy_and_the_makers_of_their_own_misfortune",
+    "raw_text": "lazy and the makers of their own misfortune",
+    "first_mentioned_entry": "chc05_e11"
+  },
+  {
+    "identity_category_id": "ic_diseased",
+    "raw_text": "diseased",
+    "first_mentioned_entry": "chc05_e11"
+  },
+  {
+    "identity_category_id": "ic_those_from_the_ships",
+    "raw_text": "those from the ships",
+    "first_mentioned_entry": "chc05_e11"
+  },
+  {
+    "identity_category_id": "ic_little_savages",
+    "raw_text": "little savages",
+    "first_mentioned_entry": "chc05_e15"
+  },
+  {
+    "identity_category_id": "ic_hopeless_with_housework",
+    "raw_text": "hopeless with housework",
+    "first_mentioned_entry": "chc05_e15"
+  },
+  {
+    "identity_category_id": "ic_ignorant_girl",
+    "raw_text": "ignorant girl",
+    "first_mentioned_entry": "chc05_e15"
+  },
+  {
+    "identity_category_id": "ic_english",
+    "raw_text": "English",
+    "first_mentioned_entry": "chc05_e16"
+  },
+  {
+    "identity_category_id": "ic_you_are_irish",
+    "raw_text": "You are Irish",
+    "first_mentioned_entry": "chc05_e19"
+  },
+  {
+    "identity_category_id": "ic_irish_suspected_of_spreading_disease",
+    "raw_text": "Irish, suspected of spreading disease",
+    "first_mentioned_entry": "chc05_e20"
+  },
+  {
+    "identity_category_id": "ic_those_irish",
+    "raw_text": "those Irish",
+    "first_mentioned_entry": "chc05_e20"
+  },
+  {
+    "identity_category_id": "ic_class_social_status",
+    "raw_text": "class/social status",
+    "first_mentioned_entry": "chc06_e15"
+  },
+  {
+    "identity_category_id": "ic_prejudice_against_the_irish",
+    "raw_text": "prejudice against the Irish",
+    "first_mentioned_entry": "chc06_e15"
+  },
+  {
+    "identity_category_id": "ic_a_kinless_stranger",
+    "raw_text": "a kinless stranger",
+    "first_mentioned_entry": "chc07_e11"
+  },
+  {
+    "identity_category_id": "ic_an_irish_girl",
+    "raw_text": "an Irish girl",
+    "first_mentioned_entry": "chc08_e4"
+  },
+  {
+    "identity_category_id": "ic_the_irish_are_lazy_beggars",
+    "raw_text": "the Irish are lazy beggars",
+    "first_mentioned_entry": "chc08_e4"
+  },
+  {
+    "identity_category_id": "ic_you_people_are_no_better_than_animals",
+    "raw_text": "You people are no better than animals",
+    "first_mentioned_entry": "chc08_e4"
+  },
+  {
+    "identity_category_id": "ic_french",
+    "raw_text": "French",
+    "first_mentioned_entry": "chc08_e5"
+  },
+  {
+    "identity_category_id": "ic_an_englishman",
+    "raw_text": "an Englishman",
+    "first_mentioned_entry": "chc08_e5"
+  },
+  {
+    "identity_category_id": "ic_one_irish_lad_among_thousands",
+    "raw_text": "one Irish lad among thousands",
+    "first_mentioned_entry": "chc09_e11"
+  },
+  {
+    "identity_category_id": "ic_the_irish_who_had_flooded_the_city",
+    "raw_text": "the Irish who had flooded the city",
+    "first_mentioned_entry": "chc09_e11"
+  },
+  {
+    "identity_category_id": "ic_a_thief",
+    "raw_text": "a thief",
+    "first_mentioned_entry": "chc09_e11"
+  },
+  {
+    "identity_category_id": "ic_an_honest_man",
+    "raw_text": "an honest man",
+    "first_mentioned_entry": "chc09_e11"
+  },
+  {
+    "identity_category_id": "ic_irish_as_well",
+    "raw_text": "Irish as well",
+    "first_mentioned_entry": "chc09_e11"
+  }
+]

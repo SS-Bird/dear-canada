@@ -1,0 +1,1299 @@
+{
+ "synced": "2026-10-20T16:33:05+00:00",
+ "datasets": [
+  {
+   "id": "places/place_mentions.csv",
+   "project": "places",
+   "role": "mentions",
+   "group": "place",
+   "name": "place_mentions.csv",
+   "path": "data/places/place_mentions.csv",
+   "format": "csv",
+   "bytes": 1828245,
+   "rows": 9460,
+   "columns": [
+    "book",
+    "chapter_id",
+    "entry_id",
+    "date",
+    "date_precision",
+    "year_inferred",
+    "date_raw",
+    "place",
+    "ner_label",
+    "char_start",
+    "char_end",
+    "historicity",
+    "resolution_status",
+    "region_historical",
+    "region_modern",
+    "country",
+    "latitude",
+    "longitude",
+    "matched_name"
+   ],
+   "head": [
+    {
+     "book": "AToBD",
+     "chapter_id": "01",
+     "entry_id": "ch01_e2",
+     "date": "1862-05-15",
+     "date_precision": "day",
+     "year_inferred": "False",
+     "date_raw": "May 15, 1862",
+     "place": "Fort Garry",
+     "ner_label": "GPE",
+     "char_start": "794",
+     "char_end": "804",
+     "historicity": "True",
+     "resolution_status": "resolved_ca",
+     "region_historical": "Rupert's Land",
+     "region_modern": "Manitoba",
+     "country": "Canada",
+     "latitude": "49.8333548",
+     "longitude": "-97.1610739",
+     "matched_name": "Fort Garry, Winnipeg, Manitoba, R3T 0S4, Canada"
+    },
+    {
+     "book": "AToBD",
+     "chapter_id": "01",
+     "entry_id": "ch01_e3",
+     "date": "1862-05-17",
+     "date_precision": "day",
+     "year_inferred": "False",
+     "date_raw": "May 17, 1862",
+     "place": "Canada",
+     "ner_label": "GPE",
+     "char_start": "328",
+     "char_end": "334",
+     "historicity": "True",
+     "resolution_status": "resolved_ca",
+     "region_historical": "Canada",
+     "region_modern": "Canada",
+     "country": "Canada",
+     "latitude": "61.0666922",
+     "longitude": "-107.991707",
+     "matched_name": "Canada"
+    },
+    {
+     "book": "AToBD",
+     "chapter_id": "01",
+     "entry_id": "ch01_e3",
+     "date": "1862-05-17",
+     "date_precision": "day",
+     "year_inferred": "False",
+     "date_raw": "May 17, 1862",
+     "place": "Red River Settlement",
+     "ner_label": "ORG",
+     "char_start": "343",
+     "char_end": "367",
+     "historicity": "False",
+     "resolution_status": "unresolved",
+     "region_historical": "",
+     "region_modern": "",
+     "country": "",
+     "latitude": "",
+     "longitude": "",
+     "matched_name": ""
+    },
+    {
+     "book": "AToBD",
+     "chapter_id": "01",
+     "entry_id": "ch01_e3",
+     "date": "1862-05-17",
+     "date_precision": "day",
+     "year_inferred": "False",
+     "date_raw": "May 17, 1862",
+     "place": "British Columbia",
+     "ner_label": "GPE",
+     "char_start": "439",
+     "char_end": "455",
+     "historicity": "True",
+     "resolution_status": "resolved_ca",
+     "region_historical": "Colony of British Columbia / Vancouver Island",
+     "region_modern": "British Columbia",
+     "country": "Canada",
+     "latitude": "55.001251",
+     "longitude": "-125.002441",
+     "matched_name": "British Columbia, Canada"
+    },
+    {
+     "book": "AToBD",
+     "chapter_id": "01",
+     "entry_id": "ch01_e4",
+     "date": "1862-05-18",
+     "date_precision": "day",
+     "year_inferred": "False",
+     "date_raw": "May 18, 1862",
+     "place": "Hudson Bay Company's",
+     "ner_label": "ORG",
+     "char_start": "395",
+     "char_end": "419",
+     "historicity": "False",
+     "resolution_status": "unresolved",
+     "region_historical": "",
+     "region_modern": "",
+     "country": "",
+     "latitude": "",
+     "longitude": "",
+     "matched_name": ""
+    },
+    {
+     "book": "AToBD",
+     "chapter_id": "01",
+     "entry_id": "ch01_e5",
+     "date": "1862-05-20",
+     "date_precision": "day",
+     "year_inferred": "False",
+     "date_raw": "May 20, 1862",
+     "place": "Luella",
+     "ner_label": "ORG",
+     "char_start": "518",
+     "char_end": "524",
+     "historicity": "True",
+     "resolution_status": "resolved_world",
+     "region_historical": "Texas",
+     "region_modern": "Texas",
+     "country": "United States",
+     "latitude": "33.5695517",
+     "longitude": "-96.5510998",
+     "matched_name": "Luella, Grayson County, Texas, United States"
+    },
+    {
+     "book": "AToBD",
+     "chapter_id": "01",
+     "entry_id": "ch01_e6",
+     "date": "1862-05-22",
+     "date_precision": "day",
+     "year_inferred": "False",
+     "date_raw": "May 22, 1862",
+     "place": "Toronto",
+     "ner_label": "GPE",
+     "char_start": "81",
+     "char_end": "88",
+     "historicity": "True",
+     "resolution_status": "resolved_ca",
+     "region_historical": "Province of Canada (Canada West)",
+     "region_modern": "Ontario",
+     "country": "Canada",
+     "latitude": "43.6534817",
+     "longitude": "-79.3839347",
+     "matched_name": "Toronto, Ontario, Canada"
+    },
+    {
+     "book": "AToBD",
+     "chapter_id": "01",
+     "entry_id": "ch01_e8",
+     "date": "1862-05-25",
+     "date_precision": "day",
+     "year_inferred": "False",
+     "date_raw": "May 25, 1862",
+     "place": "Fort Edmonton",
+     "ner_label": "FAC",
+     "char_start": "115",
+     "char_end": "128",
+     "historicity": "True",
+     "resolution_status": "resolved_ca",
+     "region_historical": "Rupert's Land / North-Western Territory",
+     "region_modern": "Alberta",
+     "country": "Canada",
+     "latitude": "53.4988814",
+     "longitude": "-113.5862798",
+     "matched_name": "Fort Edmonton, Whitemud Road NW, River Valley Fort Edmonton, Riverbend, Edmonton, Alberta, T5B 4H2, Canada"
+    }
+   ],
+   "modified": "2026-10-13T20:37:29+00:00"
+  },
+  {
+   "id": "places/unique_places.csv",
+   "project": "places",
+   "role": "other",
+   "group": null,
+   "name": "unique_places.csv",
+   "path": "data/places/unique_places.csv",
+   "format": "csv",
+   "bytes": 267289,
+   "rows": 2127,
+   "columns": [
+    "place_key",
+    "place_query",
+    "n_mentions",
+    "labels",
+    "resolution_status",
+    "matched_name",
+    "latitude",
+    "longitude",
+    "region_modern",
+    "country",
+    "country_code",
+    "name_similarity"
+   ],
+   "head": [
+    {
+     "place_key": "canada",
+     "place_query": "Canada",
+     "n_mentions": "361",
+     "labels": "GPE",
+     "resolution_status": "resolved_ca",
+     "matched_name": "Canada",
+     "latitude": "61.0666922",
+     "longitude": "-107.991707",
+     "region_modern": "Canada",
+     "country": "Canada",
+     "country_code": "ca",
+     "name_similarity": "1.0"
+    },
+    {
+     "place_key": "papa",
+     "place_query": "Papa",
+     "n_mentions": "268",
+     "labels": "ORG",
+     "resolution_status": "resolved_ca",
+     "matched_name": "Papa, Area B (Halfmoon Bay), Sunshine Coast Regional District, British Columbia, V0N 1Y2, Canada",
+     "latitude": "49.5373243",
+     "longitude": "-123.9174827",
+     "region_modern": "British Columbia",
+     "country": "Canada",
+     "country_code": "ca",
+     "name_similarity": "1.0"
+    },
+    {
+     "place_key": "england",
+     "place_query": "England",
+     "n_mentions": "181",
+     "labels": "GPE",
+     "resolution_status": "resolved_world",
+     "matched_name": "England, United Kingdom",
+     "latitude": "52.5310214",
+     "longitude": "-1.2649062",
+     "region_modern": "England",
+     "country": "United Kingdom",
+     "country_code": "gb",
+     "name_similarity": "1.0"
+    },
+    {
+     "place_key": "dear papa and mama",
+     "place_query": "Dear Papa and Mama",
+     "n_mentions": "166",
+     "labels": "ORG",
+     "resolution_status": "unresolved",
+     "matched_name": "",
+     "latitude": "",
+     "longitude": "",
+     "region_modern": "",
+     "country": "",
+     "country_code": "",
+     "name_similarity": ""
+    },
+    {
+     "place_key": "jasper",
+     "place_query": "Jasper",
+     "n_mentions": "122",
+     "labels": "GPE,ORG",
+     "resolution_status": "resolved_ca",
+     "matched_name": "Jasper, Alberta, Canada",
+     "latitude": "52.8752336",
+     "longitude": "-118.0824291",
+     "region_modern": "Alberta",
+     "country": "Canada",
+     "country_code": "ca",
+     "name_similarity": "1.0"
+    },
+    {
+     "place_key": "minette",
+     "place_query": "Minette",
+     "n_mentions": "97",
+     "labels": "ORG",
+     "resolution_status": "resolved_world",
+     "matched_name": "Minette, La Chapelle-Janson, La Chapelle-Fleurigné, Fougères-Vitré, Ille-et-Vilaine, Brittany, Metropolitan France, 351…",
+     "latitude": "48.3465757",
+     "longitude": "-1.080549",
+     "region_modern": "Brittany",
+     "country": "France",
+     "country_code": "fr",
+     "name_similarity": "1.0"
+    },
+    {
+     "place_key": "dear diary",
+     "place_query": "Dear Diary",
+     "n_mentions": "95",
+     "labels": "ORG",
+     "resolution_status": "resolved_world",
+     "matched_name": "Dear Diary, Prince Fawaz Street, Al Khubar Ash Shamaliyah, Al Khobar, Khobar Governorate, Eastern Province, 34426, Saud…",
+     "latitude": "26.2983672",
+     "longitude": "50.210108",
+     "region_modern": "Eastern Province",
+     "country": "Saudi Arabia",
+     "country_code": "sa",
+     "name_similarity": "1.0"
+    },
+    {
+     "place_key": "diary",
+     "place_query": "Diary",
+     "n_mentions": "92",
+     "labels": "GPE",
+     "resolution_status": "resolved_world",
+     "matched_name": "Diary, Przasnysz, Przasnysz County, Masovian Voivodeship, 06-300, Poland",
+     "latitude": "53.0211229",
+     "longitude": "20.8803778",
+     "region_modern": "Masovian Voivodeship",
+     "country": "Poland",
+     "country_code": "pl",
+     "name_similarity": "1.0"
+    }
+   ],
+   "modified": "2026-10-13T20:37:29+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_edges.json",
+   "project": "network",
+   "role": "edges",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_edges.json",
+   "path": "data/network/SofS_entries_halved_edges.json",
+   "format": "json",
+   "bytes": 416802,
+   "rows": 1450,
+   "columns": [
+    "edge_type",
+    "book",
+    "entry_id",
+    "from_id",
+    "from_type",
+    "to_id",
+    "to_type",
+    "properties",
+    "interpretive"
+   ],
+   "head": [
+    {
+     "edge_type": "occurs_on",
+     "book": "SofS_entries_halved",
+     "entry_id": "chc01_e1",
+     "from_id": "chc01_e1",
+     "from_type": "entry",
+     "to_id": "date_1847-04-30",
+     "to_type": "date",
+     "properties": "{}",
+     "interpretive": "false"
+    },
+    {
+     "edge_type": "is_related_to",
+     "book": "SofS_entries_halved",
+     "entry_id": "chc01_e1",
+     "from_id": "uncle_liam",
+     "from_type": "character",
+     "to_id": "michael_leary_da",
+     "to_type": "character",
+     "properties": "{\"kinship_label\": \"brother\"}",
+     "interpretive": "false"
+    },
+    {
+     "edge_type": "within",
+     "book": "SofS_entries_halved",
+     "entry_id": "chc01_e1",
+     "from_id": "liverpool",
+     "from_type": "location",
+     "to_id": "england",
+     "to_type": "region",
+     "properties": "{}",
+     "interpretive": "false"
+    },
+    {
+     "edge_type": "social_relationship",
+     "book": "SofS_entries_halved",
+     "entry_id": "chc01_e1",
+     "from_id": "johanna_leary",
+     "from_type": "character",
+     "to_id": "anna",
+     "to_type": "character",
+     "properties": "{\"valence\": \"friend\"}",
+     "interpretive": "true"
+    },
+    {
+     "edge_type": "has_stay",
+     "book": "SofS_entries_halved",
+     "entry_id": "chc01_e1",
+     "from_id": "johanna_leary",
+     "from_type": "character",
+     "to_id": "stay_johanna_leary_chc01_e1_0",
+     "to_type": "stay",
+     "properties": "{}",
+     "interpretive": "false"
+    },
+    {
+     "edge_type": "at",
+     "book": "SofS_entries_halved",
+     "entry_id": "chc01_e1",
+     "from_id": "stay_johanna_leary_chc01_e1_0",
+     "from_type": "stay",
+     "to_id": "dublin",
+     "to_type": "location",
+     "properties": "{}",
+     "interpretive": "false"
+    },
+    {
+     "edge_type": "recorded_in",
+     "book": "SofS_entries_halved",
+     "entry_id": "chc01_e1",
+     "from_id": "stay_johanna_leary_chc01_e1_0",
+     "from_type": "stay",
+     "to_id": "chc01_e1",
+     "to_type": "entry",
+     "properties": "{}",
+     "interpretive": "false"
+    },
+    {
+     "edge_type": "occurs_on",
+     "book": "SofS_entries_halved",
+     "entry_id": "chc01_e1",
+     "from_id": "stay_johanna_leary_chc01_e1_0",
+     "from_type": "stay",
+     "to_id": "date_1847-04-30",
+     "to_type": "date",
+     "properties": "{\"date_role\": \"arrival\"}",
+     "interpretive": "false"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_mentions.json",
+   "project": "network",
+   "role": "mentions",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_mentions.json",
+   "path": "data/network/SofS_entries_halved_mentions.json",
+   "format": "json",
+   "bytes": 114399,
+   "rows": 851,
+   "columns": [
+    "entry_id",
+    "entity_id",
+    "entity_label",
+    "entity_type"
+   ],
+   "head": [
+    {
+     "entry_id": "chc01_e1",
+     "entity_id": "grandda",
+     "entity_label": "Grandda",
+     "entity_type": "character"
+    },
+    {
+     "entry_id": "chc01_e1",
+     "entity_id": "michael_leary_da",
+     "entity_label": "Da (Michael Leary)",
+     "entity_type": "character"
+    },
+    {
+     "entry_id": "chc01_e1",
+     "entity_id": "ma",
+     "entity_label": "Ma",
+     "entity_type": "character"
+    },
+    {
+     "entry_id": "chc01_e1",
+     "entity_id": "michael_leary_da",
+     "entity_label": "Da (Michael Leary)",
+     "entity_type": "character"
+    },
+    {
+     "entry_id": "chc01_e1",
+     "entity_id": "patrick",
+     "entity_label": "Patrick",
+     "entity_type": "character"
+    },
+    {
+     "entry_id": "chc01_e1",
+     "entity_id": "uncle_liam",
+     "entity_label": "Uncle Liam",
+     "entity_type": "character"
+    },
+    {
+     "entry_id": "chc01_e1",
+     "entity_id": "anna",
+     "entity_label": "Anna",
+     "entity_type": "character"
+    },
+    {
+     "entry_id": "chc01_e1",
+     "entity_id": "cuchulain",
+     "entity_label": "Cuchulain",
+     "entity_type": "character"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_nodes_entries.json",
+   "project": "network",
+   "role": "nodes",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_nodes_entries.json",
+   "path": "data/network/SofS_entries_halved_nodes_entries.json",
+   "format": "json",
+   "bytes": 23129,
+   "rows": 137,
+   "columns": [
+    "entry_id",
+    "book",
+    "chapter_id",
+    "entry_date_raw",
+    "entry_date"
+   ],
+   "head": [
+    {
+     "entry_id": "chc01_e1",
+     "book": "SofS_entries_halved",
+     "chapter_id": "c01",
+     "entry_date_raw": "April 30, 1847",
+     "entry_date": "1847-04-30"
+    },
+    {
+     "entry_id": "chc02_e1",
+     "book": "SofS_entries_halved",
+     "chapter_id": "c02",
+     "entry_date_raw": "May 1, 1847",
+     "entry_date": "1847-05-01"
+    },
+    {
+     "entry_id": "chc02_e2",
+     "book": "SofS_entries_halved",
+     "chapter_id": "c02",
+     "entry_date_raw": "May 3, 1847",
+     "entry_date": "1847-05-03"
+    },
+    {
+     "entry_id": "chc02_e3",
+     "book": "SofS_entries_halved",
+     "chapter_id": "c02",
+     "entry_date_raw": "May 6, 1847",
+     "entry_date": "1847-05-06"
+    },
+    {
+     "entry_id": "chc02_e4",
+     "book": "SofS_entries_halved",
+     "chapter_id": "c02",
+     "entry_date_raw": "May 7, 1847",
+     "entry_date": "1847-05-07"
+    },
+    {
+     "entry_id": "chc02_e5",
+     "book": "SofS_entries_halved",
+     "chapter_id": "c02",
+     "entry_date_raw": "May 8, 1847",
+     "entry_date": "1847-05-08"
+    },
+    {
+     "entry_id": "chc02_e6",
+     "book": "SofS_entries_halved",
+     "chapter_id": "c02",
+     "entry_date_raw": "May 9, 1847",
+     "entry_date": "1847-05-09"
+    },
+    {
+     "entry_id": "chc02_e7",
+     "book": "SofS_entries_halved",
+     "chapter_id": "c02",
+     "entry_date_raw": "May 10, 1847",
+     "entry_date": "1847-05-10"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_nodes_incidents.json",
+   "project": "network",
+   "role": "nodes",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_nodes_incidents.json",
+   "path": "data/network/SofS_entries_halved_nodes_incidents.json",
+   "format": "json",
+   "bytes": 4705,
+   "rows": 22,
+   "columns": [
+    "incident_id",
+    "incident_type",
+    "raw_text"
+   ],
+   "head": [
+    {
+     "incident_id": "incident_us_chc03_e17_0",
+     "incident_type": "discrimination",
+     "raw_text": "the people who live in Quebec want little to do with those of us on ships. They see us as bringing disease to their tow…"
+    },
+    {
+     "incident_id": "incident_us_chc03_e17_1",
+     "incident_type": "discrimination",
+     "raw_text": "the newspapers are filled with editorials about the Irish lords shovelling their garbage into Canada"
+    },
+    {
+     "incident_id": "incident_johanna_leary_chc04_e5_2",
+     "incident_type": "discrimination",
+     "raw_text": "He turned up his nose at me and walked away without a word."
+    },
+    {
+     "incident_id": "incident_my_poor_countrymen_chc04_e5_3",
+     "incident_type": "discrimination",
+     "raw_text": "they had come to gawk and to chatter idly about my poor countrymen"
+    },
+    {
+     "incident_id": "incident_johanna_leary_chc04_e18_4",
+     "incident_type": "discrimination",
+     "raw_text": "another girl, Claire, who clearly believes herself above me in station"
+    },
+    {
+     "incident_id": "incident_the_irish_immigrants_chc04_e20_5",
+     "incident_type": "discrimination",
+     "raw_text": "the Irish immigrants at the fever sheds were selling the bread and oatmeal they were given...this proves they brought t…"
+    },
+    {
+     "incident_id": "incident_johanna_leary_chc04_e21_6",
+     "incident_type": "discrimination",
+     "raw_text": "Mother says that Irish are lazy."
+    },
+    {
+     "incident_id": "incident_johanna_leary_chc04_e21_7",
+     "incident_type": "discrimination",
+     "raw_text": "I will thank you to keep your heathen fairy stories to yourself... We do not abide such nonsense here."
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_nodes_stays.json",
+   "project": "network",
+   "role": "nodes",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_nodes_stays.json",
+   "path": "data/network/SofS_entries_halved_nodes_stays.json",
+   "format": "json",
+   "bytes": 30067,
+   "rows": 181,
+   "columns": [
+    "stay_id",
+    "stay_type",
+    "mode",
+    "arrival_date",
+    "departure_date"
+   ],
+   "head": [
+    {
+     "stay_id": "stay_johanna_leary_chc01_e1_0",
+     "stay_type": "intended",
+     "mode": "on foot",
+     "arrival_date": "1847-04-30",
+     "departure_date": "null"
+    },
+    {
+     "stay_id": "stay_michael_leary_da_chc01_e1_1",
+     "stay_type": "intended",
+     "mode": "on foot",
+     "arrival_date": "1847-04-30",
+     "departure_date": "null"
+    },
+    {
+     "stay_id": "stay_ma_chc01_e1_2",
+     "stay_type": "intended",
+     "mode": "on foot",
+     "arrival_date": "1847-04-30",
+     "departure_date": "null"
+    },
+    {
+     "stay_id": "stay_michael_leary_da_chc01_e1_3",
+     "stay_type": "intended",
+     "mode": "on foot",
+     "arrival_date": "1847-04-30",
+     "departure_date": "null"
+    },
+    {
+     "stay_id": "stay_patrick_chc01_e1_4",
+     "stay_type": "intended",
+     "mode": "on foot",
+     "arrival_date": "1847-04-30",
+     "departure_date": "null"
+    },
+    {
+     "stay_id": "stay_johanna_leary_chc01_e1_5",
+     "stay_type": "intended",
+     "mode": "by steamer",
+     "arrival_date": "1847-04-30",
+     "departure_date": "null"
+    },
+    {
+     "stay_id": "stay_michael_leary_da_chc01_e1_6",
+     "stay_type": "intended",
+     "mode": "by steamer",
+     "arrival_date": "1847-04-30",
+     "departure_date": "null"
+    },
+    {
+     "stay_id": "stay_ma_chc01_e1_7",
+     "stay_type": "intended",
+     "mode": "by steamer",
+     "arrival_date": "1847-04-30",
+     "departure_date": "null"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_nodes_characters.json",
+   "project": "network",
+   "role": "nodes",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_nodes_characters.json",
+   "path": "data/network/SofS_entries_halved_nodes_characters.json",
+   "format": "json",
+   "bytes": 61176,
+   "rows": 176,
+   "columns": [
+    "character_id",
+    "canonical_label",
+    "aliases",
+    "relation_to_narrator",
+    "historicity",
+    "last_known_location",
+    "last_location_stated_entry",
+    "first_mentioned_entry",
+    "last_touched_index"
+   ],
+   "head": [
+    {
+     "character_id": "johanna_leary",
+     "canonical_label": "Johanna Leary",
+     "aliases": "[\"Johanna\", \"Johanna Leary\", \"The Johanna Leary\", \"a Joanna Leary\", \"Leary\", \"I\", \"me\"]",
+     "relation_to_narrator": "self",
+     "historicity": "unknown",
+     "last_known_location": "Sherbrooke",
+     "last_location_stated_entry": "chc09_e3",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "136"
+    },
+    {
+     "character_id": "michael_leary_da",
+     "canonical_label": "Da (Michael Leary)",
+     "aliases": "[\"Da\", \"Michael\", \"Michael Leary\"]",
+     "relation_to_narrator": "father",
+     "historicity": "unknown",
+     "last_known_location": "a farm",
+     "last_location_stated_entry": "chc09_e11",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "136"
+    },
+    {
+     "character_id": "ma",
+     "canonical_label": "Ma",
+     "aliases": "[\"Ma\"]",
+     "relation_to_narrator": "mother",
+     "historicity": "unknown",
+     "last_known_location": "hospital",
+     "last_location_stated_entry": "chc04_e1",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "110"
+    },
+    {
+     "character_id": "grandda",
+     "canonical_label": "Grandda",
+     "aliases": "[\"Grandda\"]",
+     "relation_to_narrator": "grandfather",
+     "historicity": "unknown",
+     "last_known_location": "null",
+     "last_location_stated_entry": "null",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "116"
+    },
+    {
+     "character_id": "patrick",
+     "canonical_label": "Patrick",
+     "aliases": "[\"Patrick\"]",
+     "relation_to_narrator": "sibling",
+     "historicity": "unknown",
+     "last_known_location": "the ship",
+     "last_location_stated_entry": "chc02_e5",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "113"
+    },
+    {
+     "character_id": "anna",
+     "canonical_label": "Anna",
+     "aliases": "[\"Anna\", \"AnnaJohanna\", \"Anna Riordans\"]",
+     "relation_to_narrator": "sibling",
+     "historicity": "unknown",
+     "last_known_location": "Canada",
+     "last_location_stated_entry": "chc01_e1",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "127"
+    },
+    {
+     "character_id": "uncle_liam",
+     "canonical_label": "Uncle Liam",
+     "aliases": "[\"Uncle Liam\", \"Uncle Liam’s\", \"Uncle\"]",
+     "relation_to_narrator": "uncle",
+     "historicity": "unknown",
+     "last_known_location": "the Gatineau Hills",
+     "last_location_stated_entry": "chc05_e5",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "136"
+    },
+    {
+     "character_id": "kevin_keenan",
+     "canonical_label": "Kevin Keenan",
+     "aliases": "[\"Kevin\", \"Kevin Keenan\", \"Keenan\"]",
+     "relation_to_narrator": "friend",
+     "historicity": "unknown",
+     "last_known_location": "null",
+     "last_location_stated_entry": "null",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "32"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_nodes_dates.json",
+   "project": "network",
+   "role": "nodes",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_nodes_dates.json",
+   "path": "data/network/SofS_entries_halved_nodes_dates.json",
+   "format": "json",
+   "bytes": 14216,
+   "rows": 138,
+   "columns": [
+    "date_id",
+    "normalized_date",
+    "precision"
+   ],
+   "head": [
+    {
+     "date_id": "date_1847-04-30",
+     "normalized_date": "1847-04-30",
+     "precision": "day"
+    },
+    {
+     "date_id": "date_1847-05-01",
+     "normalized_date": "1847-05-01",
+     "precision": "day"
+    },
+    {
+     "date_id": "date_1847-05-03",
+     "normalized_date": "1847-05-03",
+     "precision": "day"
+    },
+    {
+     "date_id": "date_1847-05-06",
+     "normalized_date": "1847-05-06",
+     "precision": "day"
+    },
+    {
+     "date_id": "date_1847-05-07",
+     "normalized_date": "1847-05-07",
+     "precision": "day"
+    },
+    {
+     "date_id": "date_1847-05-08",
+     "normalized_date": "1847-05-08",
+     "precision": "day"
+    },
+    {
+     "date_id": "date_1847-05-09",
+     "normalized_date": "1847-05-09",
+     "precision": "day"
+    },
+    {
+     "date_id": "date_1847-05-10",
+     "normalized_date": "1847-05-10",
+     "precision": "day"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_nodes_health_states.json",
+   "project": "network",
+   "role": "nodes",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_nodes_health_states.json",
+   "path": "data/network/SofS_entries_halved_nodes_health_states.json",
+   "format": "json",
+   "bytes": 9652,
+   "rows": 45,
+   "columns": [
+    "health_state_id",
+    "mechanism",
+    "condition_name",
+    "condition_name_history",
+    "first_entry"
+   ],
+   "head": [
+    {
+     "health_state_id": "hs_michael_leary_da_chc02_e7_0",
+     "mechanism": "other",
+     "condition_name": "fever",
+     "condition_name_history": "[\"seasickness\", \"fever\"]",
+     "first_entry": "chc02_e7"
+    },
+    {
+     "health_state_id": "hs_ma_chc02_e7_1",
+     "mechanism": "other",
+     "condition_name": "ship fever",
+     "condition_name_history": "[\"seasickness\", \"illness\", \"fever\", \"ship fever\"]",
+     "first_entry": "chc02_e7"
+    },
+    {
+     "health_state_id": "hs_johanna_leary_chc02_e8_2",
+     "mechanism": "disease",
+     "condition_name": "queasiness",
+     "condition_name_history": "[\"seasickness\", \"queasiness\"]",
+     "first_entry": "chc02_e8"
+    },
+    {
+     "health_state_id": "hs_mr_tattersall_chc02_e17_3",
+     "mechanism": "disease",
+     "condition_name": "fever",
+     "condition_name_history": "[\"feeling poorly\", \"fever\"]",
+     "first_entry": "chc02_e17"
+    },
+    {
+     "health_state_id": "hs_mrs_donnell_chc02_e19_4",
+     "mechanism": "disease",
+     "condition_name": "aches and fever",
+     "condition_name_history": "[\"aches and fever\"]",
+     "first_entry": "chc02_e19"
+    },
+    {
+     "health_state_id": "hs_two_more_passengers_chc02_e22_5",
+     "mechanism": "other",
+     "condition_name": "null",
+     "condition_name_history": "[]",
+     "first_entry": "chc02_e22"
+    },
+    {
+     "health_state_id": "hs_more_people_chc02_e22_6",
+     "mechanism": "other",
+     "condition_name": "null",
+     "condition_name_history": "[]",
+     "first_entry": "chc02_e22"
+    },
+    {
+     "health_state_id": "hs_mr_keenan_chc03_e1_7",
+     "mechanism": "disease",
+     "condition_name": "the fever",
+     "condition_name_history": "[\"the fever\"]",
+     "first_entry": "chc03_e1"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_nodes_identity_categories.json",
+   "project": "network",
+   "role": "nodes",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_nodes_identity_categories.json",
+   "path": "data/network/SofS_entries_halved_nodes_identity_categories.json",
+   "format": "json",
+   "bytes": 9659,
+   "rows": 67,
+   "columns": [
+    "identity_category_id",
+    "raw_text",
+    "first_mentioned_entry"
+   ],
+   "head": [
+    {
+     "identity_category_id": "ic_bringing_disease_to_their_towns",
+     "raw_text": "bringing disease to their towns",
+     "first_mentioned_entry": "chc03_e17"
+    },
+    {
+     "identity_category_id": "ic_irish_lords_shovelling_their_garbage_into_canada",
+     "raw_text": "Irish lords shovelling their garbage into Canada",
+     "first_mentioned_entry": "chc03_e17"
+    },
+    {
+     "identity_category_id": "ic_the_irish_lords_shovelling_their_garbage_into_canada",
+     "raw_text": "the Irish lords shovelling their garbage into Canada",
+     "first_mentioned_entry": "chc03_e17"
+    },
+    {
+     "identity_category_id": "ic_she_s_a_lad_not_a_lass",
+     "raw_text": "She's a lad, not a lass",
+     "first_mentioned_entry": "chc03_e21"
+    },
+    {
+     "identity_category_id": "ic_his_girl_s_disguise",
+     "raw_text": "his girl's disguise",
+     "first_mentioned_entry": "chc03_e21"
+    },
+    {
+     "identity_category_id": "ic_irish_orphans",
+     "raw_text": "Irish orphans",
+     "first_mentioned_entry": "chc04_e2"
+    },
+    {
+     "identity_category_id": "ic_i_am_not_an_orphan",
+     "raw_text": "I am not an orphan",
+     "first_mentioned_entry": "chc04_e2"
+    },
+    {
+     "identity_category_id": "ic_not_an_orphan",
+     "raw_text": "not an orphan",
+     "first_mentioned_entry": "chc04_e4"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_nodes_locations.json",
+   "project": "network",
+   "role": "nodes",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_nodes_locations.json",
+   "path": "data/network/SofS_entries_halved_nodes_locations.json",
+   "format": "json",
+   "bytes": 14020,
+   "rows": 62,
+   "columns": [
+    "location_id",
+    "canonical_label",
+    "aliases",
+    "first_mentioned_entry",
+    "last_touched_index",
+    "coordinates"
+   ],
+   "head": [
+    {
+     "location_id": "grosse_isle",
+     "canonical_label": "Grosse Isle",
+     "aliases": "[\"Grosse Isle\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "136",
+     "coordinates": "null"
+    },
+    {
+     "location_id": "emigrant_sheds",
+     "canonical_label": "Emigrant Sheds",
+     "aliases": "[\"Emigrant Sheds\", \"the sheds\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "78",
+     "coordinates": "null"
+    },
+    {
+     "location_id": "Halls_house",
+     "canonical_label": "Halls' house",
+     "aliases": "[\"Halls house\", \"the Halls house\", \"the house\", \"the barn\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "136",
+     "coordinates": "null"
+    },
+    {
+     "location_id": "windmill_point",
+     "canonical_label": "Windmill Point",
+     "aliases": "[\"Windmill Point\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "74",
+     "coordinates": "null"
+    },
+    {
+     "location_id": "st_paul_island",
+     "canonical_label": "St. Paul Island",
+     "aliases": "[\"St. Paul Island\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "33",
+     "coordinates": "null"
+    },
+    {
+     "location_id": "the_ship",
+     "canonical_label": "The Ship",
+     "aliases": "[\"the ship\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "83",
+     "coordinates": "null"
+    },
+    {
+     "location_id": "liverpool",
+     "canonical_label": "Liverpool",
+     "aliases": "[\"Liverpool\"]",
+     "first_mentioned_entry": "chc01_e1",
+     "last_touched_index": "14",
+     "coordinates": "null"
+    },
+    {
+     "location_id": "dublin",
+     "canonical_label": "Dublin",
+     "aliases": "[\"Dublin\"]",
+     "first_mentioned_entry": "chc01_e1",
+     "last_touched_index": "0",
+     "coordinates": "null"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_nodes_organizations.json",
+   "project": "network",
+   "role": "nodes",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_nodes_organizations.json",
+   "path": "data/network/SofS_entries_halved_nodes_organizations.json",
+   "format": "json",
+   "bytes": 3831,
+   "rows": 17,
+   "columns": [
+    "org_id",
+    "canonical_label",
+    "aliases",
+    "org_type_hint",
+    "first_mentioned_entry",
+    "last_touched_index"
+   ],
+   "head": [
+    {
+     "org_id": "the_crown",
+     "canonical_label": "the Crown",
+     "aliases": "[\"Crown\"]",
+     "org_type_hint": "null",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "120"
+    },
+    {
+     "org_id": "the_committee",
+     "canonical_label": "the committee",
+     "aliases": "[\"the committee\"]",
+     "org_type_hint": "null",
+     "first_mentioned_entry": "chc02_e6",
+     "last_touched_index": "6"
+    },
+    {
+     "org_id": "the_shipping_company",
+     "canonical_label": "the shipping company",
+     "aliases": "[\"the shipping company\"]",
+     "org_type_hint": "null",
+     "first_mentioned_entry": "chc02_e16",
+     "last_touched_index": "16"
+    },
+    {
+     "org_id": "government_of_canada",
+     "canonical_label": "government of Canada",
+     "aliases": "[\"government of Canada\"]",
+     "org_type_hint": "null",
+     "first_mentioned_entry": "chc03_e14",
+     "last_touched_index": "36"
+    },
+    {
+     "org_id": "the_authorities",
+     "canonical_label": "the authorities",
+     "aliases": "[\"the authorities\"]",
+     "org_type_hint": "null",
+     "first_mentioned_entry": "chc03_e16",
+     "last_touched_index": "43"
+    },
+    {
+     "org_id": "newspapers",
+     "canonical_label": "newspapers",
+     "aliases": "[\"newspapers\"]",
+     "org_type_hint": "null",
+     "first_mentioned_entry": "chc03_e17",
+     "last_touched_index": "63"
+    },
+    {
+     "org_id": "government_of_quebec",
+     "canonical_label": "government of Quebec",
+     "aliases": "[\"government of Quebec\"]",
+     "org_type_hint": "null",
+     "first_mentioned_entry": "chc03_e17",
+     "last_touched_index": "39"
+    },
+    {
+     "org_id": "irish_lords",
+     "canonical_label": "Irish lords",
+     "aliases": "[\"Irish lords\"]",
+     "org_type_hint": "null",
+     "first_mentioned_entry": "chc03_e17",
+     "last_touched_index": "39"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "network/SofS_entries_halved_nodes_regions.json",
+   "project": "network",
+   "role": "nodes",
+   "group": "SofS_entries_halved",
+   "name": "SofS_entries_halved_nodes_regions.json",
+   "path": "data/network/SofS_entries_halved_nodes_regions.json",
+   "format": "json",
+   "bytes": 5574,
+   "rows": 30,
+   "columns": [
+    "region_id",
+    "canonical_label",
+    "aliases",
+    "first_mentioned_entry",
+    "last_touched_index"
+   ],
+   "head": [
+    {
+     "region_id": "dublin",
+     "canonical_label": "Dublin",
+     "aliases": "[\"Dublin\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "-1"
+    },
+    {
+     "region_id": "liverpool",
+     "canonical_label": "Liverpool",
+     "aliases": "[\"Liverpool\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "-1"
+    },
+    {
+     "region_id": "england",
+     "canonical_label": "England",
+     "aliases": "[\"England\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "136"
+    },
+    {
+     "region_id": "canada",
+     "canonical_label": "Canada",
+     "aliases": "[\"Canada\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "100"
+    },
+    {
+     "region_id": "america",
+     "canonical_label": "America",
+     "aliases": "[\"America\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "0"
+    },
+    {
+     "region_id": "ireland",
+     "canonical_label": "Ireland",
+     "aliases": "[\"Ireland\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "93"
+    },
+    {
+     "region_id": "county_waterford",
+     "canonical_label": "County Waterford",
+     "aliases": "[\"County Waterford\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "13"
+    },
+    {
+     "region_id": "cape_breton",
+     "canonical_label": "Cape Breton",
+     "aliases": "[\"Cape Breton\"]",
+     "first_mentioned_entry": "null",
+     "last_touched_index": "33"
+    }
+   ],
+   "modified": "2026-10-03T21:09:47+00:00"
+  }
+ ]
+}

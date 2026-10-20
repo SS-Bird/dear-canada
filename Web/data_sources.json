@@ -1,0 +1,9 @@
+{
+  "_comment": "Which pipeline outputs get published to the site. Paths are relative to this file; globs are allowed. Run `python3 scripts/sync_data.py` after editing this or after re-running a pipeline, then commit + push to redeploy. `role` is optional: the network project infers nodes/edges from filenames, and the places project looks for role 'mentions'.",
+  "datasets": [
+    { "project": "places",  "source": "../data/Pipe Outputs/place_mentions.csv", "role": "mentions" },
+    { "project": "places",  "source": "../data/Pipe Outputs/unique_places.csv" },
+    { "project": "network", "source": "../data/Pipe Outputs/v3/*.json" },
+    { "project": "network", "source": "../data/Pipe Outputs/v3/registries/*.json" }
+  ]
+}
