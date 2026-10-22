@@ -1,0 +1,101 @@
+book,province,share,anchor_mentions,manual
+AToBD,british columbia,0.487,37,False
+AToBD,manitoba,0.197,15,False
+AToBD,alberta,0.132,10,False
+AToBD,ontario,0.118,9,False
+AToBD,saskatchewan,0.066,5,False
+AinUTL,quebec,0.98,97,False
+AinUTL,newfoundland and labrador,0.01,1,False
+AinUTL,ontario,0.01,1,False
+BFfH,ontario,0.837,36,False
+BFfH,nova scotia,0.07,3,False
+BFfH,saskatchewan,0.047,2,False
+BFfH,quebec,0.023,1,False
+BFfH,new brunswick,0.023,1,False
+BUoL,saskatchewan,1.0,91,True
+BUoL,ontario,0.187,29,False
+BUoL,manitoba,0.129,20,False
+BUoL,quebec,0.084,13,False
+BUoL,alberta,0.006,1,False
+BUoL,northwest territories,0.006,1,False
+CofOO,ontario,0.428,74,False
+CofOO,quebec,0.283,49,False
+CofOO,new brunswick,0.052,9,False
+CofOO,newfoundland and labrador,0.046,8,False
+CofOO,nova scotia,0.046,8,False
+CofOO,prince edward island,0.046,8,False
+CofOO,saskatchewan,0.029,5,False
+CofOO,british columbia,0.023,4,False
+CofOO,manitoba,0.023,4,False
+CofOO,northwest territories,0.012,2,False
+CofOO,alberta,0.006,1,False
+CofOO,yukon,0.006,1,False
+DRtoF,ontario,0.898,53,False
+DRtoF,alberta,0.102,6,False
+DofTT,ontario,0.889,48,False
+DofTT,british columbia,0.056,3,False
+DofTT,alberta,0.037,2,False
+DofTT,newfoundland and labrador,0.019,1,False
+DofmyC,quebec,0.868,79,False
+DofmyC,alberta,0.066,6,False
+DofmyC,nova scotia,0.033,3,False
+DofmyC,saskatchewan,0.022,2,False
+DofmyC,newfoundland and labrador,0.011,1,False
+EftW,ontario,0.824,28,False
+EftW,nova scotia,0.088,3,False
+EftW,alberta,0.059,2,False
+EftW,new brunswick,0.029,1,False
+FitS,manitoba,0.786,77,False
+FitS,alberta,0.092,9,False
+FitS,ontario,0.051,5,False
+FitS,nunavut,0.041,4,False
+FitS,saskatchewan,0.02,2,False
+FitS,quebec,0.01,1,False
+NSH,nova scotia,0.703,52,False
+NSH,manitoba,0.081,6,False
+NSH,new brunswick,0.068,5,False
+NSH,newfoundland and labrador,0.068,5,False
+NSH,quebec,0.054,4,False
+NSH,prince edward island,0.014,1,False
+NSH,british columbia,0.014,1,False
+NbutC,quebec,0.796,43,False
+NbutC,ontario,0.204,11,False
+OA,british columbia,0.72,18,False
+OA,ontario,0.24,6,False
+OA,saskatchewan,0.04,1,False
+OatmyD,ontario,0.853,29,False
+OatmyD,manitoba,0.118,4,False
+OatmyD,british columbia,0.029,1,False
+PasWide,saskatchewan,0.625,30,False
+PasWide,alberta,0.125,6,False
+PasWide,ontario,0.104,5,False
+PasWide,manitoba,0.083,4,False
+PasWide,british columbia,0.042,2,False
+PasWide,newfoundland and labrador,0.021,1,False
+PintPL,quebec,0.667,38,False
+PintPL,alberta,0.158,9,False
+PintPL,ontario,0.123,7,False
+PintPL,manitoba,0.053,3,False
+SofS,quebec,0.824,42,False
+SofS,ontario,0.157,8,False
+SofS,prince edward island,0.02,1,False
+TA,british columbia,0.797,169,False
+TA,ontario,0.113,24,False
+TA,alberta,0.057,12,False
+TA,manitoba,0.024,5,False
+TA,quebec,0.005,1,False
+TA,saskatchewan,0.005,1,False
+TFN,nova scotia,0.6,27,False
+TFN,ontario,0.244,11,False
+TFN,newfoundland and labrador,0.044,2,False
+TFN,british columbia,0.022,1,False
+TFN,saskatchewan,0.022,1,False
+TFN,manitoba,0.022,1,False
+TFN,quebec,0.022,1,False
+TFN,alberta,0.022,1,False
+WofW,ontario,0.898,115,False
+WofW,new brunswick,0.047,6,False
+WofW,quebec,0.031,4,False
+WofW,alberta,0.008,1,False
+WofW,nova scotia,0.008,1,False
+WofW,newfoundland and labrador,0.008,1,False

@@ -1,0 +1,54 @@
+name,aliases,place_type,book,year_from,year_to,latitude,longitude,matched_name,province,feature_class,location_precision,note
+Canada,,,,,1762,46.8139,-71.2080,"Canada (New France), represented by Quebec City",quebec,admin_large,region,Pre-Conquest usage
+Canada,,,,1763,,56.1304,-106.3468,Canada,,country,country,Representative point
+New France,Nouvelle-France,region,,,,46.8139,-71.2080,"New France, represented by Quebec City",quebec,admin_large,region,
+Lower Canada,,region,,,,46.8139,-71.2080,"Lower Canada, represented by Quebec City",quebec,admin_large,region,
+Upper Canada,,region,,,,43.6532,-79.3832,"Upper Canada, represented by York/Toronto",ontario,admin_large,region,
+Canada East,,region,,,,46.8139,-71.2080,"Canada East, represented by Quebec City",quebec,admin_large,region,
+Canada West,,region,,,,43.6532,-79.3832,"Canada West, represented by Toronto",ontario,admin_large,region,
+Province of Canada,The Canadas,region,,,,44.2312,-76.4860,"Province of Canada, represented by Kingston (first capital)",ontario,admin_large,region,
+Acadia,Acadie,region,,,,44.7431,-65.5187,"Acadia, represented by Annapolis Royal",nova scotia,admin_large,region,
+Rupert's Land,Ruperts Land,region,,,,57.0000,-92.3000,"Rupert's Land, represented by York Factory",manitoba,admin_large,region,
+North-West Territories,North West Territories,region,,1870,1904,50.4452,-104.6189,"North-West Territories, represented by Regina (capital 1883-1905)",saskatchewan,admin_large,region,Before Alberta and Saskatchewan
+Île Saint-Jean,Isle Saint-Jean|Isle St. John|Island of St. John|St. John's Island,region,,,1798,46.2382,-63.1311,"Île Saint-Jean (Prince Edward Island), represented by Charlottetown",prince edward island,admin_large,region,Renamed 1799
+Newfoundland,,,,,,48.6000,-56.3000,Newfoundland (island),newfoundland and labrador,admin_large,region,Approximate centre of the island; a separate dominion until 1949
+Red River Settlement,Red River Colony|Selkirk Settlement,region,,,,49.9500,-97.0500,Red River Settlement,manitoba,area,region,Approximate centre of the settlement
+Red River,,region,,,1880,49.9500,-97.0500,Red River Settlement,manitoba,area,region,Bare 'Red River' typed as a region means the settlement
+Ville-Marie,Ville Marie,,,,1705,45.5088,-73.5540,Ville-Marie (Old Montreal),quebec,settlement,settlement,The modern CGNDB Ville-Marie is a different town
+Hochelaga,,,,,1650,45.5088,-73.5540,"Hochelaga, at Montreal",quebec,settlement,settlement,
+Stadacona,,,,,1650,46.8139,-71.2080,"Stadacona, at Quebec City",quebec,settlement,settlement,
+York,Muddy York,settlement,,1793,1834,43.6532,-79.3832,York (Toronto),ontario,settlement,settlement,Renamed Toronto in 1834
+Bytown,,,,,1855,45.4215,-75.6972,Bytown (Ottawa),ontario,settlement,settlement,Renamed Ottawa in 1855
+Fort Garry,Upper Fort Garry,,,,1900,49.8873,-97.1306,Upper Fort Garry,manitoba,facility,site,
+Pile O' Bones,Pile of Bones,,,,1882,50.4452,-104.6189,Pile O' Bones (Regina),saskatchewan,settlement,settlement,
+Fort Edmonton,,,,,,53.5340,-113.5065,Fort Edmonton,alberta,facility,site,Approximate site
+Fort Victoria,,,,,,48.4284,-123.3656,Fort Victoria,british columbia,facility,site,
+Fort York,,,,,,43.6389,-79.4033,Fort York,ontario,facility,site,
+Fort Frontenac,Cataraqui,,,,,44.2312,-76.4860,Fort Frontenac (Kingston),ontario,facility,site,
+Grosse Île,Grosse Isle|Grosse-Île,,,1832,1937,47.0264,-70.6650,Grosse Île quarantine station,quebec,island,site,The CGNDB entries of this name are other places
+Pier 21,,,,1928,1971,44.6406,-63.5679,"Pier 21, Halifax",nova scotia,facility,site,
+Hastings Park,,,,,,49.2814,-123.0419,"Hastings Park, Vancouver",british columbia,facility,site,
+Powell Street,,,,,,49.2830,-123.0950,"Powell Street (Japantown), Vancouver",british columbia,facility,site,Approximate
+Dawson City,,,,,,64.0601,-139.4320,Dawson (Dawson City),yukon,settlement,settlement,Official name is Dawson
+Buxton,Elgin Settlement,,,,,42.3000,-82.2300,"Buxton (Elgin Settlement), Ontario",ontario,settlement,settlement,Approximate
+Gold Mountain,Gum Shan,,,,,56.1304,-106.3468,"Gold Mountain (Gum Shan): North America, here Canada",,country,country,Cantonese name; no single location
+Chinatown,,,OA,,,49.2797,-123.1007,"Chinatown, Vancouver",british columbia,settlement,settlement,Book-specific: add a row per book that means a different Chinatown
+Windmill Point,,,SofS,,,45.4890,-73.5470,"Windmill Point (Pointe-Saint-Charles), Montreal: the 1847 fever sheds",quebec,facility,site,Approximate; book-specific because the name is common
+Stanley Park,,,,,,49.3043,-123.1443,"Stanley Park, Vancouver",british columbia,area,site,CGNDB has only a neighbourhood in Ontario and the national historic site
+British Columbia,B.C.|B.C|BC,region,,,,53.7267,-127.6476,British Columbia,british columbia,admin_large,region,Abbreviation; representative point
+Niagara,Newark,settlement,,,1870,43.2550,-79.0717,Niagara (Niagara-on-the-Lake),ontario,settlement,settlement,Bare 'Niagara' in early books is the town
+Fort George,,,WofW,,,43.2522,-79.0603,"Fort George, Niagara-on-the-Lake",ontario,facility,site,
+Fort George,,,AToBD,,,53.9171,-122.7497,Fort George (Prince George),british columbia,settlement,settlement,
+Richmond,,,NSH,,,44.6640,-63.5925,"Richmond, Halifax (North End)",nova scotia,settlement,settlement,Approximate; the district destroyed in the 1917 explosion
+Duck Lake,,,BUoL,,,52.8167,-106.2333,"Duck Lake, Saskatchewan",saskatchewan,settlement,settlement,Site of the 1885 battle
+Cariboo,The Cariboo,,,,,52.9000,-121.7000,Cariboo gold fields,british columbia,area,region,Approximate centre of the gold fields
+Sorel,,,,,,46.0333,-73.1167,Sorel (Sorel-Tracy),quebec,settlement,settlement,
+Machiche,,,,,,46.2833,-72.8333,Machiche (Yamachiche),quebec,settlement,settlement,Approximate
+Forks,The Forks,,FitS,,,49.8869,-97.1310,"The Forks (Red and Assiniboine rivers), Winnipeg",manitoba,area,site,
+Fort Gibraltar,,,,,,49.8880,-97.1270,Fort Gibraltar (North West Company),manitoba,facility,site,Approximate
+Fort Douglas,,,,,,49.9050,-97.1250,Fort Douglas (Selkirk settlers),manitoba,facility,site,Approximate
+Haute-Ville,Upper Town|Haute Ville,,,,,46.8123,-71.2145,"Haute-Ville (Upper Town), Quebec City",quebec,area,site,
+Basse-Ville,Lower Town|Basse Ville,,,,,46.8150,-71.2030,"Basse-Ville (Lower Town), Quebec City",quebec,area,site,
+Fort Carlton,,,,,,52.8708,-106.5280,Fort Carlton,saskatchewan,facility,site,Approximate
+Dominion of Canada,,,,1867,,56.1304,-106.3468,Canada,,country,country,Representative point
+Rockies,Rocky Mountains|the Rockies,,,,,51.5000,-116.5000,Rocky Mountains,alberta,terrain,feature,Representative point

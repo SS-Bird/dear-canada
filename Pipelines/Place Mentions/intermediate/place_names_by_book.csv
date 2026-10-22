@@ -1,0 +1,1681 @@
+book,place_key,place,n_candidates,n_kept,filter_reasons,votes,types,labels
+AToBD,cariboo,Cariboo,29,29,,place:26|person:0|org:3,region:29,"FAC,GPE,LOC,ORG"
+AToBD,victoria,Victoria,12,12,,place:12|person:0|org:0,settlement:12,GPE
+AToBD,fort garry,Fort Garry,9,9,,place:9|person:0|org:0,facility:9,"FAC,GPE"
+AToBD,richfield,Richfield,9,9,,place:9|person:2|org:0,settlement:9,GPE
+AToBD,fort edmonton,Fort Edmonton,7,7,,place:7|person:0|org:0,facility:7,"FAC,GPE"
+AToBD,fraser river,Fraser River,7,7,,place:7|person:0|org:0,water:7,LOC
+AToBD,williams creek,Williams Creek,6,6,,place:6|person:0|org:0,water:6,LOC
+AToBD,canada west,Canada West,4,4,,place:4|person:0|org:0,region:4,LOC
+AToBD,new york city,New York City,4,4,,place:4|person:0|org:0,settlement:4,GPE
+AToBD,toronto,Toronto,4,4,,place:4|person:0|org:0,settlement:4,GPE
+AToBD,athabaska river,Athabaska River,3,3,,place:3|person:0|org:0,water:3,LOC
+AToBD,cottonwood wayhouse,Cottonwood Wayhouse,3,3,,place:3|person:0|org:0,facility:3,FAC
+AToBD,fort carlton,Fort Carlton,3,3,,place:3|person:0|org:0,facility:3,FAC
+AToBD,fraser,Fraser,3,3,,place:3|person:1|org:0,unknown:3,LOC
+AToBD,red river settlement,Red River Settlement,3,3,,place:3|person:0|org:0,region:3,"FAC,LOC"
+AToBD,st anne,St. Anne,3,3,,place:3|person:0|org:0,facility:2|settlement:1,"FAC,GPE"
+AToBD,tete jaune cache,Tête Jaune Cache,3,3,,place:3|person:0|org:0,facility:3,FAC
+AToBD,california,California,2,2,,place:2|person:0|org:0,settlement:2,GPE
+AToBD,fort ellice,Fort Ellice,2,2,,place:2|person:0|org:0,facility:2,FAC
+AToBD,fort george,Fort George,2,2,,place:2|person:0|org:0,facility:2,FAC
+AToBD,fort pitt,Fort Pitt,2,2,,place:2|person:0|org:0,facility:2,FAC
+AToBD,hudson bay company,Hudson Bay Company,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+AToBD,jasper house,Jasper House,2,2,,place:2|person:1|org:0,facility:2,FAC
+AToBD,quappelle river,Qu'Appelle River,2,2,,place:2|person:0|org:0,water:2,LOC
+AToBD,quesnellemouth,Quesnellemouth,2,2,,place:2|person:0|org:0,settlement:2,GPE
+AToBD,quill plains,Quill Plains,2,2,,place:2|person:0|org:0,landform:2,LOC
+AToBD,tete jaune pass,Tête Jaune Pass,2,2,,place:2|person:0|org:0,landform:2,FAC
+AToBD,thompson river,Thompson River,2,2,,place:2|person:0|org:0,water:2,LOC
+AToBD,thompson river route,Thompson River Route,2,2,,place:2|person:0|org:0,facility:2,FAC
+AToBD,acton,Acton,1,1,,place:1|person:0|org:0,settlement:1,GPE
+AToBD,beaver creek,Beaver Creek,1,1,,place:1|person:0|org:0,water:1,LOC
+AToBD,black jack canyon,Black Jack Canyon,1,1,,place:1|person:0|org:0,unknown:1,LOC
+AToBD,british columbia,British Columbia,1,1,,place:1|person:0|org:0,region:1,GPE
+AToBD,buffalo dung river,Buffalo Dung River,1,1,,place:1|person:0|org:0,water:1,LOC
+AToBD,china,china,1,0,not_capitalised,place:1|person:0|org:0,country:1,GPE
+AToBD,fraser route,Fraser Route,1,1,,place:1|person:0|org:0,facility:1,FAC
+AToBD,goderich,Goderich,1,1,,place:1|person:0|org:0,settlement:1,GPE
+AToBD,london,London,1,1,,place:1|person:0|org:0,settlement:1,GPE
+AToBD,long lake mama,Long Lake Mama,1,1,,place:1|person:0|org:0,unknown:1,LOC
+AToBD,lumpy hills,Lumpy Hills,1,1,,place:1|person:0|org:0,landform:1,LOC
+AToBD,miette river,Miette River,1,1,,place:1|person:0|org:0,water:1,LOC
+AToBD,new westminster,New Westminster,1,1,,place:1|person:0|org:0,settlement:1,GPE
+AToBD,north saskatchewan river,North Saskatchewan River,1,1,,place:1|person:0|org:0,water:1,LOC
+AToBD,oxen,Oxen,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+AToBD,pembina river,Pembina River,1,1,,place:1|person:0|org:0,water:1,LOC
+AToBD,quesnel river,Quesnel River,1,1,,place:1|person:0|org:0,water:1,LOC
+AToBD,red river,Red River,1,1,,place:1|person:0|org:0,water:1,LOC
+AToBD,rocky mountains,Rocky Mountains,1,1,,place:1|person:0|org:0,landform:1,LOC
+AToBD,roman catholic church,Roman Catholic Church,1,1,,place:0|person:0|org:1,facility:1,ORG
+AToBD,root river,Root River,1,1,,place:1|person:0|org:0,water:1,LOC
+AToBD,russia,Russia,1,1,,place:1|person:0|org:0,country:1,GPE
+AToBD,san francisco,San Francisco,1,1,,place:1|person:0|org:0,settlement:1,GPE
+AToBD,south saskatchewan river,South Saskatchewan River,1,1,,place:1|person:0|org:0,water:1,LOC
+AToBD,st albert,St. Albert,1,1,,place:1|person:0|org:0,settlement:1,GPE
+AToBD,st annes mission,St. Anne's Mission,1,1,,place:1|person:0|org:0,facility:1,FAC
+AToBD,thickwood hills,Thickwood Hills,1,1,,place:1|person:0|org:0,landform:1,LOC
+AToBD,this st anne,this St. Anne,1,0,not_capitalised,place:1|person:0|org:0,facility:1,FAC
+AToBD,thompson,Thompson,1,1,,place:1|person:0|org:0,unknown:1,LOC
+AToBD,touchwood mountains,Touchwood Mountains,1,1,,place:1|person:0|org:0,landform:1,LOC
+AToBD,united states,United States,1,1,,place:1|person:0|org:0,country:1,GPE
+AToBD,upper fort garry,Upper Fort Garry,1,1,,place:1|person:0|org:0,facility:1,FAC
+AinUTL,montreal,Montréal,39,39,,place:36|person:1|org:3,settlement:35|unknown:3|facility:1,"FAC,GPE,ORG"
+AinUTL,new france,New France,35,35,,place:35|person:0|org:0,region:35,"GPE,LOC"
+AinUTL,france,France,29,29,,place:29|person:0|org:0,country:29,GPE
+AinUTL,quebec,Québec,17,17,,place:17|person:0|org:0,settlement:17,GPE
+AinUTL,le bon dieu,le bon Dieu,10,0,not_capitalised,place:0|person:2|org:10,unknown:10,ORG
+AinUTL,seraphin,Séraphin,7,0,mostly_person_in_book,place:0|person:63|org:7,unknown:7,ORG
+AinUTL,la rochelle,La Rochelle,6,6,,place:6|person:0|org:0,settlement:6,GPE
+AinUTL,le cadeau,Le Cadeau,6,6,,place:5|person:0|org:1,facility:5|unknown:1,"FAC,ORG"
+AinUTL,reignac,Reignac,6,6,,place:6|person:0|org:0,settlement:5|facility:1,"FAC,GPE"
+AinUTL,lower town,Lower Town,5,5,,place:5|person:0|org:0,settlement:5,LOC
+AinUTL,hotel dieu,Hôtel-Dieu,4,1,org_not_promoted,place:1|person:0|org:3,unknown:3|facility:1,"FAC,ORG"
+AinUTL,la soeur bourgeoys,la Soeur Bourgeoys,4,0,not_capitalised,place:4|person:2|org:0,settlement:2|facility:2,"FAC,GPE"
+AinUTL,tante barbe,Tante Barbe,3,0,title_or_kinship,place:0|person:115|org:3,unknown:3,ORG
+AinUTL,carignan salieres regiment,Carignan-Salières Regiment,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+AinUTL,mohawk,Mohawk,2,2,,place:2|person:0|org:0,settlement:2,GPE
+AinUTL,monsieur aubry,Monsieur Aubry,2,0,title_or_kinship,place:1|person:117|org:1,settlement:1|unknown:1,"GPE,ORG"
+AinUTL,rue st paul,Rue Saint-Paul,2,2,,place:2|person:0|org:0,facility:2,FAC
+AinUTL,ste barbe,Sainte-Barbe,2,2,,place:2|person:0|org:0,facility:2,FAC
+AinUTL,brune,Brune,1,0,mostly_person_in_book,place:1|person:2|org:0,unknown:1,LOC
+AinUTL,cap diamant,Cap Diamant,1,1,,place:1|person:0|org:0,landform:1,LOC
+AinUTL,compagnie des indes occidentales,Compagnie des Indes Occidentales,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+AinUTL,fevrier,Février,1,1,,place:1|person:0|org:0,facility:1,FAC
+AinUTL,fort st louis,Fort St.-Louis,1,1,,place:1|person:0|org:0,facility:1,FAC
+AinUTL,intendant,Intendant,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+AinUTL,intendant talon,Intendant Talon,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+AinUTL,le chat blanc,Le Chat Blanc,1,1,,place:1|person:0|org:0,facility:1,FAC
+AinUTL,lerable,L'Érable,1,1,,place:1|person:0|org:0,facility:1,FAC
+AinUTL,monsieur deschamps,Monsieur Deschamps,1,0,title_or_kinship,place:1|person:40|org:0,facility:1,FAC
+AinUTL,monsieur salon,Monsieur Salon,1,0,title_or_kinship,place:0|person:0|org:1,unknown:1,ORG
+AinUTL,newfoundland,Newfoundland,1,1,,place:1|person:0|org:0,region:1,GPE
+AinUTL,normandy,Normandy,1,1,,place:1|person:0|org:0,settlement:1,GPE
+AinUTL,notre dame,Notre Dame,1,0,org_not_promoted,place:0|person:0|org:1,region:1,ORG
+AinUTL,notre dame de limmaculee conception,Notre-Dame-de-l'Immaculée-Conception,1,1,,place:1|person:0|org:0,facility:1,FAC
+AinUTL,paris,Paris,1,1,,place:1|person:0|org:0,settlement:1,GPE
+AinUTL,pere simard,Père Simard,1,0,title_or_kinship,place:1|person:4|org:0,settlement:1,GPE
+AinUTL,salpetriere,Salpêtrière,1,1,,place:1|person:0|org:0,facility:1,FAC
+AinUTL,st lawrence,St. Lawrence,1,1,,place:1|person:0|org:0,water:1,LOC
+AinUTL,st lawrence river,St. Lawrence River,1,1,,place:1|person:0|org:0,water:1,LOC
+AinUTL,stadacona,Stadacona,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,england,England,17,17,,place:17|person:1|org:0,country:17,GPE
+BFfH,guelph,Guelph,12,12,,place:12|person:0|org:0,settlement:12,GPE
+BFfH,uxbridge,Uxbridge,12,12,,place:12|person:0|org:0,settlement:12,GPE
+BFfH,toronto,Toronto,7,7,,place:7|person:0|org:0,settlement:7,GPE
+BFfH,twins,Twins,6,0,mostly_person_in_book,place:0|person:11|org:6,unknown:6,ORG
+BFfH,verity,Verity,6,0,mostly_person_in_book,place:0|person:82|org:6,unknown:6,ORG
+BFfH,vimy ridge,Vimy Ridge,5,5,,place:5|person:0|org:0,landform:5,"FAC,LOC"
+BFfH,canada,Canada,4,4,,place:4|person:0|org:0,country:4,GPE
+BFfH,france,France,4,4,,place:4|person:1|org:0,country:4,GPE
+BFfH,front,Front,4,0,org_not_promoted,place:0|person:0|org:4,unknown:4,ORG
+BFfH,muskoka,Muskoka,4,4,,place:4|person:0|org:0,settlement:3|unknown:1,"GPE,LOC"
+BFfH,116th,116th,3,0,not_capitalised,place:0|person:0|org:3,unknown:3,ORG
+BFfH,blighty,Blighty,3,3,,place:3|person:0|org:0,settlement:3,GPE
+BFfH,halifax,Halifax,3,3,,place:3|person:0|org:0,settlement:3,GPE
+BFfH,red cross,Red Cross,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+BFfH,amiens,Amiens,2,2,,place:2|person:0|org:0,settlement:1|facility:1,"FAC,GPE"
+BFfH,europe,Europe,2,2,,place:2|person:0|org:0,region:2,LOC
+BFfH,lusitania,Lusitania,2,2,,place:2|person:0|org:0,vessel:2,LOC
+BFfH,missionary society,Missionary Society,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+BFfH,passchendaele,Passchendaele,2,2,,place:2|person:0|org:0,facility:2,FAC
+BFfH,royal naval air service,Royal Naval Air Service,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+BFfH,russia,Russia,2,2,,place:2|person:0|org:0,country:2,GPE
+BFfH,somme,Somme,2,2,,place:2|person:0|org:0,unknown:2,LOC
+BFfH,speed river,Speed River,2,2,,place:2|person:0|org:0,water:2,LOC
+BFfH,vogue,Vogue,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+BFfH,webbs,Webbs,2,0,mostly_person_in_book,place:0|person:17|org:2,unknown:2,ORG
+BFfH,windermere,Windermere,2,1,org_not_promoted,place:1|person:0|org:1,unknown:1|settlement:1,"GPE,ORG"
+BFfH,agricultural college,Agricultural College,1,1,,place:0|person:0|org:1,facility:1,ORG
+BFfH,algonquin park,Algonquin Park,1,1,,place:1|person:0|org:0,facility:1,LOC
+BFfH,bourlon wood,Bourlon Wood,1,1,,place:1|person:0|org:0,facility:1,FAC
+BFfH,britain,Britain,1,1,,place:1|person:0|org:0,country:1,GPE
+BFfH,business college,Business College,1,1,,place:0|person:0|org:1,facility:1,ORG
+BFfH,cambrai,Cambrai,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,canoe lake,Canoe Lake,1,1,,place:1|person:0|org:0,water:1,LOC
+BFfH,chalmers presbyterian church,Chalmers Presbyterian Church,1,1,,place:0|person:0|org:1,facility:1,ORG
+BFfH,china,China,1,1,,place:1|person:0|org:0,country:1,GPE
+BFfH,cobourg,Cobourg,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,coulott,Coulott,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,crimea,Crimea,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,first form,First Form,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BFfH,frankfurt,Frankfurt,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,givenchy,Givenchy,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BFfH,holland,Holland,1,1,,place:1|person:0|org:0,country:1,GPE
+BFfH,knitting group,Knitting Group,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BFfH,lake rosseau,Lake Rosseau,1,1,,place:1|person:0|org:0,water:1,LOC
+BFfH,leaskdale,Leaskdale,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BFfH,lens,Lens,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,limberlost,Limberlost,1,1,,place:1|person:0|org:0,unknown:1,LOC
+BFfH,long branch,Long Branch,1,1,,place:1|person:0|org:0,facility:1,FAC
+BFfH,mississippi,Mississippi,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,montreal,Montreal,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,normal school,Normal School,1,1,,place:0|person:0|org:1,facility:1,ORG
+BFfH,paris,Paris,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,peril,Peril,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,pimple,Pimple,1,1,,place:1|person:0|org:0,unknown:1,LOC
+BFfH,port carling,Port Carling,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,prince rupert,Prince Rupert,1,0,mostly_person_in_book,place:1|person:1|org:0,settlement:1,GPE
+BFfH,sarajevo,Sarajevo,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,session,Session,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BFfH,sick childrens hospital,Sick Children's Hospital,1,1,,place:0|person:0|org:1,facility:1,ORG
+BFfH,sick kids,Sick Kids,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BFfH,st eloi,St. Eloi,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,sussex,Sussex,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,union station,Union Station,1,1,,place:1|person:0|org:0,facility:1,FAC
+BFfH,university of toronto,University of Toronto,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BFfH,uxbridge music hall,Uxbridge Music Hall,1,1,,place:1|person:0|org:0,facility:1,FAC
+BFfH,vimy,Vimy,1,1,,place:1|person:0|org:0,facility:1,FAC
+BFfH,windermere house,Windermere House,1,1,,place:0|person:0|org:1,facility:1,ORG
+BFfH,yanks,Yanks,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BFfH,yorkshire,Yorkshire,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BFfH,ypres,Ypres,1,1,,place:1|person:0|org:0,facility:1,FAC
+BUoL,batoche,Batoche,40,40,,place:39|person:19|org:1,settlement:22|unknown:10|facility:8,"FAC,GPE,LOC,ORG"
+BUoL,ottawa,Ottawa,14,14,,place:14|person:0|org:0,settlement:14,GPE
+BUoL,prince albert,Prince Albert,14,14,,place:14|person:1|org:0,settlement:13|unknown:1,"GPE,LOC"
+BUoL,toronto,Toronto,12,12,,place:12|person:0|org:0,settlement:12,GPE
+BUoL,duck lake,Duck Lake,11,11,,place:11|person:1|org:0,water:11,"FAC,LOC"
+BUoL,red river,Red River,11,11,,place:11|person:0|org:0,water:11,LOC
+BUoL,st laurent,St. Laurent,10,10,,place:9|person:0|org:1,facility:8|unknown:1|settlement:1,"FAC,GPE,ORG"
+BUoL,st boniface,St. Boniface,9,9,,place:9|person:0|org:0,settlement:5|facility:4,"FAC,GPE"
+BUoL,fort carlton,Fort Carlton,7,7,,place:7|person:0|org:0,facility:7,FAC
+BUoL,canada,Canada,5,5,,place:5|person:0|org:0,country:5,GPE
+BUoL,edmond,Edmond,5,0,mostly_person_in_book,place:5|person:101|org:0,settlement:5,GPE
+BUoL,saskatchewan,Saskatchewan,5,5,,place:5|person:0|org:0,region:5,"GPE,LOC"
+BUoL,clarkes crossing,Clarke's Crossing,4,4,,place:4|person:0|org:0,facility:4,FAC
+BUoL,gabriels crossing,Gabriel's Crossing,4,4,,place:4|person:0|org:0,facility:2|unknown:2,"FAC,LOC"
+BUoL,manitoba,Manitoba,4,4,,place:4|person:0|org:0,region:4,GPE
+BUoL,montreal,Montréal,4,4,,place:3|person:0|org:1,settlement:3|unknown:1,"GPE,ORG"
+BUoL,quappelle,Qu'Appelle,4,4,,place:3|person:0|org:1,settlement:2|unknown:2,"GPE,LOC,ORG"
+BUoL,regina,Regina,4,4,,place:4|person:0|org:0,settlement:4,GPE
+BUoL,touronds coulee,Tourond's Coulee,4,4,,place:4|person:0|org:0,unknown:2|facility:2,"FAC,LOC"
+BUoL,council,Council,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+BUoL,fort bouvier,Fort Bouvier,3,3,,place:3|person:0|org:0,facility:3,FAC
+BUoL,ireland,Ireland,3,3,,place:3|person:0|org:0,country:3,GPE
+BUoL,ontario,Ontario,3,3,,place:3|person:0|org:0,region:3,GPE
+BUoL,quebec,Quebec,3,3,,place:3|person:0|org:0,region:3,GPE
+BUoL,scotland,Scotland,3,3,,place:3|person:0|org:0,country:3,GPE
+BUoL,st antoine,St. Antoine,3,3,,place:3|person:0|org:0,facility:3,FAC
+BUoL,winnipeg,Winnipeg,3,3,,place:3|person:0|org:0,settlement:3,GPE
+BUoL,england,England,2,2,,place:2|person:0|org:0,country:2,GPE
+BUoL,garnot,Garnot,2,0,mostly_person_in_book,place:0|person:7|org:2,unknown:2,ORG
+BUoL,higher court,Higher Court,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+BUoL,hudsons bay company,Hudson's Bay Company,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+BUoL,ma ma kwa se sak,Ma-ma-kwa-se-sak,2,2,,place:2|person:1|org:0,unknown:2,LOC
+BUoL,metis,Métis,2,0,mostly_person_in_book,place:0|person:1|org:2,unknown:2,ORG
+BUoL,montana,Montana,2,2,,place:2|person:0|org:0,settlement:2,GPE
+BUoL,north west mounted police,North-West Mounted Police,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+BUoL,northwest,Northwest,2,2,,place:2|person:0|org:0,unknown:2,LOC
+BUoL,st laurent de grandin,St. Laurent de Grandin,2,2,,place:2|person:0|org:0,facility:2,FAC
+BUoL,armand,Armand,1,0,mostly_person_in_book,place:1|person:130|org:0,settlement:1,GPE
+BUoL,big bear,Big Bear,1,0,mostly_person_in_book,place:1|person:3|org:0,unknown:1,LOC
+BUoL,bouviers,Bouviers,1,0,mostly_person_in_book,place:1|person:7|org:0,unknown:1,LOC
+BUoL,calgary,Calgary,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BUoL,encore,Encore,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BUoL,esq,Esq,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BUoL,faithful companions of jesus,Faithful Companions of Jesus,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BUoL,fish creek,Fish Creek,1,1,,place:1|person:0|org:0,water:1,LOC
+BUoL,fort garry,Fort Garry,1,1,,place:1|person:0|org:0,facility:1,FAC
+BUoL,fort quappelle,Fort Qu'Appelle,1,1,,place:1|person:0|org:0,facility:1,GPE
+BUoL,france,France,1,1,,place:1|person:0|org:0,country:1,GPE
+BUoL,frog lake,Frog Lake,1,1,,place:1|person:0|org:0,water:1,LOC
+BUoL,globe,Globe,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BUoL,house,House,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BUoL,la mignonne,La Mignonne,1,0,mostly_person_in_book,place:1|person:5|org:0,settlement:1,GPE
+BUoL,letendre,Letendre,1,0,mostly_person_in_book,place:0|person:22|org:1,unknown:1,ORG
+BUoL,ma ma kwa se,Ma-ma-kwa-se-,1,1,,place:1|person:0|org:0,unknown:1,LOC
+BUoL,mai,mai,1,0,not_capitalised,place:1|person:1|org:0,settlement:1,GPE
+BUoL,michif,Michif,1,0,mostly_person_in_book,place:1|person:2|org:0,unknown:1,LOC
+BUoL,middleton,Middleton,1,0,mostly_person_in_book,place:0|person:20|org:1,unknown:1,ORG
+BUoL,minnesota,Minnesota,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BUoL,monsieur letendre,Monsieur Letendre,1,0,title_or_kinship,place:1|person:3|org:0,settlement:1,GPE
+BUoL,montana territory,Montana Territory,1,1,,place:1|person:0|org:0,region:1,GPE
+BUoL,moushoom,Moushoom,1,0,not_place_list,place:1|person:249|org:0,unknown:1,LOC
+BUoL,north west,North West,1,1,,place:1|person:0|org:0,unknown:1,LOC
+BUoL,north west company,North West Company,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BUoL,north west territory,North-West Territory,1,1,,place:1|person:0|org:0,region:1,GPE
+BUoL,northcote,Northcote,1,1,,place:1|person:0|org:0,facility:1,FAC
+BUoL,northgraves,Northgraves,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BUoL,northwest territories,Northwest Territories,1,1,,place:1|person:0|org:0,region:1,LOC
+BUoL,nwt,N.W.T,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BUoL,one arrow,One Arrow,1,0,mostly_person_in_book,place:1|person:12|org:0,unknown:1,LOC
+BUoL,one arrow reserve,One Arrow Reserve,1,1,,place:1|person:0|org:0,facility:1,FAC
+BUoL,prince plus,Prince Plus,1,1,,place:1|person:0|org:0,facility:1,FAC
+BUoL,quappelle vidette,Qu'Appelle Vidette,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BUoL,russia,Russia,1,1,,place:1|person:0|org:0,country:1,GPE
+BUoL,saskatchewan river,Saskatchewan River,1,1,,place:1|person:0|org:0,water:1,LOC
+BUoL,south saskatchewan,South Saskatchewan,1,1,,place:1|person:0|org:0,unknown:1,LOC
+BUoL,st andrew,St. Andrew,1,1,,place:1|person:0|org:0,facility:1,FAC
+BUoL,st antoine de padoue,St. Antoine de Padoue,1,1,,place:1|person:0|org:0,facility:1,FAC
+BUoL,st louis,St. Louis,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BUoL,states,States,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BUoL,stony mountain,Stony Mountain,1,1,,place:1|person:0|org:0,landform:1,FAC
+BUoL,toronto globe,Toronto Globe,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+BUoL,une fleche,Une Flèche,1,1,,place:1|person:0|org:0,settlement:1,GPE
+BUoL,united states,United States,1,1,,place:1|person:0|org:0,country:1,GPE
+BUoL,upper fort garry,Upper Fort Garry,1,1,,place:1|person:0|org:0,unknown:1,LOC
+CofOO,ottawa,Ottawa,37,37,,place:37|person:0|org:0,settlement:35|water:2,GPE
+CofOO,canada,Canada,26,14,salutation,place:26|person:0|org:0,country:25|region:1,GPE
+CofOO,province of canada,Province of Canada,20,20,,place:15|person:0|org:0,region:20,GPE
+CofOO,confederation,Confederation,17,0,org_not_promoted,place:0|person:0|org:17,unknown:17,ORG
+CofOO,quebec city,Québec City,16,16,,place:16|person:0|org:0,settlement:16,GPE
+CofOO,canada east,Canada East,14,14,,place:14|person:0|org:0,region:14,"GPE,LOC"
+CofOO,parliament buildings,Parliament Buildings,12,12,,place:12|person:0|org:0,facility:12,FAC
+CofOO,cacouna,Cacouna,11,11,,place:11|person:0|org:0,settlement:11,GPE
+CofOO,london,London,9,9,,place:9|person:0|org:0,settlement:9,GPE
+CofOO,montreal,Montreal,9,9,,place:9|person:0|org:0,settlement:9,GPE
+CofOO,new brunswick,New Brunswick,9,9,,place:9|person:0|org:0,region:9,GPE
+CofOO,nova scotia,Nova Scotia,8,8,,place:8|person:0|org:0,region:8,GPE
+CofOO,prince edward island,Prince Edward Island,8,8,,place:8|person:0|org:0,region:8,GPE
+CofOO,quebec,Québec,8,8,,place:8|person:0|org:0,settlement:7|region:1,GPE
+CofOO,dominion of canada,Dominion of Canada,7,7,,place:7|person:0|org:0,settlement:7,GPE
+CofOO,newfoundland,Newfoundland,7,7,,place:7|person:0|org:0,region:7,GPE
+CofOO,canada west,Canada West,6,6,,place:6|person:0|org:0,region:6,"GPE,LOC"
+CofOO,parliament hill,Parliament Hill,6,6,,place:6|person:0|org:0,landform:6,"FAC,LOC"
+CofOO,great britain,Great Britain,5,5,,place:5|person:0|org:0,country:5,GPE
+CofOO,sparks street,Sparks Street,5,5,,place:5|person:0|org:0,facility:5,FAC
+CofOO,british columbia,British Columbia,4,4,,place:4|person:0|org:0,region:4,GPE
+CofOO,england,England,4,4,,place:4|person:0|org:0,country:4,GPE
+CofOO,north west territories,North-West Territories,4,4,,place:4|person:0|org:0,region:4,"GPE,LOC"
+CofOO,ontario,Ontario,4,4,,place:4|person:0|org:0,water:2|region:2,GPE
+CofOO,ruperts land,Rupert's Land,4,4,,place:4|person:0|org:0,region:4,"FAC,LOC"
+CofOO,america,America,3,3,,place:3|person:0|org:0,country:3,GPE
+CofOO,ireland,Ireland,3,3,,place:3|person:0|org:0,country:3,GPE
+CofOO,maritimes,Maritimes,3,3,,place:3|person:0|org:0,unknown:3,LOC
+CofOO,united states,United States,3,3,,place:3|person:0|org:0,country:3,GPE
+CofOO,atlantic,Atlantic,2,2,,place:2|person:0|org:0,water:2,LOC
+CofOO,briney,Briney,2,0,mostly_person_in_book,place:1|person:104|org:1,unknown:2,"LOC,ORG"
+CofOO,britain,Britain,2,2,,place:2|person:0|org:0,country:2,GPE
+CofOO,clear grits,Clear Grits,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+CofOO,daly street,Daly Street,2,2,,place:2|person:0|org:0,facility:2,FAC
+CofOO,hanlon brothers circus,Hanlon Brothers' Circus,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+CofOO,house of lords,House of Lords,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+CofOO,kingston,Kingston,2,2,,place:2|person:0|org:0,settlement:2,GPE
+CofOO,lachine rapids,Lachine Rapids,2,2,,place:2|person:0|org:0,water:2,LOC
+CofOO,lower town,Lower Town,2,2,,place:2|person:0|org:0,settlement:2,LOC
+CofOO,mass,Mass,2,2,,place:2|person:0|org:0,settlement:2,GPE
+CofOO,northwest territories,Northwest Territories,2,2,,place:2|person:0|org:0,region:2,GPE
+CofOO,parliament,Parliament,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+CofOO,pointe levi,Pointe Levi,2,2,,place:2|person:0|org:0,landform:2,GPE
+CofOO,sandy hill,Sandy Hill,2,2,,place:2|person:0|org:0,landform:2,GPE
+CofOO,scholastic canada ltd,Scholastic Canada Ltd,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+CofOO,st alban,St. Alban,2,2,,place:2|person:0|org:0,facility:2,FAC
+CofOO,st lawrence river,St. Lawrence River,2,2,,place:2|person:0|org:0,water:2,LOC
+CofOO,toronto,Toronto,2,2,,place:2|person:0|org:0,settlement:2,GPE
+CofOO,upper town,Upper Town,2,2,,place:2|person:0|org:0,settlement:2,LOC
+CofOO,alberta,Alberta,1,1,,place:1|person:0|org:0,region:1,GPE
+CofOO,british empire,British Empire,1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,british house of commons,British House of Commons,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,british north america,British North America,1,1,,place:1|person:0|org:0,unknown:1,LOC
+CofOO,buffalo,Buffalo,1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,cabinet,Cabinet,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,camelot,Camelot,1,1,,place:1|person:0|org:0,unknown:1,LOC
+CofOO,cataraqui,Cataraqui,1,1,,place:1|person:0|org:0,unknown:1,LOC
+CofOO,chaffeys lock,Chaffey's Lock,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,charlottetown,Charlottetown,1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,chaudiere falls,Chaudière Falls,1,1,,place:1|person:0|org:0,water:1,LOC
+CofOO,chelsea hills,Chelsea Hills,1,1,,place:1|person:0|org:0,landform:1,LOC
+CofOO,church,Church,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,church of england,Church of England,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,citizen,Citizen,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,civil service militia,Civil Service Militia,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,civil service rifle company,Civil Service Rifle Company,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,colony of british columbia,Colony of British Columbia,1,1,,place:1|person:0|org:0,region:1,GPE
+CofOO,conservative party,Conservative Party,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,dalhousie street,Dalhousie Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,dominion,Dominion,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,dufferin house,Dufferin House,1,1,,place:0|person:0|org:1,facility:1,ORG
+CofOO,eb eddy,E.B. Eddy,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,eb eddy manufacturing company,E.B. Eddy Manufacturing Company,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,elgin street,Elgin Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,europe,Europe,1,1,,place:1|person:0|org:0,region:1,LOC
+CofOO,gatineau river,Gatineau River,1,1,,place:1|person:0|org:0,water:1,LOC
+CofOO,government of canada,Government of Canada,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,great coalition,Great Coalition,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,great travelling museum,Great Travelling Museum,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,hbc,HBC,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,house of commons,House of Commons,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,hudsons bay company,Hudson's Bay Company,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,king street,King Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,lake ontario,Lake Ontario,1,1,,place:1|person:0|org:0,water:1,LOC
+CofOO,liberal conservative party,Liberal-Conservative Party,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,liberal conservatives,Liberal-Conservatives,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,library and archives canada,Library and Archives Canada,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,london england,"London, England",1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,lower canada,Lower Canada,1,1,,place:1|person:0|org:0,region:1,LOC
+CofOO,maniwaki,Maniwaki,1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,miless parliamentary hairdressing saloon,Miles's Parliamentary Hairdressing Saloon,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,new edinburgh,New Edinburgh,1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,new moon,new moon,1,0,not_capitalised,place:1|person:0|org:0,unknown:1,LOC
+CofOO,newfoundland and labrador,Newfoundland and Labrador,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,niagara,Niagara,1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,niagara river,Niagara River,1,1,,place:1|person:0|org:0,water:1,LOC
+CofOO,north,North,1,1,,place:1|person:0|org:0,unknown:1,LOC
+CofOO,north america,North America,1,1,,place:1|person:0|org:0,unknown:1,LOC
+CofOO,north western territory,North-Western Territory,1,1,,place:1|person:0|org:0,region:1,GPE
+CofOO,nunavut territory,Nunavut Territory,1,1,,place:1|person:0|org:0,region:1,GPE
+CofOO,ottawa river,Ottawa River,1,1,,place:1|person:0|org:0,water:1,LOC
+CofOO,parliament of canada,Parliament of Canada,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,parliament of great britain,Parliament of Great Britain,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,parti,Parti,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,peace tower,Peace Tower,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,prescott,Prescott,1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,province of british columbia,Province of British Columbia,1,1,,place:1|person:0|org:0,region:1,GPE
+CofOO,province of manitoba,Province of Manitoba,1,1,,place:1|person:0|org:0,region:1,GPE
+CofOO,reform party,Reform Party,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,rideau,Rideau,1,1,,place:1|person:0|org:0,unknown:1,LOC
+CofOO,rideau bridge,Rideau Bridge,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,rideau canal,Rideau Canal,1,1,,place:1|person:0|org:0,water:1,FAC
+CofOO,rideau street,Rideau Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,ridgeway,Ridgeway,1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,saskatchewan,Saskatchewan,1,1,,place:1|person:0|org:0,region:1,GPE
+CofOO,scholastic,SCHOLASTIC,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,scholastic inc,Scholastic Inc,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+CofOO,shalott,Shalott,1,0,mostly_person_in_book,place:1|person:1|org:0,settlement:1,GPE
+CofOO,st georges de cacouna,Saint Georges de Cacouna,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,st james the apostle,St. James the Apostle,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,st joseph,St. Joseph,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,st lawrence hall,Saint Lawrence Hall,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,sussex street,Sussex Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+CofOO,united province of canada,United Province of Canada,1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,united states of america,United States of America,1,1,,place:1|person:0|org:0,settlement:1,GPE
+CofOO,upper canada,Upper Canada,1,1,,place:1|person:0|org:0,region:1,LOC
+CofOO,yukon,Yukon,1,1,,place:1|person:0|org:0,region:1,GPE
+CofOO,yukon territory,Yukon Territory,1,1,,place:1|person:0|org:0,region:1,GPE
+DRtoF,toronto,Toronto,27,27,,place:27|person:0|org:0,settlement:27,GPE
+DRtoF,canada,Canada,21,21,,place:21|person:0|org:0,country:21,GPE
+DRtoF,owen sound,Owen Sound,14,14,,place:13|person:1|org:1,water:14,"GPE,LOC,ORG"
+DRtoF,fortress,Fortress,12,12,,place:11|person:0|org:1,facility:11|unknown:1,"FAC,ORG"
+DRtoF,virginia,Virginia,12,12,,place:12|person:0|org:0,settlement:12,GPE
+DRtoF,big house,Big House,9,9,,place:9|person:0|org:0,facility:9,FAC
+DRtoF,sheldon place,Sheldon Place,7,7,,place:7|person:0|org:0,facility:7,FAC
+DRtoF,union army,Union Army,7,0,org_not_promoted,place:0|person:0|org:7,unknown:7,ORG
+DRtoF,rochester,Rochester,6,6,,place:6|person:0|org:0,settlement:6,GPE
+DRtoF,england,England,5,5,,place:5|person:0|org:0,country:5,GPE
+DRtoF,ohio,Ohio,5,5,,place:5|person:0|org:0,settlement:5,GPE
+DRtoF,durham,Durham,4,4,,place:4|person:0|org:0,settlement:4,GPE
+DRtoF,fortress monroe,Fortress Monroe,4,4,,place:3|person:0|org:1,facility:3|unknown:1,"FAC,ORG"
+DRtoF,freedom fortress,Freedom Fortress,4,4,,place:4|person:0|org:0,facility:4,FAC
+DRtoF,north,North,4,4,,place:3|person:0|org:1,unknown:4,"LOC,ORG"
+DRtoF,sabbath school,Sabbath School,4,4,,place:0|person:0|org:4,facility:4,ORG
+DRtoF,underground railroad,Underground Railroad,4,1,org_not_promoted,place:1|person:0|org:3,unknown:3|facility:1,"FAC,ORG"
+DRtoF,africa,Africa,3,3,,place:3|person:0|org:0,region:3,LOC
+DRtoF,canada west,Canada West,3,3,,place:3|person:0|org:0,region:3,LOC
+DRtoF,collingwood,Collingwood,3,3,,place:3|person:0|org:0,settlement:3,GPE
+DRtoF,durham road,Durham Road,3,3,,place:3|person:0|org:0,facility:3,FAC
+DRtoF,great dismal swamp,Great Dismal Swamp,3,3,,place:3|person:0|org:0,unknown:3,LOC
+DRtoF,new york state,New York State,3,3,,place:3|person:0|org:0,settlement:3,GPE
+DRtoF,presque isle,Presque Isle,3,3,,place:3|person:0|org:0,landform:3,"GPE,LOC"
+DRtoF,south,South,3,3,,place:3|person:0|org:0,unknown:3,LOC
+DRtoF,toronto sydenham road,Toronto-Sydenham Road,3,3,,place:3|person:0|org:0,facility:3,FAC
+DRtoF,united states,United States,3,3,,place:3|person:0|org:0,country:3,GPE
+DRtoF,albany,Albany,2,2,,place:2|person:0|org:0,settlement:2,GPE
+DRtoF,american missionary association,American Missionary Association,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+DRtoF,british methodist episcopal church,British Methodist Episcopal Church,2,2,,place:0|person:0|org:2,facility:2,ORG
+DRtoF,fortress freedom,Fortress Freedom,2,2,,place:2|person:0|org:0,facility:2,FAC
+DRtoF,garafraxa road,Garafraxa Road,2,2,,place:2|person:0|org:0,facility:2,FAC
+DRtoF,georgian bay,Georgian Bay,2,2,,place:2|person:0|org:0,water:2,LOC
+DRtoF,market square,Market Square,2,2,,place:2|person:0|org:0,facility:2,FAC
+DRtoF,mill pond,Mill Pond,2,2,,place:2|person:0|org:0,water:2,LOC
+DRtoF,poulett street,Poulett Street,2,2,,place:2|person:0|org:0,facility:2,FAC
+DRtoF,queens hotel,Queen's Hotel,2,2,,place:1|person:0|org:1,facility:2,"FAC,ORG"
+DRtoF,st johns ward,St. John's Ward,2,2,,place:2|person:0|org:0,settlement:2,GPE
+DRtoF,8th street,8th Street,1,0,not_capitalised,place:1|person:0|org:0,facility:1,FAC
+DRtoF,alabama,Alabama,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DRtoF,america,America,1,1,,place:1|person:0|org:0,country:1,GPE
+DRtoF,artemesia post office,Artemesia Post Office,1,1,,place:0|person:0|org:1,facility:1,ORG
+DRtoF,association,Association,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DRtoF,bay,Bay,1,1,,place:1|person:0|org:0,unknown:1,LOC
+DRtoF,bolton,Bolton,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DRtoF,cape croker,Cape Croker,1,1,,place:1|person:0|org:0,landform:1,LOC
+DRtoF,centre street,Centre Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+DRtoF,chatsworth,Chatsworth,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DRtoF,confederate army,Confederate Army,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DRtoF,contrabands,Contrabands,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DRtoF,cooper,Cooper,1,0,mostly_person_in_book,place:0|person:3|org:1,unknown:1,ORG
+DRtoF,fleshers corners,Flesher's Corners,1,1,,place:1|person:0|org:0,facility:1,FAC
+DRtoF,fujitiv,Fujitiv,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DRtoF,garafraxa,Garafraxa,1,1,,place:1|person:0|org:0,facility:1,FAC
+DRtoF,grand contraband camp,Grand Contraband Camp,1,1,,place:1|person:0|org:0,facility:1,FAC
+DRtoF,granny taylor,Granny Taylor,1,0,title_or_kinship,place:0|person:5|org:1,unknown:1,ORG
+DRtoF,hudson,Hudson,1,1,,place:1|person:0|org:0,unknown:1,LOC
+DRtoF,hudson river valley,Hudson River Valley,1,1,,place:1|person:0|org:0,landform:1,LOC
+DRtoF,ireland,Ireland,1,1,,place:1|person:0|org:0,country:1,GPE
+DRtoF,jellys corners,Jelly's Corners,1,1,,place:1|person:0|org:0,unknown:1,LOC
+DRtoF,kingston,Kingston,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DRtoF,ladies colored fujitiv association,Ladies Colored Fujitiv Association,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DRtoF,lake huron,Lake Huron,1,1,,place:1|person:0|org:0,water:1,LOC
+DRtoF,market place,Market Place,1,1,,place:1|person:0|org:0,facility:1,FAC
+DRtoF,maryland,Maryland,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DRtoF,missionary,Missionary,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DRtoF,missus long,Missus Long,1,0,mostly_person_in_book,place:1|person:69|org:0,facility:1,FAC
+DRtoF,mohawk valley,Mohawk Valley,1,1,,place:1|person:0|org:0,landform:1,LOC
+DRtoF,mono mills,Mono Mills,1,1,,place:1|person:0|org:0,facility:1,GPE
+DRtoF,new york,New York,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DRtoF,north carolina,North Carolina,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DRtoF,northern states,Northern States,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DRtoF,nottawasaga bay,Nottawasaga Bay,1,1,,place:1|person:0|org:0,water:1,LOC
+DRtoF,paradise,Paradise,1,1,,place:1|person:0|org:0,unknown:1,LOC
+DRtoF,pennsylvania,Pennsylvania,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DRtoF,pleasure grounds,Pleasure Grounds,1,1,,place:1|person:0|org:0,unknown:1,LOC
+DRtoF,queen street,Queen Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+DRtoF,queens bush,Queen's Bush,1,1,,place:1|person:0|org:0,unknown:1,LOC
+DRtoF,railroad,Railroad,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DRtoF,richmond hill,Richmond Hill,1,1,,place:1|person:0|org:0,landform:1,GPE
+DRtoF,scotland,Scotland,1,1,,place:1|person:0|org:0,country:1,GPE
+DRtoF,sydenham river,Sydenham River,1,1,,place:1|person:0|org:0,water:1,LOC
+DRtoF,that great dismal swamp,that Great Dismal Swamp,1,0,not_capitalised,place:1|person:0|org:0,unknown:1,LOC
+DRtoF,township of artemesia,Township of Artemesia,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DRtoF,union,Union,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DRtoF,west rocks,West Rocks,1,1,,place:1|person:0|org:0,unknown:1,LOC
+DRtoF,yonge street,Yonge Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,almonte,Almonte,34,34,,place:33|person:6|org:1,settlement:33|unknown:1,"GPE,ORG"
+DofTT,mill street,Mill Street,9,9,,place:9|person:0|org:0,facility:9,FAC
+DofTT,agricultural grounds,Agricultural Grounds,8,8,,place:8|person:0|org:0,facility:8,FAC
+DofTT,canada,Canada,7,7,,place:7|person:0|org:0,country:7,GPE
+DofTT,home,Home,7,1,org_not_promoted,place:1|person:0|org:6,unknown:6|facility:1,"FAC,ORG"
+DofTT,almonte woollen mill no 1,Almonte Woollen Mill No. 1,4,4,,place:4|person:0|org:0,facility:4,FAC
+DofTT,kingston,Kingston,4,4,,place:4|person:0|org:0,settlement:4,GPE
+DofTT,salvation army,Salvation Army,4,0,org_not_promoted,place:0|person:0|org:4,unknown:4,ORG
+DofTT,temperance,Temperance,4,0,mostly_person_in_book,place:0|person:1|org:4,unknown:4,ORG
+DofTT,almonte gazette,Almonte Gazette,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+DofTT,bible study,Bible Study,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+DofTT,brockville,Brockville,3,3,,place:3|person:0|org:0,settlement:3,GPE
+DofTT,mississippi,Mississippi,3,3,,place:3|person:0|org:0,unknown:3,LOC
+DofTT,almonte woollen mill,Almonte Woollen Mill,2,2,,place:0|person:0|org:2,facility:2,ORG
+DofTT,appleton,Appleton,2,2,,place:2|person:0|org:0,settlement:2,GPE
+DofTT,arnprior,Arnprior,2,2,,place:2|person:0|org:0,settlement:2,GPE
+DofTT,asia minor,Asia Minor,2,2,,place:2|person:0|org:0,unknown:2,LOC
+DofTT,big red,Big Red,2,1,org_not_promoted,place:1|person:0|org:1,facility:1|unknown:1,"FAC,ORG"
+DofTT,british columbia,British Columbia,2,2,,place:2|person:0|org:0,region:2,GPE
+DofTT,british empire,British Empire,2,2,,place:2|person:0|org:0,settlement:2,GPE
+DofTT,carleton place,Carleton Place,2,2,,place:2|person:0|org:0,facility:2,FAC
+DofTT,citizens band,Citizen's Band,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+DofTT,cornwall,Cornwall,2,2,,place:2|person:0|org:0,facility:1|settlement:1,"FAC,GPE"
+DofTT,edward street,Edward Street,2,2,,place:2|person:0|org:0,facility:2,FAC
+DofTT,lanark county,Lanark County,2,2,,place:2|person:0|org:0,region:2,GPE
+DofTT,mischanter hill,Mischanter Hill,2,2,,place:2|person:0|org:0,landform:2,LOC
+DofTT,ontario,Ontario,2,2,,place:2|person:0|org:0,region:2,GPE
+DofTT,scotland,Scotland,2,2,,place:2|person:0|org:0,country:2,GPE
+DofTT,st johns church,St. John's Church,2,2,,place:1|person:0|org:1,facility:2,"FAC,ORG"
+DofTT,toronto,Toronto,2,2,,place:2|person:0|org:0,settlement:2,GPE
+DofTT,venice,Venice,2,2,,place:2|person:0|org:0,settlement:2,GPE
+DofTT,albert street,Albert Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,almonte evening stars,Almonte Evening Stars,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,almonte house,Almonte House,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,almonte jail,Almonte Jail,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,bay hill,Bay Hill,1,1,,place:1|person:0|org:0,landform:1,LOC
+DofTT,bell,Bell,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,bible depository,Bible Depository,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,bladderwort,Bladderwort,1,0,mostly_person_in_book,place:1|person:3|org:0,facility:1,FAC
+DofTT,bridge street,Bridge Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,broom brigade,Broom Brigade,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,cameronian church,Cameronian Church,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,canada atlantic railway,Canada Atlantic Railway,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,canada our home,Canada Our Home,1,1,,place:0|person:0|org:1,facility:1,ORG
+DofTT,carp,Carp,1,0,mostly_person_in_book,place:1|person:1|org:0,settlement:1,GPE
+DofTT,carp way,Carp way,1,1,,place:1|person:0|org:0,unknown:1,LOC
+DofTT,cook at the home,Cook at the Home,1,1,,place:0|person:0|org:1,facility:1,ORG
+DofTT,driving park,Driving Park,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,empire,Empire,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,exhibition hall,Exhibition Hall,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,frank robbins circus,Frank Robbins Circus,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,gazette,Gazette,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,glasgow,Glasgow,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,holy family,Holy Family,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,irishtown,Irishtown,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,israel,Israel,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,japan,Japan,1,1,,place:1|person:0|org:0,country:1,GPE
+DofTT,john street,John Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,jubilee,Jubilee,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,kamloops,Kamloops,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,merrickville,Merrickville,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,new moon,new moon,1,0,not_capitalised,place:1|person:0|org:0,unknown:1,LOC
+DofTT,new york,New York,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,new york city,New York City,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,no 2,No. 2,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,ohio,Ohio,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,oswego,Oswego,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,ottawa,Ottawa,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,pakenham,Pakenham,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,pakenham township,Pakenham Township,1,1,,place:1|person:0|org:0,region:1,GPE
+DofTT,payday,Payday,1,0,mostly_person_in_book,place:0|person:1|org:1,unknown:1,ORG
+DofTT,point,Point,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,protestant orphans home,Protestant Orphans Home,1,1,,place:0|person:0|org:1,facility:1,ORG
+DofTT,sherbrooke,Sherbrooke,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofTT,singer,Singer,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,st johns,St. John's,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofTT,time,Time,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofTT,womens christian temperance union,Women's Christian Temperance Union,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofmyC,quebec,Québec,43,43,,place:42|person:0|org:1,settlement:43,"GPE,ORG"
+DofmyC,france,France,11,11,,place:11|person:0|org:0,country:11,GPE
+DofmyC,haute ville,Haute-Ville,11,11,,place:11|person:0|org:0,settlement:5|unknown:4|facility:2,"FAC,GPE,LOC"
+DofmyC,basse ville,Basse-Ville,9,9,,place:9|person:0|org:0,facility:5|unknown:2|settlement:2,"FAC,GPE,LOC"
+DofmyC,hotel dieu,Hôtel-Dieu,9,9,,place:6|person:0|org:3,facility:6|unknown:3,"FAC,ORG"
+DofmyC,le bon dieu,le bon Dieu,8,0,not_capitalised|org_not_promoted,place:0|person:0|org:8,unknown:8,ORG
+DofmyC,etienne,Étienne,6,0,mostly_person_in_book,place:4|person:139|org:2,settlement:3|unknown:2|facility:1,"FAC,GPE,ORG"
+DofmyC,heights,Heights,6,6,,place:6|person:0|org:0,unknown:6,LOC
+DofmyC,st francis,St. Francis,6,6,,place:5|person:0|org:1,facility:3|settlement:2|unknown:1,"FAC,GPE,ORG"
+DofmyC,ile dorleans,Île d'Orleans,5,5,,place:5|person:0|org:0,landform:5,"FAC,GPE,LOC"
+DofmyC,rangers,Rangers,5,0,org_not_promoted,place:0|person:0|org:5,unknown:5,ORG
+DofmyC,scotland,Scotland,5,5,,place:5|person:0|org:0,country:5,GPE
+DofmyC,chegual,Chegual,4,0,mostly_person_in_book,place:3|person:124|org:1,settlement:2|facility:1|unknown:1,"FAC,GPE,ORG"
+DofmyC,montreal,Montréal,4,4,,place:4|person:0|org:0,settlement:4,GPE
+DofmyC,chutes montmorency,Chutes-Montmorency,3,3,,place:3|person:0|org:0,unknown:3,LOC
+DofmyC,england,England,3,3,,place:3|person:0|org:0,country:3,GPE
+DofmyC,louisbourg,Louisbourg,3,3,,place:3|person:0|org:0,settlement:3,GPE
+DofmyC,notre dame des victoires,Notre-Dame-des-Victoires,3,3,,place:3|person:0|org:0,facility:3,FAC
+DofmyC,place darmes,Place d'Armes,3,3,,place:3|person:0|org:0,facility:3,FAC
+DofmyC,ursuline,Ursuline,3,0,mostly_person_in_book,place:1|person:1|org:2,unknown:2|facility:1,"FAC,ORG"
+DofmyC,ile aux coudres,Île aux Coudres,2,2,,place:2|person:0|org:0,landform:2,"FAC,LOC"
+DofmyC,intendant,Intendant,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+DofmyC,new england,New England,2,2,,place:2|person:0|org:0,unknown:2,LOC
+DofmyC,sieur de bougainville,Sieur de Bougainville,2,0,mostly_person_in_book,place:0|person:1|org:2,unknown:2,ORG
+DofmyC,st charles river,St. Charles River,2,2,,place:2|person:0|org:0,water:2,LOC
+DofmyC,ursuline chapel,Ursuline chapel,2,2,,place:2|person:0|org:0,facility:2,FAC
+DofmyC,78th regiment of foot,78th Regiment of Foot,1,0,not_capitalised,place:0|person:0|org:1,unknown:1,ORG
+DofmyC,abenaki,Abenaki,1,0,mostly_person_in_book,place:1|person:9|org:0,settlement:1,GPE
+DofmyC,anse de la canoterie,Anse de la Canoterie,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,batiscan,Batiscan,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofmyC,beausejour,Beauséjour,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,bourbon,Bourbon,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofmyC,british navy,British Navy,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofmyC,canada,Canada,1,1,,place:1|person:0|org:0,country:1,GPE
+DofmyC,candiac,Candiac,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,canoterie,Canoterie,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,capitaine,capitaine,1,0,not_capitalised,place:0|person:14|org:1,unknown:1,ORG
+DofmyC,carillon,Carillon,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,chateau,Château,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,church,Church,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofmyC,cote de la montagne,Côte de la Montagne,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,dauphine barracks,Dauphine Barracks,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,des soeurs,Des Soeurs,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,duquesne,Duquesne,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,fort niagara,Fort Niagara,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,fortress louisbourg,Fortress Louisbourg,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,frontenac,Frontenac,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,general montcalm,Général Montcalm,1,0,mostly_person_in_book,place:0|person:11|org:1,unknown:1,ORG
+DofmyC,heights of abraham,Heights of Abraham,1,1,,place:1|person:0|org:0,unknown:1,LOC
+DofmyC,highland regiment,Highland Regiment,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofmyC,ile dorleans as well as across the river,Île d'Orleans as well as across the river,1,1,,place:1|person:0|org:0,water:1,FAC
+DofmyC,intendant bigot,Intendant Bigot,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofmyC,intendants palace,Intendant's Palace,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,jesuit college,Jesuit College,1,1,,place:0|person:0|org:1,facility:1,ORG
+DofmyC,la bave,La Bave,1,0,mostly_person_in_book,place:1|person:11|org:0,facility:1,FAC
+DofmyC,lanse aux meres,L'Anse aux Mères,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,mass,Mass,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,montmorency,Montmorency,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofmyC,nantes,Nantes,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofmyC,pointe levis,Pointe Lévis,1,1,,place:1|person:0|org:0,landform:1,FAC
+DofmyC,royal battery,Royal Battery,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,royal navy,Royal Navy,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofmyC,royal syntax,Royal Syntax,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+DofmyC,rue st louis,Rue St. Louis,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,sault au matelot,Sault-au-Matelot,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,scot,Scot,1,0,mostly_person_in_book,place:0|person:11|org:1,unknown:1,ORG
+DofmyC,st barnabe,St. Barnabé,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,st louis bastion,St. Louis Bastion,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,st louis gate,St. Louis Gate,1,1,,place:1|person:0|org:0,facility:1,FAC
+DofmyC,trois rivieres,Trois Rivières,1,1,,place:1|person:0|org:0,settlement:1,GPE
+DofmyC,ursulines,Ursulines,1,0,mostly_person_in_book,place:0|person:1|org:1,unknown:1,ORG
+DofmyC,wigwedi,Wigwedi,1,0,mostly_person_in_book,place:1|person:33|org:0,settlement:1,GPE
+EftW,england,England,48,48,,place:48|person:0|org:0,country:48,GPE
+EftW,canada,Canada,37,37,,place:37|person:0|org:0,country:37,GPE
+EftW,toronto,Toronto,13,13,,place:13|person:0|org:0,settlement:13,GPE
+EftW,france,France,10,10,,place:10|person:0|org:0,country:10,GPE
+EftW,wgs,WGs,10,0,org_not_promoted,place:0|person:0|org:10,unknown:10,ORG
+EftW,cgit,CGIT,9,0,org_not_promoted,place:0|person:0|org:9,unknown:9,ORG
+EftW,guelph,Guelph,8,8,,place:8|person:0|org:0,settlement:8,GPE
+EftW,navy,Navy,7,0,org_not_promoted,place:0|person:0|org:7,unknown:7,ORG
+EftW,coventry,Coventry,6,6,,place:6|person:0|org:0,settlement:6,GPE
+EftW,london,London,6,6,,place:6|person:0|org:0,settlement:6,GPE
+EftW,city of benares,City of Benares,5,5,,place:5|person:0|org:0,settlement:5,GPE
+EftW,muskoka,Muskoka,5,5,,place:5|person:0|org:0,settlement:5,GPE
+EftW,air force,Air Force,4,0,org_not_promoted,place:0|person:0|org:4,unknown:4,ORG
+EftW,germany,Germany,4,4,,place:4|person:0|org:0,country:4,GPE
+EftW,hart house,Hart House,4,4,,place:4|person:0|org:0,facility:4,FAC
+EftW,paris,Paris,4,4,,place:4|person:0|org:0,settlement:4,GPE
+EftW,army,Army,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+EftW,coventry cathedral,Coventry Cathedral,3,3,,place:3|person:0|org:0,facility:3,FAC
+EftW,ethiopia,Ethiopia,3,3,,place:3|person:0|org:0,settlement:3,GPE
+EftW,europe,Europe,3,3,,place:3|person:0|org:0,region:3,LOC
+EftW,frolicland,Frolicland,3,3,,place:2|person:0|org:1,settlement:2|unknown:1,"GPE,ORG"
+EftW,halifax,Halifax,3,3,,place:3|person:0|org:0,settlement:3,GPE
+EftW,lakehead,Lakehead,3,3,,place:3|person:0|org:0,unknown:3,LOC
+EftW,monkey bridge,Monkey Bridge,3,3,,place:3|person:0|org:0,facility:3,FAC
+EftW,wg,WG,3,0,too_short,place:0|person:0|org:3,unknown:3,ORG
+EftW,channel,Channel,2,2,,place:2|person:0|org:0,unknown:2,LOC
+EftW,dunkirk,Dunkirk,2,2,,place:2|person:0|org:0,facility:1|settlement:1,"FAC,GPE"
+EftW,egypt,Egypt,2,2,,place:2|person:0|org:0,settlement:2,GPE
+EftW,fergus,Fergus,2,2,,place:2|person:0|org:0,settlement:2,GPE
+EftW,humane society,Humane Society,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+EftW,ireland,Ireland,2,2,,place:2|person:0|org:0,country:2,GPE
+EftW,junior choir,Junior Choir,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+EftW,lake huron,Lake Huron,2,2,,place:2|person:0|org:0,water:2,LOC
+EftW,libya,Libya,2,2,,place:2|person:0|org:0,settlement:2,GPE
+EftW,mercury,Mercury,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+EftW,misselthwaite manor,Misselthwaite Manor,2,2,,place:2|person:0|org:0,facility:2,FAC
+EftW,ontario,Ontario,2,2,,place:2|person:0|org:0,region:2,GPE
+EftW,raf,RAF,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+EftW,red cross,Red Cross,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+EftW,scotland,Scotland,2,2,,place:2|person:0|org:0,country:2,GPE
+EftW,wembley,Wembley,2,2,,place:2|person:0|org:0,settlement:1|facility:1,"FAC,GPE"
+EftW,atlantic ocean,Atlantic Ocean,1,1,,place:1|person:0|org:0,water:1,LOC
+EftW,berlin,Berlin,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,britannia,Britannia,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,british houses of parliament,British Houses of Parliament,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,british museum,British Museum,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,britnell,Britnell,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,buckingham palace,Buckingham Palace,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,budds,Budds,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,capitol,Capitol,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,cause,Cause,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,central,Central,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,central school,Central School,1,1,,place:0|person:0|org:1,facility:1,ORG
+EftW,cheddar,Cheddar,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,church,Church,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,church of england,Church of England,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,church of our lady,Church of Our Lady,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,congregational,Congregational,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,dixie,Dixie,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,eaton,Eaton,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,eatons toyland,Eaton's Toyland,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,exhibition park,Exhibition Park,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,flanders fields,Flanders Fields,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,g,G,1,0,too_short,place:0|person:1|org:1,unknown:1,ORG
+EftW,georgetown,Georgetown,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,glasgow,Glasgow,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,greece,Greece,1,1,,place:1|person:0|org:0,country:1,GPE
+EftW,house of commons,House of Commons,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,house of industry,House of Industry,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,inverness,Inverness,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,inverness lodge,Inverness Lodge,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,ivory,Ivory,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,jerusalem,Jerusalem,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,jumbo ice cream,Jumbo Ice Cream,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,junior congregation,Junior Congregation,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,kew gardens,Kew Gardens,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,lake bellwood,Lake Bellwood,1,1,,place:1|person:0|org:0,water:1,LOC
+EftW,lake district,Lake District,1,1,,place:1|person:0|org:0,region:1,LOC
+EftW,lake ontario,Lake Ontario,1,1,,place:1|person:0|org:0,water:1,LOC
+EftW,lifesavers,Lifesavers,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,liverpool,Liverpool,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,london road,London Road,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,mackintosh,Mackintosh,1,0,mostly_person_in_book,place:0|person:1|org:1,unknown:1,ORG
+EftW,mccrae house,McCrae House,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,miramichi cgit,Miramichi CGIT,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,museum,Museum,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,north,North,1,1,,place:1|person:0|org:0,unknown:1,LOC
+EftW,north atlantic,North Atlantic,1,1,,place:1|person:0|org:0,unknown:1,LOC
+EftW,north west territories,North West Territories,1,1,,place:1|person:0|org:0,region:1,LOC
+EftW,northern lights,Northern Lights,1,1,,place:1|person:0|org:0,unknown:1,LOC
+EftW,norval,Norval,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,nuttery,Nuttery,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,oz,Oz,1,0,too_short,place:1|person:2|org:0,settlement:1,GPE
+EftW,pixie,Pixie,1,0,mostly_person_in_book,place:0|person:82|org:1,unknown:1,ORG
+EftW,plymouth brothers,Plymouth Brothers,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,port elgin,Port Elgin,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,punch,Punch,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,ridge,Ridge,1,1,,place:1|person:0|org:0,unknown:1,LOC
+EftW,russia,Russia,1,1,,place:1|person:0|org:0,country:1,GPE
+EftW,secret garden,Secret Garden,1,1,,place:1|person:0|org:0,unknown:1,LOC
+EftW,senior choir,Senior Choir,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,sing sing,Sing Sing,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,singapore,Singapore,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,skippy,Skippy,1,0,mostly_person_in_book,place:0|person:6|org:1,unknown:1,ORG
+EftW,southampton,Southampton,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,state opera house,State Opera House,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,states,States,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,summer reading club,Summer Reading Club,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,sunday school,Sunday School,1,1,,place:0|person:0|org:1,facility:1,ORG
+EftW,sunnybrook farm,Sunnybrook Farm,1,1,,place:0|person:0|org:1,facility:1,ORG
+EftW,sussex,Sussex,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,swiss army,Swiss Army,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,three mile lake,Three Mile Lake,1,1,,place:1|person:0|org:0,water:1,LOC
+EftW,tobruk,Tobruk,1,1,,place:1|person:0|org:0,settlement:1,GPE
+EftW,tower,Tower,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,u of t,U of T,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,united church of canada,United Church of Canada,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,university of toronto,University of Toronto,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,victory,Victory,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,westminster abbey,Westminster Abbey,1,1,,place:1|person:0|org:0,facility:1,FAC
+EftW,wms,WMS,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,ymca,YMCA,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+EftW,yugoslavia,Yugoslavia,1,1,,place:1|person:0|org:0,settlement:1,GPE
+FitS,forks,Forks,30,30,,place:30|person:0|org:0,facility:15|unknown:14|settlement:1,"FAC,GPE,LOC"
+FitS,fort,Fort,26,26,,place:26|person:0|org:0,facility:26,FAC
+FitS,north west company,North West Company,22,0,org_not_promoted,place:0|person:0|org:22,unknown:22,ORG
+FitS,fort douglas,Fort Douglas,14,14,,place:14|person:0|org:0,facility:14,"FAC,GPE"
+FitS,hudsons bay company,Hudson's Bay Company,14,0,org_not_promoted,place:0|person:0|org:14,unknown:14,ORG
+FitS,company,Company,11,0,org_not_promoted,place:0|person:0|org:11,unknown:11,ORG
+FitS,red river,Red River,10,10,,place:10|person:0|org:0,water:10,LOC
+FitS,fort gibraltar,Fort Gibraltar,9,9,,place:9|person:0|org:0,facility:9,FAC
+FitS,highlands,Highlands,9,9,,place:9|person:0|org:0,unknown:9,LOC
+FitS,pembina,Pembina,9,9,,place:9|person:0|org:0,settlement:9,GPE
+FitS,white loon,White Loon,8,0,mostly_person_in_book,place:1|person:75|org:7,unknown:8,"LOC,ORG"
+FitS,scotland,Scotland,7,7,,place:7|person:0|org:0,country:7,GPE
+FitS,york factory,York Factory,7,7,,place:5|person:0|org:2,settlement:7,"FAC,ORG"
+FitS,england,England,6,6,,place:6|person:0|org:0,country:6,GPE
+FitS,fort daer,Fort Daer,6,6,,place:6|person:0|org:0,facility:6,FAC
+FitS,lake winnipeg,Lake Winnipeg,6,6,,place:6|person:0|org:0,water:6,LOC
+FitS,new world,New World,6,6,,place:6|person:0|org:0,unknown:6,LOC
+FitS,jack river,Jack River,5,5,,place:5|person:0|org:0,water:5,LOC
+FitS,frog plain,Frog Plain,4,4,,place:4|person:0|org:0,unknown:2|facility:2,"FAC,LOC"
+FitS,hayes river,Hayes River,4,4,,place:4|person:0|org:0,water:4,LOC
+FitS,hudson bay,Hudson Bay,3,3,,place:3|person:0|org:0,water:3,LOC
+FitS,hudsons bay,Hudson's Bay,3,3,,place:3|person:0|org:0,water:3,LOC
+FitS,new land,New Land,3,3,,place:3|person:0|org:0,unknown:3,LOC
+FitS,oxford house,Oxford House,3,3,,place:3|person:0|org:0,facility:3,FAC
+FitS,post,Post,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+FitS,ruperts land,Rupert's Land,3,3,,place:3|person:0|org:0,region:3,LOC
+FitS,seven oaks,Seven Oaks,3,3,,place:3|person:0|org:0,facility:2|unknown:1,"FAC,LOC"
+FitS,upper canada,Upper Canada,3,3,,place:3|person:0|org:0,region:3,LOC
+FitS,assiniboine,Assiniboine,2,2,,place:2|person:0|org:0,unknown:2,LOC
+FitS,fort william,Fort William,2,2,,place:2|person:0|org:0,facility:2,FAC
+FitS,helmsdale,Helmsdale,2,2,,place:2|person:0|org:0,settlement:2,GPE
+FitS,jack river house,Jack River House,2,2,,place:2|person:0|org:0,facility:2,FAC
+FitS,quappelle,Qu'Appelle,2,2,,place:2|person:0|org:0,settlement:2,GPE
+FitS,red,Red,2,2,,place:2|person:0|org:0,unknown:2,LOC
+FitS,red river settlement,Red River Settlement,2,2,,place:2|person:0|org:0,region:2,FAC
+FitS,york,York,2,2,,place:2|person:2|org:0,settlement:2,GPE
+FitS,another hudsons bay post,another Hudson's Bay Post,1,0,not_capitalised,place:0|person:0|org:1,facility:1,ORG
+FitS,brandon house,Brandon House,1,1,,place:1|person:0|org:0,facility:1,FAC
+FitS,church,Church,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+FitS,churchill,Churchill,1,1,,place:1|person:0|org:0,settlement:1,GPE
+FitS,colony gardens,Colony Gardens,1,1,,place:1|person:0|org:0,region:1,FAC
+FitS,davis strait,Davis Strait,1,1,,place:1|person:0|org:0,water:1,LOC
+FitS,edinburgh times,Edinburgh Times,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+FitS,forts,Forts,1,1,,place:1|person:0|org:0,facility:1,FAC
+FitS,glasgow,Glasgow,1,1,,place:1|person:0|org:0,settlement:1,GPE
+FitS,greenland,Greenland,1,1,,place:1|person:0|org:0,unknown:1,LOC
+FitS,holy lake,Holy Lake,1,1,,place:1|person:0|org:0,water:1,LOC
+FitS,hudson bay post,Hudson Bay Post,1,1,,place:0|person:0|org:1,facility:1,ORG
+FitS,indians,Indians,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+FitS,jack river post,Jack River Post,1,1,,place:0|person:0|org:1,facility:1,ORG
+FitS,montreal,Montreal,1,1,,place:1|person:0|org:0,settlement:1,GPE
+FitS,nelson river,Nelson River,1,1,,place:1|person:0|org:0,water:1,LOC
+FitS,north west,North West,1,1,,place:1|person:0|org:0,unknown:1,LOC
+FitS,north west brigade,North West Brigade,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+FitS,playgreen lake,Playgreen Lake,1,1,,place:1|person:0|org:0,water:1,LOC
+FitS,portage la prairie,Portage la Prairie,1,1,,place:1|person:0|org:0,landform:1,GPE
+FitS,prince of wales,Prince of Wales,1,1,,place:1|person:0|org:0,settlement:1,GPE
+FitS,promised land,Promised Land,1,1,,place:1|person:0|org:0,unknown:1,LOC
+FitS,stromness,Stromness,1,1,,place:1|person:0|org:0,settlement:1,GPE
+FitS,this new world,this New World,1,0,not_capitalised,place:1|person:0|org:0,unknown:1,LOC
+FitS,wales,Wales,1,1,,place:0|person:0|org:0,country:1,
+FitS,winnipeg,Winnipeg,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,halifax,Halifax,26,26,,place:25|person:0|org:1,settlement:25|unknown:1,"GPE,ORG"
+NSH,france,France,17,17,,place:17|person:0|org:0,country:17,GPE
+NSH,richmond,Richmond,16,16,,place:16|person:0|org:0,settlement:16,GPE
+NSH,england,England,10,10,,place:10|person:0|org:0,country:10,GPE
+NSH,no mans land,No Man's Land,9,9,,place:9|person:0|org:0,unknown:8|settlement:1,"GPE,LOC"
+NSH,canada,Canada,7,7,,place:7|person:0|org:0,country:7,GPE
+NSH,st paul,St. Paul,7,7,,place:7|person:0|org:0,facility:6|settlement:1,"FAC,GPE"
+NSH,armentieres,Armentières,6,6,,place:4|person:0|org:2,settlement:4|unknown:2,"GPE,ORG"
+NSH,halifax ladies college,Halifax Ladies College,6,6,,place:0|person:0|org:6,facility:6,ORG
+NSH,truro,Truro,6,6,,place:6|person:1|org:0,settlement:6,GPE
+NSH,winnipeg,Winnipeg,6,6,,place:6|person:2|org:0,settlement:6,GPE
+NSH,young avenue,Young Avenue,6,6,,place:6|person:0|org:0,facility:6,FAC
+NSH,camp hill hospital,Camp Hill Hospital,5,5,,place:3|person:0|org:2,facility:5,"FAC,ORG"
+NSH,fort needham,Fort Needham,5,5,,place:5|person:0|org:0,facility:5,"FAC,LOC"
+NSH,red cross,Red Cross,5,0,org_not_promoted,place:0|person:0|org:5,unknown:5,ORG
+NSH,south end,South End,5,5,,place:5|person:0|org:0,unknown:5,LOC
+NSH,boston,Boston,4,4,,place:4|person:0|org:0,settlement:4,GPE
+NSH,montreal,Montreal,4,4,,place:4|person:0|org:0,settlement:4,GPE
+NSH,public gardens,Public Gardens,4,4,,place:4|person:0|org:0,facility:3|unknown:1,"FAC,LOC"
+NSH,st mark,St. Mark,4,4,,place:4|person:0|org:0,facility:4,FAC
+NSH,africville,Africville,3,3,,place:3|person:0|org:0,settlement:3,GPE
+NSH,citadel hill,Citadel Hill,3,3,,place:3|person:0|org:0,landform:3,LOC
+NSH,commons,Commons,3,3,,place:3|person:0|org:0,facility:3,FAC
+NSH,flanders,Flanders,3,3,,place:3|person:0|org:0,unknown:2|settlement:1,"GPE,LOC"
+NSH,food depot,Food Depot,3,3,,place:1|person:0|org:2,facility:3,"FAC,ORG"
+NSH,home for children,Home for Children,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+NSH,home front,Home Front,3,3,,place:2|person:0|org:1,unknown:2|facility:1,"FAC,LOC,ORG"
+NSH,information bureau,Information Bureau,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+NSH,junior red cross,Junior Red Cross,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+NSH,spring garden road,Spring Garden Road,3,3,,place:3|person:0|org:0,facility:3,FAC
+NSH,st john,Saint John,3,3,,place:3|person:0|org:0,settlement:3,GPE
+NSH,tower road school,Tower Road School,3,3,,place:1|person:0|org:2,facility:3,"FAC,ORG"
+NSH,all saints,All Saints,2,2,,place:2|person:0|org:0,facility:2,FAC
+NSH,american bellevue hospital,American Bellevue Hospital,2,2,,place:0|person:0|org:2,facility:2,ORG
+NSH,atlantic,Atlantic,2,2,,place:2|person:0|org:0,water:2,LOC
+NSH,charlotte,Charlotte,2,0,mostly_person_in_book,place:2|person:40|org:0,settlement:2,GPE
+NSH,dartmouth,Dartmouth,2,1,org_not_promoted,place:1|person:0|org:1,facility:1|unknown:1,"FAC,ORG"
+NSH,explosion,Explosion,2,1,org_not_promoted,place:1|person:0|org:1,facility:1|unknown:1,"FAC,ORG"
+NSH,heine,Heine,2,0,mostly_person_in_book,place:0|person:15|org:2,unknown:2,ORG
+NSH,hlc,H.L.C,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+NSH,massachusetts,Massachusetts,2,2,,place:2|person:0|org:0,settlement:2,GPE
+NSH,mont blanc,Mont-Blanc,2,1,org_not_promoted,place:1|person:0|org:1,unknown:1|facility:1,"FAC,ORG"
+NSH,never fails,Never Fails,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+NSH,new brunswick,New Brunswick,2,2,,place:2|person:0|org:0,region:2,GPE
+NSH,norway,Norway,2,2,,place:2|person:0|org:0,country:2,GPE
+NSH,nova scotia,Nova Scotia,2,2,,place:2|person:0|org:0,region:2,GPE
+NSH,olympic,Olympic,2,2,,place:2|person:0|org:0,facility:2,FAC
+NSH,peggys cove,Peggy's Cove,2,2,,place:2|person:0|org:0,water:2,"FAC,LOC"
+NSH,pier 2,Pier 2,2,2,,place:2|person:0|org:0,facility:2,FAC
+NSH,point pleasant park,Point Pleasant Park,2,2,,place:2|person:0|org:0,facility:2,"FAC,LOC"
+NSH,relief committee,Relief Committee,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+NSH,titanic,Titanic,2,2,,place:1|person:0|org:1,vessel:2,"FAC,ORG"
+NSH,tower road,Tower Road,2,2,,place:2|person:0|org:0,facility:2,FAC
+NSH,victoria general hospital,Victoria General Hospital,2,2,,place:0|person:0|org:2,facility:2,ORG
+NSH,vimy,Vimy,2,2,,place:2|person:1|org:0,facility:2,FAC
+NSH,wellington barracks,Wellington Barracks,2,2,,place:2|person:0|org:0,facility:2,FAC
+NSH,wipers,Wipers,2,2,,place:2|person:0|org:0,facility:2,FAC
+NSH,85th red feather battalion,85th “Red Feather” Battalion,1,0,not_capitalised,place:0|person:0|org:1,unknown:1,ORG
+NSH,acadia sugar refinery,Acadia Sugar Refinery,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,all saints cathedral,All Saints Cathedral,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,amherst,Amherst,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,army medical corps,Army Medical Corps,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,belgian relief,BELGIAN RELIEF,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,bellevue,Bellevue,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,bellevue building,Bellevue Building,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,bellevue hospital,Bellevue Hospital,1,1,,place:0|person:0|org:1,facility:1,ORG
+NSH,blackburn,Blackburn,1,0,mostly_person_in_book,place:1|person:12|org:0,settlement:1,GPE
+NSH,blackburn brigade,Blackburn Brigade,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,blackburn home front,Blackburn Home Front,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,british empire,British Empire,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,campbell street,Campbell Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,cape breton,Cape Breton,1,1,,place:1|person:0|org:0,landform:1,GPE
+NSH,casino theatre,Casino Theatre,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,casualty list,Casualty List,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,charlottes cove,Charlotte's Cove,1,1,,place:1|person:0|org:0,water:1,LOC
+NSH,charlottetown,Charlottetown,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,chebucto,Chebucto,1,0,mostly_person_in_book,place:1|person:1|org:0,settlement:1,GPE
+NSH,chebucto morgue,Chebucto Morgue,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,chebucto road school,Chebucto Road School,1,1,,place:0|person:0|org:1,facility:1,ORG
+NSH,citadel,Citadel,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,conservatory of music,Conservatory of Music,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,corona cafe,Corona Café,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,denmark,Denmark,1,1,,place:1|person:0|org:0,country:1,GPE
+NSH,edith,Edith,1,0,mostly_person_in_book,place:0|person:67|org:1,unknown:1,ORG
+NSH,empire,Empire,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,empire theatre,Empire Theatre,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,fairview cemetery,Fairview Cemetery,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,gates of heaven,Gates of Heaven,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,germany,Germany,1,1,,place:1|person:0|org:0,country:1,GPE
+NSH,green lantern,Green Lantern,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,grove presbyterian,Grove Presbyterian,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,halifax relief committee,Halifax Relief Committee,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,helen,Helen,1,0,mostly_person_in_book,place:0|person:15|org:1,unknown:1,ORG
+NSH,hill something or other,Hill Something-or-Other,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,holland,Holland,1,1,,place:1|person:0|org:0,country:1,GPE
+NSH,hollywood,Hollywood,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,imo,Imo,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,kingdom of heaven,Kingdom of Heaven,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,maine military hospital,Maine Military Hospital,1,1,,place:0|person:0|org:1,facility:1,ORG
+NSH,methodist church,Methodist Church,1,1,,place:0|person:0|org:1,facility:1,ORG
+NSH,narrows,Narrows,1,1,,place:1|person:0|org:0,unknown:1,LOC
+NSH,paris,Paris,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,passchendaele,Passchendaele,1,0,mostly_person_in_book,place:1|person:1|org:0,facility:1,FAC
+NSH,prince edward island,Prince Edward Island,1,1,,place:1|person:0|org:0,region:1,GPE
+NSH,quinpool road,Quinpool Road,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,richmond school,Richmond School,1,1,,place:0|person:0|org:1,facility:1,ORG
+NSH,richmond school cadet corps,Richmond School Cadet Corps,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,scotland,Scotland,1,1,,place:1|person:0|org:0,country:1,GPE
+NSH,south commons,South Commons,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,south park street,South Park Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,spc,S.P.C,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,special projects,Special Projects,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,st joseph,St. Joseph,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,st marks parish,St. Mark's parish,1,1,,place:1|person:0|org:0,region:1,FAC
+NSH,strand,Strand,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,strand theatre,Strand Theatre,1,1,,place:0|person:0|org:1,facility:1,ORG
+NSH,sweden,Sweden,1,1,,place:1|person:0|org:0,country:1,GPE
+NSH,united states,United States,1,1,,place:1|person:0|org:0,country:1,GPE
+NSH,vancouver,Vancouver,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,vimy ridge,Vimy Ridge,1,1,,place:1|person:0|org:0,landform:1,LOC
+NSH,warden,Warden,1,1,,place:1|person:0|org:0,facility:1,FAC
+NSH,yarmouth,Yarmouth,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NSH,ymca,YMCA,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NSH,ypres,Ypres,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NbutC,albany,Albany,16,16,,place:16|person:0|org:0,settlement:16,GPE
+NbutC,canada,Canada,12,12,,place:12|person:0|org:0,country:12,GPE
+NbutC,johnstown,Johnstown,12,12,,place:12|person:0|org:0,settlement:12,GPE
+NbutC,lake champlain,Lake Champlain,12,12,,place:12|person:0|org:0,water:12,LOC
+NbutC,sorel,Sorel,10,10,,place:10|person:0|org:0,settlement:10,GPE
+NbutC,machiche,Machiche,8,8,,place:8|person:1|org:0,settlement:5|unknown:3,"GPE,LOC"
+NbutC,quebec,Québec,8,8,,place:8|person:0|org:0,settlement:7|region:1,GPE
+NbutC,chimney point,Chimney Point,7,7,,place:7|person:0|org:0,landform:7,"FAC,GPE,LOC"
+NbutC,st lawrence river,St. Lawrence River,6,6,,place:6|person:0|org:0,water:6,LOC
+NbutC,lachine,Lachine,5,5,,place:5|person:0|org:0,settlement:5,GPE
+NbutC,montreal,Montréal,5,5,,place:5|person:0|org:0,settlement:5,GPE
+NbutC,cataraqui,Cataraqui,4,4,,place:4|person:0|org:0,settlement:4,GPE
+NbutC,lowland,Lowland,4,4,,place:4|person:0|org:0,unknown:3|settlement:1,"GPE,LOC"
+NbutC,royal yorkers,Royal Yorkers,4,0,org_not_promoted,place:0|person:0|org:4,unknown:4,ORG
+NbutC,america,America,3,3,,place:3|person:0|org:0,country:3,GPE
+NbutC,britain,Britain,3,3,,place:3|person:0|org:0,country:3,GPE
+NbutC,fort cataraqui,Fort Cataraqui,3,3,,place:3|person:0|org:0,facility:3,FAC
+NbutC,fort st jean,Fort St. Jean,3,3,,place:3|person:0|org:0,facility:3,FAC
+NbutC,hudson river,Hudson River,3,3,,place:3|person:0|org:0,water:3,LOC
+NbutC,mettawee,Mettawee,3,3,,place:3|person:0|org:0,unknown:3,LOC
+NbutC,united states of america,United States of America,3,3,,place:3|person:0|org:0,settlement:3,GPE
+NbutC,england,England,2,2,,place:2|person:0|org:0,country:2,GPE
+NbutC,fort niagara,Fort Niagara,2,2,,place:2|person:0|org:0,facility:2,FAC
+NbutC,government,Government,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+NbutC,lowland sea,Lowland Sea,2,2,,place:2|person:0|org:0,water:2,LOC
+NbutC,regiment,Regiment,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+NbutC,richelieu river,Richelieu River,2,2,,place:2|person:0|org:0,water:2,LOC
+NbutC,scotland,Scotland,2,2,,place:2|person:0|org:0,country:2,GPE
+NbutC,st lawrence,St. Lawrence,2,2,,place:2|person:0|org:0,water:2,LOC
+NbutC,2nd battalion,2nd Battalion,1,0,not_capitalised,place:0|person:0|org:1,unknown:1,ORG
+NbutC,british canada,British Canada,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NbutC,british government,British Government,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NbutC,colonies,Colonies,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NbutC,committee of safety,Committee of Safety,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NbutC,fort,Fort,1,1,,place:1|person:0|org:0,facility:1,FAC
+NbutC,kings royal regiment of new york,King's Royal Regiment of New York,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NbutC,lac st pierre,Lac St. Pierre,1,1,,place:1|person:0|org:0,water:1,LOC
+NbutC,mississauga,Mississauga,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NbutC,mohawk valley,Mohawk Valley,1,1,,place:1|person:0|org:0,landform:1,LOC
+NbutC,new france,New France,1,1,,place:1|person:0|org:0,region:1,GPE
+NbutC,new york city,New York City,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NbutC,new york province,New York Province,1,1,,place:1|person:0|org:0,region:1,GPE
+NbutC,new york state,New York State,1,1,,place:1|person:0|org:0,settlement:1,GPE
+NbutC,patriots,Patriots,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+NbutC,quebec city,Québec City,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OA,china,China,29,29,,place:29|person:0|org:0,country:29,GPE
+OA,canada,Canada,18,18,,place:18|person:0|org:0,country:17|region:1,GPE
+OA,chinatown,Chinatown,17,17,,place:14|person:0|org:0,settlement:17,"GPE,LOC"
+OA,gold mountain,Gold Mountain,5,5,,place:5|person:0|org:0,region:5,LOC
+OA,parliament,Parliament,5,0,org_not_promoted,place:0|person:0|org:5,unknown:5,ORG
+OA,woodward,Woodward,5,0,org_not_promoted,place:0|person:0|org:5,unknown:5,ORG
+OA,gum shan,Gum Shan,3,3,,place:3|person:0|org:0,region:3,"GPE,LOC"
+OA,kwangtung,Kwangtung,3,3,,place:3|person:0|org:0,region:3,GPE
+OA,ontario,Ontario,3,3,,place:3|person:0|org:0,region:3,GPE
+OA,victoria,Victoria,3,3,,place:3|person:0|org:0,settlement:3,GPE
+OA,clan,Clan,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+OA,keefer street,Keefer Street,2,2,,place:2|person:0|org:0,facility:2,FAC
+OA,toronto,Toronto,2,2,,place:2|person:0|org:0,settlement:2,GPE
+OA,america,America,1,1,,place:1|person:0|org:0,country:1,GPE
+OA,association of the people from,association of the people from,1,0,not_capitalised,place:0|person:0|org:1,unknown:1,ORG
+OA,britain,Britain,1,1,,place:1|person:0|org:0,country:1,GPE
+OA,canton alley,Canton Alley,1,1,,place:1|person:0|org:0,unknown:1,LOC
+OA,chinky china,Chinky China,1,1,,place:1|person:0|org:0,unknown:1,LOC
+OA,hastings and carrall streets,Hastings and Carrall Streets,1,1,,place:1|person:0|org:0,facility:1,FAC
+OA,hong kong,Hong Kong,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OA,hotel vancouver,Hotel Vancouver,1,1,,place:0|person:0|org:1,facility:1,ORG
+OA,house of commons,House of Commons,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OA,ireland,Ireland,1,1,,place:1|person:0|org:0,country:1,GPE
+OA,kuomintang,Kuomintang,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OA,kwangtung province,Kwangtung province,1,1,,place:1|person:0|org:0,region:1,GPE
+OA,mission,Mission,1,1,,place:1|person:0|org:0,facility:1,FAC
+OA,ottawa,Ottawa,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OA,pender street,Pender Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+OA,poon yue,Poon-yue,1,1,,place:1|person:0|org:0,region:1,GPE
+OA,rexall,Rexall,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OA,saskatchewan,Saskatchewan,1,1,,place:1|person:0|org:0,region:1,GPE
+OA,senate,Senate,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OA,shanghai alley,Shanghai Alley,1,1,,place:1|person:0|org:0,facility:1,FAC
+OA,shaughnessy heights,Shaughnessy Heights,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OA,sing kew theatre,Sing Kew Theatre,1,1,,place:1|person:0|org:0,facility:1,FAC
+OA,stanley park,Stanley Park,1,1,,place:1|person:0|org:0,facility:1,FAC
+OA,union street,Union Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+OA,white lamb,White Lamb,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OatmyD,canada,Canada,24,16,salutation,place:22|person:0|org:0,country:24,GPE
+OatmyD,england,England,13,13,,place:13|person:0|org:0,country:13,GPE
+OatmyD,guelph,Guelph,10,10,,place:10|person:0|org:0,settlement:10,GPE
+OatmyD,hazelbrae,Hazelbrae,7,7,,place:6|person:2|org:1,settlement:4|unknown:2|facility:1,"FAC,GPE,LOC,ORG"
+OatmyD,london,London,6,6,,place:6|person:0|org:0,settlement:6,GPE
+OatmyD,toronto,Toronto,6,6,,place:6|person:0|org:0,settlement:6,GPE
+OatmyD,barnardo home,Barnardo Home,5,5,,place:3|person:0|org:2,facility:5,"FAC,ORG"
+OatmyD,home children,Home Children,4,0,org_not_promoted,place:0|person:0|org:4,unknown:4,ORG
+OatmyD,ontario,Ontario,4,4,,place:4|person:0|org:0,region:4,GPE
+OatmyD,peterborough,Peterborough,4,4,,place:4|person:0|org:0,settlement:4,GPE
+OatmyD,fergus,Fergus,3,3,,place:3|person:0|org:0,settlement:3,GPE
+OatmyD,stepney causeway,Stepney Causeway,3,3,,place:3|person:0|org:0,facility:3,FAC
+OatmyD,winnipeg,Winnipeg,3,3,,place:3|person:0|org:0,settlement:3,GPE
+OatmyD,barnardo,Barnardo,2,0,mostly_person_in_book,place:0|person:37|org:2,unknown:2,ORG
+OatmyD,belleville,Belleville,2,2,,place:2|person:0|org:0,settlement:2,GPE
+OatmyD,britain,Britain,2,2,,place:2|person:0|org:0,country:2,GPE
+OatmyD,china,China,2,2,,place:2|person:0|org:0,country:2,GPE
+OatmyD,home,Home,2,0,mostly_person_in_book,place:1|person:5|org:1,facility:1|unknown:1,"FAC,ORG"
+OatmyD,scholastic canada ltd,Scholastic Canada Ltd,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+OatmyD,trafalgar square,Trafalgar Square,2,2,,place:2|person:0|org:0,facility:2,FAC
+OatmyD,access copyright,Access Copyright,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OatmyD,atlantic,Atlantic,1,1,,place:1|person:0|org:0,water:1,LOC
+OatmyD,barkingside,Barkingside,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,barnardo homes,Barnardo Homes,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,barnardos gate,Barnardo's gate,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,chalmers,Chalmers,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OatmyD,china inland mission,China Inland Mission,1,1,,place:0|person:0|org:1,facility:1,ORG
+OatmyD,drury lane,Drury Lane,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,dublin,Dublin,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,duncan,Duncan,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,east london,East London,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,ennotville,Ennotville,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,essex,Essex,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,fairbridge farm school,Fairbridge Farm School,1,1,,place:0|person:0|org:1,facility:1,ORG
+OatmyD,family conveyance,Family Conveyance,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,farley avenue,Farley Avenue,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,flanders,Flanders,1,1,,place:1|person:0|org:0,unknown:1,LOC
+OatmyD,general delivery,General Delivery,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OatmyD,girls village,Girls' Village,1,1,,place:1|person:0|org:0,settlement:1,FAC
+OatmyD,girls village home,Girls' Village Home,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,hamilton,Hamilton,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,hawkhurst,Hawkhurst,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,homes,Homes,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OatmyD,ilford,Ilford,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,india,India,1,1,,place:1|person:0|org:0,country:1,GPE
+OatmyD,king street west,King Street West,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,knox presbyterian church,Knox Presbyterian Church,1,1,,place:0|person:0|org:1,facility:1,ORG
+OatmyD,liverpool,Liverpool,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,london road,London Road,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,niagara falls,Niagara Falls,1,1,,place:1|person:0|org:0,water:1,GPE
+OatmyD,norwich street,Norwich Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,paisley road,Paisley Road,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,peter street,Peter Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+OatmyD,puslinch lake,Puslinch Lake,1,1,,place:1|person:0|org:0,water:1,LOC
+OatmyD,ragged school,Ragged School,1,1,,place:0|person:0|org:1,facility:1,ORG
+OatmyD,ragged schools,Ragged Schools,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OatmyD,royal flying corps,Royal Flying Corps,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OatmyD,scholastic,SCHOLASTIC,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OatmyD,scholastic inc,Scholastic Inc,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+OatmyD,scotland,Scotland,1,1,,place:1|person:0|org:0,country:1,GPE
+OatmyD,speed,Speed,1,1,,place:1|person:0|org:0,water:1,LOC
+OatmyD,stepney,Stepney,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,tom,Tom,1,0,mostly_person_in_book,place:0|person:120|org:1,unknown:1,ORG
+OatmyD,vancouver island,Vancouver Island,1,1,,place:1|person:0|org:0,landform:1,GPE
+OatmyD,waterloo,Waterloo,1,1,,place:1|person:0|org:0,settlement:1,GPE
+OatmyD,waterloo avenue,Waterloo Avenue,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,canada,Canada,59,58,salutation,place:57|person:0|org:0,country:59,GPE
+PasWide,england,England,21,21,,place:21|person:0|org:0,country:21,GPE
+PasWide,milorie,Milorie,18,18,,place:18|person:4|org:0,settlement:17|unknown:1,"GPE,LOC"
+PasWide,saskatchewan,Saskatchewan,13,13,,place:13|person:0|org:0,region:13,GPE
+PasWide,chautauqua,Chautauqua,10,10,,place:9|person:3|org:1,facility:6|unknown:3|settlement:1,"FAC,GPE,LOC,ORG"
+PasWide,halley road,Halley Road,10,10,,place:10|person:0|org:0,facility:10,FAC
+PasWide,london,London,10,10,,place:10|person:0|org:0,settlement:10,GPE
+PasWide,regina,Regina,9,9,,place:9|person:0|org:0,settlement:9,GPE
+PasWide,homemakers club,Homemaker's Club,5,0,org_not_promoted,place:0|person:0|org:5,unknown:5,ORG
+PasWide,stanton,Stanton,5,5,,place:5|person:0|org:0,settlement:5,GPE
+PasWide,ausonia,Ausonia,3,3,,place:3|person:0|org:0,unknown:2|settlement:1,"GPE,LOC"
+PasWide,magnet,Magnet,3,0,mostly_person_in_book,place:0|person:1|org:3,unknown:3,ORG
+PasWide,north pole,North Pole,3,3,,place:3|person:0|org:0,unknown:3,LOC
+PasWide,buckingham palace,Buckingham Palace,2,2,,place:2|person:0|org:0,facility:2,FAC
+PasWide,calgary,Calgary,2,2,,place:2|person:0|org:0,settlement:2,GPE
+PasWide,canada west,Canada West,2,2,,place:0|person:0|org:2,region:2,ORG
+PasWide,china,China,2,2,,place:2|person:0|org:0,country:2,GPE
+PasWide,eaton,Eaton,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+PasWide,ellice islands,Ellice Islands,2,2,,place:2|person:0|org:0,landform:2,"GPE,LOC"
+PasWide,forest gate,Forest Gate,2,2,,place:2|person:0|org:0,settlement:2,GPE
+PasWide,gibraltar,Gibraltar,2,2,,place:2|person:0|org:0,settlement:2,GPE
+PasWide,hollywood,Hollywood,2,2,,place:2|person:0|org:0,settlement:2,GPE
+PasWide,houses of parliament,Houses of Parliament,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+PasWide,israel,Israel,2,2,,place:2|person:0|org:0,settlement:2,GPE
+PasWide,manitoba,Manitoba,2,2,,place:2|person:0|org:0,region:2,GPE
+PasWide,moose jaw,Moose Jaw,2,2,,place:2|person:0|org:0,settlement:2,GPE
+PasWide,north america,North America,2,2,,place:2|person:0|org:0,settlement:1|unknown:1,"GPE,LOC"
+PasWide,ontario,Ontario,2,2,,place:2|person:0|org:0,region:2,GPE
+PasWide,photoplay,Photoplay,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+PasWide,saskatoon,Saskatoon,2,1,not_capitalised,place:2|person:0|org:0,settlement:2,GPE
+PasWide,southampton,Southampton,2,2,,place:2|person:0|org:0,settlement:2,GPE
+PasWide,tower of babel,Tower of Babel,2,2,,place:2|person:0|org:0,facility:2,FAC
+PasWide,vancouver,Vancouver,2,2,,place:2|person:0|org:0,settlement:2,GPE
+PasWide,wanstead flats,Wanstead Flats,2,2,,place:2|person:0|org:0,facility:2,FAC
+PasWide,winnipeg,Winnipeg,2,2,,place:2|person:0|org:0,settlement:2,GPE
+PasWide,alberta,Alberta,1,1,,place:1|person:0|org:0,region:1,GPE
+PasWide,america,America,1,1,,place:1|person:0|org:0,country:1,GPE
+PasWide,armistice celebrations,Armistice Celebrations,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,australia,Australia,1,1,,place:1|person:0|org:0,country:1,GPE
+PasWide,bank building,Bank Building,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,borneo,Borneo,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,bristol,Bristol,1,0,mostly_person_in_book,place:1|person:1|org:0,settlement:1,GPE
+PasWide,british empire,British Empire,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,british museum,British Museum,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,cadbury,Cadbury,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,california,California,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,canada house,Canada House,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,canadian pacific,Canadian Pacific,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,ceylon,Ceylon,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,ckck regina,CKCK Regina,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,cosmetology school,Cosmetology School,1,1,,place:0|person:0|org:1,facility:1,ORG
+PasWide,cyprus,Cyprus,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,dominion of canada,Dominion of Canada,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,edmonton,Edmonton,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,eiffel tower,Eiffel Tower,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,elizabeth,Elizabeth,1,0,mostly_person_in_book,place:0|person:118|org:1,unknown:1,ORG
+PasWide,europe,Europe,1,1,,place:1|person:0|org:0,region:1,GPE
+PasWide,famous five,Famous Five,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,fretwell farm,Fretwell Farm,1,1,,place:0|person:0|org:1,facility:1,ORG
+PasWide,gladarry,Gladarry,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,grenfell,Grenfell,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,greyfriars school,Greyfriars School,1,1,,place:0|person:0|org:1,facility:1,ORG
+PasWide,gulf of the st lawrence river,Gulf of the St. Lawrence River,1,1,,place:1|person:0|org:0,water:1,LOC
+PasWide,harvesters home,Harvesters Home,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,horseback,Horseback,1,1,,place:1|person:0|org:0,unknown:1,LOC
+PasWide,india,India,1,1,,place:1|person:0|org:0,country:1,GPE
+PasWide,iviam,Iviam,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,ivy,Ivy,1,0,mostly_person_in_book,place:0|person:18|org:1,unknown:1,ORG
+PasWide,kings head,King's Head,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,london england,London England,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,lyons,Lyons,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,lyons corner house,Lyons Corner House,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,malaya,Malaya,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,malta,Malta,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,manitou beach,Manitou Beach,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,maple creek,Maple Creek,1,1,,place:1|person:0|org:0,water:1,LOC
+PasWide,mars,Mars,1,1,,place:1|person:0|org:0,unknown:1,LOC
+PasWide,marvel school of cosmetology,Marvel School of Cosmetology,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,medicine hat,Medicine Hat,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,milorie messenger,Milorie Messenger,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,minnesota,Minnesota,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,naura,Naura,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,newfoundland,Newfoundland,1,1,,place:1|person:0|org:0,region:1,GPE
+PasWide,oxford street,Oxford Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,papua,Papua,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,piapot,Piapot,1,1,,place:1|person:0|org:0,unknown:1,LOC
+PasWide,quebec city,Quebec City,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,regina leader,Regina Leader,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,rocky mountains,Rocky Mountains,1,1,,place:1|person:0|org:0,landform:1,LOC
+PasWide,salt lake city,Salt Lake City,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,sandringham road school,Sandringham Road School,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,sask,Sask,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,scilly isles,Scilly Isles,1,1,,place:1|person:0|org:0,unknown:1,LOC
+PasWide,seychelles,Seychelles,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,sudan,Sudan,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,swift current,Swift Current,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,t eaton company,T. Eaton Company,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,torchbearers club,Torchbearer's Club,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,toronto,Toronto,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,tower bridge,Tower Bridge,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,tristan da cunha,Tristan da Cunha,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,underground,Underground,1,1,,place:1|person:0|org:0,facility:1,FAC
+PasWide,united farm women cookbook,United Farm Women Cookbook,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,united kingdom,United Kingdom,1,1,,place:1|person:0|org:0,country:1,GPE
+PasWide,usa,U.S.A,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,weatherall hotel,Weatherall Hotel,1,1,,place:0|person:0|org:1,facility:1,ORG
+PasWide,weatherall palace,Weatherall Palace,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,west ham united,West Ham United,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,westinghouse,Westinghouse,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,wigglesworth,Wigglesworth,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PasWide,world,World,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PasWide,wt rawleigh company,W.T. Rawleigh Company,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PintPL,canada,Canada,80,80,,place:80|person:0|org:0,country:80,GPE
+PintPL,horoshova,Horoshova,42,42,,place:42|person:9|org:0,settlement:41|unknown:1,"GPE,LOC"
+PintPL,montreal,Montreal,25,25,,place:25|person:0|org:0,settlement:25,GPE
+PintPL,galicia,Galicia,19,19,,place:19|person:0|org:0,region:19,GPE
+PintPL,amos,Amos,13,13,,place:13|person:2|org:0,settlement:13,GPE
+PintPL,germany,Germany,13,13,,place:13|person:0|org:0,country:13,GPE
+PintPL,russia,Russia,13,13,,place:13|person:0|org:0,country:13,GPE
+PintPL,austria,Austria,11,11,,place:11|person:0|org:0,country:11,GPE
+PintPL,spirit lake,Spirit Lake,11,11,,place:11|person:0|org:0,water:11,"FAC,LOC"
+PintPL,hamburg,Hamburg,9,9,,place:9|person:0|org:0,settlement:9,GPE
+PintPL,britain,Britain,8,8,,place:8|person:0|org:0,country:8,GPE
+PintPL,immigration building,Immigration Building,8,8,,place:8|person:0|org:0,facility:8,FAC
+PintPL,tato,Tato,7,0,not_place_list,place:3|person:192|org:4,unknown:6|settlement:1,"GPE,LOC,ORG"
+PintPL,serbia,Serbia,6,6,,place:6|person:0|org:0,settlement:6,GPE
+PintPL,spirit lake internment camp,Spirit Lake Internment Camp,6,6,,place:4|person:0|org:2,facility:6,"FAC,ORG"
+PintPL,grand trunk street,Grand Trunk Street,5,5,,place:5|person:0|org:0,facility:5,FAC
+PintPL,quebec,Quebec,5,5,,place:5|person:0|org:0,region:5,GPE
+PintPL,sarsfield school,Sarsfield School,5,5,,place:1|person:0|org:4,facility:5,"FAC,ORG"
+PintPL,alberta,Alberta,4,4,,place:4|person:0|org:0,region:4,GPE
+PintPL,bukovyna,Bukovyna,4,4,,place:4|person:1|org:0,settlement:4,GPE
+PintPL,europe,Europe,4,4,,place:4|person:0|org:0,region:4,LOC
+PintPL,hairy hill,Hairy Hill,4,4,,place:4|person:0|org:0,landform:4,GPE
+PintPL,association of ukrainians,Association of Ukrainians,3,1,org_not_promoted,place:1|person:0|org:2,unknown:2|facility:1,"FAC,ORG"
+PintPL,centre street,Centre Street,3,3,,place:3|person:0|org:0,facility:3,FAC
+PintPL,chernivtsi,Chernivtsi,3,3,,place:3|person:0|org:0,settlement:3,GPE
+PintPL,dnister river,Dnister River,3,2,salutation,place:3|person:0|org:0,water:3,LOC
+PintPL,eastern europe,Eastern Europe,3,3,,place:3|person:0|org:0,unknown:3,LOC
+PintPL,england,England,3,3,,place:3|person:0|org:0,country:3,GPE
+PintPL,france,France,3,3,,place:3|person:0|org:0,country:3,GPE
+PintPL,grand trunk,Grand Trunk,3,3,,place:3|person:0|org:0,facility:3,FAC
+PintPL,kapuskasing,Kapuskasing,3,3,,place:3|person:0|org:0,settlement:3,GPE
+PintPL,manitoba,Manitoba,3,3,,place:3|person:0|org:0,region:3,GPE
+PintPL,mykola,Mykola,3,0,mostly_person_in_book,place:0|person:83|org:3,unknown:3,ORG
+PintPL,health department,Health Department,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+PintPL,kapuskasing internment camp,Kapuskasing Internment Camp,2,2,,place:2|person:0|org:0,facility:2,FAC
+PintPL,lusitania,Lusitania,2,2,,place:2|person:0|org:0,vessel:2,LOC
+PintPL,lviv,Lviv,2,2,,place:2|person:0|org:0,settlement:2,GPE
+PintPL,notre dame des anges,Notre Dame des Anges,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+PintPL,poland,Poland,2,2,,place:2|person:0|org:0,country:2,GPE
+PintPL,port of montreal,Port of Montreal,2,2,,place:2|person:0|org:0,settlement:2,FAC
+PintPL,suffragettes,Suffragettes,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+PintPL,ukraine,Ukraine,2,2,,place:2|person:0|org:0,country:2,GPE
+PintPL,ukrainian society,Ukrainian Society,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+PintPL,association,Association,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PintPL,austria hungary,Austria-Hungary,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PintPL,balkans,Balkans,1,1,,place:1|person:0|org:0,unknown:1,LOC
+PintPL,borschiv county,Borschiv County,1,1,,place:1|person:0|org:0,region:1,GPE
+PintPL,buckingham palace,Buckingham Palace,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,carpathian,Carpathian,1,1,,place:1|person:0|org:0,unknown:1,LOC
+PintPL,carpathian mountains,Carpathian Mountains,1,1,,place:1|person:0|org:0,landform:1,LOC
+PintPL,crimea,Crimea,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PintPL,empress of ireland,Empress of Ireland,1,1,,place:0|person:2|org:0,vessel:1,GPE
+PintPL,fortune street,Fortune Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,jasper,Jasper,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PintPL,london,London,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PintPL,mary,Mary,1,0,mostly_person_in_book,place:0|person:72|org:1,unknown:1,ORG
+PintPL,national gallery,National Gallery,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,ontario,Ontario,1,1,,place:1|person:0|org:0,region:1,GPE
+PintPL,port of quebec,Port of Quebec,1,1,,place:1|person:0|org:0,settlement:1,FAC
+PintPL,red cross,Red Cross,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PintPL,rome,Rome,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PintPL,ropery street,Ropery Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,sarsfield,Sarsfield,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PintPL,shuparka,Shuparka,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PintPL,st antoine,St. Antoine,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,st antoine street,St. Antoine Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,st catherine street,St. Catherine Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,st gabriel house,St. Gabriel House,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,st gabriels house,St. Gabriel's House,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,st lawrence river,St. Lawrence River,1,1,,place:1|person:0|org:0,water:1,LOC
+PintPL,st patrick street,St. Patrick Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,svyat vechir,Svyat Vechir,1,0,mostly_person_in_book,place:1|person:1|org:0,facility:1,FAC
+PintPL,toronto,Toronto,1,1,,place:1|person:0|org:0,settlement:1,GPE
+PintPL,ukrainian sick benefit society,Ukrainian Sick Benefit Society,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+PintPL,united states,United States,1,1,,place:1|person:0|org:0,country:1,GPE
+PintPL,welland canal,Welland Canal,1,1,,place:1|person:0|org:0,water:1,FAC
+PintPL,wellington street,Wellington Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+PintPL,willingdon,Willingdon,1,1,,place:1|person:0|org:0,settlement:1,GPE
+SofS,montreal,Montreal,29,29,,place:29|person:0|org:0,settlement:29,GPE
+SofS,canada,Canada,19,19,,place:19|person:0|org:0,country:19,GPE
+SofS,sherbrooke,Sherbrooke,17,17,,place:17|person:0|org:0,settlement:17,GPE
+SofS,ireland,Ireland,11,11,,place:11|person:0|org:0,country:11,GPE
+SofS,england,England,8,8,,place:8|person:0|org:0,country:8,GPE
+SofS,grosse isle,Grosse Isle,6,6,,place:6|person:0|org:0,landform:6,"FAC,LOC"
+SofS,liverpool,Liverpool,6,6,,place:6|person:0|org:0,settlement:6,GPE
+SofS,bytown,Bytown,4,4,,place:4|person:0|org:0,settlement:4,GPE
+SofS,quebec,Quebec,3,3,,place:3|person:0|org:0,settlement:3,GPE
+SofS,st lawrence river,St. Lawrence River,3,3,,place:3|person:0|org:0,water:3,LOC
+SofS,america,America,2,2,,place:2|person:0|org:0,country:2,GPE
+SofS,france,France,2,2,,place:1|person:0|org:0,country:2,GPE
+SofS,gatineau hills,Gatineau Hills,2,2,,place:2|person:0|org:0,landform:2,LOC
+SofS,windmill point,Windmill Point,2,2,,place:2|person:0|org:0,landform:2,FAC
+SofS,africa,Africa,1,1,,place:1|person:0|org:0,region:1,LOC
+SofS,boston,Boston,1,1,,place:1|person:0|org:0,settlement:1,GPE
+SofS,cape breton,Cape Breton,1,1,,place:1|person:0|org:0,landform:1,LOC
+SofS,county waterford,County Waterford,1,1,,place:1|person:0|org:0,region:1,GPE
+SofS,crown,Crown,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+SofS,dublin,Dublin,1,1,,place:1|person:0|org:0,settlement:1,GPE
+SofS,europe,Europe,1,1,,place:1|person:0|org:0,region:1,LOC
+SofS,gulf of st lawrence,Gulf of St. Lawrence,1,1,,place:1|person:0|org:0,water:1,LOC
+SofS,hall,Hall,1,0,mostly_person_in_book,place:0|person:395|org:1,unknown:1,ORG
+SofS,halls,Halls,1,0,mostly_person_in_book,place:0|person:22|org:1,unknown:1,ORG
+SofS,london,London,1,1,,place:1|person:0|org:0,settlement:1,GPE
+SofS,new france,New France,1,1,,place:1|person:0|org:0,region:1,GPE
+SofS,new york,New York,1,1,,place:1|person:0|org:0,settlement:1,GPE
+SofS,quebec city,Quebec City,1,1,,place:1|person:0|org:0,settlement:1,GPE
+SofS,richelieu,Richelieu,1,1,,place:1|person:0|org:0,unknown:1,LOC
+SofS,st lawrence,St. Lawrence,1,1,,place:1|person:0|org:0,water:1,LOC
+SofS,st paul island,St. Paul Island,1,1,,place:1|person:0|org:0,landform:1,LOC
+SofS,upper canada,Upper Canada,1,1,,place:1|person:0|org:0,region:1,LOC
+TA,vancouver,Vancouver,43,43,,place:43|person:0|org:0,settlement:43,GPE
+TA,japan,Japan,34,34,,place:34|person:0|org:0,country:34,GPE
+TA,canada,Canada,29,29,,place:29|person:0|org:0,country:29,GPE
+TA,new denver,New Denver,22,22,,place:22|person:0|org:0,settlement:19|unknown:3,"GPE,LOC"
+TA,hastings park,Hastings Park,21,21,,place:21|person:0|org:0,facility:21,"FAC,LOC"
+TA,powell street,Powell Street,17,17,,place:17|person:0|org:0,facility:17,FAC
+TA,bc,B.C,16,16,,place:16|person:0|org:0,region:16,GPE
+TA,commission,Commission,15,0,org_not_promoted,place:0|person:0|org:15,unknown:15,ORG
+TA,guide,Guide,14,0,org_not_promoted,place:0|person:0|org:14,unknown:14,ORG
+TA,guides,Guides,14,2,org_not_promoted,place:2|person:0|org:12,unknown:13|facility:1,"FAC,LOC,ORG"
+TA,kaslo,Kaslo,13,13,,place:13|person:0|org:0,settlement:13,GPE
+TA,orchard,Orchard,13,13,,place:13|person:0|org:0,facility:8|settlement:3|unknown:2,"FAC,GPE,LOC"
+TA,oxford street,Oxford Street,12,12,,place:12|person:0|org:0,facility:12,FAC
+TA,ontario,Ontario,11,11,,place:11|person:0|org:0,region:11,GPE
+TA,guide camp,Guide Camp,10,10,,place:2|person:0|org:8,facility:10,"FAC,ORG"
+TA,templeton,Templeton,10,0,mostly_person_in_book,place:2|person:2|org:8,unknown:8|settlement:2,"GPE,ORG"
+TA,asahi,Asahi,9,0,org_not_promoted,place:0|person:0|org:9,unknown:9,ORG
+TA,rcmp,RCMP,9,0,org_not_promoted,place:0|person:0|org:9,unknown:9,ORG
+TA,ottawa,Ottawa,8,8,,place:8|person:0|org:0,settlement:8,GPE
+TA,security commission,Security Commission,8,0,org_not_promoted,place:0|person:0|org:8,unknown:8,ORG
+TA,hong kong,Hong Kong,7,7,,place:7|person:0|org:0,settlement:7,GPE
+TA,rockies,Rockies,7,7,,place:7|person:0|org:0,unknown:7,LOC
+TA,rosebery,Rosebery,7,7,,place:6|person:0|org:1,settlement:6|unknown:1,"GPE,ORG"
+TA,sandon,Sandon,7,7,,place:6|person:0|org:1,settlement:6|unknown:1,"GPE,ORG"
+TA,stanley park,Stanley Park,7,7,,place:7|person:0|org:0,facility:7,"FAC,LOC"
+TA,island,Island,5,5,,place:5|person:0|org:0,unknown:5,LOC
+TA,new canadian,New Canadian,5,0,mostly_person_in_book,place:0|person:4|org:5,unknown:5,ORG
+TA,st anthony,St. Anthony,5,5,,place:5|person:0|org:0,facility:5,FAC
+TA,cowan,Cowan,4,0,mostly_person_in_book,place:0|person:31|org:4,unknown:4,ORG
+TA,crystal dairy,Crystal Dairy,4,1,org_not_promoted,place:1|person:0|org:3,unknown:3|facility:1,"FAC,ORG"
+TA,exhibition,Exhibition,4,4,,place:4|person:0|org:0,facility:4,FAC
+TA,germany,Germany,4,4,,place:4|person:0|org:0,country:4,GPE
+TA,maikawa,Maikawa,4,0,mostly_person_in_book,place:0|person:2|org:4,unknown:4,ORG
+TA,mounties,Mounties,4,0,org_not_promoted,place:0|person:0|org:4,unknown:4,ORG
+TA,pearl harbor,Pearl Harbor,4,4,,place:4|person:0|org:0,water:4,"FAC,LOC"
+TA,quebec,Quebec,4,4,,place:4|person:0|org:0,region:4,GPE
+TA,winnipeg,Winnipeg,4,4,,place:4|person:0|org:0,settlement:4,GPE
+TA,alberta,Alberta,3,3,,place:3|person:0|org:0,region:3,GPE
+TA,angler,Angler,3,3,,place:2|person:0|org:1,settlement:2|unknown:1,"GPE,ORG"
+TA,british columbia,British Columbia,3,3,,place:3|person:0|org:0,region:3,GPE
+TA,kamloops,Kamloops,3,3,,place:3|person:0|org:0,settlement:3,GPE
+TA,lemon creek,Lemon Creek,3,3,,place:3|person:0|org:0,water:3,"GPE,LOC"
+TA,lions gate bridge,Lions Gate Bridge,3,3,,place:3|person:0|org:0,facility:3,FAC
+TA,north shore,North Shore,3,3,,place:3|person:0|org:0,unknown:3,LOC
+TA,province,Province,3,3,,place:2|person:0|org:1,settlement:2|unknown:1,"GPE,ORG"
+TA,schreiber,Schreiber,3,2,org_not_promoted,place:2|person:1|org:1,facility:1|settlement:1|unknown:1,"FAC,GPE,ORG"
+TA,seattle,Seattle,3,3,,place:3|person:0|org:0,settlement:3,GPE
+TA,slocan,Slocan,3,3,,place:3|person:0|org:0,settlement:3,GPE
+TA,slocan city,Slocan City,3,3,,place:3|person:0|org:0,settlement:3,GPE
+TA,surrey,Surrey,3,3,,place:3|person:0|org:0,settlement:3,GPE
+TA,temp,Temp,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+TA,tillicum club,Tillicum Club,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+TA,toronto,Toronto,3,3,,place:3|person:0|org:0,settlement:3,GPE
+TA,united states,United States,3,3,,place:3|person:0|org:0,country:3,GPE
+TA,woodward,Woodward,3,0,mostly_person_in_book,place:0|person:1|org:3,unknown:3,ORG
+TA,alexander street,Alexander Street,2,2,,place:2|person:0|org:0,facility:2,FAC
+TA,america,America,2,2,,place:2|person:0|org:0,country:2,GPE
+TA,britain,Britain,2,2,,place:2|person:0|org:0,country:2,GPE
+TA,britannia high,Britannia High,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+TA,carpenter creek,Carpenter Creek,2,2,,place:2|person:0|org:0,water:2,LOC
+TA,commissioner street,Commissioner Street,2,2,,place:2|person:0|org:0,facility:2,FAC
+TA,cpr,CPR,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+TA,doukhobor,Doukhobor,2,2,,place:2|person:0|org:0,settlement:2,GPE
+TA,edmonton,Edmonton,2,2,,place:2|person:0|org:0,settlement:2,GPE
+TA,england,England,2,2,,place:2|person:0|org:0,country:2,GPE
+TA,english bay,English Bay,2,2,,place:2|person:0|org:0,water:2,LOC
+TA,girl guides,Girl Guides,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+TA,italy,Italy,2,2,,place:2|person:0|org:0,country:2,GPE
+TA,japantown,Japantown,2,2,,place:2|person:0|org:0,settlement:2,GPE
+TA,newmarket,Newmarket,2,2,,place:2|person:0|org:0,facility:2,FAC
+TA,pandora park,Pandora Park,2,2,,place:2|person:0|org:0,facility:2,FAC
+TA,powell grounds,Powell Grounds,2,2,,place:2|person:0|org:0,facility:2,FAC
+TA,powell street grounds,Powell Street Grounds,2,2,,place:2|person:0|org:0,facility:2,FAC
+TA,prince george,Prince George,2,2,,place:2|person:0|org:0,settlement:2,GPE
+TA,prospect point,Prospect Point,2,2,,place:2|person:0|org:0,landform:2,"GPE,LOC"
+TA,red cross,Red Cross,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+TA,sachi,Sachi,2,0,mostly_person_in_book,place:2|person:92|org:0,settlement:2,GPE
+TA,san,San,2,2,,place:2|person:0|org:0,facility:2,FAC
+TA,st pauls hospital,St. Paul's Hospital,2,2,,place:1|person:0|org:1,facility:2,"FAC,ORG"
+TA,st thomas,St. Thomas,2,2,,place:2|person:0|org:0,settlement:2,GPE
+TA,tairiku,Tairiku,2,1,org_not_promoted,place:1|person:0|org:1,unknown:1|facility:1,"FAC,ORG"
+TA,tashme,Tashme,2,2,,place:2|person:0|org:0,settlement:2,GPE
+TA,33rd,33rd,1,0,not_capitalised,place:1|person:0|org:0,facility:1,FAC
+TA,all saints church,All Saints' Church,1,1,,place:0|person:0|org:1,facility:1,ORG
+TA,bc security commission,B.C. Security Commission,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,blackout,Blackout,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,bobs ice cream parlour,Bob's Ice Cream Parlour,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,britannia,Britannia,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,burrard bridge,Burrard Bridge,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,cash service,Cash & Service,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,castlegar,Castlegar,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,coal harbour,Coal Harbour,1,1,,place:1|person:0|org:0,water:1,LOC
+TA,commercial drive,Commercial Drive,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,cordova,Cordova,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,cordova and gore,Cordova and Gore,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,cowans drugstore,Cowan's Drugstore,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,cowans pharmacy,Cowan's Pharmacy,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,crystal dairy ice cream parlour,Crystal Dairy Ice Cream Parlour,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,dodgers,Dodgers,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,dominion government,Dominion Government,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,duncan,Duncan,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,eaton,Eaton,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,empress,Empress,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,english lit,English Lit,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,europe,Europe,1,1,,place:1|person:0|org:0,region:1,LOC
+TA,fairview,Fairview,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,fife,Fife,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,france,France,1,1,,place:1|person:0|org:0,country:1,GPE
+TA,geechan,Geechan,1,0,mostly_person_in_book,place:1|person:107|org:0,settlement:1,GPE
+TA,girl guide camp,Girl Guide Camp,1,1,,place:0|person:0|org:1,facility:1,ORG
+TA,glamour of hollywood,Glamour of Hollywood,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,grandview,Grandview,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TA,grandview park,Grandview Park,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,greenwood,Greenwood,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,hakujin,hakujin,1,0,not_capitalised,place:1|person:0|org:0,settlement:1,GPE
+TA,harris ranch,Harris Ranch,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,hastings elementary,Hastings Elementary,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,hastings park clearing pool,Hastings Park Clearing Pool,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,haunted house,Haunted House,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,hawaii,Hawaii,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,heather,Heather,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,hope,Hope,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,hotel vancouver,Hotel Vancouver,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,japs,Japs,1,0,mostly_person_in_book,place:0|person:1|org:1,unknown:1,ORG
+TA,junior red cross club,Junior Red Cross Club,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,kresge,Kresge,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,langley,Langley,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,lempriere,Lemprière,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,lions,Lions,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,lions gate,Lions Gate,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,lost lagoon,Lost Lagoon,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,lowney,Lowney,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,manitoba,Manitoba,1,1,,place:1|person:0|org:0,region:1,GPE
+TA,montreal,Montreal,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,nagasaki,Nagasaki,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,neilson,Neilson,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,new pier cafe,New Pier Café,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,newmarket hotel,Newmarket Hotel,1,1,,place:0|person:0|org:1,facility:1,ORG
+TA,news herald,News-Herald,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,north america,North America,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TA,north vancouver,North Vancouver,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,north west mounted police,North West Mounted Police,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,pacific northwest,Pacific Northwest,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TA,papa,Papa,1,0,not_place_list,place:0|person:167|org:1,unknown:1,ORG
+TA,pat bay,Pat Bay,1,1,,place:1|person:0|org:0,water:1,GPE
+TA,philippines,Philippines,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,point estevan,Point Estevan,1,1,,place:1|person:0|org:0,landform:1,FAC
+TA,powell street drugstore,Powell Street Drugstore,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,prince rupert,Prince Rupert,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,purdy,Purdy,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,pure foods,Pure Foods,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,regina,Regina,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,revels,Revels,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,revelstoke,Revelstoke,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,royal canadian engineers,Royal Canadian Engineers,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,royal engineers,Royal Engineers,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,royal navy,Royal Navy,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,second beach,Second Beach,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,shibuya,Shibuya,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,silverton,Silverton,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,singapore,Singapore,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,slocan valley,Slocan Valley,1,1,,place:1|person:0|org:0,landform:1,LOC
+TA,social studies,Social Studies,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,states,States,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,sun,Sun,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,templeton and,Templeton and,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,templeton junior high,Templeton Junior High,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,tete jaune,Tête Jaune,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,training corps,Training Corps,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,triumph,Triumph,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,triumph street,Triumph Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,us,U.S,1,0,too_short,place:1|person:0|org:0,settlement:1,GPE
+TA,vancouver general hospital,Vancouver General Hospital,1,1,,place:0|person:0|org:1,facility:1,ORG
+TA,wall street,Wall Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+TA,washington,Washington,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TA,west end,West End,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TA,wilson creek,Wilson Creek,1,1,,place:1|person:0|org:0,water:1,FAC
+TA,yankees,Yankees,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TA,york theatre,York Theatre,1,1,,place:1|person:0|org:0,facility:1,FAC
+TFN,mill house,Mill House,28,28,,place:26|person:0|org:2,facility:28,"FAC,ORG"
+TFN,england,England,23,23,,place:23|person:0|org:0,country:23,GPE
+TFN,halifax,Halifax,22,22,,place:21|person:1|org:1,settlement:21|unknown:1,"GPE,ORG"
+TFN,titanic,Titanic,18,18,,place:9|person:1|org:5,vessel:18,"FAC,ORG"
+TFN,canada,Canada,14,4,salutation,place:12|person:0|org:0,country:14,GPE
+TFN,london,London,10,10,,place:10|person:0|org:0,settlement:9|region:1,GPE
+TFN,new york,New York,8,8,,place:8|person:0|org:0,settlement:8,GPE
+TFN,lewisham,Lewisham,7,7,,place:7|person:0|org:0,settlement:7,GPE
+TFN,southampton,Southampton,7,7,,place:7|person:0|org:0,settlement:7,GPE
+TFN,earth,Earth,6,0,not_place_list,place:6|person:0|org:0,unknown:6,LOC
+TFN,carpathia,Carpathia,4,4,,place:3|person:1|org:0,vessel:4,LOC
+TFN,france,France,4,4,,place:4|person:0|org:0,country:4,GPE
+TFN,nova scotia,Nova Scotia,4,4,,place:4|person:0|org:0,region:4,GPE
+TFN,america,America,3,3,,place:3|person:0|org:0,country:3,GPE
+TFN,atlanta,Atlanta,3,3,,place:3|person:0|org:0,settlement:3,GPE
+TFN,g g,G&G,3,0,org_not_promoted,place:0|person:0|org:3,unknown:3,ORG
+TFN,india,India,3,3,,place:3|person:0|org:0,country:3,GPE
+TFN,ireland,Ireland,3,3,,place:4|person:0|org:0,country:3,GPE
+TFN,rc,R.C,3,0,too_short,place:3|person:0|org:0,settlement:3,GPE
+TFN,south pole,South Pole,3,3,,place:3|person:0|org:0,unknown:3,LOC
+TFN,torrible zone,Torrible Zone,3,3,,place:3|person:0|org:0,unknown:3,LOC
+TFN,waterloo station,Waterloo Station,3,3,,place:3|person:0|org:0,facility:3,FAC
+TFN,british museum,British Museum,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+TFN,caribbean,Caribbean,2,2,,place:2|person:0|org:0,unknown:2,LOC
+TFN,cg,CG,2,0,too_short,place:0|person:5|org:2,unknown:2,ORG
+TFN,chamber of horrors,Chamber of Horrors,2,2,,place:2|person:0|org:0,facility:2,FAC
+TFN,cherbourg,Cherbourg,2,2,,place:2|person:0|org:0,settlement:2,GPE
+TFN,encyclopaedia britannica,Encyclopaedia Britannica,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+TFN,europe,Europe,2,2,,place:2|person:0|org:0,region:2,LOC
+TFN,mackay bennett,Mackay-Bennett,2,2,,place:2|person:0|org:0,facility:2,FAC
+TFN,madame tussaud,Madame Tussaud,2,0,title_or_kinship,place:1|person:0|org:1,unknown:1|facility:1,"FAC,ORG"
+TFN,new york city,New York City,2,2,,place:2|person:0|org:0,settlement:2,GPE
+TFN,old market,Old Market,2,2,,place:2|person:0|org:0,facility:2,FAC
+TFN,plymouth,Plymouth,2,2,,place:2|person:0|org:0,settlement:2,GPE
+TFN,point pleasant park,Point Pleasant Park,2,2,,place:2|person:0|org:0,facility:2,"FAC,GPE"
+TFN,queenstown,Queenstown,2,2,,place:2|person:0|org:0,settlement:2,GPE
+TFN,river quaggy,River Quaggy,2,2,,place:2|person:0|org:0,water:2,LOC
+TFN,scholastic canada ltd,Scholastic Canada Ltd,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+TFN,augusta,Augusta,1,0,mostly_person_in_book,place:1|person:2|org:0,settlement:1,GPE
+TFN,basingstoke,Basingstoke,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,bc,B.C,1,1,,place:0|person:0|org:0,region:1,
+TFN,belfast,Belfast,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,boston,Boston,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,california,California,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,chankly bore,Chankly Bore,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TFN,citadel,Citadel,1,1,,place:1|person:0|org:0,facility:1,FAC
+TFN,cunard,Cunard,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,dear canada,DEAR CANADA,1,0,salutation,place:0|person:0|org:1,unknown:1,ORG
+TFN,eastleigh,Eastleigh,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,empress of ireland,Empress of Ireland,1,1,,place:0|person:0|org:0,vessel:1,GPE
+TFN,encyclopaedia,Encyclopaedia,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,fairview,Fairview,1,1,,place:1|person:0|org:0,facility:1,FAC
+TFN,fairview cemetery,Fairview Cemetery,1,1,,place:1|person:0|org:0,facility:1,FAC
+TFN,fathers bank,Father's bank,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,girl guides,Girl Guides,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,halifax harbour,Halifax Harbour,1,1,,place:1|person:0|org:0,water:1,LOC
+TFN,halifax ladies college,Halifax Ladies' College,1,1,,place:0|person:0|org:1,facility:1,ORG
+TFN,halifax morning chronicle,Halifax Morning Chronicle,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,hills of the chankly bore,Hills of the Chankly Bore,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TFN,inglis,Inglis,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,jamaica,Jamaica,1,1,,place:1|person:0|org:0,country:1,GPE
+TFN,lake district,Lake District,1,1,,place:1|person:0|org:0,region:1,LOC
+TFN,lakes,Lakes,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TFN,lapland,Lapland,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TFN,larsens,Larsens,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,lusitania,Lusitania,1,1,,place:1|person:0|org:0,vessel:1,LOC
+TFN,magic city,Magic City,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,mauretania,Mauretania,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TFN,mayflower curling rink,Mayflower Curling Rink,1,1,,place:1|person:0|org:0,facility:1,FAC
+TFN,montreal,Montreal,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,newfoundland,Newfoundland,1,1,,place:1|person:0|org:0,region:1,GPE
+TFN,ontario,Ontario,1,1,,place:1|person:0|org:0,region:1,GPE
+TFN,oregon,Oregon,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,point pleasant,Point Pleasant,1,1,,place:1|person:0|org:0,landform:1,GPE
+TFN,russia,Russia,1,1,,place:1|person:0|org:0,country:1,GPE
+TFN,san francisco,San Francisco,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,scholastic,SCHOLASTIC,1,0,mostly_person_in_book,place:0|person:1|org:1,unknown:1,ORG
+TFN,scholastic inc,Scholastic Inc,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,sea of galilee,Sea of Galilee,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TFN,seattle,Seattle,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,sierra madre,Sierra Madre,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TFN,south america,South America,1,1,,place:1|person:0|org:0,unknown:1,LOC
+TFN,st georges church,St. George's Church,1,1,,place:1|person:0|org:0,facility:1,FAC
+TFN,st johns,St. John's,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,st lawrence river,St. Lawrence River,1,1,,place:1|person:0|org:0,water:1,LOC
+TFN,st marks church,St. Mark's Church,1,1,,place:0|person:0|org:1,facility:1,ORG
+TFN,st matthews church,St. Matthew's Church,1,1,,place:1|person:0|org:0,facility:1,FAC
+TFN,stilton,Stilton,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,surbiton,Surbiton,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,times,Times,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,toronto,Toronto,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,trilobite family,Trilobite Family,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,united states,United States,1,1,,place:1|person:0|org:0,country:1,GPE
+TFN,wc,WC,1,0,too_short,place:1|person:0|org:0,facility:1,FAC
+TFN,western sea,Western Sea,1,1,,place:1|person:0|org:0,water:1,LOC
+TFN,white star,White Star,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+TFN,winchester,Winchester,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,woking,Woking,1,1,,place:1|person:0|org:0,settlement:1,GPE
+TFN,young ave,Young Ave,1,1,,place:1|person:0|org:0,facility:1,FAC
+WofW,niagara,Niagara,36,36,,place:36|person:0|org:0,settlement:36,"GPE,LOC"
+WofW,upper canada,Upper Canada,25,25,,place:24|person:0|org:0,region:25,LOC
+WofW,fort george,Fort George,23,23,,place:23|person:0|org:0,facility:23,FAC
+WofW,united states,United States,21,21,,place:21|person:0|org:0,country:21,GPE
+WofW,britain,Britain,17,17,,place:17|person:0|org:0,country:17,GPE
+WofW,canada,Canada,17,5,salutation,place:10|person:0|org:0,country:17,GPE
+WofW,queenston,Queenston,14,14,,place:14|person:0|org:0,settlement:13|facility:1,"FAC,GPE"
+WofW,england,England,10,10,,place:10|person:0|org:0,country:10,GPE
+WofW,government house,Government House,8,8,,place:8|person:0|org:0,facility:8,FAC
+WofW,york,York,8,8,,place:8|person:0|org:0,settlement:8,GPE
+WofW,south carolina,South Carolina,7,7,,place:7|person:0|org:0,settlement:7,GPE
+WofW,burlington,Burlington,6,6,,place:6|person:0|org:0,settlement:6,GPE
+WofW,falls,Falls,6,6,,place:6|person:0|org:0,unknown:4|facility:2,"FAC,LOC"
+WofW,fort niagara,Fort Niagara,6,6,,place:6|person:0|org:0,facility:6,FAC
+WofW,france,France,6,6,,place:6|person:0|org:0,country:6,GPE
+WofW,heights,Heights,6,6,,place:6|person:0|org:0,unknown:6,LOC
+WofW,new york,New York,6,6,,place:6|person:0|org:0,settlement:6,GPE
+WofW,detroit,Detroit,5,5,,place:5|person:0|org:0,settlement:5,GPE
+WofW,new brunswick,New Brunswick,5,5,,place:5|person:0|org:0,region:5,GPE
+WofW,kingston,Kingston,4,4,,place:4|person:0|org:0,settlement:4,GPE
+WofW,niagara peninsula,Niagara Peninsula,4,4,,place:4|person:0|org:0,landform:4,LOC
+WofW,ontario,Ontario,4,4,,place:4|person:0|org:0,water:4,GPE
+WofW,queenston heights,Queenston Heights,4,4,,place:4|person:0|org:0,settlement:3|facility:1,"FAC,GPE"
+WofW,twelve,Twelve,4,4,,place:4|person:0|org:0,facility:2|unknown:2,"FAC,LOC"
+WofW,connecticut,Connecticut,3,3,,place:3|person:0|org:0,settlement:3,GPE
+WofW,lower canada,Lower Canada,3,3,,place:3|person:0|org:0,region:3,LOC
+WofW,new york state,New York State,3,3,,place:3|person:0|org:0,settlement:3,GPE
+WofW,niagara river,Niagara River,3,3,,place:3|person:0|org:0,water:3,LOC
+WofW,north america,North America,3,3,,place:3|person:0|org:0,unknown:3,LOC
+WofW,sandwich,Sandwich,3,3,,place:3|person:0|org:0,facility:1|unknown:1|settlement:1,"FAC,GPE,LOC"
+WofW,st catharines,St. Catharines,3,3,,place:3|person:0|org:0,settlement:3,GPE
+WofW,toronto,Toronto,3,3,,place:3|person:0|org:0,settlement:3,GPE
+WofW,british empire,British Empire,2,2,,place:2|person:0|org:0,settlement:2,GPE
+WofW,cavalier bastion,Cavalier Bastion,2,2,,place:2|person:0|org:0,facility:2,FAC
+WofW,delaware town,Delaware Town,2,2,,place:2|person:0|org:0,settlement:2,GPE
+WofW,grand river,Grand River,2,2,,place:2|person:0|org:0,water:2,LOC
+WofW,lake erie,Lake Erie,2,2,,place:2|person:0|org:0,water:2,LOC
+WofW,newark,Newark,2,2,,place:2|person:0|org:0,settlement:2,GPE
+WofW,niagara on the lake,Niagara-on-the-Lake,2,2,,place:2|person:0|org:0,unknown:2,LOC
+WofW,old northwest,Old Northwest,2,2,,place:2|person:0|org:0,unknown:2,LOC
+WofW,scholastic canada ltd,Scholastic Canada Ltd,2,0,org_not_promoted,place:0|person:0|org:2,unknown:2,ORG
+WofW,upper and,Upper and,2,2,,place:2|person:0|org:0,unknown:2,LOC
+WofW,vermont,Vermont,2,2,,place:2|person:0|org:0,settlement:2,GPE
+WofW,41st regiment,41st Regiment,1,0,not_capitalised,place:0|person:0|org:1,unknown:1,ORG
+WofW,abbie,Abbie,1,0,mostly_person_in_book,place:1|person:113|org:0,settlement:1,GPE
+WofW,baltimore,Baltimore,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,beaver dam,Beaver Dam,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,bermudas,Bermudas,1,1,,place:1|person:0|org:0,unknown:1,LOC
+WofW,brock street,Brock Street,1,1,,place:1|person:0|org:0,facility:1,FAC
+WofW,brock university,Brock University,1,1,,place:0|person:0|org:1,facility:1,ORG
+WofW,brockville,Brockville,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,burlington bay,Burlington Bay,1,1,,place:1|person:0|org:0,water:1,GPE
+WofW,chippewa,Chippewa,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,cotillion,Cotillion,1,1,,place:1|person:0|org:0,facility:1,FAC
+WofW,dear canada,DEAR CANADA,1,0,salutation,place:0|person:0|org:1,unknown:1,ORG
+WofW,detroit river,Detroit River,1,1,,place:1|person:0|org:0,water:1,LOC
+WofW,elizabethtown,Elizabethtown,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,europe,Europe,1,1,,place:1|person:0|org:0,region:1,LOC
+WofW,fort mchenry,Fort McHenry,1,1,,place:1|person:0|org:0,facility:1,FAC
+WofW,fort michilimackinac,Fort Michilimackinac,1,1,,place:1|person:0|org:0,facility:1,FAC
+WofW,fort schlosser,Fort Schlosser,1,1,,place:1|person:0|org:0,facility:1,FAC
+WofW,germany,Germany,1,1,,place:1|person:0|org:0,country:1,GPE
+WofW,great lakes,Great Lakes,1,1,,place:1|person:0|org:0,water:1,LOC
+WofW,green tigers,Green Tigers,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+WofW,holland,Holland,1,1,,place:1|person:0|org:0,country:1,GPE
+WofW,horseshoe,Horseshoe,1,1,,place:1|person:0|org:0,unknown:1,LOC
+WofW,ireland,Ireland,1,1,,place:1|person:0|org:0,country:1,GPE
+WofW,lake huron,Lake Huron,1,1,,place:1|person:0|org:0,water:1,LOC
+WofW,lake ontario,Lake Ontario,1,1,,place:1|person:0|org:0,water:1,LOC
+WofW,london,London,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,lundys lane museum,Lundy's Lane Museum,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+WofW,massachusetts,Massachusetts,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,michigan,Michigan,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,michigan territory,Michigan Territory,1,1,,place:1|person:0|org:0,region:1,GPE
+WofW,michilimackinac,Michilimackinac,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,montmorency,Montmorency,1,1,,place:1|person:0|org:0,facility:1,FAC
+WofW,moraviantown,Moraviantown,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,niagara falls,Niagara Falls,1,1,,place:1|person:0|org:0,water:1,GPE
+WofW,niagara historical museum,Niagara Historical Museum,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+WofW,niagara light dragoons,Niagara Light Dragoons,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+WofW,norfolk,Norfolk,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,ohio river,Ohio River,1,1,,place:1|person:0|org:0,water:1,LOC
+WofW,oxford,Oxford,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+WofW,pennsylvania,Pennsylvania,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,portage road,Portage Road,1,1,,place:1|person:0|org:0,facility:1,FAC
+WofW,quebec,Québec,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,scholastic,SCHOLASTIC,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+WofW,scholastic inc,Scholastic Inc,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+WofW,sedentary militia,Sedentary Militia,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+WofW,sense and sensibilit y,Sense and Sensibilit y,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+WofW,shipmans corners,Shipman's Corners,1,1,,place:1|person:0|org:0,unknown:1,LOC
+WofW,st john,Saint John,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,st lawrence,St. Lawrence,1,1,,place:1|person:0|org:0,water:1,LOC
+WofW,st pauls cathedral,St. Paul's Cathedral,1,1,,place:1|person:0|org:0,facility:1,FAC
+WofW,states,States,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,sukie,Sukie,1,0,mostly_person_in_book,place:1|person:22|org:0,unknown:1,LOC
+WofW,table rock,Table Rock,1,1,,place:1|person:0|org:0,unknown:1,LOC
+WofW,upper and lower canada,Upper and Lower Canada,1,1,,place:1|person:0|org:0,unknown:1,LOC
+WofW,us congress,U.S. Congress,1,0,org_not_promoted,place:0|person:0|org:1,unknown:1,ORG
+WofW,virginia,Virginia,1,1,,place:1|person:0|org:0,settlement:1,GPE
+WofW,welland canal,Welland Canal,1,1,,place:1|person:0|org:0,water:1,FAC
+WofW,white house,White House,1,1,,place:1|person:0|org:0,facility:1,FAC

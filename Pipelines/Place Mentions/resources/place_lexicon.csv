@@ -1,0 +1,108 @@
+name,place_type,year_from,year_to,ambiguous,note
+Canada,country,,,1,"Before 1867 often means New France, the Canadas or the Province of Canada; the matcher handles the period"
+England,country,,,,
+Scotland,country,,,,
+Ireland,country,,,,
+Wales,country,,,,
+Britain,country,,,,
+Great Britain,country,,,,
+United Kingdom,country,,,,
+France,country,,,,
+Germany,country,,,,
+Italy,country,,,,
+Spain,country,,,,
+Portugal,country,,,,
+Holland,country,,,,
+Netherlands,country,,,,
+Belgium,country,,,,
+Switzerland,country,,,,
+Austria,country,,,,
+Hungary,country,,,,
+Poland,country,,,,
+Russia,country,,,,
+Ukraine,country,,,,
+Romania,country,,,,
+Greece,country,,,,
+Norway,country,,,,
+Sweden,country,,,,
+Denmark,country,,,,
+Iceland,country,,,,
+Finland,country,,,,
+Czechoslovakia,country,,,,
+Japan,country,,,,
+China,country,,,,
+India,country,,,,
+Korea,country,,,,
+America,country,,,,"Usually the United States in these diaries"
+United States,country,,,,
+Mexico,country,,,,
+Jamaica,country,,,,
+Australia,country,,,,
+New Zealand,country,,,,
+Europe,region,,,,Continent
+Africa,region,,,,Continent
+Galicia,region,,,,Austrian crown land (Ukrainian emigration)
+Bukovina,region,,,,
+Quebec,settlement,,1866,1,"Before Confederation a bare 'Quebec' almost always means the city"
+Quebec,region,1867,,1,"From 1867 the province; context cues override"
+Québec,settlement,,1866,1,
+Québec,region,1867,,1,
+Ontario,water,,1866,1,"Before 1867 a bare 'Ontario' usually means the lake"
+Ontario,region,1867,,1,
+Nova Scotia,region,,,,
+New Brunswick,region,,,,
+Prince Edward Island,region,,,,
+Manitoba,region,,,,
+Saskatchewan,region,,,1,Also the river
+Alberta,region,,,,
+British Columbia,region,,,,
+Newfoundland,region,,,,
+Labrador,region,,,,
+Yukon,region,,,1,Also the river
+Klondike,region,,,,
+Northwest Territories,region,,,,
+North-West Territories,region,,,,
+New France,region,,,,
+Lower Canada,region,,,,
+Upper Canada,region,,,,
+Canada East,region,,,,
+Canada West,region,,,,
+Province of Canada,region,,,,
+Acadia,region,,,,
+Acadie,region,,,,
+Rupert's Land,region,,,,
+Île Saint-Jean,region,,,,Prince Edward Island before 1799
+Isle St. John,region,,,,
+Red River,region,,,1,"Usually the Red River Settlement; 'Red River' with a river cue becomes water"
+Red River Settlement,region,,,,
+Cariboo,region,,,,
+New York,settlement,,,1,City or state
+Washington,settlement,,,1,City or state
+Ottawa,water,,1854,1,"Bytown until 1855, so earlier mentions are the river"
+Ottawa,settlement,1855,,1,
+Saint John,settlement,,,1,City or river
+St. John,settlement,,,1,City or river
+York,settlement,,,1,"Toronto 1793-1834, York Factory, or York in England"
+Niagara,settlement,,,1,"Town, river or falls"
+St. Lawrence,water,,,,
+Saint Lawrence,water,,,,
+Atlantic,water,,,,
+Pacific,water,,,,
+Hudson Bay,water,,,,
+Hudson's Bay,water,,,,
+Grosse Île,landform,,,,Quarantine island
+Grosse Isle,landform,,,,
+Father Point,settlement,,,,Pointe-au-Père
+York Factory,settlement,,,,
+Pier 21,facility,,,,
+Ellis Island,landform,,,,
+Titanic,vessel,,,,
+Carpathia,vessel,,,,
+Lusitania,vessel,,,,
+Empress of Ireland,vessel,,,,
+Gold Mountain,region,,,,"Gum Shan: Cantonese name for North America, often British Columbia or Canada"
+Gum Shan,region,,,,
+Kwangtung,region,,,,Guangdong province
+Chinatown,settlement,,,1,Neighbourhood; the matcher resolves it per book
+B.C.,region,,,,British Columbia
+BC,region,,,,

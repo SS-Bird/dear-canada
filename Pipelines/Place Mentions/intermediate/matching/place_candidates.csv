@@ -1,0 +1,1001 @@
+query_id,gazetteer,rank,feature_id,name,feature_type,feature_class,province,country,relevance,latitude,longitude,name_score,score,matched_via,selected
+AToBD:acton:settlement,cgndb,1,ESXMZ,Acton,GEOG / Census Division,area,quebec,Canada,7500000.0,45.65,-72.566666,1.0,1.117,canonical,True
+AToBD:athabaska river:water,cgndb,1,IAQZZ,Athabasca River,RIV / River,water,alberta,Canada,5000000.0,58.6666667,-110.8333333,0.933,1.168,fuzzy,True
+AToBD:beaver creek:water,cgndb,1,JAFCP,Beaver Creek,RIV / Creek,water,british columbia,Canada,1000000.0,52.728056,-122.121389,1.0,1.268,canonical,True
+AToBD:beaver creek:water,cgndb,2,JAFCG,Beaver Creek,RIV / Creek,water,british columbia,Canada,250000.0,49.068889,-117.608056,1.0,1.235,canonical,False
+AToBD:beaver creek:water,cgndb,3,JAFCR,Beaver Creek,RIV / Creek,water,british columbia,Canada,250000.0,57.800278,-122.923333,1.0,1.235,canonical,False
+AToBD:beaver creek:water,cgndb,4,JAFCS,Beaver Creek,RIV / Creek,water,british columbia,Canada,250000.0,58.922778,-130.310556,1.0,1.235,canonical,False
+AToBD:beaver creek:water,cgndb,5,JAFCV,Beaver Creek,RIV / Creek,water,british columbia,Canada,250000.0,51.531111,-119.316389,1.0,1.235,canonical,False
+AToBD:british columbia:region,overrides,1,override:British Columbia:38,British Columbia,,admin_large,british columbia,Canada,,53.7267,-127.6476,1.0,1.197,canonical,True
+AToBD:california:settlement,world,1,world:California:region,California,region,admin_large,,United States,,36.7783,-119.4179,1.0,1.05,canonical,True
+AToBD:canada west:region,overrides,1,override:Canada West:8,"Canada West, represented by Toronto",,admin_large,ontario,Canada,,43.6532,-79.3832,1.0,1.124,canonical,True
+AToBD:cariboo:region,overrides,1,override:Cariboo:44,Cariboo gold fields,,area,british columbia,Canada,,52.9,-121.7,1.0,1.147,canonical,True
+AToBD:fort carlton:facility,overrides,1,override:Fort Carlton:52,Fort Carlton,,facility,saskatchewan,Canada,,52.8708,-106.528,1.0,1.113,canonical,True
+AToBD:fort edmonton:facility,overrides,1,override:Fort Edmonton:24,Fort Edmonton,,facility,alberta,Canada,,53.534,-113.5065,1.0,1.126,canonical,True
+AToBD:fort garry:facility,overrides,1,override:Fort Garry:22,Upper Fort Garry,,facility,manitoba,Canada,,49.8873,-97.1306,1.0,1.139,canonical,True
+AToBD:fort george:facility,overrides,1,override:Fort George:41,Fort George (Prince George),,settlement,british columbia,Canada,,53.9171,-122.7497,1.0,1.097,canonical,True
+AToBD:fort pitt:facility,cgndb,1,HACDC,Fort Pitt,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,53.573756,-109.791077,1.0,1.088,canonical,True
+AToBD:fraser river:water,cgndb,1,JCLQU,Fraser River,RIV / River,water,british columbia,Canada,5000000.0,49.118611,-123.190833,1.0,1.305,canonical,True
+AToBD:fraser river:water,cgndb,2,AAHML,Fraser River,RIV / River,water,newfoundland and labrador,Canada,1000000.0,56.6191192,-62.2518481,1.0,1.17,canonical,False
+AToBD:fraser:unknown,cgndb,1,JAHXF,Fraser,UNP / Landing,settlement,british columbia,Canada,250000.0,49.616667,-116.98333,1.0,1.185,canonical,True
+AToBD:goderich:settlement,cgndb,1,FBIAG,Goderich,TOWN / Town,settlement,ontario,Canada,7500000.0,43.73813,-81.70455,1.0,1.241,canonical,True
+AToBD:london:settlement,cgndb,1,FCAEN,London,CITY / City,settlement,ontario,Canada,17500000.0,42.9675,-81.2325,1.0,1.261,canonical,False
+AToBD:london:settlement,world,1,world:London:settlement,London,settlement,settlement,,United Kingdom,,51.5074,-0.1278,1.0,1.1,canonical,True
+AToBD:lumpy hills:landform,cgndb,1,JBVNA,Lump Hill,MTN / Hill,terrain,british columbia,Canada,50000.0,51.097778,-127.565278,0.9,1.097,fuzzy,True
+AToBD:new westminster:settlement,cgndb,1,JAZMR,New Westminster,CITY / City,settlement,british columbia,Canada,2000000.0,49.206667,-122.910556,1.0,1.284,canonical,True
+AToBD:new york city:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
+AToBD:north saskatchewan river:water,cgndb,1,IAOKK,North Saskatchewan River,RIV / River,water,alberta,Canada,5000000.0,53.6019444,-110.0,1.0,1.234,canonical,True
+AToBD:pembina river:water,cgndb,1,IAQJX,Pembina River,RIV / River,water,alberta,Canada,5000000.0,54.7433333,-114.2836111,1.0,1.234,canonical,True
+AToBD:pembina river:water,cgndb,2,GAVHJ,Pembina River,RIV / River,water,manitoba,Canada,1000000.0,49.0002779,-98.206389,1.0,1.21,canonical,False
+AToBD:quappelle river:water,cgndb,1,GAWKZ,Qu'Appelle River,RIV / River,water,manitoba,Canada,5000000.0,50.443889,-101.31972,1.0,1.247,canonical,True
+AToBD:quesnel river:water,cgndb,1,JBNTW,Quesnel River,RIV / River,water,british columbia,Canada,2000000.0,52.970556,-122.497778,1.0,1.284,canonical,True
+AToBD:red river settlement:region,overrides,1,override:Red River Settlement:15,Red River Settlement,,area,manitoba,Canada,,49.95,-97.05,1.0,1.089,canonical,True
+AToBD:red river:water,cgndb,1,JBIOC,Red River,RIV / River,water,british columbia,Canada,1000000.0,59.465833,-127.674444,1.0,1.268,canonical,True
+AToBD:red river:water,cgndb,2,GAWTC,Red River,RIV / River,water,manitoba,Canada,5000000.0,50.396389,-96.810833,1.0,1.247,canonical,False
+AToBD:red river:water,cgndb,3,CBFNH,Red River,RIV / River,water,nova scotia,Canada,1000000.0,46.84936,-60.773451,1.0,1.17,canonical,False
+AToBD:red river:water,cgndb,4,KAFLI,Red River,RIV / River,water,yukon,Canada,1000000.0,60.7356513,-132.1133046,1.0,1.17,canonical,False
+AToBD:red river:water,cgndb,5,OANUK,Red River,RIV / River,water,nunavut,Canada,1000000.0,60.55,-100.13333,1.0,1.17,canonical,False
+AToBD:rocky mountains:landform,overrides,1,override:Rockies:54,Rocky Mountains,,terrain,alberta,Canada,,51.5,-116.5,1.0,1.126,canonical,True
+AToBD:root river:water,cgndb,1,LAULU,Root River,RIV / River,water,northwest territories,Canada,2000000.0,62.4334142,-123.3015713,1.0,1.186,canonical,True
+AToBD:russia:country,world,1,world:Russia:country,Russia,country,country,,Russia,,55.7558,37.6173,1.0,1.1,canonical,True
+AToBD:san francisco:settlement,world,1,world:San Francisco:settlement,San Francisco,settlement,settlement,,United States,,37.7749,-122.4194,1.0,1.1,canonical,True
+AToBD:south saskatchewan river:water,cgndb,1,IAKNY,South Saskatchewan River,RIV / River,water,alberta,Canada,5000000.0,50.9033333,-110.0,1.0,1.234,canonical,True
+AToBD:st albert:settlement,cgndb,1,IAGHN,St. Albert,CITY / City,settlement,alberta,Canada,7500000.0,53.6369444,-113.6202778,1.0,1.244,canonical,True
+AToBD:tete jaune cache:facility,cgndb,1,JCFET,Tête Jaune Cache,UNP / Community,settlement,british columbia,Canada,1200000.0,52.966667,-119.42917,1.0,1.222,canonical,True
+AToBD:thickwood hills:landform,cgndb,1,IALFH,Thickwood Hills,MTN / Hills,terrain,alberta,Canada,1000000.0,56.7111111,-112.1825,1.0,1.197,canonical,True
+AToBD:thickwood hills:landform,cgndb,2,HANBU,Thickwood Hills,MTN / Hills,terrain,saskatchewan,Canada,1000000.0,53.075548,-107.449065,1.0,1.183,canonical,False
+AToBD:thompson river:water,cgndb,1,JBCEP,Thompson River,RIV / River,water,british columbia,Canada,5000000.0,50.235556,-121.5825,1.0,1.305,canonical,True
+AToBD:thompson:unknown,cgndb,1,GBBRP,Thompson,CITY / City,settlement,manitoba,Canada,17500000.0,55.743333,-97.855278,1.0,1.227,canonical,True
+AToBD:thompson:unknown,cgndb,2,JCDIR,Thompson,UNP / Railway Point,settlement,british columbia,Canada,250000.0,50.266667,-121.4,1.0,1.185,canonical,False
+AToBD:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.274,canonical,True
+AToBD:united states:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+AToBD:upper fort garry:facility,overrides,1,override:Fort Garry:22,Upper Fort Garry,,facility,manitoba,Canada,,49.8873,-97.1306,1.0,1.139,canonical,True
+AToBD:victoria:settlement,cgndb,1,JBOBQ,Victoria,CITY / City,settlement,british columbia,Canada,30000000.0,48.428333,-123.364722,1.0,1.347,canonical,True
+AToBD:victoria:settlement,cgndb,2,AAWMU,Victoria,TOWN / Town,settlement,newfoundland and labrador,Canada,1000000.0,47.77125,-53.2380778,1.0,1.17,canonical,False
+AToBD:williams creek:water,cgndb,1,JBNMM,Williams Creek,RIV / Creek,water,british columbia,Canada,250000.0,48.5875,-124.018056,1.0,1.235,canonical,True
+AToBD:williams creek:water,cgndb,2,JBNMN,Williams Creek,RIV / Creek,water,british columbia,Canada,250000.0,49.163889,-124.671111,1.0,1.235,canonical,False
+AToBD:williams creek:water,cgndb,3,JBNMQ,Williams Creek,RIV / Creek,water,british columbia,Canada,250000.0,50.880278,-122.625833,1.0,1.235,canonical,False
+AToBD:williams creek:water,cgndb,4,JCLBS,Williams Creek,RIV / Creek,water,british columbia,Canada,250000.0,54.4125,-128.533333,1.0,1.235,canonical,False
+AToBD:williams creek:water,cgndb,5,JDBEH,Williams Creek,RIV / Creek,water,british columbia,Canada,250000.0,55.254167,-126.610556,1.0,1.235,canonical,False
+AinUTL:cap diamant:landform,cgndb,1,EGDOB,Cap Diamant,CAPE / Cap,terrain,quebec,Canada,1000000.0,46.8091667,-71.2019444,1.0,1.366,canonical,True
+AinUTL:cap diamant:landform,cgndb,2,EJHZA,Cap Diamant,CAPE / Cap,terrain,quebec,Canada,1000000.0,50.013056,-68.783889,1.0,1.366,canonical,False
+AinUTL:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+AinUTL:la rochelle:settlement,cgndb,1,EGXVX,La Rochelle,UNP / Hamlet,settlement,quebec,Canada,250000.0,46.1358333,-71.7788889,1.0,1.334,canonical,True
+AinUTL:la rochelle:settlement,cgndb,2,GAOFK,La Rochelle,UNP / Locality,settlement,manitoba,Canada,1200000.0,49.355556,-96.98,1.0,1.175,canonical,False
+AinUTL:lerable:facility,cgndb,1,ESXNM,L'Érable,GEOG / Census Division,area,quebec,Canada,7500000.0,46.25,-71.75,1.0,1.313,canonical,True
+AinUTL:lower town:settlement,overrides,1,override:Basse-Ville:51,"Basse-Ville (Lower Town), Quebec City",,area,quebec,Canada,,46.815,-71.203,1.0,1.196,canonical,True
+AinUTL:montreal:facility,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.383,canonical,True
+AinUTL:montreal:facility,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.313,canonical,False
+AinUTL:montreal:facility,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.313,canonical,False
+AinUTL:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.433,canonical,True
+AinUTL:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.313,canonical,False
+AinUTL:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.313,canonical,False
+AinUTL:new france:region,overrides,1,override:New France:4,"New France, represented by Quebec City",,admin_large,quebec,Canada,,46.8139,-71.208,1.0,1.296,canonical,True
+AinUTL:newfoundland:region,overrides,1,override:Newfoundland:14,Newfoundland (island),,admin_large,newfoundland and labrador,Canada,,48.6,-56.3,1.0,1.102,canonical,True
+AinUTL:normandy:settlement,world,1,world:Normandy:region,Normandy,region,admin_large,,France,,49.1829,-0.3707,1.0,1.05,canonical,True
+AinUTL:paris:settlement,cgndb,1,FDSRC,Paris,UNP / Community,settlement,ontario,Canada,2000000.0,43.1933334,-80.3847222,1.0,1.189,canonical,False
+AinUTL:paris:settlement,world,1,world:Paris:settlement,Paris,settlement,settlement,,France,,48.8566,2.3522,1.0,1.1,canonical,True
+AinUTL:quebec:settlement,cgndb,1,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.446,canonical,True
+AinUTL:quebec:settlement,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.313,canonical,False
+AinUTL:quebec:settlement,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.313,canonical,False
+AinUTL:quebec:settlement,cgndb,4,EMBCK,Québec,UNP / Post Office,settlement,quebec,Canada,50000.0,46.8175,-71.2119444,1.0,1.296,canonical,False
+AinUTL:quebec:settlement,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,1.0,1.196,canonical,False
+AinUTL:st lawrence river:water,cgndb,1,EFGFK,St. Lawrence River,RIV / River,water,quebec,Canada,5000000.0,49.6666667,-64.5,1.0,1.404,canonical,True
+AinUTL:st lawrence:water,cgndb,1,EFGFK,St. Lawrence River,RIV / River,water,quebec,Canada,5000000.0,49.6666667,-64.5,0.96,1.364,variant,True
+AinUTL:st lawrence:water,cgndb,2,EQEVY,St. Lawrence,UNP / Named Locality,settlement,quebec,Canada,85000.0,48.4988889,-67.4769444,1.0,1.128,canonical,False
+AinUTL:st lawrence:water,cgndb,3,AAWFL,St. Lawrence,TOWN / Town,settlement,newfoundland and labrador,Canada,1000000.0,46.907917,-55.404514,1.0,0.992,canonical,False
+AinUTL:ste barbe:facility,cgndb,1,ESBIO,Sainte-Barbe,VILG / Municipality,settlement,quebec,Canada,700000.0,45.166667,-74.2,1.0,1.308,canonical,True
+BFfH:algonquin park:facility,cgndb,1,FACJV,Algonquin Park,UNP / Dispersed Rural Community,settlement,ontario,Canada,85000.0,45.5516666,-78.5958334,1.0,1.18,canonical,True
+BFfH:amiens:facility,cgndb,1,HASUF,Amiens,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,53.3167232,-107.2505963,1.0,1.134,canonical,True
+BFfH:amiens:settlement,cgndb,1,HASUF,Amiens,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,53.3167232,-107.2505963,1.0,1.184,canonical,True
+BFfH:britain:country,world,1,world:Great Britain:country,Great Britain,country,country,,United Kingdom,,54.0,-2.0,1.0,1.1,canonical,True
+BFfH:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+BFfH:canoe lake:water,cgndb,1,FAONU,Canoe Lake,LAKE / Lake,water,ontario,Canada,1000000.0,45.5493,-78.71811,1.0,1.338,canonical,True
+BFfH:canoe lake:water,cgndb,2,FAOOB,Canoe Lake,LAKE / Lake,water,ontario,Canada,1000000.0,44.591714,-76.545558,1.0,1.338,canonical,False
+BFfH:canoe lake:water,cgndb,3,FAONL,Canoe Lake,LAKE / Lake,water,ontario,Canada,250000.0,49.622188,-94.926746,1.0,1.305,canonical,False
+BFfH:canoe lake:water,cgndb,4,FAONM,Canoe Lake,LAKE / Lake,water,ontario,Canada,250000.0,48.8530556,-86.9622222,1.0,1.305,canonical,False
+BFfH:canoe lake:water,cgndb,5,FAONS,Canoe Lake,LAKE / Lake,water,ontario,Canada,250000.0,50.229539,-90.813845,1.0,1.305,canonical,False
+BFfH:china:country,world,1,world:China:country,China,country,country,,China,,35.8617,104.1954,1.0,1.1,canonical,True
+BFfH:cobourg:settlement,cgndb,1,FARXE,Cobourg,TOWN / Town,settlement,ontario,Canada,7500000.0,43.9630555,-78.1647223,1.0,1.385,canonical,True
+BFfH:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+BFfH:europe:region,world,1,world:Europe:region,Europe,region,admin_large,,,,54.526,15.2551,1.0,1.1,canonical,True
+BFfH:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+BFfH:guelph:settlement,cgndb,1,FBKKK,Guelph,CITY / City,settlement,ontario,Canada,7500000.0,43.53571,-80.229,1.0,1.385,canonical,True
+BFfH:halifax:settlement,cgndb,1,CAPHL,Halifax,UNP / Community,settlement,nova scotia,Canada,30000000.0,44.647401,-63.590651,1.0,1.264,canonical,True
+BFfH:halifax:settlement,cgndb,2,CBUCG,Halifax,MUN1 / Regional Municipality,area,nova scotia,Canada,1000000.0,44.866743,-63.71602,1.0,1.084,canonical,False
+BFfH:holland:country,world,1,world:Netherlands:country,Netherlands,country,country,,Netherlands,,52.1326,5.2913,1.0,1.1,canonical,True
+BFfH:lake rosseau:water,cgndb,1,FCMHB,Lake Rosseau,LAKE / Lake,water,ontario,Canada,1000000.0,45.173669,-79.598323,1.0,1.338,canonical,True
+BFfH:lens:settlement,cgndb,1,FBXGC,Lens,UNP / Dispersed Rural Community,settlement,ontario,Canada,250000.0,44.4486111,-76.9230555,1.0,1.305,canonical,True
+BFfH:lens:settlement,cgndb,2,HAQGP,Lens,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,52.623918,-103.062288,1.0,1.184,canonical,False
+BFfH:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.242,canonical,True
+BFfH:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.122,canonical,False
+BFfH:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.122,canonical,False
+BFfH:paris:settlement,cgndb,1,FDSRC,Paris,UNP / Community,settlement,ontario,Canada,2000000.0,43.1933334,-80.3847222,1.0,1.354,canonical,True
+BFfH:paris:settlement,world,1,world:Paris:settlement,Paris,settlement,settlement,,France,,48.8566,2.3522,1.0,1.1,canonical,False
+BFfH:passchendaele:facility,world,1,world:Passchendaele:settlement,Passchendaele,settlement,settlement,,Belgium,,50.9,3.02,1.0,1.05,canonical,True
+BFfH:port carling:settlement,cgndb,1,FCHYM,Port Carling,UNP / Compact Rural Community,settlement,ontario,Canada,2000000.0,45.1188889,-79.5841666,1.0,1.354,canonical,True
+BFfH:russia:country,world,1,world:Russia:country,Russia,country,country,,Russia,,55.7558,37.6173,1.0,1.1,canonical,True
+BFfH:somme:unknown,cgndb,1,GAZTQ,Somme,UNP / Locality,settlement,manitoba,Canada,1200000.0,49.031389,-96.324167,1.0,1.125,canonical,False
+BFfH:somme:unknown,world,1,world:Somme:region,Somme,region,admin_large,,France,,49.95,2.3,1.0,1.05,canonical,True
+BFfH:speed river:water,cgndb,1,FCRAC,Speed River,RIV / River,water,ontario,Canada,1000000.0,43.387222,-80.366944,1.0,1.338,canonical,True
+BFfH:sussex:settlement,cgndb,1,DASFF,Sussex,TOWN / Town,settlement,new brunswick,Canada,7500000.0,45.723534,-65.510394,1.0,1.222,canonical,True
+BFfH:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.417,canonical,True
+BFfH:toronto:settlement,cgndb,2,FCWYG,Toronto,UNP / Community,settlement,ontario,Canada,250000.0,43.6758333,-79.3969444,1.0,1.305,canonical,False
+BFfH:uxbridge:settlement,cgndb,1,FCZJM,Uxbridge,UNP / Suburban Community,settlement,ontario,Canada,2000000.0,44.1086111,-79.1213889,1.0,1.354,canonical,True
+BFfH:vimy ridge:landform,cgndb,1,FDAAO,Vimy Ridge Island,ISL / Island,island,ontario,Canada,50000.0,45.28291,-79.03864,0.96,1.227,variant,False
+BFfH:vimy ridge:landform,cgndb,2,FDAAN,Vimy Ridge,UNP / Dispersed Rural Community,settlement,ontario,Canada,85000.0,48.4922222,-80.3883334,1.0,1.13,canonical,False
+BFfH:vimy ridge:landform,world,1,world:Vimy:settlement,Vimy,settlement,settlement,,France,,50.3797,2.7737,1.0,0.95,canonical,True
+BFfH:vimy:facility,cgndb,1,IAOOC,Vimy,UNP / Hamlet,settlement,alberta,Canada,2000000.0,54.0666666,-113.65,1.0,1.136,canonical,False
+BFfH:vimy:facility,world,1,world:Vimy:settlement,Vimy,settlement,settlement,,France,,50.3797,2.7737,1.0,1.05,canonical,True
+BFfH:windermere:settlement,cgndb,1,FDXRI,Windermere,UNP / Dispersed Rural Community,settlement,ontario,Canada,1000000.0,45.16599,-79.55135,1.0,1.338,canonical,True
+BFfH:windermere:settlement,cgndb,2,JBTWG,Windermere,UNP / Community,settlement,british columbia,Canada,2000000.0,50.463611,-115.988889,1.0,1.186,canonical,False
+BFfH:ypres:facility,world,1,world:Ypres:settlement,Ypres,settlement,settlement,,Belgium,,50.8503,2.8853,1.0,1.05,canonical,True
+BUoL:batoche:facility,cgndb,1,HACRF,Batoche,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,52.733372,-106.100561,1.0,1.325,canonical,True
+BUoL:batoche:settlement,cgndb,1,HACRF,Batoche,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,52.733372,-106.100561,1.0,1.375,canonical,True
+BUoL:calgary:settlement,cgndb,1,IAKID,Calgary,CITY / City,settlement,alberta,Canada,17500000.0,51.0458333,-114.0574999,1.0,1.239,canonical,True
+BUoL:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+BUoL:duck lake:water,overrides,1,override:Duck Lake:43,"Duck Lake, Saskatchewan",,settlement,saskatchewan,Canada,,52.8167,-106.2333,1.0,1.12,canonical,True
+BUoL:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+BUoL:fish creek:water,cgndb,1,HABUG,Fish Creek,RIV / Creek,water,saskatchewan,Canada,250000.0,52.549922,-106.169328,1.0,1.338,canonical,True
+BUoL:fish creek:water,cgndb,2,FEIDA,Fish Creek,RIV / Creek,water,ontario,Canada,1000000.0,43.2166667,-81.2183333,1.0,1.208,canonical,False
+BUoL:fish creek:water,cgndb,3,HAQMT,Fish Creek,UNP / Locality,settlement,saskatchewan,Canada,700000.0,52.609504,-106.146825,1.0,1.182,canonical,False
+BUoL:fish creek:water,cgndb,4,IAERB,Fish Creek,RIV / Creek,water,alberta,Canada,1000000.0,50.905,-114.0111111,1.0,1.172,canonical,False
+BUoL:fort carlton:facility,overrides,1,override:Fort Carlton:52,Fort Carlton,,facility,saskatchewan,Canada,,52.8708,-106.528,1.0,1.3,canonical,True
+BUoL:fort garry:facility,overrides,1,override:Fort Garry:22,Upper Fort Garry,,facility,manitoba,Canada,,49.8873,-97.1306,1.0,1.126,canonical,True
+BUoL:fort quappelle:facility,cgndb,1,HACDD,Fort Qu'Appelle,TOWN / Town,settlement,saskatchewan,Canada,7500000.0,50.7656694,-103.7903389,1.0,1.317,canonical,True
+BUoL:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+BUoL:frog lake:water,cgndb,1,IAFVO,Frog Lake,LAKE / Lake,water,alberta,Canada,2000000.0,53.9138889,-110.3338889,1.0,1.188,canonical,True
+BUoL:frog lake:water,cgndb,2,CANDW,Frog Lake,LAKE / Lake,water,nova scotia,Canada,1000000.0,44.833084,-64.848593,1.0,1.17,canonical,False
+BUoL:frog lake:water,cgndb,3,IAFVM,Frog Lake,UNP / Locality,settlement,alberta,Canada,1200000.0,53.8316667,-110.4166667,1.0,0.996,canonical,False
+BUoL:ireland:country,world,1,world:Ireland:country,Ireland,country,country,,Ireland,,53.4129,-8.2439,1.0,1.1,canonical,True
+BUoL:manitoba:region,cgndb,1,GBGYI,Manitoba,PROV / Province,admin_large,manitoba,Canada,30000000.0,55.0,-97.0,1.0,1.276,canonical,True
+BUoL:minnesota:settlement,world,1,world:Minnesota:region,Minnesota,region,admin_large,,United States,,46.7296,-94.6859,1.0,1.05,canonical,True
+BUoL:montana:settlement,world,1,world:Montana:region,Montana,region,admin_large,,United States,,46.8797,-110.3626,1.0,1.05,canonical,True
+BUoL:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.254,canonical,True
+BUoL:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.134,canonical,False
+BUoL:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.134,canonical,False
+BUoL:northwest territories:region,cgndb,1,LBCFB,Northwest Territories,TERR / Territory,admin_large,northwest territories,Canada,30000000.0,69.500306,-121.502223,1.0,1.251,canonical,True
+BUoL:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.287,canonical,True
+BUoL:ottawa:settlement,cgndb,1,FEVNT,Ottawa,CITY / City,settlement,ontario,Canada,30000000.0,45.33339,-75.58429,1.0,1.287,canonical,True
+BUoL:prince albert:settlement,cgndb,1,HAPNV,Prince Albert,CITY / City,settlement,saskatchewan,Canada,10000000.0,53.199517,-105.760094,1.0,1.424,canonical,True
+BUoL:quappelle:settlement,cgndb,1,HAIHZ,Qu'Appelle,TOWN / Town,settlement,saskatchewan,Canada,1000000.0,50.5425111,-103.8735111,1.0,1.37,canonical,True
+BUoL:quebec:region,cgndb,1,EFGGJ,Quebec,PROV / Province,admin_large,quebec,Canada,30000000.0,52.0,-72.0,1.0,1.267,canonical,True
+BUoL:quebec:region,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.184,canonical,False
+BUoL:quebec:region,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.184,canonical,False
+BUoL:quebec:region,cgndb,4,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.117,canonical,False
+BUoL:red river:water,cgndb,1,GAWTC,Red River,RIV / River,water,manitoba,Canada,5000000.0,50.396389,-96.810833,1.0,1.234,canonical,True
+BUoL:red river:water,cgndb,2,CBFNH,Red River,RIV / River,water,nova scotia,Canada,1000000.0,46.84936,-60.773451,1.0,1.17,canonical,False
+BUoL:red river:water,cgndb,3,JBIOC,Red River,RIV / River,water,british columbia,Canada,1000000.0,59.465833,-127.674444,1.0,1.17,canonical,False
+BUoL:red river:water,cgndb,4,KAFLI,Red River,RIV / River,water,yukon,Canada,1000000.0,60.7356513,-132.1133046,1.0,1.17,canonical,False
+BUoL:red river:water,cgndb,5,OANUK,Red River,RIV / River,water,nunavut,Canada,1000000.0,60.55,-100.13333,1.0,1.17,canonical,False
+BUoL:regina:settlement,cgndb,1,HAIMP,Regina,CITY / City,settlement,saskatchewan,Canada,30000000.0,50.4548389,-104.6066083,1.0,1.45,canonical,True
+BUoL:russia:country,world,1,world:Russia:country,Russia,country,country,,Russia,,55.7558,37.6173,1.0,1.1,canonical,True
+BUoL:saskatchewan river:water,cgndb,1,HAHJI,Saskatchewan River,RIV / River,water,saskatchewan,Canada,5000000.0,53.8926261,-101.7712695,1.0,1.408,canonical,True
+BUoL:saskatchewan:region,cgndb,1,HAWKP,Saskatchewan,PROV / Province,admin_large,saskatchewan,Canada,30000000.0,54.000051,-106.000496,1.0,1.45,canonical,True
+BUoL:scotland:country,world,1,world:Scotland:country,Scotland,country,country,,United Kingdom,,56.4907,-4.2026,1.0,1.1,canonical,True
+BUoL:st antoine:facility,cgndb,1,HAPNQ,St. Antoine,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,49.429029,-101.618881,1.0,1.325,canonical,True
+BUoL:st antoine:facility,cgndb,2,DAEBL,Saint-Antoine,UNP / Urban Community,settlement,new brunswick,Canada,2000000.0,46.362864,-64.752638,1.0,1.136,canonical,False
+BUoL:st boniface:facility,cgndb,1,ERGYN,Saint-Boniface,VILG / Municipality,settlement,quebec,Canada,2000000.0,46.5,-72.816667,1.0,1.153,canonical,True
+BUoL:st boniface:settlement,cgndb,1,ERGYN,Saint-Boniface,VILG / Municipality,settlement,quebec,Canada,2000000.0,46.5,-72.816667,1.0,1.203,canonical,True
+BUoL:st laurent:facility,cgndb,1,GAXYM,St. Laurent,UNP / Community,settlement,manitoba,Canada,1200000.0,50.412778,-97.940833,1.0,1.15,canonical,True
+BUoL:st laurent:settlement,cgndb,1,GAXYM,St. Laurent,UNP / Community,settlement,manitoba,Canada,1200000.0,50.412778,-97.940833,1.0,1.2,canonical,True
+BUoL:st louis:settlement,cgndb,1,HAHFY,St. Louis,VILG / Village,settlement,saskatchewan,Canada,2000000.0,52.921115,-105.809146,1.0,1.386,canonical,True
+BUoL:stony mountain:landform,cgndb,1,GBARX,Stony Mountain,UNP / Community,settlement,manitoba,Canada,2000000.0,50.086389,-97.218889,1.0,1.062,canonical,True
+BUoL:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.287,canonical,True
+BUoL:united states:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+BUoL:upper fort garry:unknown,overrides,1,override:Fort Garry:22,Upper Fort Garry,,facility,manitoba,Canada,,49.8873,-97.1306,1.0,1.026,canonical,True
+BUoL:winnipeg:settlement,cgndb,1,GBEIN,Winnipeg,CITY / City,settlement,manitoba,Canada,30000000.0,49.884444,-97.146389,1.0,1.276,canonical,True
+CofOO:alberta:region,cgndb,1,IAQFZ,Alberta,PROV / Province,admin_large,alberta,Canada,30000000.0,54.991667,-114.376667,1.0,1.251,canonical,True
+CofOO:america:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+CofOO:atlantic:water,world,1,world:Atlantic Ocean:water,Atlantic Ocean,water,water,,,,45.0,-35.0,1.0,1.1,canonical,True
+CofOO:britain:country,world,1,world:Great Britain:country,Great Britain,country,country,,United Kingdom,,54.0,-2.0,1.0,1.1,canonical,True
+CofOO:british columbia:region,overrides,1,override:British Columbia:38,British Columbia,,admin_large,british columbia,Canada,,53.7267,-127.6476,1.0,1.105,canonical,True
+CofOO:buffalo:settlement,cgndb,1,IAJJF,Buffalo,UNP / Locality,settlement,alberta,Canada,1200000.0,50.81,-110.6813889,1.0,1.176,canonical,False
+CofOO:buffalo:settlement,world,1,world:Buffalo:settlement,Buffalo,settlement,settlement,,United States,,42.8864,-78.8784,1.0,1.1,canonical,True
+CofOO:cacouna:settlement,cgndb,1,ESBMI,Cacouna,VILG / Municipality,settlement,quebec,Canada,2000000.0,47.916394,-69.499666,1.0,1.243,canonical,True
+CofOO:canada east:region,overrides,1,override:Canada East:7,"Canada East, represented by Quebec City",,admin_large,quebec,Canada,,46.8139,-71.208,1.0,1.157,canonical,True
+CofOO:canada west:region,overrides,1,override:Canada West:8,"Canada West, represented by Toronto",,admin_large,ontario,Canada,,43.6532,-79.3832,1.0,1.186,canonical,True
+CofOO:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+CofOO:canada:region,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.0,canonical,True
+CofOO:cataraqui:unknown,overrides,1,override:Fort Frontenac:27,Fort Frontenac (Kingston),,facility,ontario,Canada,,44.2312,-76.486,1.0,1.086,canonical,True
+CofOO:charlottetown:settlement,cgndb,1,BAARG,Charlottetown,CITY / City,settlement,prince edward island,Canada,30000000.0,46.240278,-63.134722,1.0,1.259,canonical,True
+CofOO:charlottetown:settlement,cgndb,2,ABEZM,Charlottetown,TOWN / Town,settlement,newfoundland and labrador,Canada,1000000.0,52.7657222,-56.1453,1.0,1.179,canonical,False
+CofOO:chaudiere falls:water,cgndb,1,FDGKQ,Chaudière Falls,FALL / Falls,water,ontario,Canada,50000.0,45.41818,-75.71968,1.0,1.186,canonical,True
+CofOO:dominion of canada:settlement,overrides,1,override:Dominion of Canada:53,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.05,canonical,True
+CofOO:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+CofOO:europe:region,world,1,world:Europe:region,Europe,region,admin_large,,,,54.526,15.2551,1.0,1.1,canonical,True
+CofOO:great britain:country,world,1,world:Great Britain:country,Great Britain,country,country,,United Kingdom,,54.0,-2.0,1.0,1.1,canonical,True
+CofOO:ireland:country,world,1,world:Ireland:country,Ireland,country,country,,Ireland,,53.4129,-8.2439,1.0,1.1,canonical,True
+CofOO:kingston:settlement,cgndb,1,FBUUF,Kingston,UNP / Community,settlement,ontario,Canada,15000000.0,44.2347222,-76.5108334,1.0,1.319,canonical,True
+CofOO:kingston:settlement,cgndb,2,FEVJR,Kingston,CITY / City,settlement,ontario,Canada,5000000.0,44.3066667,-76.4163888,1.0,1.294,canonical,False
+CofOO:kingston:settlement,cgndb,3,DALRC,Kingston,UNP / Dispersed Rural Community,settlement,new brunswick,Canada,1000000.0,45.502722,-65.975085,1.0,1.181,canonical,False
+CofOO:kingston:settlement,cgndb,4,CATAQ,Kingston,VILG / Village,settlement,nova scotia,Canada,1000000.0,44.987141,-64.949971,1.0,1.179,canonical,False
+CofOO:lake ontario:water,cgndb,1,FAYLN,Lake Ontario,LAKE / Lake,water,ontario,Canada,5000000.0,43.7288366,-78.1064044,1.0,1.294,canonical,True
+CofOO:london:settlement,cgndb,1,FCAEN,London,CITY / City,settlement,ontario,Canada,17500000.0,42.9675,-81.2325,1.0,1.323,canonical,False
+CofOO:london:settlement,world,1,world:London:settlement,London,settlement,settlement,,United Kingdom,,51.5074,-0.1278,1.0,1.1,canonical,True
+CofOO:lower canada:region,overrides,1,override:Lower Canada:5,"Lower Canada, represented by Quebec City",,admin_large,quebec,Canada,,46.8139,-71.208,1.0,1.157,canonical,True
+CofOO:lower town:settlement,overrides,1,override:Basse-Ville:51,"Basse-Ville (Lower Town), Quebec City",,area,quebec,Canada,,46.815,-71.203,1.0,1.057,canonical,True
+CofOO:maniwaki:settlement,cgndb,1,EHDEQ,Maniwaki,CITY / Town,settlement,quebec,Canada,7500000.0,46.374513,-75.981891,1.0,1.274,canonical,True
+CofOO:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.294,canonical,True
+CofOO:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.174,canonical,False
+CofOO:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.174,canonical,False
+CofOO:new brunswick:region,cgndb,1,DBBWP,New Brunswick,PROV / Province,admin_large,new brunswick,Canada,30000000.0,46.5,-66.0,1.0,1.26,canonical,True
+CofOO:newfoundland and labrador:facility,cgndb,1,ACPVY,Newfoundland and Labrador,PROV / Province,admin_large,newfoundland and labrador,Canada,30000000.0,53.23,-59.999167,1.0,1.209,canonical,True
+CofOO:newfoundland:region,overrides,1,override:Newfoundland:14,Newfoundland (island),,admin_large,newfoundland and labrador,Canada,,48.6,-56.3,1.0,1.109,canonical,True
+CofOO:niagara river:water,cgndb,1,FDOSL,Niagara River,RIV / River,water,ontario,Canada,1000000.0,43.262222,-79.073056,1.0,1.256,canonical,True
+CofOO:niagara:settlement,overrides,1,override:Niagara:39,Niagara (Niagara-on-the-Lake),,settlement,ontario,Canada,,43.255,-79.0717,1.0,1.186,canonical,True
+CofOO:north west territories:region,overrides,1,override:North-West Territories:12,"North-West Territories, represented by Regina (capital 1883-1905)",,admin_large,saskatchewan,Canada,,50.4452,-104.6189,1.0,1.106,canonical,True
+CofOO:northwest territories:region,cgndb,1,LBCFB,Northwest Territories,TERR / Territory,admin_large,northwest territories,Canada,30000000.0,69.500306,-121.502223,1.0,1.252,canonical,True
+CofOO:nova scotia:region,cgndb,1,CBCBY,Nova Scotia,PROV / Province,admin_large,nova scotia,Canada,30000000.0,45.000075,-62.999327,1.0,1.259,canonical,True
+CofOO:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.336,canonical,True
+CofOO:ontario:water,cgndb,1,FAYLN,Lake Ontario,LAKE / Lake,water,ontario,Canada,5000000.0,43.7288366,-78.1064044,0.96,1.254,variant,True
+CofOO:ottawa river:water,cgndb,1,FAYIT,Ottawa River,RIV / River,water,ontario,Canada,5000000.0,45.56637,-74.38649,1.0,1.294,canonical,True
+CofOO:ottawa:settlement,cgndb,1,FEVNT,Ottawa,CITY / City,settlement,ontario,Canada,30000000.0,45.33339,-75.58429,1.0,1.336,canonical,True
+CofOO:ottawa:settlement,cgndb,2,FEOLW,Ottawa,UNP / Community,settlement,ontario,Canada,50000.0,45.4005555,-75.6713889,1.0,1.186,canonical,False
+CofOO:ottawa:water,cgndb,1,FAYIT,Ottawa River,RIV / River,water,ontario,Canada,5000000.0,45.56637,-74.38649,0.96,1.254,variant,True
+CofOO:ottawa:water,cgndb,2,FEVNT,Ottawa,CITY / City,settlement,ontario,Canada,30000000.0,45.33339,-75.58429,1.0,1.156,canonical,False
+CofOO:ottawa:water,cgndb,3,FEOLW,Ottawa,UNP / Community,settlement,ontario,Canada,50000.0,45.4005555,-75.6713889,1.0,1.006,canonical,False
+CofOO:prescott:settlement,cgndb,1,FCIJQ,Prescott,TOWN / Separated Town,settlement,ontario,Canada,7500000.0,44.71201,-75.51683,1.0,1.303,canonical,True
+CofOO:prince edward island:region,cgndb,1,BACBM,Prince Edward Island,PROV / Province,admin_large,prince edward island,Canada,30000000.0,46.5,-63.0,1.0,1.259,canonical,True
+CofOO:province of canada:region,overrides,1,override:Province of Canada:9,"Province of Canada, represented by Kingston (first capital)",,admin_large,ontario,Canada,,44.2312,-76.486,1.0,1.186,canonical,True
+CofOO:quebec city:settlement,cgndb,1,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,0.96,1.267,variant,True
+CofOO:quebec city:settlement,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,0.96,1.134,variant,False
+CofOO:quebec city:settlement,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,0.96,1.134,variant,False
+CofOO:quebec city:settlement,cgndb,4,EMBCK,Québec,UNP / Post Office,settlement,quebec,Canada,50000.0,46.8175,-71.2119444,0.96,1.117,variant,False
+CofOO:quebec city:settlement,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,0.96,1.017,variant,False
+CofOO:quebec:region,cgndb,1,EFGGJ,Quebec,PROV / Province,admin_large,quebec,Canada,30000000.0,52.0,-72.0,1.0,1.307,canonical,True
+CofOO:quebec:region,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.224,canonical,False
+CofOO:quebec:region,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.224,canonical,False
+CofOO:quebec:region,cgndb,4,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.157,canonical,False
+CofOO:quebec:region,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,1.0,1.107,canonical,False
+CofOO:quebec:settlement,cgndb,1,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.307,canonical,True
+CofOO:quebec:settlement,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.174,canonical,False
+CofOO:quebec:settlement,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.174,canonical,False
+CofOO:quebec:settlement,cgndb,4,EMBCK,Québec,UNP / Post Office,settlement,quebec,Canada,50000.0,46.8175,-71.2119444,1.0,1.157,canonical,False
+CofOO:quebec:settlement,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,1.0,1.057,canonical,False
+CofOO:ridgeway:settlement,cgndb,1,FCLBE,Ridgeway,UNP / Urban Community,settlement,ontario,Canada,250000.0,42.8844445,-79.0536111,1.0,1.223,canonical,True
+CofOO:ruperts land:region,overrides,1,override:Rupert's Land:11,"Rupert's Land, represented by York Factory",,admin_large,manitoba,Canada,,57.0,-92.3,1.0,1.105,canonical,True
+CofOO:sandy hill:landform,cgndb,1,FDYMJ,Sandy Hill,MTN / Hill,terrain,ontario,Canada,50000.0,45.1583334,-74.6947222,1.0,1.186,canonical,True
+CofOO:sandy hill:landform,cgndb,2,FAYXD,Sandy Hill,UNP / Community,settlement,ontario,Canada,145000.0,45.425191,-75.67863,1.0,1.061,canonical,False
+CofOO:sandy hill:landform,cgndb,3,FDZQA,Sandy Hill,UNP / Dispersed Rural Community,settlement,ontario,Canada,50000.0,45.59184,-74.67617,1.0,1.036,canonical,False
+CofOO:saskatchewan:region,cgndb,1,HAWKP,Saskatchewan,PROV / Province,admin_large,saskatchewan,Canada,30000000.0,54.000051,-106.000496,1.0,1.256,canonical,True
+CofOO:st alban:facility,cgndb,1,EPIMB,Saint-Alban,VILG / Municipality,settlement,quebec,Canada,1000000.0,46.718049,-72.077604,1.0,1.177,canonical,True
+CofOO:st joseph:facility,cgndb,1,FEDAK,St. Joseph,UNP / Dispersed Rural Community,settlement,ontario,Canada,250000.0,43.4144445,-81.7055556,1.0,1.173,canonical,True
+CofOO:st joseph:facility,cgndb,2,EKIDF,Saint-Joseph,UNP / Village,settlement,quebec,Canada,700000.0,45.851389,-77.003056,1.0,1.169,canonical,False
+CofOO:st joseph:facility,cgndb,3,EITTC,Saint-Joseph,UNP / Administrative Sector,settlement,quebec,Canada,250000.0,45.6333333,-72.9333333,1.0,1.144,canonical,False
+CofOO:st lawrence river:water,cgndb,1,FCSPI,St. Lawrence River,RIV / River,water,ontario,Canada,5000000.0,45.19679,-74.33142,1.0,1.294,canonical,True
+CofOO:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.336,canonical,True
+CofOO:toronto:settlement,cgndb,2,FCWYG,Toronto,UNP / Community,settlement,ontario,Canada,250000.0,43.6758333,-79.3969444,1.0,1.223,canonical,False
+CofOO:united states of america:settlement,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.05,canonical,True
+CofOO:united states:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+CofOO:upper canada:region,overrides,1,override:Upper Canada:6,"Upper Canada, represented by York/Toronto",,admin_large,ontario,Canada,,43.6532,-79.3832,1.0,1.186,canonical,True
+CofOO:upper town:settlement,overrides,1,override:Haute-Ville:50,"Haute-Ville (Upper Town), Quebec City",,area,quebec,Canada,,46.8123,-71.2145,1.0,1.057,canonical,True
+CofOO:yukon:region,cgndb,1,KAIIM,Yukon,TERR / Territory,admin_large,yukon,Canada,30000000.0,63.0,-135.0,1.0,1.251,canonical,True
+DRtoF:africa:region,world,1,world:Africa:region,Africa,region,admin_large,,,,2.0,21.0,1.0,1.1,canonical,True
+DRtoF:albany:settlement,world,1,world:Albany:settlement,Albany,settlement,settlement,,United States,,42.6526,-73.7562,1.0,1.1,canonical,True
+DRtoF:america:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+DRtoF:bolton:settlement,cgndb,1,FDJLH,Bolton,UNP / Urban Community,settlement,ontario,Canada,2000000.0,43.88043,-79.73807,1.0,1.366,canonical,True
+DRtoF:canada west:region,overrides,1,override:Canada West:8,"Canada West, represented by Toronto",,admin_large,ontario,Canada,,43.6532,-79.3832,1.0,1.28,canonical,True
+DRtoF:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+DRtoF:cape croker:landform,cgndb,1,FAUHK,Cape Croker,CAPE / Cape,terrain,ontario,Canada,1000000.0,44.9711111,-80.9858333,1.0,1.35,canonical,True
+DRtoF:cape croker:landform,cgndb,2,FAOQD,Cape Croker,UNP / Dispersed Rural Community,settlement,ontario,Canada,1000000.0,44.92291,-81.02007,1.0,1.2,canonical,False
+DRtoF:chatsworth:settlement,cgndb,1,FAQDL,Chatsworth,UNP / Community,settlement,ontario,Canada,1200000.0,44.4538889,-80.895,1.0,1.354,canonical,True
+DRtoF:collingwood:settlement,cgndb,1,FASGS,Collingwood,TOWN / Town,settlement,ontario,Canada,7500000.0,44.5014,-80.24071,1.0,1.397,canonical,True
+DRtoF:durham:settlement,cgndb,1,FBAPV,Durham,UNP / Community,settlement,ontario,Canada,1000000.0,44.17794,-80.81745,1.0,1.35,canonical,True
+DRtoF:durham:settlement,cgndb,2,FBAPZ,Durham,MUN1 / Regional Municipality,area,ontario,Canada,50000.0,44.07567,-78.93774,1.0,1.18,canonical,False
+DRtoF:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+DRtoF:georgian bay:water,cgndb,1,FBHBM,Georgian Bay,BAY / Bay,water,ontario,Canada,5000000.0,45.2701263,-80.8349157,1.0,1.388,canonical,True
+DRtoF:hudson:unknown,cgndb,1,FBPHV,Hudson,UNP / Dispersed Rural Community,settlement,ontario,Canada,1000000.0,50.089963,-92.171484,1.0,1.3,canonical,True
+DRtoF:hudson:unknown,cgndb,2,EGRJP,Hudson,CITY / Town,settlement,quebec,Canada,1000000.0,45.458708,-74.143105,1.0,1.12,canonical,False
+DRtoF:ireland:country,world,1,world:Ireland:country,Ireland,country,country,,Ireland,,53.4129,-8.2439,1.0,1.1,canonical,True
+DRtoF:kingston:settlement,cgndb,1,FBUUF,Kingston,UNP / Community,settlement,ontario,Canada,15000000.0,44.2347222,-76.5108334,1.0,1.413,canonical,True
+DRtoF:kingston:settlement,cgndb,2,FEVJR,Kingston,CITY / City,settlement,ontario,Canada,5000000.0,44.3066667,-76.4163888,1.0,1.388,canonical,False
+DRtoF:kingston:settlement,cgndb,3,CATAQ,Kingston,VILG / Village,settlement,nova scotia,Canada,1000000.0,44.987141,-64.949971,1.0,1.17,canonical,False
+DRtoF:kingston:settlement,cgndb,4,DALRC,Kingston,UNP / Dispersed Rural Community,settlement,new brunswick,Canada,1000000.0,45.502722,-65.975085,1.0,1.17,canonical,False
+DRtoF:lake huron:water,cgndb,1,FBPQQ,Lake Huron,LAKE / Lake,water,ontario,Canada,5000000.0,44.9440939,-82.2228182,1.0,1.388,canonical,True
+DRtoF:maryland:settlement,world,1,world:Maryland:region,Maryland,region,admin_large,,United States,,39.0458,-76.6413,1.0,1.05,canonical,True
+DRtoF:mill pond:water,cgndb,1,FDUVU,Mill Pond,LAKE / Pond,water,ontario,Canada,250000.0,43.437621,-80.306166,1.0,1.317,canonical,True
+DRtoF:mill pond:water,cgndb,2,FDIII,Mill Pond,LAKE / Pond,water,ontario,Canada,50000.0,42.92859,-80.601586,1.0,1.28,canonical,False
+DRtoF:mill pond:water,cgndb,3,FDIIJ,Mill Pond,LAKE / Pond,water,ontario,Canada,50000.0,42.98201,-81.06484,1.0,1.28,canonical,False
+DRtoF:mill pond:water,cgndb,4,FDIIK,Mill Pond,LAKE / Pond,water,ontario,Canada,50000.0,43.513892,-79.888046,1.0,1.28,canonical,False
+DRtoF:mill pond:water,cgndb,5,FDIIL,Mill Pond,LAKE / Pond,water,ontario,Canada,50000.0,45.30615,-74.64015,1.0,1.28,canonical,False
+DRtoF:mono mills:facility,cgndb,1,FDVNG,Mono Mills,UNP / Dispersed Rural Community,settlement,ontario,Canada,700000.0,43.9444444,-79.9644444,1.0,1.242,canonical,True
+DRtoF:new york state:settlement,world,1,world:New York:region,New York,region,admin_large,,United States,,42.9538,-75.5268,1.0,1.05,canonical,True
+DRtoF:new york:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
+DRtoF:north carolina:settlement,world,1,world:North Carolina:region,North Carolina,region,admin_large,,United States,,35.7596,-79.0193,1.0,1.05,canonical,True
+DRtoF:nottawasaga bay:water,cgndb,1,FCGFT,Nottawasaga Bay,BAY / Bay,water,ontario,Canada,1000000.0,44.66727,-80.30599,1.0,1.35,canonical,True
+DRtoF:ohio:settlement,world,1,world:Ohio:region,Ohio,region,admin_large,,United States,,40.4173,-82.9071,1.0,1.05,canonical,True
+DRtoF:owen sound:water,cgndb,1,FENBP,Owen Sound,BAY / Sound,water,ontario,Canada,1000000.0,44.66794,-80.88404,1.0,1.35,canonical,True
+DRtoF:owen sound:water,cgndb,2,FDGEE,Owen Sound,CITY / City,settlement,ontario,Canada,7500000.0,44.56981,-80.93067,1.0,1.217,canonical,False
+DRtoF:pennsylvania:settlement,world,1,world:Pennsylvania:region,Pennsylvania,region,admin_large,,United States,,41.2033,-77.1945,1.0,1.05,canonical,True
+DRtoF:richmond hill:landform,cgndb,1,FCKYR,Richmond Hill,TOWN / Town,settlement,ontario,Canada,5000000.0,43.8747222,-79.4394444,1.0,1.238,canonical,True
+DRtoF:rochester:settlement,cgndb,1,IAFAS,Rochester,UNP / Hamlet,settlement,alberta,Canada,2000000.0,54.3725,-113.4605556,1.0,1.207,canonical,True
+DRtoF:scotland:country,world,1,world:Scotland:country,Scotland,country,country,,United Kingdom,,56.4907,-4.2026,1.0,1.1,canonical,True
+DRtoF:sydenham river:water,cgndb,1,FCUOF,Sydenham River,RIV / River,water,ontario,Canada,1000000.0,42.5611111,-82.4108333,1.0,1.35,canonical,True
+DRtoF:sydenham river:water,cgndb,2,FCUOG,Sydenham River,RIV / River,water,ontario,Canada,1000000.0,44.5791666,-80.9405555,1.0,1.35,canonical,False
+DRtoF:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.43,canonical,True
+DRtoF:toronto:settlement,cgndb,2,FCWYG,Toronto,UNP / Community,settlement,ontario,Canada,250000.0,43.6758333,-79.3969444,1.0,1.317,canonical,False
+DRtoF:united states:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+DRtoF:virginia:settlement,cgndb,1,FDACJ,Virginia,UNP / Dispersed Rural Community,settlement,ontario,Canada,420000.0,44.3163889,-79.2844444,1.0,1.33,canonical,False
+DRtoF:virginia:settlement,world,1,world:Virginia:region,Virginia,region,admin_large,,United States,,37.4316,-78.6569,1.0,1.05,canonical,True
+DofTT:almonte:settlement,cgndb,1,FACQF,Almonte,UNP / Community,settlement,ontario,Canada,1200000.0,45.22487,-76.19513,1.0,1.352,canonical,True
+DofTT:appleton:settlement,cgndb,1,FADKY,Appleton,UNP / Compact Rural Community,settlement,ontario,Canada,250000.0,45.18185,-76.12401,1.0,1.316,canonical,True
+DofTT:arnprior:settlement,cgndb,1,FADTN,Arnprior,TOWN / Town,settlement,ontario,Canada,7500000.0,45.4347223,-76.3580556,1.0,1.395,canonical,True
+DofTT:bay hill:landform,cgndb,1,FAEMN,Baldy Hill,MTN / Hill,terrain,ontario,Canada,50000.0,44.28806,-78.55045,0.889,1.167,fuzzy,True
+DofTT:british columbia:region,overrides,1,override:British Columbia:38,British Columbia,,admin_large,british columbia,Canada,,53.7267,-127.6476,1.0,1.111,canonical,True
+DofTT:brockville:settlement,cgndb,1,FDGDV,Brockville,CITY / City,settlement,ontario,Canada,10000000.0,44.59733,-75.6855,1.0,1.402,canonical,True
+DofTT:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+DofTT:carleton place:facility,cgndb,1,FAOWJ,Carleton Place,TOWN / Town,settlement,ontario,Canada,2000000.0,45.1380555,-76.1422222,1.0,1.314,canonical,True
+DofTT:cornwall:facility,cgndb,1,FCCOT,Cornwall,CITY / City,settlement,ontario,Canada,10000000.0,45.0263889,-74.7263889,1.0,1.352,canonical,True
+DofTT:cornwall:facility,cgndb,2,BADWZ,Cornwall,TOWN / Town,settlement,prince edward island,Canada,1000000.0,46.226389,-63.219444,1.0,1.12,canonical,False
+DofTT:cornwall:settlement,cgndb,1,FCCOT,Cornwall,CITY / City,settlement,ontario,Canada,10000000.0,45.0263889,-74.7263889,1.0,1.402,canonical,True
+DofTT:cornwall:settlement,cgndb,2,BADWZ,Cornwall,TOWN / Town,settlement,prince edward island,Canada,1000000.0,46.226389,-63.219444,1.0,1.17,canonical,False
+DofTT:glasgow:settlement,cgndb,1,FBHQB,Glasgow,UNP / Dispersed Rural Community,settlement,ontario,Canada,250000.0,43.9944444,-79.2041667,1.0,1.316,canonical,False
+DofTT:glasgow:settlement,cgndb,2,CANRD,Glasgow,UNP / Locality,settlement,nova scotia,Canada,1200000.0,46.051302,-60.595993,1.0,1.175,canonical,False
+DofTT:glasgow:settlement,world,1,world:Glasgow:settlement,Glasgow,settlement,settlement,,United Kingdom,,55.8642,-4.2518,1.0,1.1,canonical,True
+DofTT:japan:country,world,1,world:Japan:country,Japan,country,country,,Japan,,36.2048,138.2529,1.0,1.1,canonical,True
+DofTT:kamloops:settlement,cgndb,1,JAFNW,Kamloops,CITY / City,settlement,british columbia,Canada,17500000.0,50.675833,-120.339444,1.0,1.248,canonical,True
+DofTT:kingston:settlement,cgndb,1,FBUUF,Kingston,UNP / Community,settlement,ontario,Canada,15000000.0,44.2347222,-76.5108334,1.0,1.412,canonical,True
+DofTT:kingston:settlement,cgndb,2,FEVJR,Kingston,CITY / City,settlement,ontario,Canada,5000000.0,44.3066667,-76.4163888,1.0,1.386,canonical,False
+DofTT:kingston:settlement,cgndb,3,CATAQ,Kingston,VILG / Village,settlement,nova scotia,Canada,1000000.0,44.987141,-64.949971,1.0,1.17,canonical,False
+DofTT:kingston:settlement,cgndb,4,DALRC,Kingston,UNP / Dispersed Rural Community,settlement,new brunswick,Canada,1000000.0,45.502722,-65.975085,1.0,1.17,canonical,False
+DofTT:merrickville:settlement,cgndb,1,FEBSW,Merrickville,UNP / Community,settlement,ontario,Canada,2000000.0,44.91512,-75.83607,1.0,1.364,canonical,True
+DofTT:new york city:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
+DofTT:new york:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
+DofTT:ohio:settlement,world,1,world:Ohio:region,Ohio,region,admin_large,,United States,,40.4173,-82.9071,1.0,1.05,canonical,True
+DofTT:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.428,canonical,True
+DofTT:ottawa:settlement,cgndb,1,FEVNT,Ottawa,CITY / City,settlement,ontario,Canada,30000000.0,45.33339,-75.58429,1.0,1.428,canonical,True
+DofTT:ottawa:settlement,cgndb,2,FEOLW,Ottawa,UNP / Community,settlement,ontario,Canada,50000.0,45.4005555,-75.6713889,1.0,1.278,canonical,False
+DofTT:pakenham:settlement,cgndb,1,FDRAJ,Pakenham,UNP / Suburban Community,settlement,ontario,Canada,1200000.0,45.33137,-76.29039,1.0,1.352,canonical,True
+DofTT:scotland:country,world,1,world:Scotland:country,Scotland,country,country,,United Kingdom,,56.4907,-4.2026,1.0,1.1,canonical,True
+DofTT:sherbrooke:settlement,cgndb,1,EIDHN,Sherbrooke,CITY / Town,settlement,quebec,Canada,17500000.0,45.404047,-71.893171,1.0,1.237,canonical,True
+DofTT:sherbrooke:settlement,cgndb,2,CBILO,Sherbrooke,UNP / Community,settlement,nova scotia,Canada,7500000.0,45.142471,-61.982735,1.0,1.217,canonical,False
+DofTT:sherbrooke:settlement,cgndb,3,ESXML,Sherbrooke,GEOG / Census Division,area,quebec,Canada,7500000.0,45.416666,-71.9,1.0,1.117,canonical,False
+DofTT:st johns:facility,cgndb,1,FCSPC,St. Johns,UNP / Dispersed Rural Community,settlement,ontario,Canada,250000.0,43.0811111,-79.265,1.0,1.266,canonical,True
+DofTT:st johns:facility,cgndb,2,FDTAK,St. Johns,UNP / Dispersed Rural Community,settlement,ontario,Canada,250000.0,43.0752778,-80.08,1.0,1.266,canonical,False
+DofTT:st johns:facility,cgndb,3,ABEFS,St. John's,CITY / City,settlement,newfoundland and labrador,Canada,30000000.0,47.482197,-52.797069,1.0,1.204,canonical,False
+DofTT:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.428,canonical,True
+DofTT:toronto:settlement,cgndb,2,FCWYG,Toronto,UNP / Community,settlement,ontario,Canada,250000.0,43.6758333,-79.3969444,1.0,1.316,canonical,False
+DofTT:venice:settlement,cgndb,1,IAOBY,Venice,UNP / Hamlet,settlement,alberta,Canada,1200000.0,54.6977778,-112.1480556,1.0,1.182,canonical,True
+DofmyC:basse ville:facility,overrides,1,override:Basse-Ville:51,"Basse-Ville (Lower Town), Quebec City",,area,quebec,Canada,,46.815,-71.203,1.0,1.174,canonical,True
+DofmyC:basse ville:settlement,overrides,1,override:Basse-Ville:51,"Basse-Ville (Lower Town), Quebec City",,area,quebec,Canada,,46.815,-71.203,1.0,1.174,canonical,True
+DofmyC:batiscan:settlement,cgndb,1,ELIDL,Batiscan,VILG / Municipality,settlement,quebec,Canada,700000.0,46.488252,-72.256772,1.0,1.336,canonical,True
+DofmyC:beausejour:facility,cgndb,1,EFLZE,Beauséjour,UNP / Named Locality,settlement,quebec,Canada,250000.0,47.6041667,-68.9622222,1.0,1.261,canonical,True
+DofmyC:beausejour:facility,cgndb,2,GABYK,Beausejour,TOWN / Town,settlement,manitoba,Canada,7500000.0,50.062222,-96.516111,1.0,1.167,canonical,False
+DofmyC:canada:country,overrides,1,override:Canada:2,"Canada (New France), represented by Quebec City",,admin_large,quebec,Canada,,46.8139,-71.208,1.0,1.174,canonical,True
+DofmyC:candiac:facility,cgndb,1,EFTDR,Candiac,CITY / Town,settlement,quebec,Canada,1200000.0,45.394849,-73.519149,1.0,1.298,canonical,True
+DofmyC:carillon:facility,cgndb,1,EQVZE,Carillon,UNP / Village,settlement,quebec,Canada,700000.0,45.5694444,-74.375,1.0,1.286,canonical,True
+DofmyC:chateau:facility,cgndb,1,AADXH,Chateau,UNP / Settlement,settlement,newfoundland and labrador,Canada,1200000.0,51.979972,-55.8967163,1.0,1.127,canonical,True
+DofmyC:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+DofmyC:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+DofmyC:frontenac:facility,cgndb,1,EGKXF,Frontenac,VILG / Municipality,settlement,quebec,Canada,250000.0,45.572143,-70.830313,1.0,1.261,canonical,True
+DofmyC:haute ville:facility,overrides,1,override:Haute-Ville:50,"Haute-Ville (Upper Town), Quebec City",,area,quebec,Canada,,46.8123,-71.2145,1.0,1.174,canonical,True
+DofmyC:haute ville:settlement,overrides,1,override:Haute-Ville:50,"Haute-Ville (Upper Town), Quebec City",,area,quebec,Canada,,46.8123,-71.2145,1.0,1.174,canonical,True
+DofmyC:ile aux coudres:landform,cgndb,1,EFZWU,Île aux Coudres,ISL / Island,island,quebec,Canada,2000000.0,47.397027,-70.388752,1.0,1.36,canonical,True
+DofmyC:ile dorleans:landform,cgndb,1,EHMJE,Île d'Orléans,ISL / Island,island,quebec,Canada,2000000.0,46.935916,-70.947271,1.0,1.36,canonical,True
+DofmyC:louisbourg:settlement,cgndb,1,CAVQA,Louisbourg,UNP / Community,settlement,nova scotia,Canada,10000000.0,45.919865,-59.972807,1.0,1.231,canonical,True
+DofmyC:montmorency:settlement,cgndb,1,EITQE,Montmorency,UNP / Administrative Sector,settlement,quebec,Canada,250000.0,46.8783333,-71.1588889,1.0,1.311,canonical,True
+DofmyC:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.411,canonical,True
+DofmyC:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.291,canonical,False
+DofmyC:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.291,canonical,False
+DofmyC:nantes:settlement,cgndb,1,EHJJA,Nantes,VILG / Municipality,settlement,quebec,Canada,700000.0,45.631916,-71.023316,1.0,1.336,canonical,True
+DofmyC:new england:unknown,cgndb,1,HAMEN,New England,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,53.0500322,-105.40051,1.0,1.129,canonical,True
+DofmyC:place darmes:facility,cgndb,1,ESRIE,Place d'Armes,SITE / Commemorative plaza,facility,quebec,Canada,7500000.0,45.504802,-73.557275,1.0,1.391,canonical,True
+DofmyC:quebec:settlement,cgndb,1,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.424,canonical,True
+DofmyC:quebec:settlement,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.291,canonical,False
+DofmyC:quebec:settlement,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.291,canonical,False
+DofmyC:quebec:settlement,cgndb,4,EMBCK,Québec,UNP / Post Office,settlement,quebec,Canada,50000.0,46.8175,-71.2119444,1.0,1.274,canonical,False
+DofmyC:quebec:settlement,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,1.0,1.174,canonical,False
+DofmyC:scotland:country,world,1,world:Scotland:country,Scotland,country,country,,United Kingdom,,56.4907,-4.2026,1.0,1.1,canonical,True
+DofmyC:st barnabe:facility,cgndb,1,EHYVZ,Saint-Barnabé,VILG / Parish Municipality,settlement,quebec,Canada,250000.0,46.394174,-72.878199,1.0,1.261,canonical,True
+DofmyC:st francis:facility,cgndb,1,IAGHR,St. Francis,UNP / Locality,settlement,alberta,Canada,1200000.0,53.2797222,-114.3411111,1.0,1.138,canonical,True
+DofmyC:st francis:settlement,cgndb,1,IAGHR,St. Francis,UNP / Locality,settlement,alberta,Canada,1200000.0,53.2797222,-114.3411111,1.0,1.188,canonical,True
+DofmyC:trois rivieres:settlement,cgndb,1,EIITR,Trois-Rivières,CITY / Town,settlement,quebec,Canada,10000000.0,46.343077,-72.543383,1.0,1.398,canonical,True
+EftW:atlantic ocean:water,world,1,world:Atlantic Ocean:water,Atlantic Ocean,water,water,,,,45.0,-35.0,1.0,1.1,canonical,True
+EftW:berlin:settlement,world,1,world:Berlin:settlement,Berlin,settlement,settlement,,Germany,,52.52,13.405,1.0,1.1,canonical,True
+EftW:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+EftW:coventry:settlement,cgndb,1,FATOO,Coventry,UNP / Settlement,settlement,ontario,Canada,250000.0,43.9041667,-79.7308333,1.0,1.302,canonical,True
+EftW:egypt:settlement,cgndb,1,FBBWM,Egypt,UNP / Dispersed Rural Community,settlement,ontario,Canada,250000.0,44.27004,-79.3046,1.0,1.302,canonical,True
+EftW:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+EftW:europe:region,world,1,world:Europe:region,Europe,region,admin_large,,,,54.526,15.2551,1.0,1.1,canonical,True
+EftW:fergus:settlement,cgndb,1,FBDWO,Fergus,UNP / Community,settlement,ontario,Canada,2000000.0,43.70298,-80.37984,1.0,1.351,canonical,True
+EftW:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+EftW:georgetown:settlement,cgndb,1,FBHBE,Georgetown,UNP / Urban Community,settlement,ontario,Canada,1000000.0,43.64689,-79.91013,1.0,1.335,canonical,True
+EftW:georgetown:settlement,cgndb,2,BABDH,Georgetown,TOWN / Town,settlement,prince edward island,Canada,1000000.0,46.182095,-62.532573,1.0,1.17,canonical,False
+EftW:germany:country,world,1,world:Germany:country,Germany,country,country,,Germany,,51.1657,10.4515,1.0,1.1,canonical,True
+EftW:glasgow:settlement,cgndb,1,FBHQB,Glasgow,UNP / Dispersed Rural Community,settlement,ontario,Canada,250000.0,43.9944444,-79.2041667,1.0,1.302,canonical,False
+EftW:glasgow:settlement,cgndb,2,CANRD,Glasgow,UNP / Locality,settlement,nova scotia,Canada,1200000.0,46.051302,-60.595993,1.0,1.192,canonical,False
+EftW:glasgow:settlement,world,1,world:Glasgow:settlement,Glasgow,settlement,settlement,,United Kingdom,,55.8642,-4.2518,1.0,1.1,canonical,True
+EftW:greece:country,world,1,world:Greece:country,Greece,country,country,,Greece,,39.0742,21.8243,1.0,1.1,canonical,True
+EftW:guelph:settlement,cgndb,1,FBKKK,Guelph,CITY / City,settlement,ontario,Canada,7500000.0,43.53571,-80.229,1.0,1.382,canonical,True
+EftW:halifax:settlement,cgndb,1,CAPHL,Halifax,UNP / Community,settlement,nova scotia,Canada,30000000.0,44.647401,-63.590651,1.0,1.268,canonical,True
+EftW:halifax:settlement,cgndb,2,CBUCG,Halifax,MUN1 / Regional Municipality,area,nova scotia,Canada,1000000.0,44.866743,-63.71602,1.0,1.088,canonical,False
+EftW:inverness:settlement,cgndb,1,CARNA,Inverness,UNP / Community,settlement,nova scotia,Canada,7500000.0,46.230157,-61.306461,1.0,1.235,canonical,True
+EftW:inverness:settlement,cgndb,2,EQPUR,Inverness,VILG / Municipality,settlement,quebec,Canada,1000000.0,46.260594,-71.522585,1.0,1.17,canonical,False
+EftW:ireland:country,world,1,world:Ireland:country,Ireland,country,country,,Ireland,,53.4129,-8.2439,1.0,1.1,canonical,True
+EftW:lake bellwood:water,cgndb,1,FAHBO,Lake Belwood,LAKE / Lake,water,ontario,Canada,1000000.0,43.758501,-80.339529,0.96,1.295,fuzzy,True
+EftW:lake huron:water,cgndb,1,FBPQQ,Lake Huron,LAKE / Lake,water,ontario,Canada,5000000.0,44.9440939,-82.2228182,1.0,1.373,canonical,True
+EftW:lake ontario:water,cgndb,1,FAYLN,Lake Ontario,LAKE / Lake,water,ontario,Canada,5000000.0,43.7288366,-78.1064044,1.0,1.373,canonical,True
+EftW:liverpool:settlement,cgndb,1,CAUWZ,Liverpool,UNP / Community,settlement,nova scotia,Canada,7500000.0,44.039147,-64.714759,1.0,1.235,canonical,False
+EftW:liverpool:settlement,world,1,world:Liverpool:settlement,Liverpool,settlement,settlement,,United Kingdom,,53.4084,-2.9916,1.0,1.1,canonical,True
+EftW:london:settlement,cgndb,1,FCAEN,London,CITY / City,settlement,ontario,Canada,17500000.0,42.9675,-81.2325,1.0,1.402,canonical,True
+EftW:london:settlement,world,1,world:London:settlement,London,settlement,settlement,,United Kingdom,,51.5074,-0.1278,1.0,1.1,canonical,False
+EftW:north west territories:region,cgndb,1,LBCFB,Northwest Territories,TERR / Territory,admin_large,northwest territories,Canada,30000000.0,69.500306,-121.502223,0.977,1.227,fuzzy,True
+EftW:norval:settlement,cgndb,1,FDKJA,Norval,UNP / Compact Rural Community,settlement,ontario,Canada,250000.0,43.6466667,-79.8588889,1.0,1.302,canonical,True
+EftW:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.415,canonical,True
+EftW:paris:settlement,cgndb,1,FDSRC,Paris,UNP / Community,settlement,ontario,Canada,2000000.0,43.1933334,-80.3847222,1.0,1.351,canonical,True
+EftW:paris:settlement,world,1,world:Paris:settlement,Paris,settlement,settlement,,France,,48.8566,2.3522,1.0,1.1,canonical,False
+EftW:port elgin:settlement,cgndb,1,FCHYZ,Port Elgin,UNP / Community,settlement,ontario,Canada,7500000.0,44.43706,-81.39083,1.0,1.382,canonical,True
+EftW:port elgin:settlement,cgndb,2,DACFW,Port Elgin,UNP / Urban Community,settlement,new brunswick,Canada,2000000.0,46.045174,-64.089802,1.0,1.192,canonical,False
+EftW:russia:country,world,1,world:Russia:country,Russia,country,country,,Russia,,55.7558,37.6173,1.0,1.1,canonical,True
+EftW:scotland:country,world,1,world:Scotland:country,Scotland,country,country,,United Kingdom,,56.4907,-4.2026,1.0,1.1,canonical,True
+EftW:southampton:settlement,cgndb,1,FEFML,Southampton,UNP / Community,settlement,ontario,Canada,1000000.0,44.4908334,-81.3744444,1.0,1.335,canonical,True
+EftW:southampton:settlement,world,1,world:Southampton:settlement,Southampton,settlement,settlement,,United Kingdom,,50.9097,-1.4044,1.0,1.1,canonical,False
+EftW:sussex:settlement,cgndb,1,DASFF,Sussex,TOWN / Town,settlement,new brunswick,Canada,7500000.0,45.723534,-65.510394,1.0,1.223,canonical,True
+EftW:three mile lake:water,cgndb,1,FDHNK,Three Mile Lake,LAKE / Lake,water,ontario,Canada,1000000.0,45.179031,-79.463377,1.0,1.335,canonical,True
+EftW:three mile lake:water,cgndb,2,FCWCZ,Three Mile Lake,LAKE / Lake,water,ontario,Canada,250000.0,44.887602,-79.266601,1.0,1.302,canonical,False
+EftW:three mile lake:water,cgndb,3,FCWDA,Three Mile Lake,LAKE / Lake,water,ontario,Canada,250000.0,45.59363,-79.312532,1.0,1.302,canonical,False
+EftW:three mile lake:water,cgndb,4,FCWDC,Three Mile Lake,LAKE / Lake,water,ontario,Canada,250000.0,45.9897223,-78.9011111,1.0,1.302,canonical,False
+EftW:three mile lake:water,cgndb,5,FDHNM,Three Mile Lake,LAKE / Lake,water,ontario,Canada,250000.0,49.390378,-92.232719,1.0,1.302,canonical,False
+EftW:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.415,canonical,True
+EftW:toronto:settlement,cgndb,2,FCWYG,Toronto,UNP / Community,settlement,ontario,Canada,250000.0,43.6758333,-79.3969444,1.0,1.302,canonical,False
+EftW:wembley:facility,cgndb,1,IAPGS,Wembley,TOWN / Town,settlement,alberta,Canada,1000000.0,55.1555556,-119.1458333,1.0,1.132,canonical,True
+EftW:wembley:settlement,cgndb,1,IAPGS,Wembley,TOWN / Town,settlement,alberta,Canada,1000000.0,55.1555556,-119.1458333,1.0,1.182,canonical,True
+FitS:churchill:settlement,cgndb,1,GAFAB,Churchill,TOWN / Town,settlement,manitoba,Canada,15000000.0,58.780833,-94.186944,1.0,1.391,canonical,True
+FitS:davis strait:water,cgndb,1,OAEEK,Davis Strait,CHAN / Strait,water,nunavut,Canada,5000000.0,65.0,-58.0,1.0,1.216,canonical,True
+FitS:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+FitS:forks:facility,overrides,1,override:Forks:47,"The Forks (Red and Assiniboine rivers), Winnipeg",,area,manitoba,Canada,,49.8869,-97.131,1.0,1.157,canonical,True
+FitS:forks:settlement,overrides,1,override:Forks:47,"The Forks (Red and Assiniboine rivers), Winnipeg",,area,manitoba,Canada,,49.8869,-97.131,1.0,1.157,canonical,True
+FitS:fort douglas:facility,overrides,1,override:Fort Douglas:49,Fort Douglas (Selkirk settlers),,facility,manitoba,Canada,,49.905,-97.125,1.0,1.257,canonical,True
+FitS:fort gibraltar:facility,overrides,1,override:Fort Gibraltar:48,Fort Gibraltar (North West Company),,facility,manitoba,Canada,,49.888,-97.127,1.0,1.257,canonical,True
+FitS:glasgow:settlement,cgndb,1,CANRD,Glasgow,UNP / Locality,settlement,nova scotia,Canada,1200000.0,46.051302,-60.595993,1.0,1.175,canonical,False
+FitS:glasgow:settlement,world,1,world:Glasgow:settlement,Glasgow,settlement,settlement,,United Kingdom,,55.8642,-4.2518,1.0,1.1,canonical,True
+FitS:greenland:unknown,cgndb,1,GAJVT,Greenland,UNP / Community,settlement,manitoba,Canada,250000.0,49.633889,-96.728611,1.0,1.245,canonical,True
+FitS:hayes river:water,cgndb,1,GAKMR,Hayes River,RIV / River,water,manitoba,Canada,5000000.0,57.0575,-92.179167,1.0,1.365,canonical,True
+FitS:hayes river:water,cgndb,2,OAHAE,Hayes River,RIV / River,water,nunavut,Canada,5000000.0,67.133333,-95.283333,1.0,1.216,canonical,False
+FitS:highlands:unknown,cgndb,1,JDESG,Highlands,MUN1 / District Municipality,settlement,british columbia,Canada,1000000.0,48.480556,-123.511944,1.0,1.12,canonical,True
+FitS:holy lake:water,cgndb,1,GBKZJ,Holyk Lake,LAKE / Lake,water,manitoba,Canada,50000.0,56.609722,-97.083611,0.947,1.205,fuzzy,True
+FitS:holy lake:water,cgndb,2,GBUXH,Holtby Lake,LAKE / Lake,water,manitoba,Canada,50000.0,54.758271,-93.0904564,0.9,1.157,fuzzy,False
+FitS:holy lake:water,cgndb,3,GBZFO,Holsey Lake,LAKE / Lake,water,manitoba,Canada,50000.0,58.4289618,-100.7766395,0.9,1.157,fuzzy,False
+FitS:holy lake:water,cgndb,4,GALAN,Holm Lake,LAKE / Lake,water,manitoba,Canada,50000.0,51.278611,-101.20972,0.889,1.146,fuzzy,False
+FitS:holy lake:water,cgndb,5,GBIEQ,Hole Lake,LAKE / Lake,water,manitoba,Canada,50000.0,57.951111,-97.540278,0.889,1.146,fuzzy,False
+FitS:hudson bay:water,cgndb,1,OAHKV,Hudson Bay,BAY / Bay,water,nunavut,Canada,30000000.0,60.0,-86.0,1.0,1.258,canonical,True
+FitS:hudson bay:water,cgndb,2,HAPHU,Hudson Bay,TOWN / Town,settlement,saskatchewan,Canada,7500000.0,52.8428167,-102.3756861,1.0,1.042,canonical,False
+FitS:jack river:water,cgndb,1,GALVK,Jack River,RIV / Channel,water,manitoba,Canada,250000.0,53.981111,-97.7875,1.0,1.295,canonical,True
+FitS:lake winnipeg:water,cgndb,1,GBEIS,Lake Winnipeg,LAKE / Lake,water,manitoba,Canada,5000000.0,52.131944,-97.261111,1.0,1.365,canonical,True
+FitS:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.239,canonical,True
+FitS:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.12,canonical,False
+FitS:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.12,canonical,False
+FitS:nelson river:water,cgndb,1,GATAH,Nelson River,RIV / River,water,manitoba,Canada,5000000.0,57.068056,-92.502222,1.0,1.365,canonical,True
+FitS:nelson river:water,cgndb,2,LAQUC,Nelson River,RIV / River,water,northwest territories,Canada,1000000.0,71.217078,-122.4693846,1.0,1.17,canonical,False
+FitS:oxford house:facility,cgndb,1,GAUSI,Oxford House,UNP / Northern Community,settlement,manitoba,Canada,10000000.0,54.948333,-95.265556,1.0,1.281,canonical,True
+FitS:pembina:settlement,cgndb,1,IAQJU,Pembina,UNP / Locality,settlement,alberta,Canada,1200000.0,53.1422222,-115.1472222,1.0,1.193,canonical,True
+FitS:playgreen lake:water,cgndb,1,GAVWD,Playgreen Lake,LAKE / Lake,water,manitoba,Canada,1000000.0,54.033333,-98.233333,1.0,1.327,canonical,True
+FitS:portage la prairie:landform,cgndb,1,GAWDD,Portage la Prairie,CITY / City,settlement,manitoba,Canada,7500000.0,49.972778,-98.291944,1.0,1.225,canonical,True
+FitS:portage la prairie:landform,cgndb,2,GBITP,Portage la Prairie,GEOG / Parish,area,manitoba,Canada,250000.0,49.949722,-98.332778,1.0,1.195,canonical,False
+FitS:portage la prairie:landform,cgndb,3,GAWDG,Portage la Prairie,MUN2 / Rural Municipality,area,manitoba,Canada,50000.0,49.992778,-98.269167,1.0,1.157,canonical,False
+FitS:quappelle:settlement,cgndb,1,HAIHZ,Qu'Appelle,TOWN / Town,settlement,saskatchewan,Canada,1000000.0,50.5425111,-103.8735111,1.0,1.174,canonical,True
+FitS:red river settlement:region,overrides,1,override:Red River Settlement:15,Red River Settlement,,area,manitoba,Canada,,49.95,-97.05,1.0,1.207,canonical,True
+FitS:red river:water,cgndb,1,GAWTC,Red River,RIV / River,water,manitoba,Canada,5000000.0,50.396389,-96.810833,1.0,1.365,canonical,True
+FitS:red river:water,cgndb,2,OANUK,Red River,RIV / River,water,nunavut,Canada,1000000.0,60.55,-100.13333,1.0,1.178,canonical,False
+FitS:red river:water,cgndb,3,CBFNH,Red River,RIV / River,water,nova scotia,Canada,1000000.0,46.84936,-60.773451,1.0,1.17,canonical,False
+FitS:red river:water,cgndb,4,JBIOC,Red River,RIV / River,water,british columbia,Canada,1000000.0,59.465833,-127.674444,1.0,1.17,canonical,False
+FitS:red river:water,cgndb,5,KAFLI,Red River,RIV / River,water,yukon,Canada,1000000.0,60.7356513,-132.1133046,1.0,1.17,canonical,False
+FitS:ruperts land:region,overrides,1,override:Rupert's Land:11,"Rupert's Land, represented by York Factory",,admin_large,manitoba,Canada,,57.0,-92.3,1.0,1.257,canonical,True
+FitS:scotland:country,world,1,world:Scotland:country,Scotland,country,country,,United Kingdom,,56.4907,-4.2026,1.0,1.1,canonical,True
+FitS:upper canada:region,overrides,1,override:Upper Canada:6,"Upper Canada, represented by York/Toronto",,admin_large,ontario,Canada,,43.6532,-79.3832,1.0,1.11,canonical,True
+FitS:wales:country,world,1,world:Wales:country,Wales,country,country,,United Kingdom,,52.1307,-3.7837,1.0,1.1,canonical,True
+FitS:winnipeg:settlement,cgndb,1,GBEIN,Winnipeg,CITY / City,settlement,manitoba,Canada,30000000.0,49.884444,-97.146389,1.0,1.407,canonical,True
+FitS:york factory:settlement,cgndb,1,GBETD,York Factory,UNP / Locality,settlement,manitoba,Canada,1200000.0,57.001667,-92.305833,1.0,1.332,canonical,True
+FitS:york:settlement,overrides,1,override:York:20,York (Toronto),,settlement,ontario,Canada,,43.6532,-79.3832,1.0,1.11,canonical,True
+NSH:amherst:settlement,cgndb,1,CAAOO,Amherst,TOWN / Town,settlement,nova scotia,Canada,7500000.0,45.833392,-64.212968,1.0,1.358,canonical,True
+NSH:atlantic:water,cgndb,1,CABAO,Atlantic,UNP / Community,settlement,nova scotia,Canada,250000.0,43.580848,-65.339322,1.0,1.098,canonical,False
+NSH:atlantic:water,world,1,world:Atlantic Ocean:water,Atlantic Ocean,water,water,,,,45.0,-35.0,1.0,1.1,canonical,True
+NSH:boston:settlement,world,1,world:Boston:settlement,Boston,settlement,settlement,,United States,,42.3601,-71.0589,1.0,1.1,canonical,True
+NSH:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+NSH:cape breton:landform,cgndb,1,CBRJN,Cape Breton,CAPE / Point,terrain,nova scotia,Canada,1000000.0,45.952163,-59.79,1.0,1.311,canonical,True
+NSH:cape breton:landform,cgndb,2,CAGCU,Cape Breton Island,ISL / Island,island,nova scotia,Canada,5000000.0,46.186732,-60.770781,0.96,1.309,variant,False
+NSH:cape breton:landform,cgndb,3,CBUCD,Cape Breton,MUN1 / Regional Municipality,area,nova scotia,Canada,7500000.0,46.000069,-60.315896,1.0,1.258,canonical,False
+NSH:cape breton:landform,cgndb,4,CBUDE,Cape Breton,GEOG / Geographic County,area,nova scotia,Canada,50000.0,46.000069,-60.315896,1.0,1.141,canonical,False
+NSH:charlottes cove:water,cgndb,1,CAGWC,Charlos Cove,BAY / Cove,water,nova scotia,Canada,50000.0,45.242922,-61.329176,0.889,1.129,fuzzy,True
+NSH:charlottes cove:water,cgndb,2,CAGWB,Charlos Cove,UNP / Community,settlement,nova scotia,Canada,700000.0,45.246487,-61.33609,0.889,1.011,fuzzy,False
+NSH:charlottetown:settlement,cgndb,1,BAARG,Charlottetown,CITY / City,settlement,prince edward island,Canada,30000000.0,46.240278,-63.134722,1.0,1.253,canonical,True
+NSH:charlottetown:settlement,cgndb,2,ABEZM,Charlottetown,TOWN / Town,settlement,newfoundland and labrador,Canada,1000000.0,52.7657222,-56.1453,1.0,1.184,canonical,False
+NSH:commons:facility,cgndb,1,CAHQA,Commons,UNP / Locality,settlement,nova scotia,Canada,420000.0,44.547698,-64.229756,1.0,1.24,canonical,True
+NSH:dartmouth:facility,cgndb,1,CAIYJ,Dartmouth,UNP / Community,settlement,nova scotia,Canada,7500000.0,44.670036,-63.577577,1.0,1.308,canonical,True
+NSH:denmark:country,world,1,world:Denmark:country,Denmark,country,country,,Denmark,,56.2639,9.5018,1.0,1.1,canonical,True
+NSH:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+NSH:flanders:settlement,world,1,world:Flanders:region,Flanders,region,admin_large,,Belgium,,51.0,3.7,1.0,1.05,canonical,True
+NSH:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+NSH:germany:country,world,1,world:Germany:country,Germany,country,country,,Germany,,51.1657,10.4515,1.0,1.1,canonical,True
+NSH:halifax:settlement,cgndb,1,CAPHL,Halifax,UNP / Community,settlement,nova scotia,Canada,30000000.0,44.647401,-63.590651,1.0,1.391,canonical,True
+NSH:halifax:settlement,cgndb,2,CBUCG,Halifax,MUN1 / Regional Municipality,area,nova scotia,Canada,1000000.0,44.866743,-63.71602,1.0,1.211,canonical,False
+NSH:holland:country,world,1,world:Netherlands:country,Netherlands,country,country,,Netherlands,,52.1326,5.2913,1.0,1.1,canonical,True
+NSH:massachusetts:settlement,world,1,world:Massachusetts:region,Massachusetts,region,admin_large,,United States,,42.4072,-71.3824,1.0,1.05,canonical,True
+NSH:mont blanc:facility,cgndb,1,EFODA,Mont Blanc,MTN / Mountain,terrain,quebec,Canada,1000000.0,48.777477,-66.88688,1.0,1.031,canonical,True
+NSH:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.248,canonical,True
+NSH:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.128,canonical,False
+NSH:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.128,canonical,False
+NSH:new brunswick:region,cgndb,1,DBBWP,New Brunswick,PROV / Province,admin_large,new brunswick,Canada,30000000.0,46.5,-66.0,1.0,1.264,canonical,True
+NSH:norway:country,world,1,world:Norway:country,Norway,country,country,,Norway,,60.472,8.4689,1.0,1.1,canonical,True
+NSH:nova scotia:region,cgndb,1,CBCBY,Nova Scotia,PROV / Province,admin_large,nova scotia,Canada,30000000.0,45.000075,-62.999327,1.0,1.391,canonical,True
+NSH:paris:settlement,cgndb,1,FDSRC,Paris,UNP / Community,settlement,ontario,Canada,2000000.0,43.1933334,-80.3847222,1.0,1.186,canonical,False
+NSH:paris:settlement,world,1,world:Paris:settlement,Paris,settlement,settlement,,France,,48.8566,2.3522,1.0,1.1,canonical,True
+NSH:peggys cove:water,cgndb,1,CBDEX,Peggys Cove,BAY / Cove,water,nova scotia,Canada,50000.0,44.493553,-63.916728,1.0,1.241,canonical,True
+NSH:peggys cove:water,cgndb,2,CBDEV,Peggys Cove,UNP / Community,settlement,nova scotia,Canada,700000.0,44.4933,-63.915096,1.0,1.122,canonical,False
+NSH:prince edward island:region,cgndb,1,BACBM,Prince Edward Island,PROV / Province,admin_large,prince edward island,Canada,30000000.0,46.5,-63.0,1.0,1.253,canonical,True
+NSH:richmond:settlement,overrides,1,override:Richmond:42,"Richmond, Halifax (North End)",,settlement,nova scotia,Canada,,44.664,-63.5925,1.0,1.241,canonical,True
+NSH:scotland:country,world,1,world:Scotland:country,Scotland,country,country,,United Kingdom,,56.4907,-4.2026,1.0,1.1,canonical,True
+NSH:south end:unknown,cgndb,1,AAVUM,South End,CAPE / Point,terrain,newfoundland and labrador,Canada,1000000.0,49.569674,-54.40761,1.0,1.034,canonical,True
+NSH:st john:settlement,cgndb,1,DAEGW,Saint John,CITY / City,settlement,new brunswick,Canada,17500000.0,45.259167,-66.038889,1.0,1.251,canonical,True
+NSH:st joseph:facility,cgndb,1,CBKRH,St. Joseph,UNP / Community,settlement,nova scotia,Canada,250000.0,44.264008,-66.011745,1.0,1.228,canonical,True
+NSH:st joseph:facility,cgndb,2,CBKRI,St. Joseph,UNP / Community,settlement,nova scotia,Canada,250000.0,45.538683,-62.077687,1.0,1.228,canonical,False
+NSH:st paul:facility,cgndb,1,IAGIL,St. Paul,TOWN / Town,settlement,alberta,Canada,7500000.0,53.9927777,-111.2961111,1.0,1.167,canonical,True
+NSH:st paul:facility,cgndb,2,DAXUQ,Saint-Paul,UNP / Dispersed Rural Community,settlement,new brunswick,Canada,1000000.0,46.333333,-65.0,1.0,1.134,canonical,False
+NSH:st paul:facility,cgndb,3,EIASA,Saint-Paul,UNP / Village,settlement,quebec,Canada,1000000.0,45.4380556,-72.8886111,1.0,1.131,canonical,False
+NSH:st paul:settlement,cgndb,1,IAGIL,St. Paul,TOWN / Town,settlement,alberta,Canada,7500000.0,53.9927777,-111.2961111,1.0,1.217,canonical,True
+NSH:st paul:settlement,cgndb,2,DAXUQ,Saint-Paul,UNP / Dispersed Rural Community,settlement,new brunswick,Canada,1000000.0,46.333333,-65.0,1.0,1.184,canonical,False
+NSH:st paul:settlement,cgndb,3,EIASA,Saint-Paul,UNP / Village,settlement,quebec,Canada,1000000.0,45.4380556,-72.8886111,1.0,1.181,canonical,False
+NSH:sweden:country,world,1,world:Sweden:country,Sweden,country,country,,Sweden,,60.1282,18.6435,1.0,1.1,canonical,True
+NSH:tower road:facility,cgndb,1,CBVHK,Tower Road,UNP / Community,settlement,nova scotia,Canada,145000.0,46.152036,-59.959499,1.0,1.166,canonical,True
+NSH:truro:settlement,cgndb,1,CBMKT,Truro,TOWN / Town,settlement,nova scotia,Canada,7500000.0,45.364959,-63.279847,1.0,1.358,canonical,True
+NSH:united states:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+NSH:vancouver:settlement,cgndb,1,JBRIK,Vancouver,CITY / City,settlement,british columbia,Canada,17500000.0,49.261111,-123.113889,1.0,1.24,canonical,True
+NSH:vimy ridge:landform,world,1,world:Vimy:settlement,Vimy,settlement,settlement,,France,,50.3797,2.7737,1.0,0.95,canonical,True
+NSH:vimy:facility,cgndb,1,IAOOC,Vimy,UNP / Hamlet,settlement,alberta,Canada,2000000.0,54.0666666,-113.65,1.0,1.136,canonical,False
+NSH:vimy:facility,world,1,world:Vimy:settlement,Vimy,settlement,settlement,,France,,50.3797,2.7737,1.0,1.05,canonical,True
+NSH:warden:facility,cgndb,1,IAOSS,Warden,UNP / Locality,settlement,alberta,Canada,1200000.0,52.26,-112.7375,1.0,1.125,canonical,True
+NSH:winnipeg:settlement,cgndb,1,GBEIN,Winnipeg,CITY / City,settlement,manitoba,Canada,30000000.0,49.884444,-97.146389,1.0,1.266,canonical,True
+NSH:yarmouth:settlement,cgndb,1,CBPIB,Yarmouth,TOWN / Town,settlement,nova scotia,Canada,15000000.0,43.838654,-66.115223,1.0,1.374,canonical,True
+NSH:ypres:settlement,world,1,world:Ypres:settlement,Ypres,settlement,settlement,,Belgium,,50.8503,2.8853,1.0,1.1,canonical,True
+NbutC:albany:settlement,world,1,world:Albany:settlement,Albany,settlement,settlement,,United States,,42.6526,-73.7562,1.0,1.1,canonical,True
+NbutC:america:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+NbutC:britain:country,world,1,world:Great Britain:country,Great Britain,country,country,,United Kingdom,,54.0,-2.0,1.0,1.1,canonical,True
+NbutC:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+NbutC:cataraqui:settlement,overrides,1,override:Fort Frontenac:27,Fort Frontenac (Kingston),,facility,ontario,Canada,,44.2312,-76.486,1.0,1.041,canonical,True
+NbutC:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+NbutC:johnstown:settlement,cgndb,1,FBSGG,Johnstown,UNP / Compact Rural Community,settlement,ontario,Canada,1000000.0,44.7480555,-75.4697222,1.0,1.211,canonical,True
+NbutC:lac st pierre:water,cgndb,1,EIATY,Lac Saint-Pierre,LAKE / Lake,water,quebec,Canada,1000000.0,46.2041667,-72.8327778,1.0,1.33,canonical,True
+NbutC:lac st pierre:water,cgndb,2,EIAUQ,Lac Saint-Pierre,LAKE / Lake,water,quebec,Canada,1000000.0,50.147546,-68.428149,1.0,1.33,canonical,False
+NbutC:lac st pierre:water,cgndb,3,EIATW,Lac Saint-Pierre,LAKE / Lake,water,quebec,Canada,250000.0,45.736088,-75.714002,1.0,1.297,canonical,False
+NbutC:lac st pierre:water,cgndb,4,EIAUP,Lac Saint-Pierre,LAKE / Lake,water,quebec,Canada,250000.0,49.768718,-67.346891,1.0,1.297,canonical,False
+NbutC:lac st pierre:water,cgndb,5,EIAUS,Lac Saint-Pierre,LAKE / Lake,water,quebec,Canada,250000.0,58.164194,-69.558413,1.0,1.297,canonical,False
+NbutC:lachine:settlement,cgndb,1,ERCAI,Lachine,TOWN / Borough,settlement,quebec,Canada,250000.0,45.4402778,-73.7055556,1.0,1.297,canonical,True
+NbutC:lake champlain:water,cgndb,1,EFGGH,Lake Champlain,LAKE / Lake,water,quebec,Canada,5000000.0,45.0311526,-73.1340216,1.0,1.367,canonical,True
+NbutC:machiche:settlement,overrides,1,override:Machiche:46,Machiche (Yamachiche),,settlement,quebec,Canada,,46.2833,-72.8333,1.0,1.259,canonical,True
+NbutC:mississauga:settlement,cgndb,1,FEAKO,Mississauga,CITY / City,settlement,ontario,Canada,17500000.0,43.58566,-79.65711,1.0,1.278,canonical,True
+NbutC:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.397,canonical,True
+NbutC:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.277,canonical,False
+NbutC:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.277,canonical,False
+NbutC:new france:region,overrides,1,override:New France:4,"New France, represented by Quebec City",,admin_large,quebec,Canada,,46.8139,-71.208,1.0,1.259,canonical,True
+NbutC:new york city:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
+NbutC:new york state:settlement,world,1,world:New York:region,New York,region,admin_large,,United States,,42.9538,-75.5268,1.0,1.05,canonical,True
+NbutC:quebec city:settlement,cgndb,1,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,0.96,1.369,variant,True
+NbutC:quebec city:settlement,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,0.96,1.237,variant,False
+NbutC:quebec city:settlement,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,0.96,1.237,variant,False
+NbutC:quebec city:settlement,cgndb,4,EMBCK,Québec,UNP / Post Office,settlement,quebec,Canada,50000.0,46.8175,-71.2119444,0.96,1.219,variant,False
+NbutC:quebec city:settlement,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,0.96,1.119,variant,False
+NbutC:quebec:region,cgndb,1,EFGGJ,Quebec,PROV / Province,admin_large,quebec,Canada,30000000.0,52.0,-72.0,1.0,1.409,canonical,True
+NbutC:quebec:region,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.327,canonical,False
+NbutC:quebec:region,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.327,canonical,False
+NbutC:quebec:region,cgndb,4,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.259,canonical,False
+NbutC:quebec:region,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,1.0,1.209,canonical,False
+NbutC:quebec:settlement,cgndb,1,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.409,canonical,True
+NbutC:quebec:settlement,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.277,canonical,False
+NbutC:quebec:settlement,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.277,canonical,False
+NbutC:quebec:settlement,cgndb,4,EMBCK,Québec,UNP / Post Office,settlement,quebec,Canada,50000.0,46.8175,-71.2119444,1.0,1.259,canonical,False
+NbutC:quebec:settlement,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,1.0,1.159,canonical,False
+NbutC:scotland:country,world,1,world:Scotland:country,Scotland,country,country,,United Kingdom,,56.4907,-4.2026,1.0,1.1,canonical,True
+NbutC:sorel:settlement,overrides,1,override:Sorel:45,Sorel (Sorel-Tracy),,settlement,quebec,Canada,,46.0333,-73.1167,1.0,1.259,canonical,True
+NbutC:st lawrence river:water,cgndb,1,EFGFK,St. Lawrence River,RIV / River,water,quebec,Canada,5000000.0,49.6666667,-64.5,1.0,1.367,canonical,True
+NbutC:st lawrence:water,cgndb,1,EFGFK,St. Lawrence River,RIV / River,water,quebec,Canada,5000000.0,49.6666667,-64.5,0.96,1.327,variant,True
+NbutC:st lawrence:water,cgndb,2,EQEVY,St. Lawrence,UNP / Named Locality,settlement,quebec,Canada,85000.0,48.4988889,-67.4769444,1.0,1.092,canonical,False
+NbutC:st lawrence:water,cgndb,3,AAWFL,St. Lawrence,TOWN / Town,settlement,newfoundland and labrador,Canada,1000000.0,46.907917,-55.404514,1.0,0.99,canonical,False
+NbutC:united states of america:settlement,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.05,canonical,True
+OA:america:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+OA:britain:country,world,1,world:Great Britain:country,Great Britain,country,country,,United Kingdom,,54.0,-2.0,1.0,1.1,canonical,True
+OA:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+OA:canada:region,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.0,canonical,True
+OA:china:country,world,1,world:China:country,China,country,country,,China,,35.8617,104.1954,1.0,1.1,canonical,True
+OA:chinatown:settlement,overrides,1,override:Chinatown:35,"Chinatown, Vancouver",,settlement,british columbia,Canada,,49.2797,-123.1007,1.0,1.244,canonical,True
+OA:gold mountain:region,overrides,1,override:Gold Mountain:34,"Gold Mountain (Gum Shan): North America, here Canada",,country,,Canada,,56.1304,-106.3468,1.0,1.0,canonical,True
+OA:gum shan:region,overrides,1,override:Gold Mountain:34,"Gold Mountain (Gum Shan): North America, here Canada",,country,,Canada,,56.1304,-106.3468,1.0,1.0,canonical,True
+OA:hong kong:settlement,world,1,world:Hong Kong:settlement,Hong Kong,settlement,settlement,,China,,22.3193,114.1694,1.0,1.1,canonical,True
+OA:ireland:country,world,1,world:Ireland:country,Ireland,country,country,,Ireland,,53.4129,-8.2439,1.0,1.1,canonical,True
+OA:kwangtung province:region,world,1,world:Kwangtung:region,Kwangtung,region,admin_large,,China,,23.379,113.7633,1.0,1.1,canonical,True
+OA:kwangtung:region,world,1,world:Kwangtung:region,Kwangtung,region,admin_large,,China,,23.379,113.7633,1.0,1.1,canonical,True
+OA:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.298,canonical,True
+OA:ottawa:settlement,cgndb,1,FEVNT,Ottawa,CITY / City,settlement,ontario,Canada,30000000.0,45.33339,-75.58429,1.0,1.298,canonical,True
+OA:saskatchewan:region,cgndb,1,HAWKP,Saskatchewan,PROV / Province,admin_large,saskatchewan,Canada,30000000.0,54.000051,-106.000496,1.0,1.258,canonical,True
+OA:stanley park:facility,overrides,1,override:Stanley Park:37,"Stanley Park, Vancouver",,area,british columbia,Canada,,49.3043,-123.1443,1.0,1.094,canonical,True
+OA:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.298,canonical,True
+OA:victoria:settlement,cgndb,1,JBOBQ,Victoria,CITY / City,settlement,british columbia,Canada,30000000.0,48.428333,-123.364722,1.0,1.394,canonical,True
+OA:victoria:settlement,cgndb,2,AAWMU,Victoria,TOWN / Town,settlement,newfoundland and labrador,Canada,1000000.0,47.77125,-53.2380778,1.0,1.17,canonical,False
+OatmyD:atlantic:water,world,1,world:Atlantic Ocean:water,Atlantic Ocean,water,water,,,,45.0,-35.0,1.0,1.1,canonical,True
+OatmyD:belleville:settlement,cgndb,1,FEDAN,Belleville,UNP / Community,settlement,ontario,Canada,7500000.0,44.1708333,-77.3827778,1.0,1.388,canonical,True
+OatmyD:belleville:settlement,cgndb,2,FEVJS,Belleville,CITY / City,settlement,ontario,Canada,3500000.0,44.2566666,-77.3697222,1.0,1.37,canonical,False
+OatmyD:britain:country,world,1,world:Great Britain:country,Great Britain,country,country,,United Kingdom,,54.0,-2.0,1.0,1.1,canonical,True
+OatmyD:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+OatmyD:china:country,world,1,world:China:country,China,country,country,,China,,35.8617,104.1954,1.0,1.1,canonical,True
+OatmyD:dublin:settlement,cgndb,1,FAZXV,Dublin,UNP / Locality,settlement,ontario,Canada,1200000.0,43.5041667,-81.2861111,1.0,1.345,canonical,True
+OatmyD:dublin:settlement,cgndb,2,FAZXU,Dublin,UNP / Railway Point,settlement,ontario,Canada,250000.0,48.9369444,-87.9219444,1.0,1.308,canonical,False
+OatmyD:dublin:settlement,world,1,world:Dublin:settlement,Dublin,settlement,settlement,,Ireland,,53.3498,-6.2603,1.0,1.1,canonical,False
+OatmyD:duncan:settlement,cgndb,1,FBAJT,Duncan,UNP / Dispersed Rural Community,settlement,ontario,Canada,250000.0,44.4222222,-80.4763889,1.0,1.308,canonical,True
+OatmyD:duncan:settlement,cgndb,2,JBBWA,Duncan,CITY / City,settlement,british columbia,Canada,7500000.0,48.778611,-123.708056,1.0,1.223,canonical,False
+OatmyD:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+OatmyD:ennotville:settlement,cgndb,1,FBCTD,Ennotville,UNP / Dispersed Rural Community,settlement,ontario,Canada,420000.0,43.65682,-80.32935,1.0,1.32,canonical,True
+OatmyD:essex:settlement,cgndb,1,FEVJL,Essex,TOWN / Town,settlement,ontario,Canada,2000000.0,42.0941666,-82.9008333,1.0,1.357,canonical,True
+OatmyD:essex:settlement,cgndb,2,FBCYI,Essex,UNP / Community,settlement,ontario,Canada,1000000.0,42.1730556,-82.8188889,1.0,1.341,canonical,False
+OatmyD:fergus:settlement,cgndb,1,FBDWO,Fergus,UNP / Community,settlement,ontario,Canada,2000000.0,43.70298,-80.37984,1.0,1.357,canonical,True
+OatmyD:flanders:unknown,cgndb,1,FBEDX,Flanders,UNP / Compact Rural Community,settlement,ontario,Canada,420000.0,48.73461,-92.08745,1.0,1.27,canonical,False
+OatmyD:flanders:unknown,world,1,world:Flanders:region,Flanders,region,admin_large,,Belgium,,51.0,3.7,1.0,1.05,canonical,True
+OatmyD:guelph:settlement,cgndb,1,FBKKK,Guelph,CITY / City,settlement,ontario,Canada,7500000.0,43.53571,-80.229,1.0,1.388,canonical,True
+OatmyD:hamilton:settlement,cgndb,1,FBLJL,Hamilton,UNP / Community,settlement,ontario,Canada,15000000.0,43.24504,-79.8418,1.0,1.404,canonical,True
+OatmyD:hamilton:settlement,cgndb,2,FEVNS,Hamilton,CITY / City,settlement,ontario,Canada,1200000.0,43.242778,-79.989444,1.0,1.345,canonical,False
+OatmyD:ilford:settlement,cgndb,1,GALLV,Ilford,UNP / Northern Community,settlement,manitoba,Canada,2000000.0,56.064722,-95.606944,1.0,1.21,canonical,True
+OatmyD:india:country,world,1,world:India:country,India,country,country,,India,,20.5937,78.9629,1.0,1.1,canonical,True
+OatmyD:liverpool:settlement,cgndb,1,CAUWZ,Liverpool,UNP / Community,settlement,nova scotia,Canada,7500000.0,44.039147,-64.714759,1.0,1.217,canonical,False
+OatmyD:liverpool:settlement,world,1,world:Liverpool:settlement,Liverpool,settlement,settlement,,United Kingdom,,53.4084,-2.9916,1.0,1.1,canonical,True
+OatmyD:london:settlement,cgndb,1,FCAEN,London,CITY / City,settlement,ontario,Canada,17500000.0,42.9675,-81.2325,1.0,1.408,canonical,True
+OatmyD:london:settlement,world,1,world:London:settlement,London,settlement,settlement,,United Kingdom,,51.5074,-0.1278,1.0,1.1,canonical,False
+OatmyD:niagara falls:water,cgndb,1,FDOSE,Niagara Falls,FALL / Falls,water,ontario,Canada,1000000.0,43.07945,-79.07472,1.0,1.341,canonical,True
+OatmyD:niagara falls:water,cgndb,2,FEDBA,Niagara Falls,CITY / City,settlement,ontario,Canada,7500000.0,43.06012,-79.10671,1.0,1.208,canonical,False
+OatmyD:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.421,canonical,True
+OatmyD:peterborough:settlement,cgndb,1,FDGEJ,Peterborough,CITY / City,settlement,ontario,Canada,7500000.0,44.3011111,-78.3333334,1.0,1.388,canonical,True
+OatmyD:puslinch lake:water,cgndb,1,FCIXJ,Puslinch Lake,LAKE / Lake,water,ontario,Canada,1000000.0,43.41659,-80.265057,1.0,1.341,canonical,True
+OatmyD:scotland:country,world,1,world:Scotland:country,Scotland,country,country,,United Kingdom,,56.4907,-4.2026,1.0,1.1,canonical,True
+OatmyD:speed:water,cgndb,1,FCRAC,Speed River,RIV / River,water,ontario,Canada,1000000.0,43.387222,-80.366944,0.96,1.301,variant,True
+OatmyD:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.421,canonical,True
+OatmyD:toronto:settlement,cgndb,2,FCWYG,Toronto,UNP / Community,settlement,ontario,Canada,250000.0,43.6758333,-79.3969444,1.0,1.308,canonical,False
+OatmyD:vancouver island:landform,cgndb,1,JBRIN,Vancouver Island,ISL / Island,island,british columbia,Canada,5000000.0,49.633333,-125.7,1.0,1.214,canonical,True
+OatmyD:waterloo:settlement,cgndb,1,FDBJZ,Waterloo,CITY / City,settlement,ontario,Canada,5000000.0,43.4797222,-80.5411111,1.0,1.379,canonical,True
+OatmyD:waterloo:settlement,cgndb,2,EIMLJ,Waterloo,CITY / Town,settlement,quebec,Canada,1000000.0,45.344921,-72.515488,1.0,1.17,canonical,False
+OatmyD:winnipeg:settlement,cgndb,1,GBEIN,Winnipeg,CITY / City,settlement,manitoba,Canada,30000000.0,49.884444,-97.146389,1.0,1.274,canonical,True
+PasWide:alberta:region,cgndb,1,IAQFZ,Alberta,PROV / Province,admin_large,alberta,Canada,30000000.0,54.991667,-114.376667,1.0,1.275,canonical,True
+PasWide:america:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+PasWide:australia:country,world,1,world:Australia:country,Australia,country,country,,Australia,,-25.2744,133.7751,1.0,1.1,canonical,True
+PasWide:calgary:settlement,cgndb,1,IAKID,Calgary,CITY / City,settlement,alberta,Canada,17500000.0,51.0458333,-114.0574999,1.0,1.262,canonical,True
+PasWide:california:settlement,world,1,world:California:region,California,region,admin_large,,United States,,36.7783,-119.4179,1.0,1.05,canonical,True
+PasWide:canada west:region,overrides,1,override:Canada West:8,"Canada West, represented by Toronto",,admin_large,ontario,Canada,,43.6532,-79.3832,1.0,1.121,canonical,True
+PasWide:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+PasWide:ceylon:settlement,cgndb,1,HACGI,Ceylon,VILG / Village,settlement,saskatchewan,Canada,2000000.0,49.458561,-104.602318,1.0,1.311,canonical,True
+PasWide:china:country,world,1,world:China:country,China,country,country,,China,,35.8617,104.1954,1.0,1.1,canonical,True
+PasWide:dominion of canada:settlement,overrides,1,override:Dominion of Canada:53,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.05,canonical,True
+PasWide:edmonton:settlement,cgndb,1,IACMP,Edmonton,CITY / City,settlement,alberta,Canada,30000000.0,53.5344445,-113.4902778,1.0,1.275,canonical,True
+PasWide:ellice islands:landform,cgndb,1,LAHKC,Ellice Island,ISL / Island,island,northwest territories,Canada,1000000.0,69.1165602,-135.8027322,0.963,1.133,fuzzy,True
+PasWide:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+PasWide:europe:region,world,1,world:Europe:region,Europe,region,admin_large,,,,54.526,15.2551,1.0,1.1,canonical,True
+PasWide:forest gate:settlement,cgndb,1,HACCI,Forest Gate,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,53.598129,-105.617211,1.0,1.3,canonical,True
+PasWide:gibraltar:settlement,cgndb,1,FBHFX,Gibraltar,UNP / Locality,settlement,ontario,Canada,1200000.0,45.7577778,-82.0969444,1.0,1.195,canonical,True
+PasWide:grenfell:settlement,cgndb,1,HADPJ,Grenfell,TOWN / Town,settlement,saskatchewan,Canada,1000000.0,50.4106694,-102.9322194,1.0,1.295,canonical,True
+PasWide:india:country,world,1,world:India:country,India,country,country,,India,,20.5937,78.9629,1.0,1.1,canonical,True
+PasWide:london:settlement,cgndb,1,FCAEN,London,CITY / City,settlement,ontario,Canada,17500000.0,42.9675,-81.2325,1.0,1.258,canonical,False
+PasWide:london:settlement,world,1,world:London:settlement,London,settlement,settlement,,United Kingdom,,51.5074,-0.1278,1.0,1.1,canonical,True
+PasWide:lyons:facility,cgndb,1,HAHEU,Lyons,UNP / Hamlet,settlement,saskatchewan,Canada,250000.0,51.2611469,-107.0214727,1.0,1.213,canonical,True
+PasWide:manitoba:region,cgndb,1,GBGYI,Manitoba,PROV / Province,admin_large,manitoba,Canada,30000000.0,55.0,-97.0,1.0,1.267,canonical,True
+PasWide:manitou beach:settlement,cgndb,1,HAPOG,Manitou Beach,VILG / Resort Village,settlement,saskatchewan,Canada,1200000.0,51.7198389,-105.4371861,1.0,1.3,canonical,True
+PasWide:maple creek:water,cgndb,1,HAKXQ,Maple Creek,RIV / Creek,water,saskatchewan,Canada,1000000.0,50.170142,-109.48421,1.0,1.295,canonical,True
+PasWide:maple creek:water,cgndb,2,HAOQT,Maple Creek,TOWN / Town,settlement,saskatchewan,Canada,7500000.0,49.902116,-109.486129,1.0,1.162,canonical,False
+PasWide:medicine hat:settlement,cgndb,1,IAIUC,Medicine Hat,CITY / City,settlement,alberta,Canada,10000000.0,50.0408334,-110.6766667,1.0,1.249,canonical,True
+PasWide:minnesota:settlement,world,1,world:Minnesota:region,Minnesota,region,admin_large,,United States,,46.7296,-94.6859,1.0,1.05,canonical,True
+PasWide:moose jaw:settlement,cgndb,1,HALTS,Moose Jaw,CITY / City,settlement,saskatchewan,Canada,10000000.0,50.3934194,-105.5519522,1.0,1.349,canonical,True
+PasWide:newfoundland:region,overrides,1,override:Newfoundland:14,Newfoundland (island),,admin_large,newfoundland and labrador,Canada,,48.6,-56.3,1.0,1.104,canonical,True
+PasWide:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.271,canonical,True
+PasWide:piapot:unknown,cgndb,1,HAORC,Piapot,HAM / Hamlet,settlement,saskatchewan,Canada,2000000.0,49.989589,-109.128212,1.0,1.261,canonical,True
+PasWide:quebec city:settlement,cgndb,1,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,0.96,1.21,variant,True
+PasWide:quebec city:settlement,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,0.96,1.077,variant,False
+PasWide:quebec city:settlement,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,0.96,1.077,variant,False
+PasWide:regina:settlement,cgndb,1,HAIMP,Regina,CITY / City,settlement,saskatchewan,Canada,30000000.0,50.4548389,-104.6066083,1.0,1.375,canonical,True
+PasWide:rocky mountains:landform,overrides,1,override:Rockies:54,Rocky Mountains,,terrain,alberta,Canada,,51.5,-116.5,1.0,1.125,canonical,True
+PasWide:saskatchewan:region,cgndb,1,HAWKP,Saskatchewan,PROV / Province,admin_large,saskatchewan,Canada,30000000.0,54.000051,-106.000496,1.0,1.375,canonical,True
+PasWide:saskatoon:settlement,cgndb,1,HAHJJ,Saskatoon,CITY / City,settlement,saskatchewan,Canada,17500000.0,52.13965,-106.6861833,1.0,1.362,canonical,True
+PasWide:southampton:settlement,cgndb,1,FEFML,Southampton,UNP / Community,settlement,ontario,Canada,1000000.0,44.4908334,-81.3744444,1.0,1.191,canonical,False
+PasWide:southampton:settlement,world,1,world:Southampton:settlement,Southampton,settlement,settlement,,United Kingdom,,50.9097,-1.4044,1.0,1.1,canonical,True
+PasWide:stanton:settlement,cgndb,1,LAWRL,Stanton,UNP / Abandoned Locality,settlement,northwest territories,Canada,1200000.0,69.800089,-128.686007,1.0,1.175,canonical,True
+PasWide:swift current:settlement,cgndb,1,HAPKT,Swift Current,CITY / City,settlement,saskatchewan,Canada,15000000.0,50.2881611,-107.7938944,1.0,1.359,canonical,True
+PasWide:swift current:settlement,cgndb,2,AAYHE,Swift Current,UNP / Local Service District,area,newfoundland and labrador,Canada,1000000.0,47.8813889,-54.2066666,1.0,1.074,canonical,False
+PasWide:swift current:settlement,cgndb,3,AAYHF,Swift Current,BAY / Arm,water,newfoundland and labrador,Canada,1000000.0,47.8908334,-54.235,1.0,1.024,canonical,False
+PasWide:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.271,canonical,True
+PasWide:united kingdom:country,world,1,world:Great Britain:country,Great Britain,country,country,,United Kingdom,,54.0,-2.0,1.0,1.1,canonical,True
+PasWide:usa:settlement,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.05,canonical,True
+PasWide:vancouver:settlement,cgndb,1,JBRIK,Vancouver,CITY / City,settlement,british columbia,Canada,17500000.0,49.261111,-123.113889,1.0,1.246,canonical,True
+PasWide:winnipeg:settlement,cgndb,1,GBEIN,Winnipeg,CITY / City,settlement,manitoba,Canada,30000000.0,49.884444,-97.146389,1.0,1.267,canonical,True
+PintPL:alberta:region,cgndb,1,IAQFZ,Alberta,PROV / Province,admin_large,alberta,Canada,30000000.0,54.991667,-114.376667,1.0,1.282,canonical,True
+PintPL:amos:settlement,cgndb,1,EFHXK,Amos,CITY / Town,settlement,quebec,Canada,10000000.0,48.564766,-78.11275,1.0,1.358,canonical,True
+PintPL:amos:settlement,cgndb,2,EMANW,Amos,UNP / Post Office,settlement,quebec,Canada,50000.0,48.5711111,-78.1183333,1.0,1.233,canonical,False
+PintPL:amos:settlement,cgndb,3,EFHXL,Amos,GEOG / Township,area,quebec,Canada,50000.0,49.3166667,-70.1166667,1.0,1.133,canonical,False
+PintPL:austria:country,world,1,world:Austria:country,Austria,country,country,,Austria,,47.5162,14.5501,1.0,1.1,canonical,True
+PintPL:britain:country,world,1,world:Great Britain:country,Great Britain,country,country,,United Kingdom,,54.0,-2.0,1.0,1.1,canonical,True
+PintPL:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+PintPL:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+PintPL:europe:region,world,1,world:Europe:region,Europe,region,admin_large,,,,54.526,15.2551,1.0,1.1,canonical,True
+PintPL:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+PintPL:galicia:region,world,1,world:Galicia:region,Galicia,region,admin_large,,Ukraine,,49.8397,24.0297,1.0,1.1,canonical,True
+PintPL:germany:country,world,1,world:Germany:country,Germany,country,country,,Germany,,51.1657,10.4515,1.0,1.1,canonical,True
+PintPL:hairy hill:landform,cgndb,1,IAILN,Hairy Hill,UNP / Hamlet,settlement,alberta,Canada,1200000.0,53.7633334,-111.9786111,1.0,1.056,canonical,True
+PintPL:hamburg:settlement,cgndb,1,GAKFO,Hamburg,UNP / Locality,settlement,manitoba,Canada,1200000.0,49.215,-97.797222,1.0,1.185,canonical,False
+PintPL:hamburg:settlement,world,1,world:Hamburg:settlement,Hamburg,settlement,settlement,,Germany,,53.5511,9.9937,1.0,1.1,canonical,True
+PintPL:jasper:settlement,cgndb,1,IAMCJ,Jasper,UNP / Locality,settlement,alberta,Canada,7500000.0,52.8777778,-118.0830556,1.0,1.249,canonical,True
+PintPL:jasper:settlement,cgndb,2,FBRKQ,Jasper,UNP / Compact Rural Community,settlement,ontario,Canada,1200000.0,44.8325,-75.9327778,1.0,1.199,canonical,False
+PintPL:kapuskasing:settlement,cgndb,1,FBTBP,Kapuskasing,TOWN / Town,settlement,ontario,Canada,7500000.0,49.4152778,-82.4169445,1.0,1.242,canonical,True
+PintPL:london:settlement,cgndb,1,FCAEN,London,CITY / City,settlement,ontario,Canada,17500000.0,42.9675,-81.2325,1.0,1.262,canonical,False
+PintPL:london:settlement,world,1,world:London:settlement,London,settlement,settlement,,United Kingdom,,51.5074,-0.1278,1.0,1.1,canonical,True
+PintPL:lviv:settlement,world,1,world:Lviv:settlement,Lviv,settlement,settlement,,Ukraine,,49.8397,24.0297,1.0,1.1,canonical,True
+PintPL:manitoba:region,cgndb,1,GBGYI,Manitoba,PROV / Province,admin_large,manitoba,Canada,30000000.0,55.0,-97.0,1.0,1.261,canonical,True
+PintPL:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.371,canonical,True
+PintPL:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.251,canonical,False
+PintPL:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.251,canonical,False
+PintPL:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.275,canonical,True
+PintPL:poland:country,world,1,world:Poland:country,Poland,country,country,,Poland,,51.9194,19.1451,1.0,1.1,canonical,True
+PintPL:quebec:region,cgndb,1,EFGGJ,Quebec,PROV / Province,admin_large,quebec,Canada,30000000.0,52.0,-72.0,1.0,1.383,canonical,True
+PintPL:quebec:region,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.301,canonical,False
+PintPL:quebec:region,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.301,canonical,False
+PintPL:quebec:region,cgndb,4,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.233,canonical,False
+PintPL:quebec:region,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,1.0,1.183,canonical,False
+PintPL:rome:settlement,world,1,world:Rome:settlement,Rome,settlement,settlement,,Italy,,41.9028,12.4964,1.0,1.1,canonical,True
+PintPL:russia:country,world,1,world:Russia:country,Russia,country,country,,Russia,,55.7558,37.6173,1.0,1.1,canonical,True
+PintPL:sarsfield:settlement,cgndb,1,FEASB,Sarsfield,UNP / Compact Rural Community,settlement,ontario,Canada,1000000.0,45.44237,-75.34386,1.0,1.195,canonical,True
+PintPL:serbia:settlement,world,1,world:Serbia:country,Serbia,country,country,,Serbia,,44.0165,21.0059,1.0,1.05,canonical,True
+PintPL:st antoine:facility,cgndb,1,DAEBL,Saint-Antoine,UNP / Urban Community,settlement,new brunswick,Canada,2000000.0,46.362864,-64.752638,1.0,1.136,canonical,True
+PintPL:st antoine:facility,cgndb,2,HAPNQ,St. Antoine,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,49.429029,-101.618881,1.0,1.125,canonical,False
+PintPL:st lawrence river:water,cgndb,1,EFGFK,St. Lawrence River,RIV / River,water,quebec,Canada,5000000.0,49.6666667,-64.5,1.0,1.341,canonical,True
+PintPL:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.275,canonical,True
+PintPL:ukraine:country,world,1,world:Ukraine:country,Ukraine,country,country,,Ukraine,,48.3794,31.1656,1.0,1.1,canonical,True
+PintPL:united states:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+PintPL:willingdon:settlement,cgndb,1,IAMZV,Willingdon,UNP / Hamlet,settlement,alberta,Canada,2000000.0,53.8286111,-112.1180556,1.0,1.218,canonical,True
+SofS:africa:region,world,1,world:Africa:region,Africa,region,admin_large,,,,2.0,21.0,1.0,1.1,canonical,True
+SofS:america:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+SofS:boston:settlement,world,1,world:Boston:settlement,Boston,settlement,settlement,,United States,,42.3601,-71.0589,1.0,1.1,canonical,True
+SofS:bytown:settlement,overrides,1,override:Bytown:21,Bytown (Ottawa),,settlement,ontario,Canada,,45.4215,-75.6972,1.0,1.131,canonical,True
+SofS:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+SofS:cape breton:landform,cgndb,1,CBRJN,Cape Breton,CAPE / Point,terrain,nova scotia,Canada,1000000.0,45.952163,-59.79,1.0,1.17,canonical,True
+SofS:cape breton:landform,cgndb,2,CAGCU,Cape Breton Island,ISL / Island,island,nova scotia,Canada,5000000.0,46.186732,-60.770781,0.96,1.168,variant,False
+SofS:cape breton:landform,cgndb,3,CBUCD,Cape Breton,MUN1 / Regional Municipality,area,nova scotia,Canada,7500000.0,46.000069,-60.315896,1.0,1.117,canonical,False
+SofS:dublin:settlement,cgndb,1,FAZXV,Dublin,UNP / Locality,settlement,ontario,Canada,1200000.0,43.5041667,-81.2861111,1.0,1.206,canonical,False
+SofS:dublin:settlement,world,1,world:Dublin:settlement,Dublin,settlement,settlement,,Ireland,,53.3498,-6.2603,1.0,1.1,canonical,True
+SofS:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+SofS:europe:region,world,1,world:Europe:region,Europe,region,admin_large,,,,54.526,15.2551,1.0,1.1,canonical,True
+SofS:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+SofS:grosse isle:landform,overrides,1,override:Grosse Île:28,Grosse Île quarantine station,,island,quebec,Canada,,47.0264,-70.665,1.0,1.265,canonical,True
+SofS:gulf of st lawrence:water,cgndb,1,EFGGM,Gulf of St. Lawrence,BAY / Gulf,water,quebec,Canada,5000000.0,46.500069,-61.499271,1.0,1.373,canonical,True
+SofS:ireland:country,world,1,world:Ireland:country,Ireland,country,country,,Ireland,,53.4129,-8.2439,1.0,1.1,canonical,True
+SofS:liverpool:settlement,cgndb,1,CAUWZ,Liverpool,UNP / Community,settlement,nova scotia,Canada,7500000.0,44.039147,-64.714759,1.0,1.217,canonical,False
+SofS:liverpool:settlement,world,1,world:Liverpool:settlement,Liverpool,settlement,settlement,,United Kingdom,,53.4084,-2.9916,1.0,1.1,canonical,True
+SofS:london:settlement,cgndb,1,FCAEN,London,CITY / City,settlement,ontario,Canada,17500000.0,42.9675,-81.2325,1.0,1.269,canonical,False
+SofS:london:settlement,world,1,world:London:settlement,London,settlement,settlement,,United Kingdom,,51.5074,-0.1278,1.0,1.1,canonical,True
+SofS:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.402,canonical,True
+SofS:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.282,canonical,False
+SofS:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.282,canonical,False
+SofS:new france:region,overrides,1,override:New France:4,"New France, represented by Quebec City",,admin_large,quebec,Canada,,46.8139,-71.208,1.0,1.265,canonical,True
+SofS:new york:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
+SofS:quebec city:settlement,cgndb,1,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,0.96,1.375,variant,True
+SofS:quebec city:settlement,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,0.96,1.242,variant,False
+SofS:quebec city:settlement,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,0.96,1.242,variant,False
+SofS:quebec city:settlement,cgndb,4,EMBCK,Québec,UNP / Post Office,settlement,quebec,Canada,50000.0,46.8175,-71.2119444,0.96,1.225,variant,False
+SofS:quebec city:settlement,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,0.96,1.125,variant,False
+SofS:quebec:settlement,cgndb,1,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.415,canonical,True
+SofS:quebec:settlement,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.282,canonical,False
+SofS:quebec:settlement,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.282,canonical,False
+SofS:quebec:settlement,cgndb,4,EMBCK,Québec,UNP / Post Office,settlement,quebec,Canada,50000.0,46.8175,-71.2119444,1.0,1.265,canonical,False
+SofS:quebec:settlement,cgndb,5,ERJDU,Québec,MUN1 / Territory equivalent to an MRC,area,quebec,Canada,50000.0,46.816667,-71.216667,1.0,1.165,canonical,False
+SofS:richelieu:unknown,cgndb,1,EHVWD,Richelieu,CITY / Town,settlement,quebec,Canada,1200000.0,45.443291,-73.253369,1.0,1.289,canonical,True
+SofS:sherbrooke:settlement,cgndb,1,EIDHN,Sherbrooke,CITY / Town,settlement,quebec,Canada,17500000.0,45.404047,-71.893171,1.0,1.402,canonical,True
+SofS:sherbrooke:settlement,cgndb,2,ESXML,Sherbrooke,GEOG / Census Division,area,quebec,Canada,7500000.0,45.416666,-71.9,1.0,1.282,canonical,False
+SofS:sherbrooke:settlement,cgndb,3,CBILO,Sherbrooke,UNP / Community,settlement,nova scotia,Canada,7500000.0,45.142471,-61.982735,1.0,1.217,canonical,False
+SofS:st lawrence river:water,cgndb,1,EFGFK,St. Lawrence River,RIV / River,water,quebec,Canada,5000000.0,49.6666667,-64.5,1.0,1.373,canonical,True
+SofS:st lawrence:water,cgndb,1,EFGFK,St. Lawrence River,RIV / River,water,quebec,Canada,5000000.0,49.6666667,-64.5,0.96,1.333,variant,True
+SofS:st lawrence:water,cgndb,2,EQEVY,St. Lawrence,UNP / Named Locality,settlement,quebec,Canada,85000.0,48.4988889,-67.4769444,1.0,1.097,canonical,False
+SofS:st lawrence:water,cgndb,3,AAWFL,St. Lawrence,TOWN / Town,settlement,newfoundland and labrador,Canada,1000000.0,46.907917,-55.404514,1.0,0.99,canonical,False
+SofS:st paul island:landform,cgndb,1,CBKWJ,St. Paul Island,ISL / Island,island,nova scotia,Canada,2000000.0,47.202882,-60.14989,1.0,1.186,canonical,True
+SofS:upper canada:region,overrides,1,override:Upper Canada:6,"Upper Canada, represented by York/Toronto",,admin_large,ontario,Canada,,43.6532,-79.3832,1.0,1.131,canonical,True
+SofS:windmill point:landform,overrides,1,override:Windmill Point:36,"Windmill Point (Pointe-Saint-Charles), Montreal: the 1847 fever sheds",,facility,quebec,Canada,,45.489,-73.547,1.0,1.165,canonical,True
+TA:alberta:region,cgndb,1,IAQFZ,Alberta,PROV / Province,admin_large,alberta,Canada,30000000.0,54.991667,-114.376667,1.0,1.261,canonical,True
+TA:america:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+TA:bc:region,overrides,1,override:British Columbia:38,British Columbia,,admin_large,british columbia,Canada,,53.7267,-127.6476,1.0,1.259,canonical,True
+TA:britain:country,world,1,world:Great Britain:country,Great Britain,country,country,,United Kingdom,,54.0,-2.0,1.0,1.1,canonical,True
+TA:british columbia:region,overrides,1,override:British Columbia:38,British Columbia,,admin_large,british columbia,Canada,,53.7267,-127.6476,1.0,1.259,canonical,True
+TA:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+TA:carpenter creek:water,cgndb,1,JAWRZ,Carpenter Creek,RIV / Creek,water,british columbia,Canada,250000.0,49.988611,-117.379722,1.0,1.297,canonical,True
+TA:carpenter creek:water,cgndb,2,JCLTM,Carpenter Creek,RIV / Creek,water,british columbia,Canada,250000.0,54.7325,-128.309167,1.0,1.297,canonical,False
+TA:castlegar:settlement,cgndb,1,JCAAC,Castlegar,CITY / City,settlement,british columbia,Canada,7500000.0,49.324444,-117.666944,1.0,1.377,canonical,True
+TA:coal harbour:water,cgndb,1,JBSEW,Coal Harbour,BAY / Harbour,water,british columbia,Canada,250000.0,50.595278,-127.579167,1.0,1.297,canonical,True
+TA:coal harbour:water,cgndb,2,JASEG,Coal Harbour,BAY / Harbour,water,british columbia,Canada,50000.0,49.293611,-123.121667,1.0,1.259,canonical,False
+TA:coal harbour:water,cgndb,3,JBSEX,Coal Harbour,UNP / Community,settlement,british columbia,Canada,2000000.0,50.6,-127.58333,1.0,1.166,canonical,False
+TA:duncan:settlement,cgndb,1,JBBWA,Duncan,CITY / City,settlement,british columbia,Canada,7500000.0,48.778611,-123.708056,1.0,1.377,canonical,True
+TA:edmonton:settlement,cgndb,1,IACMP,Edmonton,CITY / City,settlement,alberta,Canada,30000000.0,53.5344445,-113.4902778,1.0,1.261,canonical,True
+TA:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+TA:english bay:water,cgndb,1,JARTH,English Bay,BAY / Bay,water,british columbia,Canada,250000.0,49.288889,-123.173611,1.0,1.297,canonical,True
+TA:europe:region,world,1,world:Europe:region,Europe,region,admin_large,,,,54.526,15.2551,1.0,1.1,canonical,True
+TA:fairview:settlement,cgndb,1,JAUFZ,Fairview,UNP / Community,settlement,british columbia,Canada,700000.0,49.175,-119.6,1.0,1.321,canonical,True
+TA:fairview:settlement,cgndb,2,IADDJ,Fairview,TOWN / Town,settlement,alberta,Canada,7500000.0,56.0672222,-118.3841667,1.0,1.229,canonical,False
+TA:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+TA:germany:country,world,1,world:Germany:country,Germany,country,country,,Germany,,51.1657,10.4515,1.0,1.1,canonical,True
+TA:grandview:unknown,cgndb,1,JAUVK,Grandview,UNP / Community,settlement,british columbia,Canada,250000.0,49.05,-122.73333,1.0,1.247,canonical,True
+TA:grandview:unknown,cgndb,2,IAHMX,Grandview,VILG / Summer Village,settlement,alberta,Canada,2000000.0,52.9922222,-114.0583333,1.0,1.148,canonical,False
+TA:grandview:unknown,cgndb,3,GAJRE,Grandview,TOWN / Town,settlement,manitoba,Canada,1000000.0,51.174167,-100.69778,1.0,1.125,canonical,False
+TA:greenwood:settlement,cgndb,1,JAEZN,Greenwood,CITY / City,settlement,british columbia,Canada,2000000.0,49.088333,-118.676389,1.0,1.346,canonical,True
+TA:greenwood:settlement,cgndb,2,CAORH,Greenwood,VILG / Village,settlement,nova scotia,Canada,1000000.0,44.968923,-64.938631,1.0,1.17,canonical,False
+TA:hastings park:facility,overrides,1,override:Hastings Park:30,"Hastings Park, Vancouver",,facility,british columbia,Canada,,49.2814,-123.0419,1.0,1.259,canonical,True
+TA:hong kong:settlement,world,1,world:Hong Kong:settlement,Hong Kong,settlement,settlement,,China,,22.3193,114.1694,1.0,1.1,canonical,True
+TA:hope:settlement,cgndb,1,JBFGB,Hope,MUN1 / District Municipality,settlement,british columbia,Canada,7500000.0,49.38,-121.441389,1.0,1.377,canonical,True
+TA:italy:country,world,1,world:Italy:country,Italy,country,country,,Italy,,42.8333,12.8333,1.0,1.1,canonical,True
+TA:japan:country,world,1,world:Japan:country,Japan,country,country,,Japan,,36.2048,138.2529,1.0,1.1,canonical,True
+TA:kamloops:settlement,cgndb,1,JAFNW,Kamloops,CITY / City,settlement,british columbia,Canada,17500000.0,50.675833,-120.339444,1.0,1.397,canonical,True
+TA:kaslo:settlement,cgndb,1,JAFPO,Kaslo,VILG / Village,settlement,british columbia,Canada,2000000.0,49.910556,-116.905,1.0,1.346,canonical,True
+TA:langley:settlement,cgndb,1,JAPSJ,Langley,CITY / City,settlement,british columbia,Canada,2000000.0,49.1025,-122.658056,1.0,1.346,canonical,True
+TA:langley:settlement,cgndb,2,JAPSK,Langley,MUN1 / District Municipality,settlement,british columbia,Canada,1000000.0,49.120278,-122.659722,1.0,1.33,canonical,False
+TA:lemon creek:water,cgndb,1,JABVX,Lemon Creek,RIV / Creek,water,british columbia,Canada,250000.0,49.706667,-117.4925,1.0,1.297,canonical,True
+TA:lemon creek:water,cgndb,2,JABVY,Lemon Creek,RIV / Creek,water,british columbia,Canada,50000.0,50.341111,-115.628611,1.0,1.259,canonical,False
+TA:lemon creek:water,cgndb,3,JABVW,Lemon Creek,UNP / Community,settlement,british columbia,Canada,700000.0,49.7,-117.48333,1.0,1.141,canonical,False
+TA:lempriere:settlement,cgndb,1,JABWO,Lempriere,UNP / Railway Point,settlement,british columbia,Canada,250000.0,52.45,-119.13333,1.0,1.297,canonical,True
+TA:lost lagoon:facility,cgndb,1,JATCJ,Lost Lagoon,LAKE / Lagoon,water,british columbia,Canada,250000.0,49.295556,-123.141111,1.0,1.147,canonical,True
+TA:manitoba:region,cgndb,1,GBGYI,Manitoba,PROV / Province,admin_large,manitoba,Canada,30000000.0,55.0,-97.0,1.0,1.255,canonical,True
+TA:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.238,canonical,True
+TA:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.118,canonical,False
+TA:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.118,canonical,False
+TA:new denver:settlement,cgndb,1,JAYHN,New Denver,VILG / Village,settlement,british columbia,Canada,2000000.0,49.991389,-117.377222,1.0,1.346,canonical,True
+TA:newmarket:facility,cgndb,1,FDGED,Newmarket,TOWN / Town,settlement,ontario,Canada,7500000.0,44.05794,-79.45835,1.0,1.19,canonical,True
+TA:north vancouver:settlement,cgndb,1,JBFRV,North Vancouver,CITY / City,settlement,british columbia,Canada,2000000.0,49.320556,-123.073889,1.0,1.346,canonical,True
+TA:north vancouver:settlement,cgndb,2,JBFRW,North Vancouver,MUN1 / District Municipality,settlement,british columbia,Canada,1000000.0,49.336111,-123.078056,1.0,1.33,canonical,False
+TA:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.273,canonical,True
+TA:ottawa:settlement,cgndb,1,FEVNT,Ottawa,CITY / City,settlement,ontario,Canada,30000000.0,45.33339,-75.58429,1.0,1.273,canonical,True
+TA:pearl harbor:water,cgndb,1,JCNTH,Pearl Harbour,BAY / Harbour,water,british columbia,Canada,50000.0,54.506667,-130.444444,0.96,1.219,fuzzy,True
+TA:powell street:facility,overrides,1,override:Powell Street:31,"Powell Street (Japantown), Vancouver",,facility,british columbia,Canada,,49.283,-123.095,1.0,1.259,canonical,True
+TA:prince george:settlement,cgndb,1,JBLVS,Prince George,CITY / City,settlement,british columbia,Canada,17500000.0,53.913056,-122.745278,1.0,1.397,canonical,True
+TA:prince rupert:settlement,cgndb,1,JCNWW,Prince Rupert,CITY / City,settlement,british columbia,Canada,17500000.0,54.312778,-130.325278,1.0,1.397,canonical,True
+TA:prospect point:landform,cgndb,1,JBLXX,Prospect Point,CAPE / Point,terrain,british columbia,Canada,250000.0,49.314167,-123.141389,1.0,1.297,canonical,True
+TA:quebec:region,cgndb,1,EFGGJ,Quebec,PROV / Province,admin_large,quebec,Canada,30000000.0,52.0,-72.0,1.0,1.251,canonical,True
+TA:quebec:region,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.168,canonical,False
+TA:quebec:region,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.168,canonical,False
+TA:quebec:region,cgndb,4,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.101,canonical,False
+TA:regina:settlement,cgndb,1,HAIMP,Regina,CITY / City,settlement,saskatchewan,Canada,30000000.0,50.4548389,-104.6066083,1.0,1.251,canonical,True
+TA:revelstoke:settlement,cgndb,1,JBHTI,Revelstoke,CITY / City,settlement,british columbia,Canada,10000000.0,50.998889,-118.195833,1.0,1.384,canonical,True
+TA:rockies:unknown,overrides,1,override:Rockies:54,Rocky Mountains,,terrain,alberta,Canada,,51.5,-116.5,1.0,0.961,canonical,True
+TA:rosebery:settlement,cgndb,1,JBMVP,Rosebery,UNP / Locality,settlement,british columbia,Canada,1200000.0,50.0330556,-117.4122222,1.0,1.334,canonical,True
+TA:sandon:settlement,cgndb,1,JAYNT,Sandon,UNP / Locality,settlement,british columbia,Canada,1200000.0,49.975556,-117.227222,1.0,1.334,canonical,True
+TA:schreiber:facility,cgndb,1,FEBEF,Schreiber,UNP / Compact Rural Community,settlement,ontario,Canada,7500000.0,48.80929,-87.26611,1.0,1.19,canonical,True
+TA:schreiber:settlement,cgndb,1,FEBEF,Schreiber,UNP / Compact Rural Community,settlement,ontario,Canada,7500000.0,48.80929,-87.26611,1.0,1.24,canonical,True
+TA:seattle:settlement,world,1,world:Seattle:settlement,Seattle,settlement,settlement,,United States,,47.6062,-122.3321,1.0,1.1,canonical,True
+TA:silverton:settlement,cgndb,1,JBKMN,Silverton,VILG / Village,settlement,british columbia,Canada,2000000.0,49.952778,-117.357222,1.0,1.346,canonical,True
+TA:slocan city:settlement,cgndb,1,JBNYO,Slocan,VILG / Village,settlement,british columbia,Canada,2000000.0,49.767778,-117.466111,0.96,1.306,variant,True
+TA:slocan city:settlement,cgndb,2,JBNYP,Slocan City,UNP / Railway Point,settlement,british columbia,Canada,250000.0,49.766667,-117.46667,1.0,1.297,canonical,False
+TA:slocan:settlement,cgndb,1,JBNYO,Slocan,VILG / Village,settlement,british columbia,Canada,2000000.0,49.767778,-117.466111,1.0,1.346,canonical,True
+TA:st anthony:facility,cgndb,1,AAWBN,St. Anthony,TOWN / Town,settlement,newfoundland and labrador,Canada,7500000.0,51.374936,-55.616405,1.0,1.167,canonical,True
+TA:st thomas:settlement,cgndb,1,FDTCR,St. Thomas,CITY / City,settlement,ontario,Canada,7500000.0,42.7808333,-81.1855555,1.0,1.24,canonical,True
+TA:st thomas:settlement,cgndb,2,EPSOT,Saint-Thomas,VILG / Municipality,settlement,quebec,Canada,1200000.0,46.017624,-73.34171,1.0,1.175,canonical,False
+TA:stanley park:facility,overrides,1,override:Stanley Park:37,"Stanley Park, Vancouver",,area,british columbia,Canada,,49.3043,-123.1443,1.0,1.109,canonical,True
+TA:surrey:settlement,cgndb,1,JAZBU,Surrey,CITY / City,settlement,british columbia,Canada,2000000.0,49.111667,-122.8275,1.0,1.346,canonical,True
+TA:tete jaune:facility,cgndb,1,JBAYQ,Tête Jaune,UNP / Railway Point,settlement,british columbia,Canada,250000.0,52.978333,-119.50556,1.0,1.247,canonical,True
+TA:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.273,canonical,True
+TA:united states:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+TA:vancouver:settlement,cgndb,1,JBRIK,Vancouver,CITY / City,settlement,british columbia,Canada,17500000.0,49.261111,-123.113889,1.0,1.397,canonical,True
+TA:washington:settlement,world,1,world:Washington:settlement,Washington,settlement,settlement,,United States,,38.9072,-77.0369,1.0,1.1,canonical,True
+TA:west end:unknown,cgndb,1,JBJUT,West End,UNP / Community,settlement,british columbia,Canada,250000.0,49.283333,-123.13333,1.0,1.247,canonical,True
+TA:west end:unknown,cgndb,2,HAMSF,West End,VILG / Resort Village,settlement,saskatchewan,Canada,1200000.0,50.549656,-102.418496,1.0,1.125,canonical,False
+TA:west end:unknown,cgndb,3,CBOBF,West End,CAPE / Point,terrain,nova scotia,Canada,1000000.0,45.80399,-62.602436,1.0,1.02,canonical,False
+TA:wilson creek:water,cgndb,1,JBPCY,Wilson Creek,RIV / Creek,water,british columbia,Canada,250000.0,48.804444,-124.516667,1.0,1.297,canonical,True
+TA:wilson creek:water,cgndb,2,JBPDC,Wilson Creek,RIV / Creek,water,british columbia,Canada,250000.0,49.5675,-116.855,1.0,1.297,canonical,False
+TA:wilson creek:water,cgndb,3,JBPDD,Wilson Creek,RIV / Creek,water,british columbia,Canada,250000.0,49.65,-126.165278,1.0,1.297,canonical,False
+TA:wilson creek:water,cgndb,4,JBPDE,Wilson Creek,RIV / Creek,water,british columbia,Canada,250000.0,50.030278,-117.416111,1.0,1.297,canonical,False
+TA:wilson creek:water,cgndb,5,JBPDI,Wilson Creek,RIV / Creek,water,british columbia,Canada,250000.0,59.3275,-133.4775,1.0,1.297,canonical,False
+TA:winnipeg:settlement,cgndb,1,GBEIN,Winnipeg,CITY / City,settlement,manitoba,Canada,30000000.0,49.884444,-97.146389,1.0,1.255,canonical,True
+TFN:america:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+TFN:bc:region,overrides,1,override:British Columbia:38,British Columbia,,admin_large,british columbia,Canada,,53.7267,-127.6476,1.0,1.104,canonical,True
+TFN:belfast:settlement,world,1,world:Belfast:settlement,Belfast,settlement,settlement,,United Kingdom,,54.5973,-5.9301,1.0,1.1,canonical,True
+TFN:boston:settlement,world,1,world:Boston:settlement,Boston,settlement,settlement,,United States,,42.3601,-71.0589,1.0,1.1,canonical,True
+TFN:california:settlement,world,1,world:California:region,California,region,admin_large,,United States,,36.7783,-119.4179,1.0,1.05,canonical,True
+TFN:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+TFN:eastleigh:settlement,cgndb,1,HAHBB,Eastleigh,UNP / Locality,settlement,saskatchewan,Canada,1200000.0,50.280941,-106.188145,1.0,1.179,canonical,True
+TFN:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+TFN:europe:region,world,1,world:Europe:region,Europe,region,admin_large,,,,54.526,15.2551,1.0,1.1,canonical,True
+TFN:fairview:facility,cgndb,1,IADDJ,Fairview,TOWN / Town,settlement,alberta,Canada,7500000.0,56.0672222,-118.3841667,1.0,1.172,canonical,True
+TFN:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+TFN:halifax harbour:water,cgndb,1,CAPHM,Halifax Harbour,BAY / Harbour,water,nova scotia,Canada,1000000.0,44.591066,-63.531965,1.0,1.29,canonical,True
+TFN:halifax:settlement,cgndb,1,CAPHL,Halifax,UNP / Community,settlement,nova scotia,Canada,30000000.0,44.647401,-63.590651,1.0,1.37,canonical,True
+TFN:halifax:settlement,cgndb,2,CBUCG,Halifax,MUN1 / Regional Municipality,area,nova scotia,Canada,1000000.0,44.866743,-63.71602,1.0,1.19,canonical,False
+TFN:india:country,world,1,world:India:country,India,country,country,,India,,20.5937,78.9629,1.0,1.1,canonical,True
+TFN:inglis:settlement,cgndb,1,GALNG,Inglis,UNP / Local Urban District,settlement,manitoba,Canada,2000000.0,50.944722,-101.25111,1.0,1.191,canonical,True
+TFN:ireland:country,world,1,world:Ireland:country,Ireland,country,country,,Ireland,,53.4129,-8.2439,1.0,1.1,canonical,True
+TFN:jamaica:country,world,1,world:Jamaica:country,Jamaica,country,country,,Jamaica,,18.1096,-77.2975,1.0,1.1,canonical,True
+TFN:lapland:unknown,cgndb,1,CATKW,Lapland,UNP / Community,settlement,nova scotia,Canada,250000.0,44.293991,-64.679478,1.0,1.208,canonical,True
+TFN:lewisham:settlement,cgndb,1,FDZAW,Lewisham,UNP / Locality,settlement,ontario,Canada,1200000.0,44.8705555,-79.1052777,1.0,1.223,canonical,True
+TFN:london:region,cgndb,1,FCAEN,London,CITY / City,settlement,ontario,Canada,17500000.0,42.9675,-81.2325,1.0,1.136,canonical,False
+TFN:london:region,world,1,world:London:settlement,London,settlement,settlement,,United Kingdom,,51.5074,-0.1278,1.0,0.95,canonical,True
+TFN:london:settlement,cgndb,1,FCAEN,London,CITY / City,settlement,ontario,Canada,17500000.0,42.9675,-81.2325,1.0,1.286,canonical,False
+TFN:london:settlement,world,1,world:London:settlement,London,settlement,settlement,,United Kingdom,,51.5074,-0.1278,1.0,1.1,canonical,True
+TFN:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.242,canonical,True
+TFN:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.122,canonical,False
+TFN:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.122,canonical,False
+TFN:new york city:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
+TFN:new york:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
+TFN:newfoundland:region,overrides,1,override:Newfoundland:14,Newfoundland (island),,admin_large,newfoundland and labrador,Canada,,48.6,-56.3,1.0,1.109,canonical,True
+TFN:nova scotia:region,cgndb,1,CBCBY,Nova Scotia,PROV / Province,admin_large,nova scotia,Canada,30000000.0,45.000075,-62.999327,1.0,1.37,canonical,True
+TFN:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.299,canonical,True
+TFN:oregon:settlement,cgndb,1,CBCLR,Oregon,UNP / Community,settlement,nova scotia,Canada,250000.0,46.320544,-60.650874,1.0,1.258,canonical,False
+TFN:oregon:settlement,world,1,world:Oregon:region,Oregon,region,admin_large,,United States,,43.8041,-120.5542,1.0,1.05,canonical,True
+TFN:plymouth:settlement,cgndb,1,CBDZL,Plymouth,UNP / Community,settlement,nova scotia,Canada,1000000.0,43.798117,-66.010194,1.0,1.29,canonical,True
+TFN:plymouth:settlement,cgndb,2,CBDZM,Plymouth,UNP / Community,settlement,nova scotia,Canada,250000.0,45.54531,-62.653625,1.0,1.258,canonical,False
+TFN:plymouth:settlement,world,1,world:Plymouth:settlement,Plymouth,settlement,settlement,,United Kingdom,,50.3755,-4.1427,1.0,1.1,canonical,False
+TFN:point pleasant:landform,cgndb,1,CBDYM,Point Pleasant,CAPE / Point,terrain,nova scotia,Canada,50000.0,44.619485,-63.564232,1.0,1.22,canonical,True
+TFN:queenstown:settlement,world,1,world:Queenstown:settlement,Queenstown,settlement,settlement,,Ireland,,51.8503,-8.2943,1.0,1.1,canonical,True
+TFN:russia:country,world,1,world:Russia:country,Russia,country,country,,Russia,,55.7558,37.6173,1.0,1.1,canonical,True
+TFN:san francisco:settlement,world,1,world:San Francisco:settlement,San Francisco,settlement,settlement,,United States,,37.7749,-122.4194,1.0,1.1,canonical,True
+TFN:seattle:settlement,world,1,world:Seattle:settlement,Seattle,settlement,settlement,,United States,,47.6062,-122.3321,1.0,1.1,canonical,True
+TFN:southampton:settlement,cgndb,1,CBJKN,Southampton,UNP / Community,settlement,nova scotia,Canada,700000.0,45.594495,-64.248481,1.0,1.282,canonical,False
+TFN:southampton:settlement,cgndb,2,FEFML,Southampton,UNP / Community,settlement,ontario,Canada,1000000.0,44.4908334,-81.3744444,1.0,1.219,canonical,False
+TFN:southampton:settlement,world,1,world:Southampton:settlement,Southampton,settlement,settlement,,United Kingdom,,50.9097,-1.4044,1.0,1.1,canonical,True
+TFN:st johns:settlement,cgndb,1,ABEFS,St. John's,CITY / City,settlement,newfoundland and labrador,Canada,30000000.0,47.482197,-52.797069,1.0,1.259,canonical,True
+TFN:st lawrence river:water,cgndb,1,FCSPI,St. Lawrence River,RIV / River,water,ontario,Canada,5000000.0,45.19679,-74.33142,1.0,1.257,canonical,True
+TFN:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.299,canonical,True
+TFN:united states:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+TFN:winchester:settlement,cgndb,1,FDEEA,Winchester,UNP / Community,settlement,ontario,Canada,1200000.0,45.09193,-75.35212,1.0,1.223,canonical,True
+TFN:woking:settlement,cgndb,1,IAPMW,Woking,UNP / Hamlet,settlement,alberta,Canada,2000000.0,55.5925,-118.7719444,1.0,1.191,canonical,True
+WofW:britain:country,world,1,world:Great Britain:country,Great Britain,country,country,,United Kingdom,,54.0,-2.0,1.0,1.1,canonical,True
+WofW:brockville:settlement,cgndb,1,FDGDV,Brockville,CITY / City,settlement,ontario,Canada,10000000.0,44.59733,-75.6855,1.0,1.404,canonical,True
+WofW:burlington:settlement,cgndb,1,FAMXK,Burlington,CITY / City,settlement,ontario,Canada,5000000.0,43.37006,-79.81403,1.0,1.388,canonical,True
+WofW:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
+WofW:connecticut:settlement,world,1,world:Connecticut:region,Connecticut,region,admin_large,,United States,,41.6032,-73.0877,1.0,1.05,canonical,True
+WofW:delaware town:settlement,cgndb,1,FAWGM,Delaware,UNP / Locality,settlement,ontario,Canada,1200000.0,42.9097222,-81.4211111,0.96,1.314,variant,True
+WofW:delaware town:settlement,cgndb,2,FEIVS,Delaware,GEOG / Geographic Township,area,ontario,Canada,50000.0,42.89925,-81.3757,0.96,1.14,variant,False
+WofW:delaware town:settlement,cgndb,3,FOBRM,Delaware,MUN2 / First Nation Administrative Location,area,ontario,Canada,50000.0,43.0551822,-80.1356987,0.96,1.14,variant,False
+WofW:detroit river:water,cgndb,1,FAWPS,Detroit River,RIV / River,water,ontario,Canada,1000000.0,42.081944,-83.125556,1.0,1.35,canonical,True
+WofW:detroit:settlement,world,1,world:Detroit:settlement,Detroit,settlement,settlement,,United States,,42.3314,-83.0458,1.0,1.1,canonical,True
+WofW:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+WofW:europe:region,world,1,world:Europe:region,Europe,region,admin_large,,,,54.526,15.2551,1.0,1.1,canonical,True
+WofW:fort george:facility,overrides,1,override:Fort George:40,"Fort George, Niagara-on-the-Lake",,facility,ontario,Canada,,43.2522,-79.0603,1.0,1.28,canonical,True
+WofW:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
+WofW:germany:country,world,1,world:Germany:country,Germany,country,country,,Germany,,51.1657,10.4515,1.0,1.1,canonical,True
+WofW:grand river:water,cgndb,1,FBIYS,Grand River,RIV / River,water,ontario,Canada,2000000.0,42.855172,-79.577856,1.0,1.366,canonical,True
+WofW:grand river:water,cgndb,2,CAOEZ,Grand River,RIV / River,water,nova scotia,Canada,1000000.0,45.611233,-60.627182,1.0,1.172,canonical,False
+WofW:great lakes:water,cgndb,1,FBJNE,Great Lake,LAKE / Lake,water,ontario,Canada,250000.0,48.08353,-82.042757,0.952,1.27,fuzzy,True
+WofW:holland:country,world,1,world:Netherlands:country,Netherlands,country,country,,Netherlands,,52.1326,5.2913,1.0,1.1,canonical,True
+WofW:ireland:country,world,1,world:Ireland:country,Ireland,country,country,,Ireland,,53.4129,-8.2439,1.0,1.1,canonical,True
+WofW:kingston:settlement,cgndb,1,FBUUF,Kingston,UNP / Community,settlement,ontario,Canada,15000000.0,44.2347222,-76.5108334,1.0,1.413,canonical,True
+WofW:kingston:settlement,cgndb,2,FEVJR,Kingston,CITY / City,settlement,ontario,Canada,5000000.0,44.3066667,-76.4163888,1.0,1.388,canonical,False
+WofW:kingston:settlement,cgndb,3,DALRC,Kingston,UNP / Dispersed Rural Community,settlement,new brunswick,Canada,1000000.0,45.502722,-65.975085,1.0,1.18,canonical,False
+WofW:kingston:settlement,cgndb,4,CATAQ,Kingston,VILG / Village,settlement,nova scotia,Canada,1000000.0,44.987141,-64.949971,1.0,1.172,canonical,False
+WofW:lake erie:water,cgndb,1,FEHRJ,Lake Erie,LAKE / Lake,water,ontario,Canada,5000000.0,42.3265975,-81.176531,1.0,1.388,canonical,True
+WofW:lake huron:water,cgndb,1,FBPQQ,Lake Huron,LAKE / Lake,water,ontario,Canada,5000000.0,44.9440939,-82.2228182,1.0,1.388,canonical,True
+WofW:lake ontario:water,cgndb,1,FAYLN,Lake Ontario,LAKE / Lake,water,ontario,Canada,5000000.0,43.7288366,-78.1064044,1.0,1.388,canonical,True
+WofW:london:settlement,cgndb,1,FCAEN,London,CITY / City,settlement,ontario,Canada,17500000.0,42.9675,-81.2325,1.0,1.417,canonical,True
+WofW:london:settlement,world,1,world:London:settlement,London,settlement,settlement,,United Kingdom,,51.5074,-0.1278,1.0,1.1,canonical,False
+WofW:lower canada:region,overrides,1,override:Lower Canada:5,"Lower Canada, represented by Quebec City",,admin_large,quebec,Canada,,46.8139,-71.208,1.0,1.106,canonical,True
+WofW:massachusetts:settlement,world,1,world:Massachusetts:region,Massachusetts,region,admin_large,,United States,,42.4072,-71.3824,1.0,1.05,canonical,True
+WofW:michigan:settlement,world,1,world:Michigan:region,Michigan,region,admin_large,,United States,,44.3148,-85.6024,1.0,1.05,canonical,True
+WofW:moraviantown:settlement,cgndb,1,FDWMR,Moraviantown,UNP / Dispersed Rural Community,settlement,ontario,Canada,700000.0,42.58097,-81.89354,1.0,1.342,canonical,True
+WofW:new brunswick:region,cgndb,1,DBBWP,New Brunswick,PROV / Province,admin_large,new brunswick,Canada,30000000.0,46.5,-66.0,1.0,1.259,canonical,True
+WofW:new york state:settlement,world,1,world:New York:region,New York,region,admin_large,,United States,,42.9538,-75.5268,1.0,1.05,canonical,True
+WofW:new york:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
+WofW:newark:settlement,overrides,1,override:Niagara:39,Niagara (Niagara-on-the-Lake),,settlement,ontario,Canada,,43.255,-79.0717,1.0,1.28,canonical,True
+WofW:niagara falls:water,cgndb,1,FDOSE,Niagara Falls,FALL / Falls,water,ontario,Canada,1000000.0,43.07945,-79.07472,1.0,1.35,canonical,True
+WofW:niagara falls:water,cgndb,2,FEDBA,Niagara Falls,CITY / City,settlement,ontario,Canada,7500000.0,43.06012,-79.10671,1.0,1.217,canonical,False
+WofW:niagara on the lake:unknown,cgndb,1,FCFTB,Niagara-on-the-Lake,TOWN / Town,settlement,ontario,Canada,1200000.0,43.20457,-79.12806,1.0,1.304,canonical,True
+WofW:niagara peninsula:landform,cgndb,1,FESEM,Niagara Peninsula,CAPE / Peninsula,terrain,ontario,Canada,1000000.0,43.024722,-79.344167,1.0,1.35,canonical,True
+WofW:niagara river:water,cgndb,1,FDOSL,Niagara River,RIV / River,water,ontario,Canada,1000000.0,43.262222,-79.073056,1.0,1.35,canonical,True
+WofW:niagara:settlement,overrides,1,override:Niagara:39,Niagara (Niagara-on-the-Lake),,settlement,ontario,Canada,,43.255,-79.0717,1.0,1.28,canonical,True
+WofW:norfolk:settlement,cgndb,1,IANRQ,Norfolk,UNP / Locality,settlement,alberta,Canada,1200000.0,51.0444445,-113.71,1.0,1.176,canonical,True
+WofW:ohio river:water,cgndb,1,CBCIH,Ohio River,RIV / River,water,nova scotia,Canada,1000000.0,45.559944,-62.084914,1.0,1.172,canonical,True
+WofW:ontario:water,cgndb,1,FAYLN,Lake Ontario,LAKE / Lake,water,ontario,Canada,5000000.0,43.7288366,-78.1064044,0.96,1.348,variant,True
+WofW:pennsylvania:settlement,world,1,world:Pennsylvania:region,Pennsylvania,region,admin_large,,United States,,41.2033,-77.1945,1.0,1.05,canonical,True
+WofW:quebec:settlement,cgndb,1,EHTWR,Québec,CITY / Town,settlement,quebec,Canada,30000000.0,46.813819,-71.207997,1.0,1.256,canonical,True
+WofW:quebec:settlement,cgndb,2,ESXLC,Québec,GEOG / Census Division,area,quebec,Canada,7500000.0,46.85,-71.35,1.0,1.124,canonical,False
+WofW:quebec:settlement,cgndb,3,ESXOY,Québec,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,46.813819,-71.207997,1.0,1.124,canonical,False
+WofW:queenston:facility,cgndb,1,FCJBN,Queenston,UNP / Compact Rural Community,settlement,ontario,Canada,700000.0,43.165,-79.0558333,1.0,1.292,canonical,True
+WofW:queenston:settlement,cgndb,1,FCJBN,Queenston,UNP / Compact Rural Community,settlement,ontario,Canada,700000.0,43.165,-79.0558333,1.0,1.342,canonical,True
+WofW:south carolina:settlement,world,1,world:South Carolina:region,South Carolina,region,admin_large,,United States,,33.8361,-81.1637,1.0,1.05,canonical,True
+WofW:st catharines:settlement,cgndb,1,FDJFN,St. Catharines,CITY / City,settlement,ontario,Canada,7500000.0,43.16544,-79.2533,1.0,1.397,canonical,True
+WofW:st john:settlement,cgndb,1,DAEGW,Saint John,CITY / City,settlement,new brunswick,Canada,17500000.0,45.259167,-66.038889,1.0,1.247,canonical,True
+WofW:st john:settlement,cgndb,2,FDXPU,St. John,GEOG / Geographic Township,area,ontario,Canada,50000.0,48.9280556,-80.8775,1.0,1.18,canonical,False
+WofW:st lawrence:water,cgndb,1,FCSPI,St. Lawrence River,RIV / River,water,ontario,Canada,5000000.0,45.19679,-74.33142,0.96,1.348,variant,True
+WofW:st lawrence:water,cgndb,2,FCSPH,Lake St. Lawrence,LAKE / Lake,water,ontario,Canada,250000.0,44.9511649,-75.0282292,0.96,1.277,variant,False
+WofW:st lawrence:water,cgndb,3,AAWFL,St. Lawrence,TOWN / Town,settlement,newfoundland and labrador,Canada,1000000.0,46.907917,-55.404514,1.0,0.992,canonical,False
+WofW:table rock:unknown,cgndb,1,FCUQR,Table Rock,CAPE / Peninsula,terrain,ontario,Canada,250000.0,46.20784,-82.8285,1.0,1.167,canonical,True
+WofW:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.43,canonical,True
+WofW:toronto:settlement,cgndb,2,FCWYG,Toronto,UNP / Community,settlement,ontario,Canada,250000.0,43.6758333,-79.3969444,1.0,1.317,canonical,False
+WofW:united states:country,world,1,world:United States:country,United States,country,country,,United States,,39.8283,-98.5795,1.0,1.1,canonical,True
+WofW:upper canada:region,overrides,1,override:Upper Canada:6,"Upper Canada, represented by York/Toronto",,admin_large,ontario,Canada,,43.6532,-79.3832,1.0,1.28,canonical,True
+WofW:vermont:settlement,world,1,world:Vermont:region,Vermont,region,admin_large,,United States,,44.5588,-72.5778,1.0,1.05,canonical,True
+WofW:virginia:settlement,cgndb,1,FDACJ,Virginia,UNP / Dispersed Rural Community,settlement,ontario,Canada,420000.0,44.3163889,-79.2844444,1.0,1.33,canonical,False
+WofW:virginia:settlement,world,1,world:Virginia:region,Virginia,region,admin_large,,United States,,37.4316,-78.6569,1.0,1.05,canonical,True
+WofW:white house:facility,cgndb,1,ABEKD,White House,UNP / Locality,settlement,newfoundland and labrador,Canada,1200000.0,51.4813889,-56.9494445,1.0,1.076,canonical,True
+WofW:york:settlement,overrides,1,override:York:20,York (Toronto),,settlement,ontario,Canada,,43.6532,-79.3832,1.0,1.28,canonical,True

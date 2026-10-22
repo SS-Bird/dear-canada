@@ -6,3 +6,10 @@ __pycache__/
 
 # Model weights/checkpoints (too large for GitHub)
 Tangents/ML Asgmts SA and Generative/models/
+
+# Downloaded gazetteers (large; re-download per data/Gazetteers/README.md)
+data/Gazetteers/cgndb/
+data/Gazetteers/chgis/
+
+# NER cache of the place extraction pipeline (regenerated automatically)
+Pipelines/Place Mentions/intermediate/ner_cache/

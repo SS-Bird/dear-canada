@@ -1,0 +1,106 @@
+{
+ "created": "2026-10-21T00:22:11",
+ "input": "/Users/sophiebird/Downloads/Dear Canada/Pipelines/Place Mentions/intermediate/place_mentions_extracted.csv",
+ "books": null,
+ "parameters": {
+  "MIN_NAME_SCORE": 0.88,
+  "FUZZY_ENABLED": true,
+  "FUZZY_MIN_LEN": 6,
+  "FUZZY_CONFIDENCES": [
+   "high",
+   "medium",
+   "model"
+  ],
+  "TYPE_CLASSES": {
+   "settlement": {
+    "settlement": 0.1,
+    "csd": 0.08,
+    "area": 0.0,
+    "facility": 0.0
+   },
+   "region": {
+    "admin_large": 0.1,
+    "area": 0.05,
+    "csd": 0.02,
+    "settlement": -0.05
+   },
+   "country": {
+    "country": 0.1,
+    "admin_large": 0.0
+   },
+   "water": {
+    "water": 0.1,
+    "settlement": -0.08
+   },
+   "landform": {
+    "island": 0.1,
+    "terrain": 0.1,
+    "area": 0.0,
+    "settlement": -0.05
+   },
+   "facility": {
+    "facility": 0.1,
+    "settlement": 0.0,
+    "csd": 0.0,
+    "area": -0.05
+   },
+   "unknown": {
+    "settlement": 0.05,
+    "admin_large": 0.05,
+    "country": 0.05,
+    "csd": 0.03,
+    "area": 0.0,
+    "island": 0.0,
+    "water": -0.05,
+    "terrain": -0.05
+   },
+   "vessel": {}
+  },
+  "RELEVANCE_WEIGHT": 0.15,
+  "MIN_RELEVANCE_LOW_CONFIDENCE": 250000,
+  "PROVINCE_CONTEXT_WEIGHT": 0.2,
+  "ANCHOR_MIN_RELEVANCE": 1000000,
+  "BOOK_PROVINCE_HINTS": {
+   "BUoL": [
+    "saskatchewan"
+   ]
+  },
+  "CANADA_WINS_CONTEXT_SHARE": 0.5,
+  "CANADA_WINS_MIN_RELEVANCE": 1000000,
+  "AMBIGUITY_MARGIN": 0.1,
+  "AMBIGUITY_KM": 25.0,
+  "CHGIS_MAX_GAP_YEARS": 10,
+  "CSD_SNAP_M": 3000
+ },
+ "gazetteers": {
+  "overrides": {
+   "records": 53,
+   "source": "/Users/sophiebird/Downloads/Dear Canada/data/Gazetteers/curated/place_overrides.csv",
+   "time_basis": "override"
+  },
+  "world": {
+   "records": 116,
+   "source": "/Users/sophiebird/Downloads/Dear Canada/data/Gazetteers/curated/world_places.csv",
+   "time_basis": "curated"
+  },
+  "cgndb": {
+   "records": 366235,
+   "source": "1 file(s) in /Users/sophiebird/Downloads/Dear Canada/data/Gazetteers/cgndb",
+   "time_basis": "modern"
+  }
+ },
+ "notes": [
+  "chgis: not available (no ['*.gdb', '*.gpkg'] in /Users/sophiebird/Downloads/Dear Canada/data/Gazetteers/chgis)"
+ ],
+ "counts": {
+  "mentions": 4384,
+  "located_mentions": 3169,
+  "queries": 1302,
+  "by_status": {
+   "matched": 709,
+   "unmatched": 585,
+   "not_geographic": 8
+  },
+  "needs_review": 958
+ }
+}
