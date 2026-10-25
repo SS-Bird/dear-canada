@@ -1,5 +1,5 @@
 alias,region,note
-Canada,canada,"Meaning shifts with the date; see region_polygons.csv"
+Canada,canada,Meaning shifts with the date; see region_polygons.csv
 Dominion of Canada,canada,
 British Canada,canada,
 Gold Mountain,canada,"Gum Shan; North America, here Canada"
@@ -12,7 +12,7 @@ Ontario,ontario,
 Province of Ontario,ontario,
 Upper Canada,ontario,
 Canada West,ontario,
-Quebec,quebec,"The city is excluded by location_precision = settlement"
+Quebec,quebec,The city is excluded by location_precision = settlement
 Province of Quebec,quebec,
 Lower Canada,quebec,
 Canada East,quebec,
@@ -55,7 +55,7 @@ N.W.T.,north_west_territories,
 Alberta,alberta,
 District of Alberta,alberta,
 Province of Alberta,alberta,
-Saskatchewan,saskatchewan,"The river is excluded by location_precision = feature"
+Saskatchewan,saskatchewan,The river is excluded by location_precision = feature
 District of Saskatchewan,saskatchewan,
 Province of Saskatchewan,saskatchewan,
 District of Assiniboia,district_of_assiniboia,
@@ -72,12 +72,6 @@ Yukon Territory,yukon,
 District of Yukon,yukon,
 Nunavut,nunavut,
 Nunavut Territory,nunavut,
-United States,united_states,
-United States of America,united_states,
-U.S.A.,united_states,
-America,united_states,"As matched by the pipeline; check books where it means North America"
-States,united_states,
-The States,united_states,
 Thirteen Colonies,thirteen_colonies,
 13 Colonies,thirteen_colonies,
 American Colonies,thirteen_colonies,
@@ -87,3 +81,16 @@ Oregon Country,oregon_territory,
 Alaska,alaska,
 Russian America,alaska,
 Indian Territory,indian_territory,
+United States,world:United States of America,
+United States of America,world:United States of America,
+U.S.A.,world:United States of America,
+America,world:United States of America,As matched by the pipeline; check books where it means North America
+States,world:United States of America,
+The States,world:United States of America,
+Britain,world:United Kingdom,"Modern UK (England, Scotland, Wales, Northern Ireland)"
+Great Britain,world:United Kingdom,
+Holland,world:Netherlands,
+Flanders,world:Flemish Region,Modern Flemish Region; the historical county also covered parts of France
+New York State,world:New York,The state; the city is excluded by location_precision = settlement
+Michigan Territory,world:Michigan,
+Montana Territory,world:Montana,

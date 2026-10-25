@@ -1,9 +1,10 @@
 // Place mentions over time — the v1 place explorer, rebuilt on the Leaflet basemap.
 // Reads the places datasets by role: "mentions" (place_mentions.csv), and optionally
-// "boundaries" (HACOLP polygons), "region_aliases" and "region_polygons" (curated tables)
-// and "corrections" (flags, see js/flags.js).
-// Mentions of a province, colony or territory fill its polygon as it was at the mention's
-// date; mentions of a whole country darken its name; every other located mention is a dot.
+// "boundaries" (HACOLP polygons), "world_boundaries" (Natural Earth), "region_aliases" and
+// "region_polygons" (curated tables) and "corrections" (flags, see js/flags.js).
+// Mentions of a Canadian province, colony or territory fill its polygon as it was at the
+// mention's date; mentions of Canada darken its name; other countries and US states fill
+// grey within modern borders; every other located mention is a dot.
 import { esc, fold, parseDate, html, cssVar } from "../util.js";
 import { fetchDataset } from "../data.js";
 import { bookTitle } from "../books.js";
@@ -15,10 +16,15 @@ const PAUSE_SECONDS = 1.2; // in "one after another" mode, the gap between books
 const TOPN = 30;
 const OUTLIER_YEARS = 25; // dates this far from a book's median date are left off the timeline (likely back matter)
 const NOT_REGION = new Set(["settlement", "site", "feature"]); // e.g. Quebec the city, the Saskatchewan River
-// Country-level mentions are drawn as the country's name: it starts LABEL_START and moves
-// towards the mentioning books' colour with every mention (1 − LABEL_STEP^n of the way).
-const COUNTRY_LABELS = { canada: { text: "Canada", at: [63.5, -97] }, united_states: { text: "United States", at: [44.5, -101] } };
-const LABEL_START = "#d6d6d1", LABEL_STEP = 0.9;
+// Mentions of Canada as a whole are drawn as its name: it starts LABEL_START and moves towards
+// the last mentioning book's colour with every mention (1 − LABEL_STEP^n of the way). The name
+// is LABEL_PX at zoom LABEL_ZOOM and scales with the map.
+const COUNTRY_LABELS = { canada: { text: "Canada", at: [62.5, -97] } };
+const LABEL_START = "#d6d6d1", LABEL_STEP = 0.9, LABEL_PX = 14, LABEL_ZOOM = 4;
+// Other countries and US states (modern borders): one grey fill shared by all books,
+// reaching 1 − WORLD_STEP^n opacity after n mentions, up to WORLD_MAX.
+const WORLD_FILL = "#4a4844", WORLD_STEP = 0.97, WORLD_MAX = 0.5;
+const WORLD_TYPES = new Set(["country", "region"]);
 const MODE_NOTES = {
   calendar: "Mentions accumulate from the earliest date among the selected books.",
   sequence: "Books play one after another in calendar order, with a short pause between them. Books whose dates overlap play together.",
@@ -29,12 +35,12 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   let alive = true;
   let raw = [], rows = [], bookCodes = [], bookColor = {}, bookRGB = {}, bookYear = {};
   let hidden = new Set(), mode = "calendar", hoverBook = null, query = "", showCountry = false;
-  let locGroups = [], regGroups = [], ctyGroups = [], unlGroups = [], lo = 0, hi = 1, frac = 1, curT = 1;
+  let locGroups = [], regGroups = [], ctyGroups = [], wldGroups = [], unlGroups = [], lo = 0, hi = 1, frac = 1, curT = 1;
   let seq = [], seqStarts = [];
   let selected = null, selSig = "", showingUnl = false, unlSig = "", detailKey = null;
   let editing = false, picking = null, pickPin = null, openMention = new Set(), suggestions = new Map();
   let playing = false, lastTs = 0;
-  let bounds = null, outline = null, outlineYear = null;
+  let bounds = null, world = null, outline = null, outlineYear = null;
   const shapeCache = new Map();
   const colors = { ring: cssVar("--panel") || "#fff", ink: cssVar("--ink") || "#1c1c1a", accent: cssVar("--accent") || "#3c5a6e" };
 
@@ -60,8 +66,8 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       <h2 style="margin-top:14px">Without a location</h2>
       <button data-k="unl" style="width:100%">Show unlocated places</button>
       <h2 style="margin-top:14px">Reading the map</h2>
-      <div class="note" style="margin-top:0">Books are coloured red to violet by the year they are set. A mention of a province, colony or territory tints its area, as its borders stood on the date of the mention; colour deepens with each mention and overlapping books mix. Mentions of Canada or the United States darken the country's name towards the books' colours. Other places are dots whose area grows with mentions so far; a dashed ring marks an open flag. Faint lines show the borders in force at the current date.</div>
-      <label class="chip" style="margin-top:6px"><input type="checkbox" data-k="country"><span class="label">Fill countries instead of naming them</span></label>
+      <div class="note" style="margin-top:0">Books are coloured red to violet by the year they are set. A mention of a province, colony or territory tints its area, as its borders stood on the date of the mention; colour deepens with each mention and overlapping books mix. Mentions of Canada darken its name towards the books' colours. Other countries and US states shade grey within modern borders, darker with each mention. Other places are dots whose area grows with mentions so far; a dashed ring marks an open flag. Faint lines show the borders in force at the current date.</div>
+      <label class="chip" style="margin-top:6px"><input type="checkbox" data-k="country"><span class="label">Fill Canada instead of naming it</span></label>
       <div class="note">Click any place to flag or correct it. <a href="#/flags">Flags &amp; fixes</a></div>
     </div>
     <div class="status" data-k="status">Loading place_mentions…</div>
@@ -97,6 +103,11 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   panel.onClose = () => { selected = null; showingUnl = false; selSig = ""; endEdit(); update(); };
   const onMapClick = e => { if (picking) { picking(e.latlng); } };
   map.on("click", onMapClick);
+  const scaleLabels = z => map.getContainer().style.setProperty("--pl-label",
+    Math.max(7, Math.min(140, LABEL_PX * 2 ** (z - LABEL_ZOOM))).toFixed(1) + "px");
+  const onZoom = e => scaleLabels(e.zoom ?? map.getZoom());
+  map.on("zoomanim zoomend", onZoom);
+  scaleLabels(map.getZoom());
   const offFlags = onFlagsChange(() => alive && raw.length && load(raw));
 
   // ───────────── load
@@ -104,10 +115,11 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   const ds = byRole("mentions");
   const optional = role => byRole(role) ? fetchDataset(byRole(role)) : Promise.resolve(null);
   if (!ds) q("status").textContent = "No places dataset with role “mentions” in data_sources.json.";
-  else Promise.all([fetchDataset(ds), optional("boundaries"), optional("region_aliases"), optional("region_polygons"), loadFlags(manifest)])
-    .then(([records, b, aliases, rules]) => {
+  else Promise.all([fetchDataset(ds), optional("boundaries"), optional("region_aliases"), optional("region_polygons"), optional("world_boundaries"), loadFlags(manifest)])
+    .then(([records, b, aliases, rules, w]) => {
       if (!alive) return;
       if (b && aliases && rules) bounds = regionIndex(b, aliases, rules);
+      if (w) world = worldIndex(w, aliases || []);
       raw = records.map(r => ({
         mention_id: r.mention_id, book: r.book, entry_id: r.entry_id, chapter_id: r.chapter_id, date: r.date,
         place: r.place, place_type: r.place_type, sentence: r.sentence, ner_label: r.ner_label, resolution_status: r.resolution_status,
@@ -128,7 +140,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     const median = d3.rollup(rows.filter(r => r.ms != null), v => d3.median(v, r => r.ms), r => r.book);
     let outliers = 0;
     rows.forEach(r => { if (r.ms != null && Math.abs(r.ms - median.get(r.book)) > OUTLIER_YEARS * 365.25 * 864e5) { r.ms = null; r.outlier = true; outliers++; } });
-    rows.forEach(r => r.reg = bounds && assignRegion(r));
+    rows.forEach(r => { r.reg = bounds && assignRegion(r); r.world = !r.reg && world ? assignWorld(r) : null; });
     // Rainbow by setting year: the median date of each book's (non-outlying) mentions
     const setting = d3.rollup(rows.filter(r => r.ms != null), v => d3.median(v, r => r.ms), r => r.book);
     bookCodes = [...new Set(rows.map(r => r.book))].sort((a, b) =>
@@ -141,10 +153,10 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     suggestions = buildSuggestions();
     buildLegend();
     rebuild();
-    const loc = rows.filter(r => r.located || r.reg).length, undated = rows.filter(r => r.ms == null).length;
-    const reg = rows.filter(r => r.reg).length, removed = all.length - rows.length;
+    const loc = rows.filter(r => r.located || r.reg || r.world).length, undated = rows.filter(r => r.ms == null).length;
+    const reg = rows.filter(r => r.reg).length, wld = rows.filter(r => r.world).length, removed = all.length - rows.length;
     const corrected = rows.filter(r => r.correction).length, open = rows.filter(r => r.flagOpen).length;
-    q("status").textContent = `${rows.length.toLocaleString()} mentions · ${loc.toLocaleString()} located (${reg.toLocaleString()} as regions) · ${(rows.length - loc).toLocaleString()} unlocated`
+    q("status").textContent = `${rows.length.toLocaleString()} mentions · ${loc.toLocaleString()} located (${reg.toLocaleString()} as Canadian regions, ${wld.toLocaleString()} as other countries and states) · ${(rows.length - loc).toLocaleString()} unlocated`
       + (undated > outliers ? ` · ${undated - outliers} undated` : "") + (outliers ? ` · ${outliers} with outlying dates (off the timeline)` : "")
       + (corrected || removed ? ` · ${corrected + removed} corrected${removed ? ` (${removed} removed as not places)` : ""}` : "")
       + (open ? ` · ${open} with open flags` : "")
@@ -183,13 +195,41 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     const clean = String(r.matched_name || "").split(/,| \(|:/)[0];
     const byPlace = bounds.alias.get(fold(r.place)), byMatch = clean ? bounds.alias.get(fold(clean)) : undefined;
     const id = r.correction ? byMatch ?? byPlace : byPlace ?? byMatch; // a correction's name comes first
-    if (!id) return null;
+    if (!id || id.startsWith("world:")) return null;
     const year = new Date(r.ms).getUTCFullYear();
     const rule = bounds.rules.get(id)?.find(x => year >= x.from && year <= x.to);
     if (!rule) return null;
     const ly = layerFor(year);
     const feats = bounds.layers[ly].filter(f => rule.polys.includes(f.name) || rule.polys.includes("@" + f.country));
     return feats.length ? { id, level: rule.level, layer: ly, feats } : null;
+  }
+
+  // ───────────── modern countries and US states
+  function worldIndex(w, aliasRows) {
+    // region_aliases.csv rows whose region is "world:<Natural Earth name>"
+    const alias = new Map(aliasRows.filter(a => a.alias && /^world:/.test(a.region || "")).map(a => [fold(a.alias), fold(a.region.slice(6))]));
+    return { features: w.features, names: w.names, alias, shapes: new Map() };
+  }
+  function assignWorld(r) {
+    const p = r.location_precision;
+    if (r.ms == null || !(WORLD_TYPES.has(p) || (!p && WORLD_TYPES.has(r.place_type)))) return null;
+    const clean = String(r.matched_name || "").split(/,| \(|:/)[0];
+    for (const name of r.correction ? [clean, r.place] : [r.place, clean]) {
+      if (!name) continue;
+      const k = fold(name), idx = world.names[world.alias.get(k) ?? k];
+      if (!idx) continue;
+      const fs = idx.map(i => world.features[i]);
+      return { key: idx.join(","), idx, name: fs.length === 1 ? fs[0].name : fs[0].admin, parts: fs.map(f => f.name) };
+    }
+    return null;
+  }
+  function worldShape(w) {
+    if (!world.shapes.has(w.key)) {
+      const coords = [];
+      for (const i of w.idx) { const g = world.features[i].g; g.type === "Polygon" ? coords.push(g.coordinates) : coords.push(...g.coordinates); }
+      world.shapes.set(w.key, L.GeoJSON.coordsToLatLngs(coords, 2));
+    }
+    return world.shapes.get(w.key);
   }
 
   function shapeOf(feats) {
@@ -271,7 +311,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     const vis = rows.filter(r => r.tv != null).sort((a, b) => a.tv - b.tv);
     lo = d3.min(vis, r => r.tv) ?? 0; hi = d3.max(vis, r => r.tv) ?? 1; if (hi <= lo) hi = lo + 1;
 
-    const lm = new Map(), rm = new Map(), cm = new Map(), um = new Map();
+    const lm = new Map(), rm = new Map(), cm = new Map(), wm = new Map(), um = new Map();
     const multi = (m, k, make, r) => {
       let g = m.get(k); if (!g) m.set(k, g = { ...make, rows: [], byBook: new Map() });
       g.rows.push(r);
@@ -279,7 +319,9 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       g.byBook.get(r.book).push(r.tv);
     };
     for (const r of vis) {
-      if (r.reg && r.reg.level === "country" && !showCountry) {
+      if (r.world) {
+        multi(wm, r.world.key, { key: "W" + r.world.key, kind: "W", world: r.world, text: r.world.name }, r);
+      } else if (r.reg && r.reg.level === "country" && !showCountry) {
         multi(cm, r.reg.id, { key: "C" + r.reg.id, kind: "C", reg: r.reg }, r);
       } else if (r.reg) {
         const k = r.book + "|" + r.reg.layer + "|" + r.reg.id;
@@ -293,7 +335,10 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     }
     const topLabel = rs => d3.greatest(d3.rollups(rs, v => v.length, r => r.place), d => d[1])[0];
     locGroups = [...lm.values()]; regGroups = [...rm.values()]; ctyGroups = [...cm.values()]; unlGroups = [...um.values()];
-    for (const g of [...locGroups, ...regGroups, ...ctyGroups, ...unlGroups]) {
+    // Drawn bottom to top: whole countries made of several units (the UK), then single units, then US states
+    const isState = g => world.features[g.world.idx[0]].kind === "state";
+    wldGroups = [...wm.values()].sort((a, b) => isState(a) - isState(b) || b.world.idx.length - a.world.idx.length);
+    for (const g of [...locGroups, ...regGroups, ...ctyGroups, ...wldGroups, ...unlGroups]) {
       g.label = topLabel(g.rows); g.total = g.rows.length; g.flagged = g.rows.some(r => r.flagOpen);
     }
     locGroups.sort((a, b) => b.total - a.total); // big dots drawn first, small ones on top
@@ -304,7 +349,13 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       L.DomEvent.stop(e);
       if (picking) picking(e.latlng); else select(g);
     });
-    // Regions go in first so the shared canvas draws (and hit-tests) dots above them
+    // Areas go in first so the shared canvas draws (and hit-tests) dots above them;
+    // modern countries below Canada's historical regions
+    for (const g of wldGroups) {
+      g.marker = clickable(L.polygon(worldShape(g.world), { renderer, weight: 0.5, color: WORLD_FILL, opacity: 0,
+        fillColor: WORLD_FILL, fillOpacity: 0 }).bindTooltip(() => tipHtml(g), { sticky: true }), g).addTo(layer);
+      g.sig = "";
+    }
     for (const g of regGroups) {
       g.marker = clickable(L.polygon(shapeOf(g.reg.feats), { renderer, weight: 0.5, color: bookColor[g.book], opacity: 0,
         fillColor: bookColor[g.book], fillOpacity: 0 }).bindTooltip(() => tipHtml(g), { sticky: true }), g).addTo(layer);
@@ -325,7 +376,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       g.sig = "";
     }
     // Keep the selection; after a correction moves its mentions, follow them to their new group
-    const groups = { L: locGroups, R: regGroups, C: ctyGroups, U: unlGroups };
+    const groups = { L: locGroups, R: regGroups, C: ctyGroups, W: wldGroups, U: unlGroups };
     const firstId = selected?.rows[0]?.mention_id;
     const same = selected && (groups[selected.kind].find(g => g.key === selected.key) ||
       Object.values(groups).flat().find(g => g.rows.some(r => r.mention_id === firstId)));
@@ -382,6 +433,21 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
         color: sel ? colors.accent : bookColor[g.book], weight: sel ? 2 : 0.5,
       });
     }
+    for (const g of wldGroups) {
+      let n = 0, last = -Infinity;
+      for (const [b, a] of g.byBook) {
+        if (hoverBook && b !== hoverBook) continue;
+        const k = d3.bisectRight(a, t); n += k; if (k) last = Math.max(last, a[k - 1]);
+      }
+      g.n = countTo(g, t);
+      const recent = n && t - last <= win && t < hi, dim = !matches(g), sel = selected === g;
+      const fill = !n ? 0 : dim ? 0.03 : Math.min(WORLD_MAX, 1 - Math.pow(WORLD_STEP, n)) + (recent ? 0.05 : 0);
+      const sig = `${fill}|${dim}|${sel}`;
+      if (sig === g.sig) continue;
+      g.sig = sig;
+      g.marker.setStyle({ fillOpacity: fill, opacity: !n || dim ? 0 : sel ? 0.9 : 0.2,
+        color: sel ? colors.accent : WORLD_FILL, weight: sel ? 2 : 0.5 });
+    }
     for (const g of ctyGroups) {
       if (!g.el) continue;
       // Hue from the book that mentioned it last, darkness from every mention so far
@@ -413,7 +479,8 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       : `${g.byBook.size} book${g.byBook.size === 1 ? "" : "s"}`;
     return `<b>${esc(g.text || g.label)}</b><div class="muted">${who}</div>` +
       `<div class="muted">${g.n} of ${g.total} mentions so far</div>` +
-      (g.kind === "R" ? `<div class="muted">${esc(regionNames(g.reg.feats))}, borders of ${g.reg.layer}</div>`
+      (g.kind === "W" ? `<div class="muted">modern borders</div>` :
+        g.kind === "R" ? `<div class="muted">${esc(regionNames(g.reg.feats))}, borders of ${g.reg.layer}</div>`
         : g.kind === "L" && g.rows[0].matched_name ? `<div class="muted">${esc(g.rows[0].matched_name)}</div>` : "") +
       (g.flagged ? `<div class="muted">⚑ open flag</div>` : "");
   }
@@ -423,7 +490,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   function renderDetail() {
     const g = selected, t = curT, r0 = g.rows[0];
     const books = g.book ? [g.book] : [...g.byBook.keys()];
-    const sub = ({ L: "located", R: "region", C: "country", U: "no location" })[g.kind] + " · " +
+    const sub = ({ L: "located", R: "region", C: "country", W: "country or state", U: "no location" })[g.kind] + " · " +
       books.map(b => `<span class="dot" style="background:${bookColor[b]}"></span> ${esc(bookTitle(b))}`).join(" &nbsp;");
     const props = [];
     if (g.kind === "L") {
@@ -436,6 +503,10 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     } else if (g.kind === "R") {
       props.push(["filled area", `${g.reg.feats.map(f => f.name).join(", ")} (HACOLP borders of ${g.reg.layer})`]);
       if (r0.matched_name) props.push(["matched to", r0.matched_name]);
+    } else if (g.kind === "W") {
+      const parts = g.world.parts.length > 1 ? ` (${g.world.parts.join(", ")})` : "";
+      props.push(["filled area", `${g.world.name}${parts}, modern borders (Natural Earth)`]);
+      if (r0.matched_name) props.push(["matched to", r0.matched_name]);
     } else if (g.kind === "C") {
       props.push(["shown as", `the name “${g.text}”, darkening with each mention (tick “Fill countries” to fill it instead)`]);
     } else {
@@ -445,7 +516,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     props.push(["NER label", [...new Set(g.rows.map(r => r.ner_label).filter(Boolean))].join(", ")]);
     const flags = [...new Map(g.rows.flatMap(r => r.flags || []).map(f => [f.id, f])).values()];
     const upto = g.rows.filter(r => r.tv != null && r.tv <= t);
-    const many = g.kind === "U" || g.kind === "C";
+    const many = g.kind === "U" || g.kind === "C" || g.kind === "W";
     const body = (g.kind === "U" ? `<div class="row click" data-back style="border:none;margin-top:8px">← All unlocated places</div>` : "") +
       props.map(([k, v]) => `<div class="prop"><b>${esc(k)}:</b> ${esc(v)}</div>`).join("") +
       `<div class="btnRow"><button data-flag>⚑ Flag or correct…</button></div>` +
@@ -547,7 +618,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   }
 
   return () => {
-    alive = false; playing = false; endEdit(); offFlags(); map.off("click", onMapClick);
+    alive = false; playing = false; endEdit(); offFlags(); map.off("click", onMapClick); map.off("zoomanim zoomend", onZoom);
     layer.remove(); outline?.remove();
   };
 }

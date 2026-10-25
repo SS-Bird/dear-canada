@@ -1,4 +1,4 @@
-"""Build the historical province/territory boundaries the website fills for region mentions.
+"""Build the boundaries the website fills for region and country mentions.
 
 Usage (from the repository root):
     python3 "Pipelines/Place Mentions/03_region_boundaries.py"
@@ -10,6 +10,16 @@ data/Pipe Outputs/places/boundaries_hacolp.json:
     {"years": [1667, …], "geometries": [GeoJSON geometry, …],
      "layers": {"1667": [{"name": …, "country": …, "g": index into geometries}, …], …}}
 
+It also reads Natural Earth's modern countries (1:50m map units, so England, Scotland and
+Wales are separate) and US states, and writes data/Pipe Outputs/places/boundaries_world.json:
+
+    {"features": [{"name": …, "admin": …, "kind": "country" | "state", "g": GeoJSON geometry}, …],
+     "names": {folded name: [feature index, …]}}
+
+`names` holds each unit's own names, and its country's name for every unit of that country
+("united kingdom" → England, Scotland, Wales, Northern Ireland). Canada is left out: Canadian
+mentions use the historical layers.
+
 Names are normalised across years (Québec/Quebec, NorthWest/North-West Territories…),
 the Great Lakes are cut out, shapes are simplified, and a polygon unchanged between
 snapshots is stored once. Which mentions fill which polygon is decided on the site from
@@ -20,6 +30,7 @@ Needs geopandas.
 """
 import json
 import re
+import unicodedata
 from pathlib import Path
 
 import geopandas as gpd
@@ -29,6 +40,10 @@ from shapely.geometry import mapping
 ROOT = Path(__file__).resolve().parents[2]
 GAZ = ROOT / "data" / "Gazetteers"
 OUT = ROOT / "data" / "Pipe Outputs" / "places" / "boundaries_hacolp.json"
+OUT_WORLD = ROOT / "data" / "Pipe Outputs" / "places" / "boundaries_world.json"
+NE_DIR = GAZ / "naturalearth"
+WORLD_SIMPLIFY_DEG = 0.03  # Natural Earth is in degrees
+WORLD_STATES_OF = {"United States of America"}  # countries drawn down to states/provinces
 SIMPLIFY_M = 4000  # tolerance in metres (layers are in a Lambert projection)
 DECIMALS = 2       # ~1 km
 DROP = {"Russia", "Greenland", "Iceland"}  # off the edge of the story; never filled
@@ -85,7 +100,56 @@ def rounded(o):
     return o
 
 
+def fold(s):
+    """Same as fold() in 02_place_matching.ipynb and js/util.js."""
+    s = unicodedata.normalize("NFKD", str(s))
+    s = "".join(c for c in s if not unicodedata.combining(c)).lower()
+    s = s.replace("'", "").replace("’", "").replace("‘", "").replace(".", "")
+    s = re.sub(r"[-‐‑–—/]", " ", s)
+    s = re.sub(r"[^\w\s]", " ", s)
+    s = re.sub(r"\bsaint\b", "st", s)
+    s = re.sub(r"\bsainte\b", "ste", s)
+    return " ".join(s.split())
+
+
+def build_world():
+    units_zip, states_zip = NE_DIR / "ne_50m_admin_0_map_units.zip", NE_DIR / "ne_50m_admin_1_states_provinces_lakes.zip"
+    if not units_zip.exists():
+        print(f"  ! {units_zip.relative_to(ROOT)} not found; skipping the world layer (see data/Gazetteers/README.md)")
+        return
+    units = gpd.read_file(f"zip://{units_zip}")
+    units = units[units["ADMIN"] != "Canada"]
+    feats, names, by_admin = [], {}, {}
+
+    def add(name, admin, kind, geom, aliases):
+        geom = geom.simplify(WORLD_SIMPLIFY_DEG, preserve_topology=True)
+        if geom.is_empty:
+            return
+        i = len(feats)
+        feats.append({"name": name, "admin": admin, "kind": kind, "g": rounded(mapping(geom))})
+        for a in aliases:
+            if isinstance(a, str) and a.strip():
+                names.setdefault(fold(a), [i])  # first one wins: countries before states (Georgia)
+        by_admin.setdefault(admin, []).append(i)
+
+    for _, r in units.iterrows():
+        add(r["NAME_LONG"], r["ADMIN"], "country", r.geometry,
+            [r["NAME"], r["NAME_LONG"], r["GEOUNIT"], r["SUBUNIT"], r["BRK_NAME"], r["FORMAL_EN"]])
+    for admin, idx in by_admin.items():
+        names.setdefault(fold(admin), idx)
+    if states_zip.exists():
+        states = gpd.read_file(f"zip://{states_zip}")
+        for _, r in states[states["admin"].isin(WORLD_STATES_OF)].iterrows():
+            add(r["name"], r["admin"], "state", r.geometry, [r["name"]])
+    OUT_WORLD.write_text(json.dumps({
+        "source": "Natural Earth 1:50m admin 0 map units and admin 1 states/provinces (public domain), modern borders",
+        "features": feats, "names": names,
+    }, separators=(",", ":"), ensure_ascii=False))
+    print(f"Wrote {OUT_WORLD.relative_to(ROOT)} ({OUT_WORLD.stat().st_size / 1e6:.1f} MB, {len(feats)} shapes).")
+
+
 def main():
+    build_world()
     files = layer_files()
     lakes_zip = next(GAZ.glob("**/shapefiles_new/Lakes_poly.zip"), None)
     lakes = gpd.read_file(f"zip://{lakes_zip}").union_all() if lakes_zip else None

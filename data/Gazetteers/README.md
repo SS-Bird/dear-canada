@@ -7,6 +7,7 @@ Place databases used by `Pipelines/Place Mentions/02_place_matching.ipynb`, and 
 | `cgndb/` | Canadian Geographical Names Database, national CSV (English) | No (77 MB; re-download) |
 | `chgis/` | Canadian Historical GIS census subdivisions, 1851–1921 (file geodatabase `.gdb` folder) | No |
 | `doi-10.5683-sp2-iq7e0x/` | HACOLP Territorial Evolution: province, colony and territory polygons at 47 dates, 1667–2001 | No (150 MB; re-download) |
+| `naturalearth/` | Natural Earth 1:50m modern countries (map units) and US states, for mentions outside Canada | No (2 MB; re-download) |
 | `curated/region_aliases.csv` | Names of provinces, colonies and territories (Upper Canada, Canada West, B.C.…) → a region id | Yes |
 | `curated/region_polygons.csv` | Region id → HACOLP polygon names, by year of the mention | Yes |
 | `curated/place_corrections.csv` | Flags and corrections made on the website (download from its *Flags & fixes* page; see `Web/README.md`) | Yes |
@@ -30,6 +31,9 @@ Place databases used by `Pipelines/Place Mentions/02_place_matching.ipynb`, and 
 |---|---|
 | 2026-10-25 | Polygons for 1667–2001 plus `Lakes_poly.zip` |
 
+**Natural Earth**: `ne_50m_admin_0_map_units.zip` and `ne_50m_admin_1_states_provinces_lakes.zip` from
+<https://www.naturalearthdata.com/downloads/50m-cultural-vectors/> (direct: `https://naciscdn.org/naturalearth/50m/cultural/<file>.zip`), into `naturalearth/`, left zipped. Downloaded 2026-10-25. Public domain.
+
 ## Editing the curated tables
 
 Coordinates are representative points (a settlement, a capital or an approximate centre), not boundaries. Use `note` to say which. Use `year_from`/`year_to` for names valid only in a period (York = Toronto 1793–1834), and `book` for names that mean different places in different books (Chinatown).
@@ -38,4 +42,6 @@ Coordinates are representative points (a settlement, a capital or an approximate
 
 On the website, a mention fills a polygon when its name (or its matched name) is in `region_aliases.csv` and its `location_precision` is not `settlement`, `site` or `feature`, so Quebec the city stays a dot. Matching runs in the browser, so after editing either table just run `python3 Web/scripts/sync_data.py`.
 
-In `region_polygons.csv`, `year_from`/`year_to` are compared with the mention's year (blank = open-ended). `polygons` lists HACOLP names separated by `;`. Only the names present in the snapshot in force that year are filled, so one row can cover a lineage (`Upper Canada;Canada West;Ontario`). `@Canada` means every polygon whose country is Canada. `level` = `country` rows (Canada, the US) are filled only when the map's “Fill whole countries” box is ticked. If no row or polygon fits, the mention falls back to a dot. The polygon names are printed at the end of `03_region_boundaries.py`.
+In `region_polygons.csv`, `year_from`/`year_to` are compared with the mention's year (blank = open-ended). `polygons` lists HACOLP names separated by `;`. Only the names present in the snapshot in force that year are filled, so one row can cover a lineage (`Upper Canada;Canada West;Ontario`). `@Canada` means every polygon whose country is Canada. `level` = `country` rows (Canada) are drawn as the country's name unless the map's “Fill Canada” box is ticked. If no row or polygon fits, the mention falls back to a dot. The polygon names are printed at the end of `03_region_boundaries.py`.
+
+Mentions outside Canada (countries, and US states) are shaded grey within modern Natural Earth borders, built by `03_region_boundaries.py` into `boundaries_world.json`. A country or region mention (`location_precision` `country`/`region`) fills the unit whose name matches its place name or matched name (Natural Earth's names: France, England, Virginia…; a country's name covers all its units, so United Kingdom fills England, Scotland, Wales and Northern Ireland). For other spellings, add a row to `region_aliases.csv` with region `world:<Natural Earth name>` (Britain → `world:United Kingdom`, New York State → `world:New York`). Canadian regions always take precedence.

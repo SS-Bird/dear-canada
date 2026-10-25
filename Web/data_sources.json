@@ -1,5 +1,5 @@
 {
-  "_comment": "Which pipeline outputs get published to the site. Paths are relative to this file; globs are allowed. Run `python3 scripts/sync_data.py` after editing this or after re-running a pipeline, then commit + push to redeploy. `role` is optional: the network project infers nodes/edges from filenames, and the places project looks for roles 'mentions', 'boundaries', 'region_aliases', 'region_polygons' and 'corrections'.",
+  "_comment": "Which pipeline outputs get published to the site. Paths are relative to this file; globs are allowed. Run `python3 scripts/sync_data.py` after editing this or after re-running a pipeline, then commit + push to redeploy. `role` is optional: the network project infers nodes/edges from filenames, and the places project looks for roles 'mentions', 'boundaries', 'world_boundaries', 'region_aliases', 'region_polygons' and 'corrections'.",
   "datasets": [
     {
       "project": "places",
@@ -14,6 +14,11 @@
       "project": "places",
       "source": "../data/Pipe Outputs/places/boundaries_hacolp.json",
       "role": "boundaries"
+    },
+    {
+      "project": "places",
+      "source": "../data/Pipe Outputs/places/boundaries_world.json",
+      "role": "world_boundaries"
     },
     {
       "project": "places",

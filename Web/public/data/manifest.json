@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-25T13:07:01+00:00",
+ "synced": "2026-10-25T13:36:31+00:00",
  "datasets": [
   {
    "id": "places/place_mentions.csv",
@@ -719,7 +719,31 @@
      "layers": "{\"1667\": [{\"name\": \"British Colonies\", \"country\": \"Britain\", \"g\": 0}, {\"name\": \"Claimed by Britain and France\", \"countr…"
     }
    ],
-   "modified": "2026-10-25T12:18:14+00:00"
+   "modified": "2026-10-25T13:34:14+00:00"
+  },
+  {
+   "id": "places/boundaries_world.json",
+   "project": "places",
+   "role": "world_boundaries",
+   "group": null,
+   "name": "boundaries_world.json",
+   "path": "data/places/boundaries_world.json",
+   "format": "json",
+   "bytes": 651650,
+   "rows": 1,
+   "columns": [
+    "source",
+    "features",
+    "names"
+   ],
+   "head": [
+    {
+     "source": "Natural Earth 1:50m admin 0 map units and admin 1 states/provinces (public domain), modern borders",
+     "features": "[{\"name\": \"Zimbabwe\", \"admin\": \"Zimbabwe\", \"kind\": \"country\", \"g\": {\"type\": \"Polygon\", \"coordinates\": [[[31.29, -22.4],…",
+     "names": "{\"zimbabwe\": [0], \"republic of zimbabwe\": [0], \"zambia\": [1], \"republic of zambia\": [1], \"yemen\": [2], \"republic of yem…"
+    }
+   ],
+   "modified": "2026-10-25T13:33:55+00:00"
   },
   {
    "id": "places/region_aliases.csv",
@@ -729,8 +753,8 @@
    "name": "region_aliases.csv",
    "path": "data/places/region_aliases.csv",
    "format": "csv",
-   "bytes": 3085,
-   "rows": 88,
+   "bytes": 3597,
+   "rows": 95,
    "columns": [
     "alias",
     "region",
@@ -778,7 +802,7 @@
      "note": ""
     }
    ],
-   "modified": "2026-10-25T12:19:14+00:00"
+   "modified": "2026-10-25T13:36:13+00:00"
   },
   {
    "id": "places/region_polygons.csv",
@@ -788,8 +812,8 @@
    "name": "region_polygons.csv",
    "path": "data/places/region_polygons.csv",
    "format": "csv",
-   "bytes": 2925,
-   "rows": 42,
+   "bytes": 2822,
+   "rows": 40,
    "columns": [
     "region",
     "level",
@@ -864,7 +888,7 @@
      "note": ""
     }
    ],
-   "modified": "2026-10-25T12:19:15+00:00"
+   "modified": "2026-10-25T13:36:31+00:00"
   },
   {
    "id": "places/place_corrections.csv",
@@ -896,7 +920,7 @@
     "updated"
    ],
    "head": [],
-   "modified": "2026-10-25T13:07:01+00:00"
+   "modified": "2026-10-25T13:15:25+00:00"
   },
   {
    "id": "network/SofS_entries_halved_edges.json",

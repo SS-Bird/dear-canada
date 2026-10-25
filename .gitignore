@@ -12,6 +12,7 @@ data/Gazetteers/cgndb/
 data/Gazetteers/chgis/
 data/Gazetteers/doi-10.5683-sp2-iq7e0x/
 data/Gazetteers/doi-10.5683-sp2-iq7e0x.zip
+data/Gazetteers/naturalearth/
 
 # NER cache of the place extraction pipeline (regenerated automatically)
 Pipelines/Place Mentions/intermediate/ner_cache/
