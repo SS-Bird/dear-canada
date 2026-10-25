@@ -1,5 +1,8 @@
 // Place mentions over time — the v1 place explorer, rebuilt on the Leaflet basemap.
-// Reads the dataset with project "places" and role "mentions" (place_mentions.csv).
+// Reads the places datasets by role: "mentions" (place_mentions.csv), and optionally
+// "boundaries" (HACOLP polygons), "region_aliases" and "region_polygons" (curated tables).
+// Mentions of a province, colony or territory fill its polygon as it was at the mention's
+// date; every other located mention is a dot.
 import { esc, fold, parseDate, html, cssVar } from "../util.js";
 import { fetchDataset } from "../data.js";
 import { bookTitle } from "../books.js";
@@ -7,19 +10,27 @@ import { bookTitle } from "../books.js";
 const BASE_DURATION = 40; // seconds for a full pass at 1×
 const TOPN = 30;
 const OUTLIER_YEARS = 25; // dates this far from a book's median date are left off the timeline (likely back matter)
+const NOT_REGION = new Set(["settlement", "site", "feature"]); // e.g. Quebec the city, the Saskatchewan River
 const fmtDay = d3.utcFormat("%-d %b %Y");
 
 export function mount({ map, stage, panel, manifest }) {
   let alive = true;
-  let rows = [], bookCodes = [], bookColor = {}, bookMin = {};
-  let hidden = new Set(), mode = "calendar", hoverBook = null, query = "";
-  let locGroups = [], unlGroups = [], lo = 0, hi = 1, frac = 1, curT = 1;
+  let rows = [], bookCodes = [], bookColor = {}, bookMin = {}, bookYear = {};
+  let hidden = new Set(), mode = "calendar", hoverBook = null, query = "", showCountry = false;
+  let locGroups = [], regGroups = [], unlGroups = [], lo = 0, hi = 1, frac = 1, curT = 1;
   let selected = null, selSig = "", showingUnl = false, unlSig = "", detailKey = null;
   let playing = false, lastTs = 0;
+  let bounds = null, outline = null, outlineYear = null;
+  const shapeCache = new Map();
   const colors = { ring: cssVar("--panel") || "#fff", ink: cssVar("--ink") || "#1c1c1a", accent: cssVar("--accent") || "#3c5a6e" };
 
   const renderer = L.canvas({ padding: 0.3 });
   const layer = L.layerGroup().addTo(map);
+  if (!map.getPane("plBoundaries")) {
+    const p = map.createPane("plBoundaries");
+    p.style.zIndex = 350; p.style.pointerEvents = "none";
+  }
+  const outlineRenderer = L.svg({ pane: "plBoundaries", padding: 0.3 });
 
   // ───────────── UI
   const ctl = html(`<div class="ctl panel">
@@ -35,7 +46,8 @@ export function mount({ map, stage, panel, manifest }) {
       <h2 style="margin-top:14px">Without a location</h2>
       <button data-k="unl" style="width:100%">Show unlocated places</button>
       <h2 style="margin-top:14px">Reading the map</h2>
-      <div class="note" style="margin-top:0">One dot per book and place. Dot area grows with the number of mentions so far. A dark ring marks a place mentioned in the last stretch of the timeline.</div>
+      <div class="note" style="margin-top:0">Books are coloured red to violet by the year they are set. A mention of a province, colony or territory tints its area, as its borders stood on the date of the mention; colour deepens with each mention and overlapping books mix. Other places are dots whose area grows with mentions so far. A dark outline marks a mention in the last stretch of the timeline. Faint lines show the borders in force at the current date.</div>
+      <label class="chip" style="margin-top:6px"><input type="checkbox" data-k="country"><span class="label">Fill whole countries (Canada, US)</span></label>
     </div>
     <div class="status" data-k="status">Loading place_mentions…</div>
   </div>`);
@@ -57,6 +69,7 @@ export function mount({ map, stage, panel, manifest }) {
   q("unl").onclick = () => { selected = null; showingUnl = true; unlSig = ""; openUnl(); update(); };
   q("slider").oninput = e => { stopPlay(); setFrac(+e.target.value / 1000); };
   q("play").onclick = togglePlay;
+  q("country").onchange = e => { showCountry = e.target.checked; rebuild(); };
   ctl.querySelectorAll("input[name=plMode]").forEach(el => el.onchange = () => {
     mode = el.value; frac = 1; rebuild();
     q("modeNote").textContent = mode === "calendar"
@@ -66,18 +79,23 @@ export function mount({ map, stage, panel, manifest }) {
   panel.onClose = () => { selected = null; showingUnl = false; selSig = ""; update(); };
 
   // ───────────── load
-  const ds = manifest.datasets.find(d => d.project === "places" && d.role === "mentions");
+  const byRole = role => manifest.datasets.find(d => d.project === "places" && d.role === role);
+  const ds = byRole("mentions");
+  const optional = role => byRole(role) ? fetchDataset(byRole(role)) : Promise.resolve(null);
   if (!ds) q("status").textContent = "No places dataset with role “mentions” in data_sources.json.";
-  else fetchDataset(ds).then(records => {
-    if (!alive) return;
-    load(records.map(r => ({
-      book: r.book, entry_id: r.entry_id, chapter_id: r.chapter_id, date: r.date,
-      place: r.place, ner_label: r.ner_label, resolution_status: r.resolution_status,
-      matched_name: r.matched_name, region_historical: r.region_historical, region_modern: r.region_modern,
-      country: r.country, historicity: /^true$/i.test((r.historicity || "").trim()),
-      lat: parseFloat(r.latitude), lon: parseFloat(r.longitude),
-    })));
-  }).catch(e => { if (alive) q("status").textContent = e.message; });
+  else Promise.all([fetchDataset(ds), optional("boundaries"), optional("region_aliases"), optional("region_polygons")])
+    .then(([records, b, aliases, rules]) => {
+      if (!alive) return;
+      if (b && aliases && rules) bounds = regionIndex(b, aliases, rules);
+      load(records.map(r => ({
+        book: r.book, entry_id: r.entry_id, chapter_id: r.chapter_id, date: r.date,
+        place: r.place, ner_label: r.ner_label, resolution_status: r.resolution_status,
+        matched_name: r.matched_name, region_historical: r.region_historical, region_modern: r.region_modern,
+        country: r.country, historicity: /^true$/i.test((r.historicity || "").trim()),
+        location_precision: r.location_precision,
+        lat: parseFloat(r.latitude), lon: parseFloat(r.longitude),
+      })));
+    }).catch(e => { if (alive) q("status").textContent = e.message; });
 
   function load(data) {
     rows = data;
@@ -85,26 +103,82 @@ export function mount({ map, stage, panel, manifest }) {
     const median = d3.rollup(rows.filter(r => r.ms != null), v => d3.median(v, r => r.ms), r => r.book);
     let outliers = 0;
     rows.forEach(r => { if (r.ms != null && Math.abs(r.ms - median.get(r.book)) > OUTLIER_YEARS * 365.25 * 864e5) { r.ms = null; r.outlier = true; outliers++; } });
-    bookCodes = [...new Set(rows.map(r => r.book))].sort((a, b) => bookTitle(a).replace(/^(A|An|The) /, "").localeCompare(bookTitle(b).replace(/^(A|An|The) /, "")));
-    bookCodes.forEach((b, i) => bookColor[b] = `hsl(${(i * 137.508 + 20) % 360}, 62%, 50%)`);
+    rows.forEach(r => r.reg = bounds && assignRegion(r));
+    // Rainbow by setting year: the median date of each book's (non-outlying) mentions
+    const setting = d3.rollup(rows.filter(r => r.ms != null), v => d3.median(v, r => r.ms), r => r.book);
+    bookCodes = [...new Set(rows.map(r => r.book))].sort((a, b) =>
+      (setting.get(a) ?? Infinity) - (setting.get(b) ?? Infinity) || bookTitle(a).localeCompare(bookTitle(b)));
+    bookCodes.forEach((b, i) => {
+      bookColor[b] = `hsl(${Math.round(i / Math.max(1, bookCodes.length - 1) * 285)}, 72%, 46%)`;
+      bookYear[b] = setting.has(b) ? new Date(setting.get(b)).getUTCFullYear() : null;
+    });
     rows.forEach(r => { if (r.ms != null && (bookMin[r.book] == null || r.ms < bookMin[r.book])) bookMin[r.book] = r.ms; });
     buildLegend();
     rebuild();
-    const loc = rows.filter(r => r.located).length, undated = rows.filter(r => r.ms == null).length;
-    q("status").textContent = `${rows.length.toLocaleString()} mentions · ${loc.toLocaleString()} located · ${(rows.length - loc).toLocaleString()} unlocated`
-      + (undated > outliers ? ` · ${undated - outliers} undated` : "") + (outliers ? ` · ${outliers} with outlying dates (off the timeline)` : "");
+    const loc = rows.filter(r => r.located || r.reg).length, undated = rows.filter(r => r.ms == null).length;
+    const reg = rows.filter(r => r.reg).length;
+    q("status").textContent = `${rows.length.toLocaleString()} mentions · ${loc.toLocaleString()} located (${reg.toLocaleString()} as regions) · ${(rows.length - loc).toLocaleString()} unlocated`
+      + (undated > outliers ? ` · ${undated - outliers} undated` : "") + (outliers ? ` · ${outliers} with outlying dates (off the timeline)` : "")
+      + (bounds ? "" : " · no boundary data, regions shown as dots");
+  }
+
+  // ───────────── region polygons
+  function regionIndex(b, aliasRows, ruleRows) {
+    const alias = new Map(aliasRows.filter(a => a.alias && a.region).map(a => [fold(a.alias), a.region.trim()]));
+    const rules = d3.group(ruleRows.filter(r => r.region && r.polygons).map(r => ({
+      region: r.region.trim(), level: (r.level || "province").trim(),
+      from: r.year_from ? +r.year_from : -Infinity, to: r.year_to ? +r.year_to : Infinity,
+      polys: r.polygons.split(";").map(s => s.trim()).filter(Boolean),
+    })), r => r.region);
+    return { alias, rules, years: b.years.map(Number).sort((x, y) => x - y), layers: b.layers, geoms: b.geometries };
+  }
+  // The snapshot in force in a given year (the earliest one for years before 1667)
+  const layerFor = y => { const ys = bounds.years; return ys[Math.max(0, d3.bisectRight(ys, y) - 1)]; };
+
+  function assignRegion(r) {
+    if (r.ms == null || NOT_REGION.has(r.location_precision)) return null;
+    const clean = String(r.matched_name || "").split(/,| \(|:/)[0];
+    const id = bounds.alias.get(fold(r.place)) ?? (clean ? bounds.alias.get(fold(clean)) : undefined);
+    if (!id) return null;
+    const year = new Date(r.ms).getUTCFullYear();
+    const rule = bounds.rules.get(id)?.find(x => year >= x.from && year <= x.to);
+    if (!rule) return null;
+    const ly = layerFor(year);
+    const feats = bounds.layers[ly].filter(f => rule.polys.includes(f.name) || rule.polys.includes("@" + f.country));
+    return feats.length ? { id, level: rule.level, layer: ly, feats } : null;
+  }
+
+  function shapeOf(feats) {
+    const k = feats.map(f => f.g).join(",");
+    if (!shapeCache.has(k)) {
+      const coords = [];
+      for (const f of feats) { const g = bounds.geoms[f.g]; g.type === "Polygon" ? coords.push(g.coordinates) : coords.push(...g.coordinates); }
+      shapeCache.set(k, L.GeoJSON.coordsToLatLngs(coords, 2));
+    }
+    return shapeCache.get(k);
+  }
+  const regionNames = feats => feats.length > 3 ? `${feats.length} provinces and territories` : feats.map(f => f.name).join(" + ");
+
+  function showOutline(year) {
+    if (year === outlineYear) return;
+    outlineYear = year; outline?.remove(); outline = null;
+    if (year == null || !bounds) return;
+    outline = L.layerGroup(bounds.layers[year].map(f => L.polygon(shapeOf([f]), {
+      renderer: outlineRenderer, pane: "plBoundaries", interactive: false,
+      color: colors.ink, weight: 0.7, opacity: 0.28, fill: false,
+    }))).addTo(map);
   }
 
   function buildLegend() {
     const counts = d3.rollup(rows, v => v.length, r => r.book);
     const list = d3.select(q("books")); list.selectAll("*").remove();
     bookCodes.forEach(b => {
-      const row = list.append("label").attr("class", "chip").attr("title", `${bookTitle(b)} (${b})`);
+      const row = list.append("label").attr("class", "chip").attr("title", `${bookTitle(b)} (${b})${bookYear[b] ? `, set in ${bookYear[b]}` : ""}`);
       row.append("input").attr("type", "checkbox").property("checked", !hidden.has(b))
         .on("change", function () { this.checked ? hidden.delete(b) : hidden.add(b); frac = 1; rebuild(); });
       row.append("span").attr("class", "dot").style("background", bookColor[b]);
       row.append("span").attr("class", "label").text(bookTitle(b));
-      row.append("span").attr("class", "count").text(counts.get(b));
+      row.append("span").attr("class", "count").text(`${bookYear[b] ?? "—"} · ${counts.get(b)}`);
       row.on("mouseenter", () => { hoverBook = b; update(); }).on("mouseleave", () => { hoverBook = null; update(); });
     });
   }
@@ -116,9 +190,13 @@ export function mount({ map, stage, panel, manifest }) {
     const vis = rows.filter(r => !hidden.has(r.book) && r.tv != null).sort((a, b) => a.tv - b.tv);
     lo = d3.min(vis, r => r.tv) ?? 0; hi = d3.max(vis, r => r.tv) ?? 1; if (hi <= lo) hi = lo + 1;
 
-    const lm = new Map(), um = new Map();
+    const lm = new Map(), rm = new Map(), um = new Map();
     for (const r of vis) {
-      if (r.located) {
+      if (r.reg && (r.reg.level !== "country" || showCountry)) {
+        const k = r.book + "|" + r.reg.layer + "|" + r.reg.id;
+        let g = rm.get(k); if (!g) rm.set(k, g = { key: "R" + k, kind: "R", book: r.book, reg: r.reg, rows: [], times: [] });
+        g.rows.push(r); g.times.push(r.tv);
+      } else if (r.located) {
         const k = r.book + "|" + r.lat.toFixed(4) + "," + r.lon.toFixed(4);
         let g = lm.get(k); if (!g) lm.set(k, g = { key: "L" + k, kind: "L", book: r.book, lat: r.lat, lon: r.lon, rows: [], times: [] });
         g.rows.push(r); g.times.push(r.tv);
@@ -131,12 +209,21 @@ export function mount({ map, stage, panel, manifest }) {
       }
     }
     const topLabel = rs => d3.greatest(d3.rollups(rs, v => v.length, r => r.place), d => d[1])[0];
-    locGroups = [...lm.values()]; unlGroups = [...um.values()];
-    locGroups.forEach(g => { g.label = topLabel(g.rows); g.total = g.rows.length; });
-    unlGroups.forEach(g => { g.label = topLabel(g.rows); g.total = g.rows.length; });
+    locGroups = [...lm.values()]; regGroups = [...rm.values()]; unlGroups = [...um.values()];
+    for (const g of [...locGroups, ...regGroups, ...unlGroups]) { g.label = topLabel(g.rows); g.total = g.rows.length; }
     locGroups.sort((a, b) => b.total - a.total); // big dots drawn first, small ones on top
+    regGroups.sort((a, b) => (b.reg.level === "country") - (a.reg.level === "country") || b.total - a.total); // countries underneath
 
     layer.clearLayers();
+    // Regions go in first so the shared canvas draws (and hit-tests) dots above them
+    for (const g of regGroups) {
+      g.marker = L.polygon(shapeOf(g.reg.feats), { renderer, weight: 0.8, color: bookColor[g.book], opacity: 0,
+        fillColor: bookColor[g.book], fillOpacity: 0, smoothFactor: 1 })
+        .bindTooltip(() => tipHtml(g), { sticky: true })
+        .on("click", e => { L.DomEvent.stop(e); select(g); })
+        .addTo(layer);
+      g.sig = "";
+    }
     for (const g of locGroups) {
       g.marker = L.circleMarker([g.lat, g.lon], { renderer, radius: 0, weight: 1, color: colors.ring, opacity: 0,
         fillColor: bookColor[g.book], fillOpacity: 0 })
@@ -145,8 +232,9 @@ export function mount({ map, stage, panel, manifest }) {
         .addTo(layer);
       g.sig = "";
     }
-    if (selected && !(selected.kind === "L" ? locGroups : unlGroups).some(g => g.key === selected.key)) { selected = null; panel.close(); }
-    else if (selected) selected = (selected.kind === "L" ? locGroups : unlGroups).find(g => g.key === selected.key);
+    const same = selected && { L: locGroups, R: regGroups, U: unlGroups }[selected.kind].find(g => g.key === selected.key);
+    if (selected && !same) { selected = null; panel.close(); }
+    else if (selected) selected = same;
     selSig = ""; unlSig = "";
     setFrac(frac);
   }
@@ -156,9 +244,11 @@ export function mount({ map, stage, panel, manifest }) {
     frac = f; curT = lo + (hi - lo) * f;
     q("slider").value = Math.round(f * 1000);
     q("label").textContent = !rows.length ? "—" : mode === "calendar" ? fmtDay(new Date(curT)) : `Day ${Math.floor(curT)} of ${Math.floor(hi)}`;
+    showOutline(rows.length && bounds && mode === "calendar" ? layerFor(new Date(curT).getUTCFullYear()) : null);
     update();
   }
-  const dimLoc = g => (hoverBook && g.book !== hoverBook) || (query && !fold(g.label).includes(query));
+  const dimLoc = g => (hoverBook && g.book !== hoverBook) ||
+    (query && !fold(g.label).includes(query) && !(g.reg && g.reg.feats.some(f => fold(f.name).includes(query))));
   const countTo = (g, t) => g.times ? d3.bisectRight(g.times, t) : [...g.byBook.values()].reduce((s, a) => s + d3.bisectRight(a, t), 0);
 
   function update() {
@@ -179,6 +269,19 @@ export function mount({ map, stage, panel, manifest }) {
       });
       if (sel) g.marker.bringToFront();
     }
+    for (const g of regGroups) {
+      const n = d3.bisectRight(g.times, t); g.n = n;
+      const recent = n && t - g.times[n - 1] <= win && t < hi;
+      const dim = n && dimLoc(g), sel = selected === g;
+      const fill = !n ? 0 : dim ? 0.02 : Math.min(0.42, 0.06 + 0.05 * Math.sqrt(n));
+      const sig = `${fill}|${recent}|${dim}|${sel}`;
+      if (sig === g.sig) continue;
+      g.sig = sig;
+      g.marker.setStyle({
+        fillOpacity: fill, opacity: !n ? 0 : dim ? 0.05 : sel || recent ? 1 : 0.5,
+        color: sel ? colors.accent : recent ? colors.ink : bookColor[g.book], weight: sel ? 2.5 : recent ? 1.6 : 0.8,
+      });
+    }
     if (selected) {
       const sig = selected.key + ":" + countTo(selected, t);
       if (sig !== selSig) { selSig = sig; renderDetail(); }
@@ -188,7 +291,9 @@ export function mount({ map, stage, panel, manifest }) {
   // ───────────── tooltip + right-hand detail
   function tipHtml(g) {
     return `<b>${esc(g.label)}</b><div class="muted"><span class="dot" style="background:${bookColor[g.book]};margin-right:5px"></span>${esc(bookTitle(g.book))}</div>` +
-      `<div class="muted">${g.n} of ${g.total} mentions so far</div>` + (g.rows[0].matched_name ? `<div class="muted">${esc(g.rows[0].matched_name)}</div>` : "");
+      `<div class="muted">${g.n} of ${g.total} mentions so far</div>` +
+      (g.reg ? `<div class="muted">${esc(regionNames(g.reg.feats))}, borders of ${g.reg.layer}</div>`
+        : g.rows[0].matched_name ? `<div class="muted">${esc(g.rows[0].matched_name)}</div>` : "");
   }
 
   function select(g) { selected = g; showingUnl = false; selSig = ""; update(); }
@@ -196,7 +301,7 @@ export function mount({ map, stage, panel, manifest }) {
   function renderDetail() {
     const g = selected, t = curT, r0 = g.rows[0];
     const books = g.book ? [g.book] : [...g.byBook.keys()];
-    const sub = (g.kind === "L" ? "located" : "no location") + " · " +
+    const sub = ({ L: "located", R: "region", U: "no location" })[g.kind] + " · " +
       books.map(b => `<span class="dot" style="background:${bookColor[b]}"></span> ${esc(bookTitle(b))}`).join(" &nbsp;");
     const props = [];
     if (g.kind === "L") {
@@ -206,6 +311,9 @@ export function mount({ map, stage, panel, manifest }) {
       if (r0.region_modern) props.push(["modern region", r0.region_modern]);
       if (r0.country) props.push(["country", r0.country]);
       props.push(["coordinates", g.lat.toFixed(3) + ", " + g.lon.toFixed(3)]);
+    } else if (g.kind === "R") {
+      props.push(["filled area", `${g.reg.feats.map(f => f.name).join(", ")} (HACOLP borders of ${g.reg.layer})`]);
+      if (r0.matched_name) props.push(["matched to", r0.matched_name]);
     } else {
       props.push(["status", [...new Set(g.rows.map(r => r.resolution_status).filter(Boolean))].join(", ") || "—"]);
     }
@@ -268,5 +376,5 @@ export function mount({ map, stage, panel, manifest }) {
     });
   }
 
-  return () => { alive = false; playing = false; layer.remove(); };
+  return () => { alive = false; playing = false; layer.remove(); outline?.remove(); };
 }
