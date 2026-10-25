@@ -172,6 +172,50 @@ table.head tr:last-child td { border-bottom: none; }
 .bfill span { height: 100%; }
 .bcount { text-align: right; color: var(--ink-dim); font-variant-numeric: tabular-nums; }
 
+/* country-level mentions: the country's name, darkening towards the books' colours */
+.plCountry span { position: absolute; transform: translate(-50%, -50%); white-space: nowrap; cursor: pointer;
+  font: 700 22px/1 var(--sans); letter-spacing: .32em; text-transform: uppercase; color: #d6d6d1;
+  text-shadow: 0 0 3px rgba(255, 255, 255, .9), 0 0 8px rgba(255, 255, 255, .6); transition: color .25s, transform .25s; }
+.plCountry span.recent { transform: translate(-50%, -50%) scale(1.06); }
+.plCountry span.sel { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 5px; }
+.plCountry span.dim { opacity: .25; }
+
+/* ───────────── flags */
+.btnRow { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 4px; }
+.btnRow button { padding: 4px 10px; font-size: 12px; }
+.sentence { font: 13px/1.5 var(--serif); padding: 6px 8px 8px; margin: 2px 0 4px; background: var(--accent-soft); border-radius: 4px; }
+.sentence a, .flagRow a { font: 12px var(--sans); color: var(--accent); }
+.sentence mark { background: rgba(255, 210, 80, .55); color: inherit; padding: 0 1px; }
+.badge { display: inline-block; font-size: 10px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase;
+  padding: 1px 6px; border-radius: 3px; border: 1px solid currentColor; }
+.badge.s-open { color: #b4541a; } .badge.s-resolved { color: #2f7d4f; } .badge.s-dismissed { color: var(--ink-dim); }
+.badge.local { color: var(--accent); }
+.flagForm { display: flex; flex-direction: column; gap: 9px; margin-top: 10px; font-size: 12.5px; }
+.flagForm h3 { margin: 4px 0 0 !important; font-size: 13px !important; color: var(--ink) !important; }
+.flagForm label { display: flex; flex-direction: column; gap: 3px; color: var(--ink-dim); }
+.flagForm label.chip { flex-direction: row; color: var(--ink); }
+.flagForm input[type=text], .flagForm select, .flagForm textarea { width: 100%; color: var(--ink); font: inherit; }
+.flagForm textarea { border: 1px solid var(--line); border-radius: 5px; padding: 6px 8px; background: var(--panel); resize: vertical; }
+.flagForm fieldset { border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px 8px; margin: 0; }
+.flagForm legend { color: var(--ink-dim); padding: 0 4px; }
+.flagForm .indent { margin: 0 0 4px 20px; width: calc(100% - 20px) !important; }
+.coordRow { display: grid; grid-template-columns: 1fr 1fr auto; gap: 6px; align-items: end; }
+.formMsg { color: #b4541a; min-height: 0; }
+.formMsg:empty { display: none; }
+.flagLog { margin-top: 8px; }
+.flagLog .day { font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-dim); margin: 26px 0 6px; }
+.flagLog .ev { display: grid; grid-template-columns: 52px 1fr; gap: 12px; padding: 10px 0; border-bottom: 1px dotted var(--line); }
+.flagLog .ev time { color: var(--ink-dim); font-size: 12px; font-variant-numeric: tabular-nums; padding-top: 2px; }
+.flagLog .ev .what { font-size: 15px; }
+.flagLog .ev .what b { font-weight: 700; }
+.flagLog .ev .det { font-size: 13px; color: var(--ink-dim); margin-top: 2px; }
+.flagLog .ev .acts { font-size: 12.5px; margin-top: 4px; display: flex; gap: 12px; flex-wrap: wrap; }
+.flagLog .ev .acts button { padding: 1px 8px; font-size: 12px; }
+.notice { border: 1px solid var(--accent); background: var(--accent-soft); border-radius: 6px; padding: 12px 14px; font-size: 14px; margin: 0 0 18px; }
+.notice code, #pageInner code { font-size: 12.5px; }
+.filters { display: flex; gap: 6px; flex-wrap: wrap; margin: 6px 0 0; }
+.filters button.on { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+
 /* ───────────── small screens */
 @media (max-width: 860px) {
   #app { flex-direction: column; }

@@ -9,10 +9,11 @@ export function html(str) {
   return t.content.firstElementChild;
 }
 
-/** Loose comparison key for place names (accents, punctuation, "Saint" → "st"). */
+/** Loose comparison key for place names (accents, punctuation, "Saint" → "st"). Same as fold() in the place pipelines. */
 export function fold(s) {
-  return String(s).normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase()
-    .replace(/['’.]/g, "").replace(/[-‐–—\/]/g, " ").replace(/\bsaint\b/g, "st").replace(/\s+/g, " ").trim();
+  return String(s ?? "").normalize("NFKD").replace(/\p{M}/gu, "").toLowerCase()
+    .replace(/['’‘.]/g, "").replace(/[-‐‑–—\/]/g, " ").replace(/[^\p{L}\p{N}_\s]/gu, " ")
+    .replace(/\bsaint\b/g, "st").replace(/\bsainte\b/g, "ste").replace(/\s+/g, " ").trim();
 }
 
 /** "1862", "1862-05" or "1862-05-15" → UTC ms (works for years < 100 too). */

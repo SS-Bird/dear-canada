@@ -2,6 +2,7 @@ import { $, esc, fmtBytes } from "./util.js";
 import { loadManifest } from "./data.js";
 import * as places from "./projects/places.js";
 import * as network from "./projects/network.js";
+import { renderFlags } from "./flagsPage.js";
 
 // A project is a module exporting mount(ctx) → cleanup function.
 // To add one: write js/projects/<name>.js, import it here, and add a link in index.html.
@@ -53,12 +54,12 @@ $("#navToggle").onclick = () => {
 
 let current = null; // { name, cleanup }
 
-function switchProject(name, manifest) {
+function switchProject(name, manifest, params = {}) {
   if (current?.name === name) return;
   if (current) { current.cleanup(); current = null; }
   panel.onClose = null; panel.close();
   $("#stage").replaceChildren();
-  if (name) current = { name, cleanup: PROJECTS[name].mount({ map, stage: $("#stage"), panel, manifest }) || (() => {}) };
+  if (name) current = { name, cleanup: PROJECTS[name].mount({ map, stage: $("#stage"), panel, manifest, params }) || (() => {}) };
 }
 
 async function showPage(name) {
@@ -72,6 +73,12 @@ async function showPage(name) {
   }
   $("#page").hidden = false;
   $("#page").scrollTop = 0;
+}
+
+async function showFlags(manifest) {
+  $("#page").hidden = false;
+  $("#page").scrollTop = 0;
+  await renderFlags($("#pageInner"), manifest);
 }
 
 // TEMPORARY: preview of a synced data file.
@@ -111,7 +118,9 @@ function renderDataList(manifest) {
   highlightNav();
 }
 
-const currentPath = () => decodeURIComponent(location.hash.replace(/^#\/?/, ""));
+// "#/places?q=Highlands" → path "places", params { q: "Highlands" }
+const currentPath = () => decodeURIComponent(location.hash.replace(/^#\/?/, "").split("?")[0]);
+const currentParams = () => Object.fromEntries(new URLSearchParams(location.hash.split("?")[1] || ""));
 function highlightNav() {
   const path = currentPath();
   document.querySelectorAll("#nav [data-route]").forEach(a => a.classList.toggle("active", a.dataset.route === path));
@@ -128,10 +137,11 @@ async function route() {
 
   if (PROJECTS[kind]) {
     $("#page").hidden = true;
-    switchProject(kind, manifest || { datasets: [] });
+    switchProject(kind, manifest || { datasets: [] }, currentParams());
   } else {
     switchProject(null);
-    if (kind === "page" && rest[0]) await showPage(rest[0]);
+    if (kind === "flags") await showFlags(manifest);
+    else if (kind === "page" && rest[0]) await showPage(rest[0]);
     else if (kind === "data") showData(rest.join("/"), manifest);
     else await showPage("home");
   }
