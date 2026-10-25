@@ -8,7 +8,7 @@ Two notebooks, run in order, and a script for the boundary polygons.
 | 2. Attach them to a geography | `02_place_matching.ipynb` | step 1's output, `data/Gazetteers/` | `data/Pipe Outputs/places/` (final), `intermediate/matching/` (review), and the website's places data |
 | 3. Historical boundaries | `03_region_boundaries.py` (needs geopandas; rerun only when the HACOLP data or simplification changes) | `data/Gazetteers/doi-10.5683-sp2-iq7e0x/` | `data/Pipe Outputs/places/boundaries_hacolp.json` |
 
-Step 1 finds place names with spaCy NER (`en_core_web_trf`), filters out names that are people, and suggests a place type from the context (settlement, region, country, water, landform, facility, vessel), e.g. *Quebec* the city vs the province. Step 2 matches each name to the curated overrides, the CGNDB, CHGIS, or the curated world list, using that type and the provinces each book is set in.
+Step 1 finds place names with spaCy NER (`en_core_web_trf`), filters out names that are people, and suggests a place type from the context (settlement, region, country, water, landform, facility, vessel), e.g. *Quebec* the city vs the province. Step 2 matches each name to the curated overrides, the CGNDB, CHGIS, or the curated world list, using that type and the provinces each book is set in. It then applies the hand corrections in `data/Gazetteers/curated/place_corrections.csv`, made on the website's map (section 8.0).
 
 Folders:
 

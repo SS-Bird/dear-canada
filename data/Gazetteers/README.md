@@ -9,6 +9,7 @@ Place databases used by `Pipelines/Place Mentions/02_place_matching.ipynb`, and 
 | `doi-10.5683-sp2-iq7e0x/` | HACOLP Territorial Evolution: province, colony and territory polygons at 47 dates, 1667–2001 | No (150 MB; re-download) |
 | `curated/region_aliases.csv` | Names of provinces, colonies and territories (Upper Canada, Canada West, B.C.…) → a region id | Yes |
 | `curated/region_polygons.csv` | Region id → HACOLP polygon names, by year of the mention | Yes |
+| `curated/place_corrections.csv` | Flags and corrections made on the website (download from its *Flags & fixes* page; see `Web/README.md`) | Yes |
 | `curated/place_overrides.csv` | Hand-curated historical and problem names (Upper Canada, Bytown, Grosse Île…), bounded by year and book | Yes |
 | `curated/world_places.csv` | Hand-curated places outside Canada that the diaries mention; matched by exact name only | Yes |
 

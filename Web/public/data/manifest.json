@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-25T12:19:23+00:00",
+ "synced": "2026-10-25T13:07:01+00:00",
  "datasets": [
   {
    "id": "places/place_mentions.csv",
@@ -865,6 +865,38 @@
     }
    ],
    "modified": "2026-10-25T12:19:15+00:00"
+  },
+  {
+   "id": "places/place_corrections.csv",
+   "project": "places",
+   "role": "corrections",
+   "group": null,
+   "name": "place_corrections.csv",
+   "path": "data/places/place_corrections.csv",
+   "format": "csv",
+   "bytes": 141,
+   "rows": 0,
+   "columns": [
+    "id",
+    "status",
+    "kind",
+    "scope",
+    "book",
+    "mention_id",
+    "place",
+    "current_match",
+    "correct_name",
+    "latitude",
+    "longitude",
+    "place_type",
+    "note",
+    "resolution",
+    "created",
+    "resolved",
+    "updated"
+   ],
+   "head": [],
+   "modified": "2026-10-25T13:07:01+00:00"
   },
   {
    "id": "network/SofS_entries_halved_edges.json",
