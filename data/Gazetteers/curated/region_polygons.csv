@@ -1,0 +1,43 @@
+region,level,year_from,year_to,polygons,note
+canada,country,,1762,New France,"Pre-Conquest Canada is the French colony"
+canada,country,1763,1790,Quebec,Province of Quebec
+canada,country,1791,1866,Upper Canada;Lower Canada;Canada West;Canada East,The Canadas
+canada,country,1867,,@Canada,Every polygon whose country is Canada in that snapshot
+province_of_canada,province,,1866,Upper Canada;Lower Canada;Canada West;Canada East,
+province_of_canada,province,1867,,Ontario;Quebec,
+ontario,province,,,Upper Canada;Canada West;Ontario,
+quebec,province,,1762,New France,
+quebec,province,1763,,Quebec;Lower Canada;Canada East,
+new_france,province,,,New France;Quebec;Lower Canada;Canada East,"After 1763, the successor colony"
+nova_scotia,province,,,Nova Scotia,
+cape_breton,province,1784,1819,Cape Breton,"A separate colony only 1784–1820; otherwise stays a dot"
+new_brunswick,province,,,New Brunswick,
+prince_edward_island,province,,,St. John's Island;Prince Edward Island,
+newfoundland,province,,,Newfoundland;Newfoundland and Labrador,
+manitoba,province,,,Manitoba,
+british_columbia,province,,,New Caledonia;British Columbia,
+vancouver_island,province,,1865,Vancouver Island,"Merged into British Columbia in 1866; later the island stays a dot"
+ruperts_land,province,,1869,Rupert's Land,
+north_western_territory,province,,1869,Northwestern Territory,
+north_west_territories,province,,1869,Rupert's Land;Northwestern Territory,"Before the 1870 transfer"
+north_west_territories,province,1870,1904,North-West Territories;District of Alberta;District of Assiniboia;District of Athabaska;District of Saskatchewan;District of Mackenzie;District of Franklin;District of Ungava;District of Yukon,"The districts were part of the Territories; Keewatin was separate until 1905"
+north_west_territories,province,1905,,North-West Territories;Northwest Territories;District of Mackenzie;District of Franklin;District of Keewatin,
+alberta,province,1882,1904,District of Alberta,
+alberta,province,1905,,Alberta,
+saskatchewan,province,1882,1904,District of Saskatchewan,
+saskatchewan,province,1905,,Saskatchewan,
+district_of_assiniboia,province,1882,1904,District of Assiniboia,
+district_of_athabaska,province,1882,1904,District of Athabaska,
+district_of_keewatin,province,1876,1998,District of Keewatin,
+district_of_ungava,province,1895,1911,District of Ungava,
+district_of_mackenzie,province,1895,1998,District of Mackenzie,
+district_of_franklin,province,1895,1998,District of Franklin,
+yukon,province,1895,,District of Yukon;Yukon Territory,
+nunavut,province,1999,,Nunavut,
+united_states,country,,1782,13 Colonies;British Colonies,
+united_states,country,1783,,USA,
+thirteen_colonies,province,,1782,13 Colonies;British Colonies,
+louisiana,province,,1802,Louisiana,"Later mentions are the state and stay a dot"
+oregon_territory,province,1818,1846,Oregon Territory,
+alaska,province,,,Alaska,
+indian_territory,province,1763,1782,Indian Territory,

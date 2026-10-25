@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-20T22:22:11+00:00",
+ "synced": "2026-10-25T12:19:23+00:00",
  "datasets": [
   {
    "id": "places/place_mentions.csv",
@@ -694,6 +694,177 @@
     }
    ],
    "modified": "2026-10-20T22:22:11+00:00"
+  },
+  {
+   "id": "places/boundaries_hacolp.json",
+   "project": "places",
+   "role": "boundaries",
+   "group": null,
+   "name": "boundaries_hacolp.json",
+   "path": "data/places/boundaries_hacolp.json",
+   "format": "json",
+   "bytes": 3270949,
+   "rows": 1,
+   "columns": [
+    "source",
+    "years",
+    "geometries",
+    "layers"
+   ],
+   "head": [
+    {
+     "source": "Historical Atlas of Canada Online Learning Project (HACOLP), Territorial Evolution 2012. Borealis, doi:10.5683/SP2/IQ7E…",
+     "years": "[1667, 1713, 1763, 1769, 1774, 1783, 1784, 1790, 1791, 1798, 1800, 1809, 1818, 1820, 1821, 1825, 1840, 1842, 1846, 1849…",
+     "geometries": "[{\"type\": \"MultiPolygon\", \"coordinates\": [[[[-74.3, 39.58], [-74.18, 39.82], [-74.12, 39.97], [-74.17, 39.76], [-74.3, …",
+     "layers": "{\"1667\": [{\"name\": \"British Colonies\", \"country\": \"Britain\", \"g\": 0}, {\"name\": \"Claimed by Britain and France\", \"countr…"
+    }
+   ],
+   "modified": "2026-10-25T12:18:14+00:00"
+  },
+  {
+   "id": "places/region_aliases.csv",
+   "project": "places",
+   "role": "region_aliases",
+   "group": null,
+   "name": "region_aliases.csv",
+   "path": "data/places/region_aliases.csv",
+   "format": "csv",
+   "bytes": 3085,
+   "rows": 88,
+   "columns": [
+    "alias",
+    "region",
+    "note"
+   ],
+   "head": [
+    {
+     "alias": "Canada",
+     "region": "canada",
+     "note": "Meaning shifts with the date; see region_polygons.csv"
+    },
+    {
+     "alias": "Dominion of Canada",
+     "region": "canada",
+     "note": ""
+    },
+    {
+     "alias": "British Canada",
+     "region": "canada",
+     "note": ""
+    },
+    {
+     "alias": "Gold Mountain",
+     "region": "canada",
+     "note": "Gum Shan; North America, here Canada"
+    },
+    {
+     "alias": "Gum Shan",
+     "region": "canada",
+     "note": ""
+    },
+    {
+     "alias": "Province of Canada",
+     "region": "province_of_canada",
+     "note": ""
+    },
+    {
+     "alias": "United Province of Canada",
+     "region": "province_of_canada",
+     "note": ""
+    },
+    {
+     "alias": "The Canadas",
+     "region": "province_of_canada",
+     "note": ""
+    }
+   ],
+   "modified": "2026-10-25T12:19:14+00:00"
+  },
+  {
+   "id": "places/region_polygons.csv",
+   "project": "places",
+   "role": "region_polygons",
+   "group": null,
+   "name": "region_polygons.csv",
+   "path": "data/places/region_polygons.csv",
+   "format": "csv",
+   "bytes": 2925,
+   "rows": 42,
+   "columns": [
+    "region",
+    "level",
+    "year_from",
+    "year_to",
+    "polygons",
+    "note"
+   ],
+   "head": [
+    {
+     "region": "canada",
+     "level": "country",
+     "year_from": "",
+     "year_to": "1762",
+     "polygons": "New France",
+     "note": "Pre-Conquest Canada is the French colony"
+    },
+    {
+     "region": "canada",
+     "level": "country",
+     "year_from": "1763",
+     "year_to": "1790",
+     "polygons": "Quebec",
+     "note": "Province of Quebec"
+    },
+    {
+     "region": "canada",
+     "level": "country",
+     "year_from": "1791",
+     "year_to": "1866",
+     "polygons": "Upper Canada;Lower Canada;Canada West;Canada East",
+     "note": "The Canadas"
+    },
+    {
+     "region": "canada",
+     "level": "country",
+     "year_from": "1867",
+     "year_to": "",
+     "polygons": "@Canada",
+     "note": "Every polygon whose country is Canada in that snapshot"
+    },
+    {
+     "region": "province_of_canada",
+     "level": "province",
+     "year_from": "",
+     "year_to": "1866",
+     "polygons": "Upper Canada;Lower Canada;Canada West;Canada East",
+     "note": ""
+    },
+    {
+     "region": "province_of_canada",
+     "level": "province",
+     "year_from": "1867",
+     "year_to": "",
+     "polygons": "Ontario;Quebec",
+     "note": ""
+    },
+    {
+     "region": "ontario",
+     "level": "province",
+     "year_from": "",
+     "year_to": "",
+     "polygons": "Upper Canada;Canada West;Ontario",
+     "note": ""
+    },
+    {
+     "region": "quebec",
+     "level": "province",
+     "year_from": "",
+     "year_to": "1762",
+     "polygons": "New France",
+     "note": ""
+    }
+   ],
+   "modified": "2026-10-25T12:19:15+00:00"
   },
   {
    "id": "network/SofS_entries_halved_edges.json",
