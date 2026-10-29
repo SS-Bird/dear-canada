@@ -1,21 +1,35 @@
 // Place mentions over time — the v1 place explorer, rebuilt on the Leaflet basemap.
 // Reads the places datasets by role: "mentions" (place_mentions.csv), and optionally
 // "boundaries" (HACOLP polygons), "world_boundaries" (Natural Earth), "region_aliases" and
-// "region_polygons" (curated tables) and "corrections" (flags, see js/flags.js).
+// "region_polygons" (curated tables), "csd_polygons" (TCP census subdivisions linked by the
+// matching notebook) and "corrections" (flags, see js/flags.js).
 // Mentions of a Canadian province, colony or territory fill its polygon as it was at the
 // mention's date; mentions of Canada darken its name; other countries and US states fill
-// grey within modern borders; every other located mention is a dot.
+// grey within modern borders; a located Canadian place fills its census subdivision (as drawn for the
+// nearest census) when the subdivision is under the size threshold or named after the place
+// (Guelph, Uxbridge t-v) or attached by hand; every other located mention is a dot.
 import { esc, fold, parseDate, html, cssVar } from "../util.js";
 import { fetchDataset } from "../data.js";
 import { bookTitle } from "../books.js";
 import { loadFlags, allFlags, applyFlags, onFlagsChange, KINDS, STATUSES, isLocal } from "../flags.js";
 import { flagForm } from "../flagForm.js";
+import { censusYears, nearestCensus, loadCensus } from "../census.js";
 
 const BASE_DURATION = 40; // seconds for a full pass at 1×
 const PAUSE_SECONDS = 1.2; // in "one after another" mode, the gap between books at 1×
 const TOPN = 30;
 const OUTLIER_YEARS = 25; // dates this far from a book's median date are left off the timeline (likely back matter)
 const NOT_REGION = new Set(["settlement", "site", "feature"]); // e.g. Quebec the city, the Saskatchewan River
+// Census subdivisions larger than this keep their places as dots (a township, parish or town is
+// specific; "Unorganized parts" or a prairie rural municipality is not). The slider is log scaled.
+const CSD_MAX_KM2 = 500, CSD_SLIDER = [10, 100000];
+// Larger areas fill more faintly, so local mentions stand out: a fill's opacity is multiplied by
+// 1 − AREA_FADE·log10(km² / AREA_FULL_KM2), from 1 for small areas down to AREA_MIN_FADE (provinces).
+const AREA_FULL_KM2 = 50, AREA_FADE = 0.22, AREA_MIN_FADE = 0.35;
+const areaFade = km2 => Math.max(AREA_MIN_FADE, Math.min(1, 1 - AREA_FADE * Math.log10(Math.max(1, km2) / AREA_FULL_KM2)));
+// Dots: radius DOT_BASE + DOT_GROWTH·√mentions (at most DOT_MAX) at DOT_FULL_ZOOM and closer; zoomed
+// out, the growth shrinks by half every two zoom levels, to DOT_MIN_SCALE.
+const DOT_BASE = 2.5, DOT_GROWTH = 2.4, DOT_MAX = 26, DOT_FULL_ZOOM = 7, DOT_MIN_SCALE = 0.3;
 // Mentions of Canada as a whole are drawn as its name: it starts LABEL_START and moves towards
 // the last mentioning book's colour with every mention (1 − LABEL_STEP^n of the way). The name
 // is LABEL_PX at zoom LABEL_ZOOM and scales with the map.
@@ -34,13 +48,13 @@ const fmtDay = d3.utcFormat("%-d %b %Y");
 export function mount({ map, stage, panel, manifest, params = {} }) {
   let alive = true;
   let raw = [], rows = [], bookCodes = [], bookColor = {}, bookRGB = {}, bookYear = {};
-  let hidden = new Set(), mode = "calendar", hoverBook = null, query = "", showCountry = false;
-  let locGroups = [], regGroups = [], ctyGroups = [], wldGroups = [], unlGroups = [], lo = 0, hi = 1, frac = 1, curT = 1;
+  let hidden = new Set(), mode = "calendar", hoverBook = null, query = "", showCountry = false, csdMode = "size", csdMax = CSD_MAX_KM2, statusText = null;
+  let locGroups = [], regGroups = [], csdGroups = [], ctyGroups = [], wldGroups = [], unlGroups = [], lo = 0, hi = 1, frac = 1, curT = 1;
   let seq = [], seqStarts = [];
   let selected = null, selSig = "", showingUnl = false, unlSig = "", detailKey = null;
-  let editing = false, picking = null, pickPin = null, openMention = new Set(), suggestions = new Map();
+  let editing = false, picking = null, pickPin = null, csdPreview = null, openMention = new Set(), suggestions = new Map();
   let playing = false, lastTs = 0;
-  let bounds = null, world = null, outline = null, outlineYear = null;
+  let bounds = null, world = null, csds = null, outline = null, outlineYear = null;
   const shapeCache = new Map();
   const colors = { ring: cssVar("--panel") || "#fff", ink: cssVar("--ink") || "#1c1c1a", accent: cssVar("--accent") || "#3c5a6e" };
 
@@ -66,8 +80,13 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       <h2 style="margin-top:14px">Without a location</h2>
       <button data-k="unl" style="width:100%">Show unlocated places</button>
       <h2 style="margin-top:14px">Reading the map</h2>
-      <div class="note" style="margin-top:0">Books are coloured red to violet by the year they are set. A mention of a province, colony or territory tints its area, as its borders stood on the date of the mention; colour deepens with each mention and overlapping books mix. Mentions of Canada darken its name towards the books' colours. Other countries and US states shade grey within modern borders, darker with each mention. Other places are dots whose area grows with mentions so far; a dashed ring marks an open flag. Faint lines show the borders in force at the current date.</div>
+      <div class="note" style="margin-top:0">Books are coloured red to violet by the year they are set. A mention of a province, colony or territory tints its area, as its borders stood on the date of the mention; colour deepens with each mention and overlapping books mix. A Canadian place tints its census subdivision when the subdivision is small enough to be specific (see below); places in larger ones stay dots. Large areas tint more faintly than small ones. Mentions of Canada darken its name towards the books' colours. Other countries and US states shade grey within modern borders, darker with each mention. Other places are dots that grow with mentions so far (less when zoomed out); a dashed ring marks an open flag. Faint lines show the borders in force at the current date.</div>
       <label class="chip" style="margin-top:6px"><input type="checkbox" data-k="country"><span class="label">Fill Canada instead of naming it</span></label>
+      <h2 style="margin-top:14px">Census subdivisions</h2>
+      <label class="chip"><input type="radio" name="plCsd" value="size" checked><span class="label">Fill every place's subdivision under <b data-k="csdMaxLabel"></b></span></label>
+      <input type="range" data-k="csdMax" min="0" max="1000" step="1" aria-label="Largest subdivision to fill" style="width:100%;accent-color:var(--accent)">
+      <label class="chip"><input type="radio" name="plCsd" value="named"><span class="label">Fill only places named like their subdivision</span></label>
+      <div class="note">Larger subdivisions keep their places as dots. A place named after its subdivision always fills it. Subdivisions come from the nearest census (1851–1921) within ten years of the mention. To attach a place to a subdivision by hand (for instance a 1941 mention to its 1921 subdivision), flag it as “Wrong or missing census subdivision”.</div>
       <div class="note">Click any place to flag or correct it. <a href="#/flags">Flags &amp; fixes</a></div>
     </div>
     <div class="status" data-k="status">Loading place_mentions…</div>
@@ -96,6 +115,14 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   q("slider").oninput = e => { stopPlay(); setFrac(+e.target.value / 1000); };
   q("play").onclick = togglePlay;
   q("country").onchange = e => { showCountry = e.target.checked; rebuild(); };
+  // Log-scaled slider position ↔ km²
+  const [cLo, cHi] = CSD_SLIDER.map(Math.log10);
+  const sliderKm2 = v => { const x = 10 ** (cLo + (cHi - cLo) * v / 1000); return +x.toPrecision(x < 100 ? 1 : 2); };
+  const showCsdMax = () => { q("csdMaxLabel").textContent = csdMax.toLocaleString() + " km²"; };
+  q("csdMax").value = Math.round((Math.log10(csdMax) - cLo) / (cHi - cLo) * 1000); showCsdMax();
+  q("csdMax").oninput = e => { csdMax = sliderKm2(+e.target.value); showCsdMax(); };
+  q("csdMax").onchange = () => { if (csdMode === "size") rebuild(); };
+  ctl.querySelectorAll("input[name=plCsd]").forEach(el => el.onchange = () => { csdMode = el.value; q("csdMax").disabled = csdMode !== "size"; rebuild(); });
   ctl.querySelectorAll("input[name=plMode]").forEach(el => el.onchange = () => {
     mode = el.value; frac = 1; rebuild();
     q("modeNote").textContent = MODE_NOTES[mode];
@@ -107,6 +134,8 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     Math.max(7, Math.min(140, LABEL_PX * 2 ** (z - LABEL_ZOOM))).toFixed(1) + "px");
   const onZoom = e => scaleLabels(e.zoom ?? map.getZoom());
   map.on("zoomanim zoomend", onZoom);
+  const onZoomEnd = () => update(); // dot sizes follow the zoom
+  map.on("zoomend", onZoomEnd);
   scaleLabels(map.getZoom());
   const offFlags = onFlagsChange(() => alive && raw.length && load(raw));
 
@@ -115,11 +144,13 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   const ds = byRole("mentions");
   const optional = role => byRole(role) ? fetchDataset(byRole(role)) : Promise.resolve(null);
   if (!ds) q("status").textContent = "No places dataset with role “mentions” in data_sources.json.";
-  else Promise.all([fetchDataset(ds), optional("boundaries"), optional("region_aliases"), optional("region_polygons"), optional("world_boundaries"), loadFlags(manifest)])
-    .then(([records, b, aliases, rules, w]) => {
+  else Promise.all([fetchDataset(ds), optional("boundaries"), optional("region_aliases"), optional("region_polygons"), optional("world_boundaries"),
+    optional("csd_polygons"), loadFlags(manifest)])
+    .then(([records, b, aliases, rules, w, c]) => {
       if (!alive) return;
       if (b && aliases && rules) bounds = regionIndex(b, aliases, rules);
       if (w) world = worldIndex(w, aliases || []);
+      if (c) csds = csdIndex(c);
       raw = records.map(r => ({
         mention_id: r.mention_id, book: r.book, entry_id: r.entry_id, chapter_id: r.chapter_id, date: r.date,
         place: r.place, place_type: r.place_type, sentence: r.sentence, ner_label: r.ner_label, resolution_status: r.resolution_status,
@@ -127,6 +158,8 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
         country: r.country, historicity: /^true$/i.test((r.historicity || "").trim()),
         location_precision: r.location_precision,
         lat: parseFloat(r.latitude), lon: parseFloat(r.longitude),
+        csd_id: r.csd_id, csd_layer_year: r.csd_layer_year, csd_same_name: /^true$/i.test((r.csd_same_name || "").trim()),
+        csd_forced: r.csd_method === "correction",
       }));
       load(raw);
     }).catch(e => { if (alive) q("status").textContent = e.message; });
@@ -152,15 +185,36 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     });
     suggestions = buildSuggestions();
     buildLegend();
-    rebuild();
     const loc = rows.filter(r => r.located || r.reg || r.world).length, undated = rows.filter(r => r.ms == null).length;
     const reg = rows.filter(r => r.reg).length, wld = rows.filter(r => r.world).length, removed = all.length - rows.length;
     const corrected = rows.filter(r => r.correction).length, open = rows.filter(r => r.flagOpen).length;
-    q("status").textContent = `${rows.length.toLocaleString()} mentions · ${loc.toLocaleString()} located (${reg.toLocaleString()} as Canadian regions, ${wld.toLocaleString()} as other countries and states) · ${(rows.length - loc).toLocaleString()} unlocated`
+    // Rebuilt with every rebuild, since the subdivision count follows the controls
+    statusText = (sub = rows.filter(assignCsd).length) => `${rows.length.toLocaleString()} mentions · ${loc.toLocaleString()} located (${reg.toLocaleString()} as Canadian regions, ${sub.toLocaleString()} as census subdivisions, ${wld.toLocaleString()} as other countries and states) · ${(rows.length - loc).toLocaleString()} unlocated`
       + (undated > outliers ? ` · ${undated - outliers} undated` : "") + (outliers ? ` · ${outliers} with outlying dates (off the timeline)` : "")
       + (corrected || removed ? ` · ${corrected + removed} corrected${removed ? ` (${removed} removed as not places)` : ""}` : "")
       + (open ? ` · ${open} with open flags` : "")
       + (bounds ? "" : " · no boundary data, regions shown as dots");
+    rebuild();
+    addMissingCsds();
+  }
+
+  // A subdivision attached by hand is not in csd_polygons.geojson until the matching notebook runs
+  // again; take it from the census layer instead.
+  function addMissingCsds() {
+    const missing = d3.group(rows.filter(r => r.csd_id && r.csd_layer_year && !csdOf(r)), r => parseInt(r.csd_layer_year));
+    if (!missing.size) return;
+    csds ??= new Map();
+    Promise.allSettled([...missing].map(([year, rs]) => loadCensus(manifest, year).then(layer => {
+      for (const id of new Set(rs.map(r => r.csd_id))) {
+        const i = layer.byId.get(id);
+        if (i == null) { console.warn(`No subdivision ${id} in the census of ${year}`); continue; }
+        const ft = layer.features[i];
+        csds.set(`${year}|${id}`, { key: `${year}|${id}`, year, id, name: ft.name, cd: ft.cd, pr: ft.pr, g: layer.geometries[i], shape: null, km2: ft.km2 });
+      }
+    }))).then(res => {
+      res.filter(x => x.status === "rejected").forEach(x => console.warn(x.reason));
+      if (alive) rebuild();
+    });
   }
 
   // Names offered in the correction form: places already located, plus region aliases
@@ -232,6 +286,28 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     return world.shapes.get(w.key);
   }
 
+  // ───────────── census subdivisions (TCP), keyed "layer year|TCP id" since ids repeat across censuses
+  function csdIndex(fc) {
+    const m = new Map();
+    for (const f of fc.features || []) {
+      const p = f.properties;
+      m.set(`${p.layer_year}|${p.csd_id}`, { key: `${p.layer_year}|${p.csd_id}`, year: +p.layer_year, id: p.csd_id,
+        name: p.csd_name, cd: p.csd_namecd, pr: p.csd_pr, g: f.geometry, shape: null, km2: p.km2 ?? Infinity });
+    }
+    return m;
+  }
+  const csdOf = r => csds && r.csd_id && r.csd_layer_year ? csds.get(`${parseInt(r.csd_layer_year)}|${r.csd_id}`) : null;
+  // Filled when the place is named like its subdivision, or for every linked point with the box ticked
+  const assignCsd = r => {
+    if (r.reg || r.world || !r.located) return null;
+    const c = csdOf(r);
+    return c && (r.csd_same_name || r.csd_forced || (csdMode === "size" && c.km2 <= csdMax)) ? c : null;
+  };
+  function csdShape(c) {
+    c.shape ??= L.GeoJSON.coordsToLatLngs(c.g.type === "Polygon" ? [c.g.coordinates] : c.g.coordinates, 2);
+    return c.shape;
+  }
+
   function shapeOf(feats) {
     const k = feats.map(f => f.g).join(",");
     if (!shapeCache.has(k)) {
@@ -241,6 +317,24 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     }
     return shapeCache.get(k);
   }
+  // Approximate area (km²) of GeoJSON polygons: planar, with longitude scaled by the cosine of latitude
+  const areaCache = new Map();
+  function regionKm2(feats) {
+    const k = feats.map(f => f.g).join(",");
+    if (!areaCache.has(k)) {
+      let a = 0;
+      const ring = r => { let s = 0; for (let i = 0, j = r.length - 1; i < r.length; j = i++) {
+        const c = Math.cos((r[i][1] + r[j][1]) / 2 * Math.PI / 180);
+        s += (r[j][0] - r[i][0]) * c * (r[j][1] + r[i][1]); } return Math.abs(s / 2) * 111.32 * 110.57; };
+      for (const f of feats) {
+        const g = bounds.geoms[f.g];
+        for (const poly of g.type === "Polygon" ? [g.coordinates] : g.coordinates) a += ring(poly[0]) - d3.sum(poly.slice(1), ring);
+      }
+      areaCache.set(k, a);
+    }
+    return areaCache.get(k);
+  }
+  const csdLabel = c => [c.name, c.cd && c.cd !== c.name ? c.cd : null, c.pr].filter(Boolean).join(", ");
   const regionNames = feats => feats.length > 3 ? `${feats.length} provinces and territories` : feats.map(f => f.name).join(" + ");
 
   function showOutline(year) {
@@ -311,7 +405,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     const vis = rows.filter(r => r.tv != null).sort((a, b) => a.tv - b.tv);
     lo = d3.min(vis, r => r.tv) ?? 0; hi = d3.max(vis, r => r.tv) ?? 1; if (hi <= lo) hi = lo + 1;
 
-    const lm = new Map(), rm = new Map(), cm = new Map(), wm = new Map(), um = new Map();
+    const lm = new Map(), rm = new Map(), sm = new Map(), cm = new Map(), wm = new Map(), um = new Map();
     const multi = (m, k, make, r) => {
       let g = m.get(k); if (!g) m.set(k, g = { ...make, rows: [], byBook: new Map() });
       g.rows.push(r);
@@ -327,6 +421,10 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
         const k = r.book + "|" + r.reg.layer + "|" + r.reg.id;
         let g = rm.get(k); if (!g) rm.set(k, g = { key: "R" + k, kind: "R", book: r.book, reg: r.reg, rows: [], times: [] });
         g.rows.push(r); g.times.push(r.tv);
+      } else if (r.csd = assignCsd(r)) {
+        const k = r.book + "|" + r.csd.key;
+        let g = sm.get(k); if (!g) sm.set(k, g = { key: "S" + k, kind: "S", book: r.book, csd: r.csd, rows: [], times: [] });
+        g.rows.push(r); g.times.push(r.tv);
       } else if (r.located) {
         const k = r.book + "|" + r.lat.toFixed(4) + "," + r.lon.toFixed(4);
         let g = lm.get(k); if (!g) lm.set(k, g = { key: "L" + k, kind: "L", book: r.book, lat: r.lat, lon: r.lon, rows: [], times: [] });
@@ -334,15 +432,18 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       } else multi(um, fold(r.place), { key: "U" + fold(r.place), kind: "U" }, r);
     }
     const topLabel = rs => d3.greatest(d3.rollups(rs, v => v.length, r => r.place), d => d[1])[0];
-    locGroups = [...lm.values()]; regGroups = [...rm.values()]; ctyGroups = [...cm.values()]; unlGroups = [...um.values()];
+    locGroups = [...lm.values()]; regGroups = [...rm.values()]; csdGroups = [...sm.values()]; ctyGroups = [...cm.values()]; unlGroups = [...um.values()];
     // Drawn bottom to top: whole countries made of several units (the UK), then single units, then US states
     const isState = g => world.features[g.world.idx[0]].kind === "state";
     wldGroups = [...wm.values()].sort((a, b) => isState(a) - isState(b) || b.world.idx.length - a.world.idx.length);
-    for (const g of [...locGroups, ...regGroups, ...ctyGroups, ...wldGroups, ...unlGroups]) {
+    for (const g of [...locGroups, ...regGroups, ...csdGroups, ...ctyGroups, ...wldGroups, ...unlGroups]) {
       g.label = topLabel(g.rows); g.total = g.rows.length; g.flagged = g.rows.some(r => r.flagOpen);
     }
+    for (const g of regGroups) g.fade = areaFade(regionKm2(g.reg.feats));
+    for (const g of csdGroups) g.fade = areaFade(g.csd.km2);
     locGroups.sort((a, b) => b.total - a.total); // big dots drawn first, small ones on top
     regGroups.sort((a, b) => (b.reg.level === "country") - (a.reg.level === "country") || b.total - a.total); // countries underneath
+    csdGroups.sort((a, b) => b.total - a.total);
 
     layer.clearLayers();
     const clickable = (m, g) => m.on("click", e => {
@@ -361,6 +462,11 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
         fillColor: bookColor[g.book], fillOpacity: 0 }).bindTooltip(() => tipHtml(g), { sticky: true }), g).addTo(layer);
       g.sig = "";
     }
+    for (const g of csdGroups) {
+      g.marker = clickable(L.polygon(csdShape(g.csd), { renderer, weight: 0.5, color: bookColor[g.book], opacity: 0,
+        fillColor: bookColor[g.book], fillOpacity: 0 }).bindTooltip(() => tipHtml(g), { sticky: true }), g).addTo(layer);
+      g.sig = "";
+    }
     for (const g of locGroups) {
       g.marker = clickable(L.circleMarker([g.lat, g.lon], { renderer, radius: 0, weight: 1, color: colors.ring, opacity: 0,
         fillColor: bookColor[g.book], fillOpacity: 0 })
@@ -376,13 +482,14 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       g.sig = "";
     }
     // Keep the selection; after a correction moves its mentions, follow them to their new group
-    const groups = { L: locGroups, R: regGroups, C: ctyGroups, W: wldGroups, U: unlGroups };
+    const groups = { L: locGroups, R: regGroups, S: csdGroups, C: ctyGroups, W: wldGroups, U: unlGroups };
     const firstId = selected?.rows[0]?.mention_id;
     const same = selected && (groups[selected.kind].find(g => g.key === selected.key) ||
       Object.values(groups).flat().find(g => g.rows.some(r => r.mention_id === firstId)));
     if (selected && !same) { selected = null; endEdit(); panel.close(); }
     else if (selected) selected = same;
     selSig = ""; unlSig = "";
+    if (statusText) q("status").textContent = statusText();
     setFrac(frac);
   }
 
@@ -397,16 +504,17 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
     update();
   }
   const matches = g => !query || fold(g.label).includes(query) || (g.text && fold(g.text).includes(query)) ||
-    (g.reg && g.reg.feats.some(f => fold(f.name).includes(query)));
+    (g.reg && g.reg.feats.some(f => fold(f.name).includes(query))) || (g.csd && fold(g.csd.name).includes(query));
   const dimLoc = g => (hoverBook && g.book !== hoverBook) || !matches(g);
   const countTo = (g, t) => g.times ? d3.bisectRight(g.times, t) : [...g.byBook.values()].reduce((s, a) => s + d3.bisectRight(a, t), 0);
 
   function update() {
     if (!rows.length || !alive) return;
     const win = (hi - lo) * 0.02, t = curT;
+    const grow = Math.max(DOT_MIN_SCALE, Math.min(1, 2 ** ((map.getZoom() - DOT_FULL_ZOOM) / 2)));
     for (const g of locGroups) {
       const n = d3.bisectRight(g.times, t); g.n = n;
-      const r = n ? Math.min(26, 2.5 + 2.4 * Math.sqrt(n)) : 0;
+      const r = n ? +(DOT_BASE + Math.min(DOT_MAX - DOT_BASE, DOT_GROWTH * Math.sqrt(n)) * grow).toFixed(1) : 0;
       const recent = n && t - g.times[n - 1] <= win && t < hi;
       const dim = n && dimLoc(g), sel = selected === g;
       const sig = `${r}|${recent}|${dim}|${sel}|${g.flagged}`;
@@ -420,11 +528,11 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       });
       if (sel) g.marker.bringToFront();
     }
-    for (const g of regGroups) {
+    for (const g of [...regGroups, ...csdGroups]) {
       const n = d3.bisectRight(g.times, t); g.n = n;
       const recent = n && t - g.times[n - 1] <= win && t < hi;
       const dim = n && dimLoc(g), sel = selected === g;
-      const fill = !n ? 0 : dim ? 0.02 : Math.min(0.45, 0.06 + 0.05 * Math.sqrt(n) + (recent ? 0.06 : 0));
+      const fill = !n ? 0 : dim ? 0.02 : +(g.fade * Math.min(0.45, 0.06 + 0.05 * Math.sqrt(n) + (recent ? 0.06 : 0))).toFixed(3);
       const sig = `${fill}|${dim}|${sel}`;
       if (sig === g.sig) continue;
       g.sig = sig;
@@ -481,6 +589,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       `<div class="muted">${g.n} of ${g.total} mentions so far</div>` +
       (g.kind === "W" ? `<div class="muted">modern borders</div>` :
         g.kind === "R" ? `<div class="muted">${esc(regionNames(g.reg.feats))}, borders of ${g.reg.layer}</div>`
+        : g.kind === "S" ? `<div class="muted">${esc(csdLabel(g.csd))}, census of ${g.csd.year}</div>`
         : g.kind === "L" && g.rows[0].matched_name ? `<div class="muted">${esc(g.rows[0].matched_name)}</div>` : "") +
       (g.flagged ? `<div class="muted">⚑ open flag</div>` : "");
   }
@@ -490,7 +599,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   function renderDetail() {
     const g = selected, t = curT, r0 = g.rows[0];
     const books = g.book ? [g.book] : [...g.byBook.keys()];
-    const sub = ({ L: "located", R: "region", C: "country", W: "country or state", U: "no location" })[g.kind] + " · " +
+    const sub = ({ L: "located", R: "region", S: "census subdivision", C: "country", W: "country or state", U: "no location" })[g.kind] + " · " +
       books.map(b => `<span class="dot" style="background:${bookColor[b]}"></span> ${esc(bookTitle(b))}`).join(" &nbsp;");
     const props = [];
     if (g.kind === "L") {
@@ -499,10 +608,16 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
       if (rh) props.push(["historical region", rh]);
       if (r0.region_modern) props.push(["modern region", r0.region_modern]);
       if (r0.country) props.push(["country", r0.country]);
+      const c = csdOf(r0);
+      if (c) props.push(["census subdivision", `${csdLabel(c)} (census of ${c.year}, ${Math.round(c.km2).toLocaleString()} km²)`]);
       props.push(["coordinates", g.lat.toFixed(3) + ", " + g.lon.toFixed(3)]);
     } else if (g.kind === "R") {
       props.push(["filled area", `${g.reg.feats.map(f => f.name).join(", ")} (HACOLP borders of ${g.reg.layer})`]);
       if (r0.matched_name) props.push(["matched to", r0.matched_name]);
+    } else if (g.kind === "S") {
+      props.push(["filled area", `${csdLabel(g.csd)} (TCP census subdivision ${g.csd.id}, census of ${g.csd.year}, ${Math.round(g.csd.km2).toLocaleString()} km²${r0.csd_forced ? ", attached by hand" : ""})`]);
+      if (r0.matched_name) props.push(["matched to", r0.matched_name]);
+      props.push(["coordinates", g.rows[0].lat.toFixed(3) + ", " + g.rows[0].lon.toFixed(3)]);
     } else if (g.kind === "W") {
       const parts = g.world.parts.length > 1 ? ` (${g.world.parts.join(", ")})` : "";
       props.push(["filled area", `${g.world.name}${parts}, modern borders (Natural Earth)`]);
@@ -551,9 +666,17 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   function startEdit({ mention, existing }) {
     stopPlay();
     editing = true;
-    const g = selected;
+    const g = selected, r0 = mention || g.rows[0];
+    // The census offered first: the mention's own, else the nearest one however far (Torn Apart, 1941 → 1921)
+    const years = censusYears(manifest);
+    const year = parseInt(r0.csd_layer_year) || nearestCensus(years, r0.ms != null ? new Date(r0.ms).getUTCFullYear() : NaN);
     const form = flagForm({
       rows: g.rows, mention, existing, suggestions,
+      census: { years, year, load: y => loadCensus(manifest, y), show: geom => {
+        csdPreview?.remove(); csdPreview = null;
+        if (geom) csdPreview = L.polygon(L.GeoJSON.coordsToLatLngs(geom.type === "Polygon" ? [geom.coordinates] : geom.coordinates, 2),
+          { renderer: outlineRenderer, pane: "plBoundaries", interactive: false, color: colors.accent, weight: 2, dashArray: "4 3", fillOpacity: 0.08 }).addTo(map);
+      } },
       pick: cb => {
         map.getContainer().style.cursor = "crosshair";
         picking = ll => {
@@ -571,6 +694,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   function endEdit() {
     editing = false; picking = null; map.getContainer().style.cursor = "";
     pickPin?.remove(); pickPin = null;
+    csdPreview?.remove(); csdPreview = null;
   }
 
   function openUnl() { detailKey = null; panel.open("Places without a location", "", "<div></div>"); renderUnl(curT); }
@@ -618,7 +742,7 @@ export function mount({ map, stage, panel, manifest, params = {} }) {
   }
 
   return () => {
-    alive = false; playing = false; endEdit(); offFlags(); map.off("click", onMapClick); map.off("zoomanim zoomend", onZoom);
+    alive = false; playing = false; endEdit(); offFlags(); map.off("click", onMapClick); map.off("zoomanim zoomend", onZoom); map.off("zoomend", onZoomEnd);
     layer.remove(); outline?.remove();
   };
 }

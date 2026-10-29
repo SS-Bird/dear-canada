@@ -6,7 +6,7 @@ Computational analysis of the *Dear Canada* diary series (20 books), and a websi
 Dear Canada/
 ├── data/
 │   ├── Book Repository/      source texts: EPubs, TextFiles, Entries as Csv (one row per diary entry)
-│   ├── Gazetteers/           place databases for matching (CGNDB, CHGIS, curated lists); see its README
+│   ├── Gazetteers/           place databases for matching (CGNDB, TCP census subdivisions, HACOLP, curated lists); see its README
 │   └── Pipe Outputs/         final pipeline outputs: places/, v2/, v3/ (network), topics_corpus/,
 │                             Archived Versions/
 ├── Pipelines/
@@ -26,6 +26,6 @@ Dear Canada/
 
 ## Status
 
-- **Places**: NER-based extraction (spaCy `en_core_web_trf`) with person filtering and place-type suggestions; matching to historical overrides, CGNDB, CHGIS (data pending) and a short world list. Ready for hand annotation and fine-tuning. Details in `Pipelines/Place Mentions/README.md`.
+- **Places**: NER-based extraction (spaCy `en_core_web_trf`) with person filtering and place-type suggestions; matching to historical overrides, CGNDB, TCP census subdivisions (1851–1921) and a short world list. Ready for hand annotation and fine-tuning. Details in `Pipelines/Place Mentions/README.md`.
 - **Network**: v3 knowledge graph for *A Sea of Sorrows* (first half).
 - **Topics**: topic models across and within books.

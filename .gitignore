@@ -10,6 +10,7 @@ Tangents/ML Asgmts SA and Generative/models/
 # Downloaded gazetteers (large; re-download per data/Gazetteers/README.md)
 data/Gazetteers/cgndb/
 data/Gazetteers/chgis/
+data/Gazetteers/TCP_CANADA_CSD_202306/
 data/Gazetteers/doi-10.5683-sp2-iq7e0x/
 data/Gazetteers/doi-10.5683-sp2-iq7e0x.zip
 data/Gazetteers/naturalearth/
