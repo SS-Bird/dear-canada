@@ -7,3 +7,7 @@ Details for organisation and design can be found on DESIGN.md.
 I plan to deploy on vercel. 
 
 I don't want to constantly reuploading the data everytime I open the website, but also it will need to be changed out frequently. I am willing to be flexible about this if permenantly storing the data on the site will create issues to changing it. 
+
+## Little notes to change after Oct 20th deployment:
+- make the tab icon a maple leaf
+- 

@@ -12,6 +12,8 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="css/style.css">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.11.0/proj4.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/proj4leaflet/1.0.2/proj4leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 </head>
 <body>
@@ -29,6 +31,7 @@
         <h2 class="navHead">Explore the projects</h2>
         <a href="#/places" data-route="places">Place mentions over time</a>
         <a href="#/network" data-route="network">Knowledge network</a>
+        <a href="#/historical" data-route="historical">Historical boundaries</a>
       </section>
       <section class="navSec">
         <h2 class="navHead">Supplementary materials</h2>
@@ -39,6 +42,7 @@
         <a href="#/page/about" data-route="page/about">About</a>
         <a href="#/page/contact" data-route="page/contact">Contact</a>
         <a href="#/flags" data-route="flags">Flags &amp; fixes</a>
+        <a href="#/datamap" data-route="datamap">Data map</a>
       </section>
       <!-- TEMPORARY: uploaded-data listing. Delete this section (and the "data/" route in js/app.js) to hide it. -->
       <section class="navSec" id="dataSec">

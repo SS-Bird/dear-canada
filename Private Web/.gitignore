@@ -1,0 +1,4 @@
+# What you write lives here (notebook.json and daily backups). Kept out of git because
+# this repository may be public; delete this line if you want the notes committed.
+data/
+__pycache__/

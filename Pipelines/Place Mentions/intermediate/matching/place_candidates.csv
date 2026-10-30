@@ -110,6 +110,7 @@ BFfH:lens:settlement,cgndb,2,HAQGP,Lens,UNP / Locality,settlement,saskatchewan,C
 BFfH:montreal:settlement,cgndb,1,EHHUN,Montréal,CITY / Town,settlement,quebec,Canada,17500000.0,45.508822,-73.554077,1.0,1.242,canonical,True
 BFfH:montreal:settlement,cgndb,2,ESXLJ,Montréal,GEOG / Census Division,area,quebec,Canada,7500000.0,45.5,-73.683333,1.0,1.122,canonical,False
 BFfH:montreal:settlement,cgndb,3,ESXOZ,Montréal,MUN1 / Agglomeration,area,quebec,Canada,7500000.0,45.508822,-73.554077,1.0,1.122,canonical,False
+BFfH:muskoka:settlement,chgis_name,1,ON098014,Muskoka,census subdivision,csd,,Canada,,44.958484181998195,-79.37979433287964,1.0,1.08,canonical,True
 BFfH:paris:settlement,cgndb,1,FDSRC,Paris,UNP / Community,settlement,ontario,Canada,2000000.0,43.1933334,-80.3847222,1.0,1.354,canonical,True
 BFfH:paris:settlement,world,1,world:Paris:settlement,Paris,settlement,settlement,,France,,48.8566,2.3522,1.0,1.1,canonical,False
 BFfH:passchendaele:facility,world,1,world:Passchendaele:settlement,Passchendaele,settlement,settlement,,Belgium,,50.9,3.02,1.0,1.05,canonical,True
@@ -118,6 +119,7 @@ BFfH:russia:country,world,1,world:Russia:country,Russia,country,country,,Russia,
 BFfH:somme:unknown,cgndb,1,GAZTQ,Somme,UNP / Locality,settlement,manitoba,Canada,1200000.0,49.031389,-96.324167,1.0,1.125,canonical,False
 BFfH:somme:unknown,world,1,world:Somme:region,Somme,region,admin_large,,France,,49.95,2.3,1.0,1.05,canonical,True
 BFfH:speed river:water,cgndb,1,FCRAC,Speed River,RIV / River,water,ontario,Canada,1000000.0,43.387222,-80.366944,1.0,1.338,canonical,True
+BFfH:st eloi:settlement,chgis_name,1,QC201012,St. Éloi,census subdivision,csd,,Canada,,48.02780076525657,-69.17874341955827,1.0,1.08,canonical,True
 BFfH:sussex:settlement,cgndb,1,DASFF,Sussex,TOWN / Town,settlement,new brunswick,Canada,7500000.0,45.723534,-65.510394,1.0,1.222,canonical,True
 BFfH:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.417,canonical,True
 BFfH:toronto:settlement,cgndb,2,FCWYG,Toronto,UNP / Community,settlement,ontario,Canada,250000.0,43.6758333,-79.3969444,1.0,1.305,canonical,False
@@ -284,6 +286,7 @@ DRtoF:collingwood:settlement,cgndb,1,FASGS,Collingwood,TOWN / Town,settlement,on
 DRtoF:durham:settlement,cgndb,1,FBAPV,Durham,UNP / Community,settlement,ontario,Canada,1000000.0,44.17794,-80.81745,1.0,1.35,canonical,True
 DRtoF:durham:settlement,cgndb,2,FBAPZ,Durham,MUN1 / Regional Municipality,area,ontario,Canada,50000.0,44.07567,-78.93774,1.0,1.18,canonical,False
 DRtoF:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+DRtoF:garafraxa:facility,chgis_name,1,ON103007,Garafraxa,census subdivision,csd,,Canada,,43.827294212724226,-80.31876997778956,1.0,1.03,canonical,True
 DRtoF:georgian bay:water,cgndb,1,FBHBM,Georgian Bay,BAY / Bay,water,ontario,Canada,5000000.0,45.2701263,-80.8349157,1.0,1.388,canonical,True
 DRtoF:hudson:unknown,cgndb,1,FBPHV,Hudson,UNP / Dispersed Rural Community,settlement,ontario,Canada,1000000.0,50.089963,-92.171484,1.0,1.3,canonical,True
 DRtoF:hudson:unknown,cgndb,2,EGRJP,Hudson,CITY / Town,settlement,quebec,Canada,1000000.0,45.458708,-74.143105,1.0,1.12,canonical,False
@@ -311,6 +314,8 @@ DRtoF:pennsylvania:settlement,world,1,world:Pennsylvania:region,Pennsylvania,reg
 DRtoF:richmond hill:landform,cgndb,1,FCKYR,Richmond Hill,TOWN / Town,settlement,ontario,Canada,5000000.0,43.8747222,-79.4394444,1.0,1.238,canonical,True
 DRtoF:rochester:settlement,cgndb,1,IAFAS,Rochester,UNP / Hamlet,settlement,alberta,Canada,2000000.0,54.3725,-113.4605556,1.0,1.207,canonical,True
 DRtoF:scotland:country,world,1,world:Scotland:country,Scotland,country,country,,United Kingdom,,56.4907,-4.2026,1.0,1.1,canonical,True
+DRtoF:st johns ward:settlement,chgis_name,1,ON112005,St. Johns’ Ward,census subdivision,csd,,Canada,,43.66248463839844,-79.38756817928905,1.0,1.08,canonical,True
+DRtoF:st johns ward:settlement,chgis_name,2,QC062005,St. Johns’ Ward,census subdivision,csd,,Canada,,46.810853850992586,-71.22207429412018,1.0,1.08,canonical,False
 DRtoF:sydenham river:water,cgndb,1,FCUOF,Sydenham River,RIV / River,water,ontario,Canada,1000000.0,42.5611111,-82.4108333,1.0,1.35,canonical,True
 DRtoF:sydenham river:water,cgndb,2,FCUOG,Sydenham River,RIV / River,water,ontario,Canada,1000000.0,44.5791666,-80.9405555,1.0,1.35,canonical,False
 DRtoF:toronto:settlement,cgndb,1,FEUZB,Toronto,CITY / City,settlement,ontario,Canada,30000000.0,43.7417,-79.3733,1.0,1.43,canonical,True
@@ -342,6 +347,8 @@ DofTT:kingston:settlement,cgndb,4,DALRC,Kingston,UNP / Dispersed Rural Community
 DofTT:merrickville:settlement,cgndb,1,FEBSW,Merrickville,UNP / Community,settlement,ontario,Canada,2000000.0,44.91512,-75.83607,1.0,1.364,canonical,True
 DofTT:new york city:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
 DofTT:new york:settlement,world,1,world:New York:settlement,New York,settlement,settlement,,United States,,40.7128,-74.006,1.0,1.1,canonical,True
+DofTT:ohio:settlement,chgis_name,1,NS042012,Ohio,census subdivision,csd,,Canada,,43.87414535943482,-65.37886045087123,1.0,1.08,canonical,False
+DofTT:ohio:settlement,chgis_name,2,NS044014,Ohio,census subdivision,csd,,Canada,,44.00890973058677,-66.03629782283262,1.0,1.08,canonical,False
 DofTT:ohio:settlement,world,1,world:Ohio:region,Ohio,region,admin_large,,United States,,40.4173,-82.9071,1.0,1.05,canonical,True
 DofTT:ontario:region,cgndb,1,FEHRI,Ontario,PROV / Province,admin_large,ontario,Canada,30000000.0,49.25,-84.5,1.0,1.428,canonical,True
 DofTT:ottawa:settlement,cgndb,1,FEVNT,Ottawa,CITY / City,settlement,ontario,Canada,30000000.0,45.33339,-75.58429,1.0,1.428,canonical,True
@@ -491,6 +498,7 @@ FitS:york:settlement,overrides,1,override:York:20,York (Toronto),,settlement,ont
 NSH:amherst:settlement,cgndb,1,CAAOO,Amherst,TOWN / Town,settlement,nova scotia,Canada,7500000.0,45.833392,-64.212968,1.0,1.358,canonical,True
 NSH:atlantic:water,cgndb,1,CABAO,Atlantic,UNP / Community,settlement,nova scotia,Canada,250000.0,43.580848,-65.339322,1.0,1.098,canonical,False
 NSH:atlantic:water,world,1,world:Atlantic Ocean:water,Atlantic Ocean,water,water,,,,45.0,-35.0,1.0,1.1,canonical,True
+NSH:boston:settlement,chgis_name,1,ON148024,Boston,census subdivision,csd,,Canada,,48.058703248497025,-79.9535662009947,1.0,1.08,canonical,False
 NSH:boston:settlement,world,1,world:Boston:settlement,Boston,settlement,settlement,,United States,,42.3601,-71.0589,1.0,1.1,canonical,True
 NSH:canada:country,overrides,1,override:Canada:3,Canada,,country,,Canada,,56.1304,-106.3468,1.0,1.1,canonical,True
 NSH:cape breton:landform,cgndb,1,CBRJN,Cape Breton,CAPE / Point,terrain,nova scotia,Canada,1000000.0,45.952163,-59.79,1.0,1.311,canonical,True
@@ -505,6 +513,7 @@ NSH:commons:facility,cgndb,1,CAHQA,Commons,UNP / Locality,settlement,nova scotia
 NSH:dartmouth:facility,cgndb,1,CAIYJ,Dartmouth,UNP / Community,settlement,nova scotia,Canada,7500000.0,44.670036,-63.577577,1.0,1.308,canonical,True
 NSH:denmark:country,world,1,world:Denmark:country,Denmark,country,country,,Denmark,,56.2639,9.5018,1.0,1.1,canonical,True
 NSH:england:country,world,1,world:England:country,England,country,country,,United Kingdom,,52.3555,-1.1743,1.0,1.1,canonical,True
+NSH:flanders:settlement,chgis_name,1,ON102021,Flanders,census subdivision,csd,,Canada,,49.37692000773564,-85.20553562915543,1.0,1.08,canonical,False
 NSH:flanders:settlement,world,1,world:Flanders:region,Flanders,region,admin_large,,Belgium,,51.0,3.7,1.0,1.05,canonical,True
 NSH:france:country,world,1,world:France:country,France,country,country,,France,,46.6034,2.2137,1.0,1.1,canonical,True
 NSH:germany:country,world,1,world:Germany:country,Germany,country,country,,Germany,,51.1657,10.4515,1.0,1.1,canonical,True

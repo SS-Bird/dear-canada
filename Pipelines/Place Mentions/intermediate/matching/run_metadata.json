@@ -1,5 +1,5 @@
 {
- "created": "2026-10-21T00:22:11",
+ "created": "2026-10-29T12:22:53",
  "input": "/Users/sophiebird/Downloads/Dear Canada/Pipelines/Place Mentions/intermediate/place_mentions_extracted.csv",
  "books": null,
  "parameters": {
@@ -87,20 +87,23 @@
    "records": 366235,
    "source": "1 file(s) in /Users/sophiebird/Downloads/Dear Canada/data/Gazetteers/cgndb",
    "time_basis": "modern"
+  },
+  "chgis_name": {
+   "records": 8,
+   "source": "/Users/sophiebird/Downloads/Dear Canada/data/Gazetteers/TCP_CANADA_CSD_202306/TCP_CANADA_CSD_202306.gdb (layers: [1851, 1861, 1871, 1881, 1891, 1901, 1911, 1921])",
+   "time_basis": "census"
   }
  },
- "notes": [
-  "chgis: not available (no ['*.gdb', '*.gpkg'] in /Users/sophiebird/Downloads/Dear Canada/data/Gazetteers/chgis)"
- ],
+ "notes": [],
  "counts": {
   "mentions": 4384,
-  "located_mentions": 3169,
+  "located_mentions": 3177,
   "queries": 1302,
   "by_status": {
-   "matched": 709,
-   "unmatched": 585,
+   "matched": 713,
+   "unmatched": 581,
    "not_geographic": 8
   },
-  "needs_review": 958
+  "needs_review": 967
  }
 }

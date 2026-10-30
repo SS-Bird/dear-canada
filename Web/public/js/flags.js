@@ -7,17 +7,20 @@ import { fold, parseCSV } from "./util.js";
 import { fetchDataset } from "./data.js";
 
 export const COLUMNS = ["id", "status", "kind", "scope", "book", "mention_id", "place", "current_match",
-  "correct_name", "latitude", "longitude", "place_type", "note", "resolution", "created", "resolved", "updated"];
+  "correct_name", "latitude", "longitude", "place_type", "csd_year", "csd_id", "note", "resolution", "created", "resolved", "updated"];
 
 export const KINDS = {
   wrong_location: "Wrong location",
   no_location: "No location found",
   not_a_place: "Not a place",
   wrong_type: "Wrong place type",
+  wrong_csd: "Wrong or missing census subdivision",
   other: "Other issue",
 };
 export const STATUSES = { open: "Open", resolved: "Resolved", dismissed: "Dismissed" };
 export const PLACE_TYPES = ["settlement", "region", "country", "water", "landform", "facility", "vessel"];
+// csd_id NO_CSD: the place has no census subdivision (it is drawn as a dot)
+export const NO_CSD = "none";
 // The map's location_precision for a corrected place type
 export const TYPE_PRECISION = { settlement: "settlement", region: "region", country: "country", water: "feature",
   landform: "feature", facility: "site", vessel: "site" };
@@ -134,12 +137,15 @@ export function applyFlags(rows, flags = allFlags()) {
       if (isFinite(lat) && isFinite(lon)) {
         r.excluded = false; r.lat = lat; r.lon = lon; r.historicity = true;
         r.matched_name = fix.correct_name || r.place;
-        r.region_historical = ""; r.region_modern = ""; r.country = "";
+        r.region_historical = ""; r.region_modern = ""; r.country = ""; r.csd_id = ""; r.csd_same_name = false; r.csd_forced = false;
         r.resolution_status = "corrected";
       } else if (fix.correct_name) {
         r.excluded = false; r.matched_name = fix.correct_name; // a region name with no point still fills its polygon
         r.resolution_status = "corrected";
       }
+      // A subdivision chosen by hand is always filled, whatever its size
+      if (fix.csd_id === NO_CSD) { r.csd_id = ""; r.csd_same_name = false; r.csd_forced = false; }
+      else if (fix.csd_id && fix.csd_year) { r.csd_id = fix.csd_id; r.csd_layer_year = fix.csd_year; r.csd_forced = true; }
     }
   }
   return rows;

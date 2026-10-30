@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-25T13:36:31+00:00",
+ "synced": "2026-10-29T12:07:05+00:00",
  "datasets": [
   {
    "id": "places/place_mentions.csv",
@@ -9,7 +9,7 @@
    "name": "place_mentions.csv",
    "path": "data/places/place_mentions.csv",
    "format": "csv",
-   "bytes": 1550351,
+   "bytes": 1623020,
    "rows": 4384,
    "columns": [
     "mention_id",
@@ -39,11 +39,15 @@
     "country",
     "latitude",
     "longitude",
+    "csd_id",
     "csd_name",
     "csd_layer_year",
+    "csd_method",
+    "csd_same_name",
     "needs_review",
     "review_reasons",
-    "query_id"
+    "query_id",
+    "correction_id"
    ],
    "head": [
     {
@@ -74,11 +78,15 @@
      "country": "Canada",
      "latitude": "49.8873",
      "longitude": "-97.1306",
+     "csd_id": "",
      "csd_name": "",
-     "csd_layer_year": "",
+     "csd_layer_year": "1861.0",
+     "csd_method": "",
+     "csd_same_name": "False",
      "needs_review": "True",
-     "review_reasons": "low_type_confidence",
-     "query_id": "AToBD:upper fort garry:facility"
+     "review_reasons": "low_type_confidence|csd_no_polygon",
+     "query_id": "AToBD:upper fort garry:facility",
+     "correction_id": ""
     },
     {
      "mention_id": "AToBD:ch01_e1:18",
@@ -108,11 +116,15 @@
      "country": "Canada",
      "latitude": "49.95",
      "longitude": "-97.05",
+     "csd_id": "",
      "csd_name": "",
      "csd_layer_year": "",
+     "csd_method": "",
+     "csd_same_name": "False",
      "needs_review": "False",
      "review_reasons": "",
-     "query_id": "AToBD:red river settlement:region"
+     "query_id": "AToBD:red river settlement:region",
+     "correction_id": ""
     },
     {
      "mention_id": "AToBD:ch01_e2:794",
@@ -142,11 +154,15 @@
      "country": "Canada",
      "latitude": "49.8873",
      "longitude": "-97.1306",
+     "csd_id": "",
      "csd_name": "",
-     "csd_layer_year": "",
-     "needs_review": "False",
-     "review_reasons": "",
-     "query_id": "AToBD:fort garry:facility"
+     "csd_layer_year": "1861.0",
+     "csd_method": "",
+     "csd_same_name": "False",
+     "needs_review": "True",
+     "review_reasons": "csd_no_polygon",
+     "query_id": "AToBD:fort garry:facility",
+     "correction_id": ""
     },
     {
      "mention_id": "AToBD:ch01_e3:328",
@@ -176,11 +192,15 @@
      "country": "Canada",
      "latitude": "43.6532",
      "longitude": "-79.3832",
+     "csd_id": "",
      "csd_name": "",
      "csd_layer_year": "",
+     "csd_method": "",
+     "csd_same_name": "False",
      "needs_review": "False",
      "review_reasons": "",
-     "query_id": "AToBD:canada west:region"
+     "query_id": "AToBD:canada west:region",
+     "correction_id": ""
     },
     {
      "mention_id": "AToBD:ch01_e3:343",
@@ -210,11 +230,15 @@
      "country": "Canada",
      "latitude": "49.95",
      "longitude": "-97.05",
+     "csd_id": "",
      "csd_name": "",
      "csd_layer_year": "",
+     "csd_method": "",
+     "csd_same_name": "False",
      "needs_review": "False",
      "review_reasons": "",
-     "query_id": "AToBD:red river settlement:region"
+     "query_id": "AToBD:red river settlement:region",
+     "correction_id": ""
     },
     {
      "mention_id": "AToBD:ch01_e3:439",
@@ -244,11 +268,15 @@
      "country": "Canada",
      "latitude": "53.7267",
      "longitude": "-127.6476",
+     "csd_id": "",
      "csd_name": "",
      "csd_layer_year": "",
+     "csd_method": "",
+     "csd_same_name": "False",
      "needs_review": "False",
      "review_reasons": "",
-     "query_id": "AToBD:british columbia:region"
+     "query_id": "AToBD:british columbia:region",
+     "correction_id": ""
     },
     {
      "mention_id": "AToBD:ch01_e6:81",
@@ -278,11 +306,15 @@
      "country": "Canada",
      "latitude": "43.7417",
      "longitude": "-79.3733",
-     "csd_name": "",
-     "csd_layer_year": "",
+     "csd_id": "ON105011",
+     "csd_name": "York",
+     "csd_layer_year": "1861.0",
+     "csd_method": "point_in_polygon",
+     "csd_same_name": "False",
      "needs_review": "True",
      "review_reasons": "low_type_confidence",
-     "query_id": "AToBD:toronto:settlement"
+     "query_id": "AToBD:toronto:settlement",
+     "correction_id": ""
     },
     {
      "mention_id": "AToBD:ch01_e8:115",
@@ -312,14 +344,18 @@
      "country": "Canada",
      "latitude": "53.534",
      "longitude": "-113.5065",
+     "csd_id": "",
      "csd_name": "",
-     "csd_layer_year": "",
-     "needs_review": "False",
-     "review_reasons": "",
-     "query_id": "AToBD:fort edmonton:facility"
+     "csd_layer_year": "1861.0",
+     "csd_method": "",
+     "csd_same_name": "False",
+     "needs_review": "True",
+     "review_reasons": "csd_no_polygon",
+     "query_id": "AToBD:fort edmonton:facility",
+     "correction_id": ""
     }
    ],
-   "modified": "2026-10-20T22:22:11+00:00"
+   "modified": "2026-10-29T11:22:52+00:00"
   },
   {
    "id": "places/place_matches.csv",
@@ -329,7 +365,7 @@
    "name": "place_matches.csv",
    "path": "data/places/place_matches.csv",
    "format": "csv",
-   "bytes": 300149,
+   "bytes": 347913,
    "rows": 1302,
    "columns": [
     "query_id",
@@ -368,6 +404,16 @@
     "runner_up_name",
     "runner_up_gazetteer",
     "runner_up_distance_km",
+    "csd_status",
+    "csd_method",
+    "csd_layer_year",
+    "csd_gap_years",
+    "csd_id",
+    "csd_name",
+    "csd_snap_m",
+    "csd_same_name",
+    "csd_namecd",
+    "csd_pr",
     "needs_review",
     "review_reasons"
    ],
@@ -409,6 +455,16 @@
      "runner_up_name": "",
      "runner_up_gazetteer": "",
      "runner_up_distance_km": "",
+     "csd_status": "not_applicable",
+     "csd_method": "",
+     "csd_layer_year": "",
+     "csd_gap_years": "",
+     "csd_id": "",
+     "csd_name": "",
+     "csd_snap_m": "",
+     "csd_same_name": "False",
+     "csd_namecd": "",
+     "csd_pr": "",
      "needs_review": "True",
      "review_reasons": "low_type_confidence"
     },
@@ -449,6 +505,16 @@
      "runner_up_name": "",
      "runner_up_gazetteer": "",
      "runner_up_distance_km": "",
+     "csd_status": "not_applicable",
+     "csd_method": "",
+     "csd_layer_year": "",
+     "csd_gap_years": "",
+     "csd_id": "",
+     "csd_name": "",
+     "csd_snap_m": "",
+     "csd_same_name": "False",
+     "csd_namecd": "",
+     "csd_pr": "",
      "needs_review": "True",
      "review_reasons": "fuzzy_name"
     },
@@ -489,6 +555,16 @@
      "runner_up_name": "Beaver Creek (British Columbia)",
      "runner_up_gazetteer": "cgndb",
      "runner_up_distance_km": "515.3",
+     "csd_status": "not_applicable",
+     "csd_method": "",
+     "csd_layer_year": "",
+     "csd_gap_years": "",
+     "csd_id": "",
+     "csd_name": "",
+     "csd_snap_m": "",
+     "csd_same_name": "False",
+     "csd_namecd": "",
+     "csd_pr": "",
      "needs_review": "True",
      "review_reasons": "ambiguous"
     },
@@ -529,6 +605,16 @@
      "runner_up_name": "",
      "runner_up_gazetteer": "",
      "runner_up_distance_km": "",
+     "csd_status": "not_applicable",
+     "csd_method": "",
+     "csd_layer_year": "",
+     "csd_gap_years": "",
+     "csd_id": "",
+     "csd_name": "",
+     "csd_snap_m": "",
+     "csd_same_name": "False",
+     "csd_namecd": "",
+     "csd_pr": "",
      "needs_review": "True",
      "review_reasons": "unmatched"
     },
@@ -569,6 +655,16 @@
      "runner_up_name": "",
      "runner_up_gazetteer": "",
      "runner_up_distance_km": "",
+     "csd_status": "not_applicable",
+     "csd_method": "",
+     "csd_layer_year": "",
+     "csd_gap_years": "",
+     "csd_id": "",
+     "csd_name": "",
+     "csd_snap_m": "",
+     "csd_same_name": "False",
+     "csd_namecd": "",
+     "csd_pr": "",
      "needs_review": "False",
      "review_reasons": ""
     },
@@ -609,6 +705,16 @@
      "runner_up_name": "",
      "runner_up_gazetteer": "",
      "runner_up_distance_km": "",
+     "csd_status": "not_applicable",
+     "csd_method": "",
+     "csd_layer_year": "",
+     "csd_gap_years": "",
+     "csd_id": "",
+     "csd_name": "",
+     "csd_snap_m": "",
+     "csd_same_name": "False",
+     "csd_namecd": "",
+     "csd_pr": "",
      "needs_review": "True",
      "review_reasons": "unmatched"
     },
@@ -649,6 +755,16 @@
      "runner_up_name": "",
      "runner_up_gazetteer": "",
      "runner_up_distance_km": "",
+     "csd_status": "not_applicable",
+     "csd_method": "",
+     "csd_layer_year": "",
+     "csd_gap_years": "",
+     "csd_id": "",
+     "csd_name": "",
+     "csd_snap_m": "",
+     "csd_same_name": "False",
+     "csd_namecd": "",
+     "csd_pr": "",
      "needs_review": "True",
      "review_reasons": "low_type_confidence"
     },
@@ -689,11 +805,21 @@
      "runner_up_name": "",
      "runner_up_gazetteer": "",
      "runner_up_distance_km": "",
+     "csd_status": "not_applicable",
+     "csd_method": "",
+     "csd_layer_year": "",
+     "csd_gap_years": "",
+     "csd_id": "",
+     "csd_name": "",
+     "csd_snap_m": "",
+     "csd_same_name": "False",
+     "csd_namecd": "",
+     "csd_pr": "",
      "needs_review": "False",
      "review_reasons": ""
     }
    ],
-   "modified": "2026-10-20T22:22:11+00:00"
+   "modified": "2026-10-29T11:22:52+00:00"
   },
   {
    "id": "places/boundaries_hacolp.json",
@@ -703,7 +829,7 @@
    "name": "boundaries_hacolp.json",
    "path": "data/places/boundaries_hacolp.json",
    "format": "json",
-   "bytes": 3270949,
+   "bytes": 5340775,
    "rows": 1,
    "columns": [
     "source",
@@ -715,11 +841,11 @@
     {
      "source": "Historical Atlas of Canada Online Learning Project (HACOLP), Territorial Evolution 2012. Borealis, doi:10.5683/SP2/IQ7E…",
      "years": "[1667, 1713, 1763, 1769, 1774, 1783, 1784, 1790, 1791, 1798, 1800, 1809, 1818, 1820, 1821, 1825, 1840, 1842, 1846, 1849…",
-     "geometries": "[{\"type\": \"MultiPolygon\", \"coordinates\": [[[[-74.3, 39.58], [-74.18, 39.82], [-74.12, 39.97], [-74.17, 39.76], [-74.3, …",
+     "geometries": "[{\"type\": \"MultiPolygon\", \"coordinates\": [[[[-74.123, 39.974], [-74.165, 39.758], [-74.297, 39.584], [-74.176, 39.819],…",
      "layers": "{\"1667\": [{\"name\": \"British Colonies\", \"country\": \"Britain\", \"g\": 0}, {\"name\": \"Claimed by Britain and France\", \"countr…"
     }
    ],
-   "modified": "2026-10-25T13:34:14+00:00"
+   "modified": "2026-10-29T11:17:02+00:00"
   },
   {
    "id": "places/boundaries_world.json",
@@ -729,7 +855,7 @@
    "name": "boundaries_world.json",
    "path": "data/places/boundaries_world.json",
    "format": "json",
-   "bytes": 651650,
+   "bytes": 740591,
    "rows": 1,
    "columns": [
     "source",
@@ -739,11 +865,25 @@
    "head": [
     {
      "source": "Natural Earth 1:50m admin 0 map units and admin 1 states/provinces (public domain), modern borders",
-     "features": "[{\"name\": \"Zimbabwe\", \"admin\": \"Zimbabwe\", \"kind\": \"country\", \"g\": {\"type\": \"Polygon\", \"coordinates\": [[[31.29, -22.4],…",
+     "features": "[{\"name\": \"Zimbabwe\", \"admin\": \"Zimbabwe\", \"kind\": \"country\", \"g\": {\"type\": \"Polygon\", \"coordinates\": [[[31.288, -22.40…",
      "names": "{\"zimbabwe\": [0], \"republic of zimbabwe\": [0], \"zambia\": [1], \"republic of zambia\": [1], \"yemen\": [2], \"republic of yem…"
     }
    ],
-   "modified": "2026-10-25T13:33:55+00:00"
+   "modified": "2026-10-29T11:16:22+00:00"
+  },
+  {
+   "id": "places/csd_polygons.geojson",
+   "project": "places",
+   "role": "csd_polygons",
+   "group": null,
+   "name": "csd_polygons.geojson",
+   "path": "data/places/csd_polygons.geojson",
+   "format": "geojson",
+   "bytes": 298183,
+   "rows": null,
+   "columns": [],
+   "head": [],
+   "modified": "2026-10-29T11:22:53+00:00"
   },
   {
    "id": "places/region_aliases.csv",
@@ -898,8 +1038,8 @@
    "name": "place_corrections.csv",
    "path": "data/places/place_corrections.csv",
    "format": "csv",
-   "bytes": 141,
-   "rows": 0,
+   "bytes": 1535,
+   "rows": 4,
    "columns": [
     "id",
     "status",
@@ -919,8 +1059,85 @@
     "resolved",
     "updated"
    ],
-   "head": [],
-   "modified": "2026-10-25T13:15:25+00:00"
+   "head": [
+    {
+     "id": "F2610251324470ff",
+     "status": "resolved",
+     "kind": "wrong_location",
+     "scope": "book",
+     "book": "FitS",
+     "mention_id": "",
+     "place": "Highlands",
+     "current_match": "Highlands · 48.481, -123.512",
+     "correct_name": "Scottish Highlands",
+     "latitude": "57.2493",
+     "longitude": "-4.8230",
+     "place_type": "region",
+     "note": "The protagonist of Footsteps in the Snow is immigrating from the Scottish highlands to Red River. I don't think the BC …",
+     "resolution": "→ Scottish Highlands · 57.2493, -4.8230",
+     "created": "2026-10-25T13:24:47Z",
+     "resolved": "2026-10-25T13:24:47Z",
+     "updated": "2026-10-25T13:24:47Z"
+    },
+    {
+     "id": "F261025132943v4h",
+     "status": "resolved",
+     "kind": "wrong_location",
+     "scope": "book",
+     "book": "PasWide",
+     "mention_id": "",
+     "place": "Ellice Islands",
+     "current_match": "Ellice Island · 69.117, -135.803",
+     "correct_name": "Ellice Islands (Tuvalu)",
+     "latitude": "-8.5208",
+     "longitude": "179.1986",
+     "place_type": "country",
+     "note": "In Prairie as Wide as the Sea, the protagonist is v into georgaphy; she lists all British colonies and refers to this o…",
+     "resolution": "→ Ellice Islands (Tuvalu) · -8.5208, 179.1986",
+     "created": "2026-10-25T13:29:43Z",
+     "resolved": "2026-10-25T13:29:43Z",
+     "updated": "2026-10-25T13:29:43Z"
+    },
+    {
+     "id": "F261029112529dz7",
+     "status": "resolved",
+     "kind": "wrong_location",
+     "scope": "book",
+     "book": "TA",
+     "mention_id": "",
+     "place": "St. Anthony",
+     "current_match": "St. Anthony · 51.375, -55.616",
+     "correct_name": "St. Anthony's Church",
+     "latitude": "49.991",
+     "longitude": "-117.377",
+     "place_type": "facility",
+     "note": "This was connecting to the town not the church.",
+     "resolution": "→ St. Anthony's Church · 49.991, -117.377",
+     "created": "2026-10-29T11:25:29Z",
+     "resolved": "2026-10-29T11:25:29Z",
+     "updated": "2026-10-29T11:25:29Z"
+    },
+    {
+     "id": "F261029112837vca",
+     "status": "resolved",
+     "kind": "wrong_location",
+     "scope": "book",
+     "book": "NSH",
+     "mention_id": "",
+     "place": "South End",
+     "current_match": "South End · 49.570, -54.408",
+     "correct_name": "South End Halifax",
+     "latitude": "44.6330",
+     "longitude": "-63.5779",
+     "place_type": "",
+     "note": "",
+     "resolution": "→ South End Halifax · 44.6330, -63.5779",
+     "created": "2026-10-29T11:28:37Z",
+     "resolved": "2026-10-29T11:28:37Z",
+     "updated": "2026-10-29T11:29:10Z"
+    }
+   ],
+   "modified": "2026-10-29T12:07:05+00:00"
   },
   {
    "id": "network/SofS_entries_halved_edges.json",
@@ -1872,6 +2089,688 @@
     }
    ],
    "modified": "2026-10-03T21:09:47+00:00"
+  },
+  {
+   "id": "historical/tcp_csd_1851.json",
+   "project": "historical",
+   "role": "csd_layer",
+   "group": null,
+   "name": "tcp_csd_1851.json",
+   "path": "data/historical/tcp_csd_1851.json",
+   "format": "json",
+   "bytes": 965328,
+   "rows": 1,
+   "columns": [
+    "source",
+    "key",
+    "year",
+    "layer",
+    "table",
+    "geometries",
+    "features"
+   ],
+   "head": [
+    {
+     "source": "The Canadian Peoples / Les populations canadiennes Project, “Census of Canada Historical GIS, CSD Polygons,” CIEQ, Univ…",
+     "key": "1851",
+     "year": "1851",
+     "layer": "CANADA_1851_CSD",
+     "table": "1851 Vol. 1, Table 3 (Appendices 5 and 6)",
+     "geometries": "[{\"type\": \"Polygon\", \"coordinates\": [[[-80.1015, 43.1433], [-80.1251, 43.1381], [-80.1289, 43.1396], [-80.1652, 43.1316…",
+     "features": "[{\"id\": \"ON002001\", \"name\": \"Brantford\", \"cd\": \"Brant\", \"pr\": \"ON\", \"km2\": 282.29}, {\"id\": \"ON002003\", \"name\": \"Burford…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:11+00:00"
+  },
+  {
+   "id": "historical/tcp_csd_1861.json",
+   "project": "historical",
+   "role": "csd_layer",
+   "group": null,
+   "name": "tcp_csd_1861.json",
+   "path": "data/historical/tcp_csd_1861.json",
+   "format": "json",
+   "bytes": 1150242,
+   "rows": 1,
+   "columns": [
+    "source",
+    "key",
+    "year",
+    "layer",
+    "table",
+    "geometries",
+    "features"
+   ],
+   "head": [
+    {
+     "source": "The Canadian Peoples / Les populations canadiennes Project, “Census of Canada Historical GIS, CSD Polygons,” CIEQ, Univ…",
+     "key": "1861",
+     "year": "1861",
+     "layer": "CANADA_1861_CSD",
+     "table": "1861 Vol. 1, Tables 1 and 2",
+     "geometries": "[{\"type\": \"Polygon\", \"coordinates\": [[[-80.1015, 43.1433], [-80.1251, 43.1381], [-80.1289, 43.1396], [-80.1652, 43.1316…",
+     "features": "[{\"id\": \"ON065002\", \"name\": \"Brantford\", \"cd\": \"Brant\", \"pr\": \"ON\", \"km2\": 282.29}, {\"id\": \"ON065003\", \"name\": \"Burford…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:11+00:00"
+  },
+  {
+   "id": "historical/tcp_csd_1871.json",
+   "project": "historical",
+   "role": "csd_layer",
+   "group": null,
+   "name": "tcp_csd_1871.json",
+   "path": "data/historical/tcp_csd_1871.json",
+   "format": "json",
+   "bytes": 1813930,
+   "rows": 1,
+   "columns": [
+    "source",
+    "key",
+    "year",
+    "layer",
+    "table",
+    "geometries",
+    "features"
+   ],
+   "head": [
+    {
+     "source": "The Canadian Peoples / Les populations canadiennes Project, “Census of Canada Historical GIS, CSD Polygons,” CIEQ, Univ…",
+     "key": "1871",
+     "year": "1871",
+     "layer": "CANADA_1871_CSD",
+     "table": "1871 Vol. 1, Table 1",
+     "geometries": "[{\"type\": \"MultiPolygon\", \"coordinates\": [[[[-92.1667, 48.3732], [-92.3589, 48.3526], [-92.3701, 48.2212], [-92.4883, 4…",
+     "features": "[{\"id\": \"NT999999\", \"name\": \"NO DATA\", \"cd\": \"The Territories\", \"pr\": \"NT\", \"km2\": 7517100.13}, {\"id\": \"BC999999\", \"nam…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:12+00:00"
+  },
+  {
+   "id": "historical/tcp_csd_1881.json",
+   "project": "historical",
+   "role": "csd_layer",
+   "group": null,
+   "name": "tcp_csd_1881.json",
+   "path": "data/historical/tcp_csd_1881.json",
+   "format": "json",
+   "bytes": 2202149,
+   "rows": 1,
+   "columns": [
+    "source",
+    "key",
+    "year",
+    "layer",
+    "table",
+    "geometries",
+    "features"
+   ],
+   "head": [
+    {
+     "source": "The Canadian Peoples / Les populations canadiennes Project, “Census of Canada Historical GIS, CSD Polygons,” CIEQ, Univ…",
+     "key": "1881",
+     "year": "1881",
+     "layer": "CANADA_1881_CSD",
+     "table": "1881 Vol. 1, Table 1",
+     "geometries": "[{\"type\": \"Polygon\", \"coordinates\": [[[-81.8122, 45.7552], [-81.7993, 45.7474], [-81.7962, 45.7278], [-81.7888, 45.7227…",
+     "features": "[{\"id\": \"ON182003\", \"name\": \"Assiginack\", \"cd\": \"Algoma\", \"pr\": \"ON\", \"km2\": 175.55}, {\"id\": \"ON182010\", \"name\": \"Burpe…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:12+00:00"
+  },
+  {
+   "id": "historical/tcp_csd_1891.json",
+   "project": "historical",
+   "role": "csd_layer",
+   "group": null,
+   "name": "tcp_csd_1891.json",
+   "path": "data/historical/tcp_csd_1891.json",
+   "format": "json",
+   "bytes": 2311404,
+   "rows": 1,
+   "columns": [
+    "source",
+    "key",
+    "year",
+    "layer",
+    "table",
+    "geometries",
+    "features"
+   ],
+   "head": [
+    {
+     "source": "The Canadian Peoples / Les populations canadiennes Project, “Census of Canada Historical GIS, CSD Polygons,” CIEQ, Univ…",
+     "key": "1891",
+     "year": "1891",
+     "layer": "CANADA_1891_CSD",
+     "table": "1891 Vol. 1, Table 3",
+     "geometries": "[{\"type\": \"Polygon\", \"coordinates\": [[[-81.8122, 45.7552], [-81.7993, 45.7474], [-81.7962, 45.7278], [-81.7888, 45.7227…",
+     "features": "[{\"id\": \"ON046045\", \"name\": \"Assiginack\", \"cd\": \"Algoma\", \"pr\": \"ON\", \"km2\": 175.55}, {\"id\": \"ON046046\", \"name\": \"Barri…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:12+00:00"
+  },
+  {
+   "id": "historical/tcp_csd_1901.json",
+   "project": "historical",
+   "role": "csd_layer",
+   "group": null,
+   "name": "tcp_csd_1901.json",
+   "path": "data/historical/tcp_csd_1901.json",
+   "format": "json",
+   "bytes": 2729053,
+   "rows": 1,
+   "columns": [
+    "source",
+    "key",
+    "year",
+    "layer",
+    "table",
+    "geometries",
+    "features"
+   ],
+   "head": [
+    {
+     "source": "The Canadian Peoples / Les populations canadiennes Project, “Census of Canada Historical GIS, CSD Polygons,” CIEQ, Univ…",
+     "key": "1901",
+     "year": "1901",
+     "layer": "CANADA_1901_CSD",
+     "table": "1901 Vol. 1, Table 7",
+     "geometries": "[{\"type\": \"Polygon\", \"coordinates\": [[[-99.2752, 50.8602], [-99.6952, 50.8607], [-99.6937, 50.9488], [-99.7106, 50.9488…",
+     "features": "[{\"id\": \"MB008010\", \"name\": \"Ochre River (part)\", \"cd\": \"Macdonald\", \"pr\": \"MB\", \"km2\": 1663.06}, {\"id\": \"MB006011\", \"n…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:12+00:00"
+  },
+  {
+   "id": "historical/tcp_csd_1911.json",
+   "project": "historical",
+   "role": "csd_layer",
+   "group": null,
+   "name": "tcp_csd_1911.json",
+   "path": "data/historical/tcp_csd_1911.json",
+   "format": "json",
+   "bytes": 3120965,
+   "rows": 1,
+   "columns": [
+    "source",
+    "key",
+    "year",
+    "layer",
+    "table",
+    "geometries",
+    "features"
+   ],
+   "head": [
+    {
+     "source": "The Canadian Peoples / Les populations canadiennes Project, “Census of Canada Historical GIS, CSD Polygons,” CIEQ, Univ…",
+     "key": "1911",
+     "year": "1911",
+     "layer": "CANADA_1911_CSD",
+     "table": "Hybrid: 1911 Vol. 1, Table 1 for NB, NS, PE, ON, QC; Vol. 2, Table 2 for the west",
+     "geometries": "[{\"type\": \"MultiPolygon\", \"coordinates\": [[[[-114.0865, 51.0835], [-114.0727, 51.0862], [-114.0622, 51.08], [-114.0654,…",
+     "features": "[{\"id\": \"AB001001\", \"name\": \"92 townships\", \"cd\": \"Calgary\", \"pr\": \"AB\", \"km2\": 7938.36}, {\"id\": \"AB001002\", \"name\": \"S…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:13+00:00"
+  },
+  {
+   "id": "historical/tcp_csd_1911_V1T1.json",
+   "project": "historical",
+   "role": "csd_layer",
+   "group": null,
+   "name": "tcp_csd_1911_V1T1.json",
+   "path": "data/historical/tcp_csd_1911_V1T1.json",
+   "format": "json",
+   "bytes": 4494521,
+   "rows": 1,
+   "columns": [
+    "source",
+    "key",
+    "year",
+    "layer",
+    "table",
+    "geometries",
+    "features"
+   ],
+   "head": [
+    {
+     "source": "The Canadian Peoples / Les populations canadiennes Project, “Census of Canada Historical GIS, CSD Polygons,” CIEQ, Univ…",
+     "key": "1911_V1T1",
+     "year": "1911",
+     "layer": "CANADA_1911_CSD_V1T1",
+     "table": "1911 Vol. 1, Table 1",
+     "geometries": "[{\"type\": \"Polygon\", \"coordinates\": [[[-67.14, 46.4386], [-67.426, 46.4353], [-67.4677, 46.436], [-67.4772, 46.4529], […",
+     "features": "[{\"id\": \"NB025001\", \"name\": \"Aberdeen\", \"cd\": \"Carleton\", \"pr\": \"NB\", \"km2\": 458.7}, {\"id\": \"NB025002\", \"name\": \"Bright…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:13+00:00"
+  },
+  {
+   "id": "historical/tcp_csd_1911_V2T2.json",
+   "project": "historical",
+   "role": "csd_layer",
+   "group": null,
+   "name": "tcp_csd_1911_V2T2.json",
+   "path": "data/historical/tcp_csd_1911_V2T2.json",
+   "format": "json",
+   "bytes": 3076738,
+   "rows": 1,
+   "columns": [
+    "source",
+    "key",
+    "year",
+    "layer",
+    "table",
+    "geometries",
+    "features"
+   ],
+   "head": [
+    {
+     "source": "The Canadian Peoples / Les populations canadiennes Project, “Census of Canada Historical GIS, CSD Polygons,” CIEQ, Univ…",
+     "key": "1911_V2T2",
+     "year": "1911",
+     "layer": "CANADA_1911_CSD_V2T2",
+     "table": "1911 Vol. 2, Table 2",
+     "geometries": "[{\"type\": \"MultiPolygon\", \"coordinates\": [[[[-114.0865, 51.0835], [-114.0727, 51.0862], [-114.0622, 51.08], [-114.0654,…",
+     "features": "[{\"id\": \"AB001001\", \"name\": \"92 townships\", \"cd\": \"Calgary\", \"pr\": \"AB\", \"km2\": 7938.36}, {\"id\": \"AB001002\", \"name\": \"S…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:14+00:00"
+  },
+  {
+   "id": "historical/tcp_csd_1921.json",
+   "project": "historical",
+   "role": "csd_layer",
+   "group": null,
+   "name": "tcp_csd_1921.json",
+   "path": "data/historical/tcp_csd_1921.json",
+   "format": "json",
+   "bytes": 4063498,
+   "rows": 1,
+   "columns": [
+    "source",
+    "key",
+    "year",
+    "layer",
+    "table",
+    "geometries",
+    "features"
+   ],
+   "head": [
+    {
+     "source": "The Canadian Peoples / Les populations canadiennes Project, “Census of Canada Historical GIS, CSD Polygons,” CIEQ, Univ…",
+     "key": "1921",
+     "year": "1921",
+     "layer": "CANADA_1921_CSD",
+     "table": "1921 Vol. 1, Table 16",
+     "geometries": "[{\"type\": \"MultiPolygon\", \"coordinates\": [[[[-55.8715, 51.9848], [-55.8904, 51.9889], [-55.8725, 51.9901], [-55.8715, 5…",
+     "features": "[{\"id\": \"NL001999\", \"name\": \"NO DATA\", \"cd\": \"Labrador\", \"pr\": \"NL\", \"km2\": 56246.46}, {\"id\": \"NB022001\", \"name\": \"Alma…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:14+00:00"
+  },
+  {
+   "id": "historical/tcp_links_1851.json",
+   "project": "historical",
+   "role": "csd_links",
+   "group": null,
+   "name": "tcp_links_1851.json",
+   "path": "data/historical/tcp_links_1851.json",
+   "format": "json",
+   "bytes": 723238,
+   "rows": 1,
+   "columns": [
+    "key",
+    "min_share",
+    "links"
+   ],
+   "head": [
+    {
+     "key": "1851",
+     "min_share": "0.02",
+     "links": "[{\"1861\": [[0, 1.0, 1.0]], \"1871\": [[12, 0.569, 1.0], [7, 0.428, 1.0]], \"1881\": [[20, 0.57, 0.933], [15, 0.412, 0.778],…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:57+00:00"
+  },
+  {
+   "id": "historical/tcp_links_1861.json",
+   "project": "historical",
+   "role": "csd_links",
+   "group": null,
+   "name": "tcp_links_1861.json",
+   "path": "data/historical/tcp_links_1861.json",
+   "format": "json",
+   "bytes": 765662,
+   "rows": 1,
+   "columns": [
+    "key",
+    "min_share",
+    "links"
+   ],
+   "head": [
+    {
+     "key": "1861",
+     "min_share": "0.02",
+     "links": "[{\"1851\": [[0, 1.0, 1.0]], \"1871\": [[12, 0.569, 1.0], [7, 0.428, 1.0]], \"1881\": [[20, 0.57, 0.933], [15, 0.412, 0.778],…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:57+00:00"
+  },
+  {
+   "id": "historical/tcp_links_1871.json",
+   "project": "historical",
+   "role": "csd_links",
+   "group": null,
+   "name": "tcp_links_1871.json",
+   "path": "data/historical/tcp_links_1871.json",
+   "format": "json",
+   "bytes": 842892,
+   "rows": 1,
+   "columns": [
+    "key",
+    "min_share",
+    "links"
+   ],
+   "head": [
+    {
+     "key": "1871",
+     "min_share": "0.02",
+     "links": "[{\"1851\": [[417, 0.997, 0.857]], \"1861\": [[525, 0.997, 0.875]], \"1881\": [[720, 0.315, 0.996], [721, 0.193, 0.989], [719…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:57+00:00"
+  },
+  {
+   "id": "historical/tcp_links_1881.json",
+   "project": "historical",
+   "role": "csd_links",
+   "group": null,
+   "name": "tcp_links_1881.json",
+   "path": "data/historical/tcp_links_1881.json",
+   "format": "json",
+   "bytes": 898938,
+   "rows": 1,
+   "columns": [
+    "key",
+    "min_share",
+    "links"
+   ],
+   "head": [
+    {
+     "key": "1881",
+     "min_share": "0.02",
+     "links": "[{\"1851\": [[417, 0.973, 0.0]], \"1861\": [[487, 0.967, 0.002]], \"1871\": [[3, 1.0, 0.085]], \"1891\": [[0, 1.0, 1.0]], \"1901…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:57+00:00"
+  },
+  {
+   "id": "historical/tcp_links_1891.json",
+   "project": "historical",
+   "role": "csd_links",
+   "group": null,
+   "name": "tcp_links_1891.json",
+   "path": "data/historical/tcp_links_1891.json",
+   "format": "json",
+   "bytes": 947073,
+   "rows": 1,
+   "columns": [
+    "key",
+    "min_share",
+    "links"
+   ],
+   "head": [
+    {
+     "key": "1891",
+     "min_share": "0.02",
+     "links": "[{\"1851\": [[417, 0.973, 0.0]], \"1861\": [[487, 0.967, 0.002]], \"1871\": [[3, 1.0, 0.085]], \"1881\": [[0, 1.0, 1.0]], \"1901…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:57+00:00"
+  },
+  {
+   "id": "historical/tcp_links_1901.json",
+   "project": "historical",
+   "role": "csd_links",
+   "group": null,
+   "name": "tcp_links_1901.json",
+   "path": "data/historical/tcp_links_1901.json",
+   "format": "json",
+   "bytes": 1103015,
+   "rows": 1,
+   "columns": [
+    "key",
+    "min_share",
+    "links"
+   ],
+   "head": [
+    {
+     "key": "1901",
+     "min_share": "0.02",
+     "links": "[{\"1851\": [[417, 1.0, 0.0]], \"1861\": [[525, 1.0, 0.0]], \"1871\": [[2, 1.0, 0.012]], \"1881\": [[733, 1.0, 0.036]], \"1891\":…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:57+00:00"
+  },
+  {
+   "id": "historical/tcp_links_1911.json",
+   "project": "historical",
+   "role": "csd_links",
+   "group": null,
+   "name": "tcp_links_1911.json",
+   "path": "data/historical/tcp_links_1911.json",
+   "format": "json",
+   "bytes": 1182427,
+   "rows": 1,
+   "columns": [
+    "key",
+    "min_share",
+    "links"
+   ],
+   "head": [
+    {
+     "key": "1911",
+     "min_share": "0.02",
+     "links": "[{\"1851\": [[417, 1.0, 0.001]], \"1861\": [[525, 1.0, 0.001]], \"1871\": [[0, 1.0, 0.001]], \"1881\": [[713, 1.0, 0.086]], \"18…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:57+00:00"
+  },
+  {
+   "id": "historical/tcp_links_1911_V1T1.json",
+   "project": "historical",
+   "role": "csd_links",
+   "group": null,
+   "name": "tcp_links_1911_V1T1.json",
+   "path": "data/historical/tcp_links_1911_V1T1.json",
+   "format": "json",
+   "bytes": 2474502,
+   "rows": 1,
+   "columns": [
+    "key",
+    "min_share",
+    "links"
+   ],
+   "head": [
+    {
+     "key": "1911_V1T1",
+     "min_share": "0.02",
+     "links": "[{\"1851\": [[422, 1.0, 0.006]], \"1861\": [[524, 1.0, 0.006]], \"1871\": [[595, 1.0, 1.0]], \"1881\": [[798, 1.0, 1.0]], \"1891…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:57+00:00"
+  },
+  {
+   "id": "historical/tcp_links_1911_V2T2.json",
+   "project": "historical",
+   "role": "csd_links",
+   "group": null,
+   "name": "tcp_links_1911_V2T2.json",
+   "path": "data/historical/tcp_links_1911_V2T2.json",
+   "format": "json",
+   "bytes": 1123220,
+   "rows": 1,
+   "columns": [
+    "key",
+    "min_share",
+    "links"
+   ],
+   "head": [
+    {
+     "key": "1911_V2T2",
+     "min_share": "0.02",
+     "links": "[{\"1851\": [[417, 1.0, 0.001]], \"1861\": [[525, 1.0, 0.001]], \"1871\": [[0, 1.0, 0.001]], \"1881\": [[713, 1.0, 0.086]], \"18…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:57+00:00"
+  },
+  {
+   "id": "historical/tcp_links_1921.json",
+   "project": "historical",
+   "role": "csd_links",
+   "group": null,
+   "name": "tcp_links_1921.json",
+   "path": "data/historical/tcp_links_1921.json",
+   "format": "json",
+   "bytes": 1567666,
+   "rows": 1,
+   "columns": [
+    "key",
+    "min_share",
+    "links"
+   ],
+   "head": [
+    {
+     "key": "1921",
+     "min_share": "0.02",
+     "links": "[{\"1851\": [[417, 0.863, 0.006]], \"1861\": [[525, 0.867, 0.006]], \"1871\": [[0, 0.869, 0.007]], \"1881\": [[797, 1.0, 1.0]],…"
+    }
+   ],
+   "modified": "2026-10-28T16:51:57+00:00"
+  },
+  {
+   "id": "historical/tcp_1911_crosswalk.csv",
+   "project": "historical",
+   "role": "crosswalk_1911",
+   "group": null,
+   "name": "tcp_1911_crosswalk.csv",
+   "path": "data/historical/tcp_1911_crosswalk.csv",
+   "format": "csv",
+   "bytes": 1339395,
+   "rows": 15263,
+   "columns": [
+    "hybrid_id",
+    "hybrid_name",
+    "cd",
+    "pr",
+    "table",
+    "table_id",
+    "table_name",
+    "relation",
+    "share_of_hybrid",
+    "share_of_table"
+   ],
+   "head": [
+    {
+     "hybrid_id": "AB001001",
+     "hybrid_name": "92 townships",
+     "cd": "Calgary",
+     "pr": "AB",
+     "table": "V1T1",
+     "table_id": "AB001001",
+     "table_name": "T23 R25 MW4",
+     "relation": "hybrid_contains",
+     "share_of_hybrid": "0.012",
+     "share_of_table": "0.999"
+    },
+    {
+     "hybrid_id": "AB001001",
+     "hybrid_name": "92 townships",
+     "cd": "Calgary",
+     "pr": "AB",
+     "table": "V1T1",
+     "table_id": "AB001009",
+     "table_name": "T23 R26 MW4",
+     "relation": "hybrid_contains",
+     "share_of_hybrid": "0.012",
+     "share_of_table": "0.997"
+    },
+    {
+     "hybrid_id": "AB001001",
+     "hybrid_name": "92 townships",
+     "cd": "Calgary",
+     "pr": "AB",
+     "table": "V1T1",
+     "table_id": "AB001070",
+     "table_name": "T23 R5 MW5",
+     "relation": "hybrid_contains",
+     "share_of_hybrid": "0.012",
+     "share_of_table": "1.0"
+    },
+    {
+     "hybrid_id": "AB001001",
+     "hybrid_name": "92 townships",
+     "cd": "Calgary",
+     "pr": "AB",
+     "table": "V1T1",
+     "table_id": "AB001002",
+     "table_name": "T24 R25 MW4",
+     "relation": "hybrid_contains",
+     "share_of_hybrid": "0.012",
+     "share_of_table": "1.0"
+    },
+    {
+     "hybrid_id": "AB001001",
+     "hybrid_name": "92 townships",
+     "cd": "Calgary",
+     "pr": "AB",
+     "table": "V1T1",
+     "table_id": "AB001010",
+     "table_name": "T24 R26 MW4",
+     "relation": "hybrid_contains",
+     "share_of_hybrid": "0.012",
+     "share_of_table": "1.0"
+    },
+    {
+     "hybrid_id": "AB001001",
+     "hybrid_name": "92 townships",
+     "cd": "Calgary",
+     "pr": "AB",
+     "table": "V1T1",
+     "table_id": "AB001018",
+     "table_name": "T24 R27 MW4",
+     "relation": "hybrid_contains",
+     "share_of_hybrid": "0.012",
+     "share_of_table": "1.0"
+    },
+    {
+     "hybrid_id": "AB001001",
+     "hybrid_name": "92 townships",
+     "cd": "Calgary",
+     "pr": "AB",
+     "table": "V1T1",
+     "table_id": "AB001025",
+     "table_name": "T23 R28 MW4",
+     "relation": "hybrid_contains",
+     "share_of_hybrid": "0.012",
+     "share_of_table": "0.997"
+    },
+    {
+     "hybrid_id": "AB001001",
+     "hybrid_name": "92 townships",
+     "cd": "Calgary",
+     "pr": "AB",
+     "table": "V1T1",
+     "table_id": "AB001041",
+     "table_name": "T23 R1 MW5",
+     "relation": "hybrid_contains",
+     "share_of_hybrid": "0.012",
+     "share_of_table": "0.996"
+    }
+   ],
+   "modified": "2026-10-28T16:51:58+00:00"
   }
  ]
 }

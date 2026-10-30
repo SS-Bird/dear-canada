@@ -22,7 +22,10 @@ mentions use the historical layers.
 
 Names are normalised across years (Québec/Quebec, NorthWest/North-West Territories…),
 the Great Lakes are cut out, shapes are simplified, and a polygon unchanged between
-snapshots is stored once. Which mentions fill which polygon is decided on the site from
+snapshots is stored once. Simplification is lighter in densely settled areas: within
+DENSE_BUFFER_M of any TCP census subdivision under DENSE_KM2 (any census, 1851–1921), so the
+St. Lawrence valley, southern Ontario, the Maritimes and the Vancouver area keep their coasts
+and rivers. Without the TCP geodatabase every area is simplified the same way. Which mentions fill which polygon is decided on the site from
 data/Gazetteers/curated/region_aliases.csv and region_polygons.csv, so editing those
 needs only `python3 Web/scripts/sync_data.py`, not this script.
 
@@ -35,6 +38,8 @@ from pathlib import Path
 
 import geopandas as gpd
 import pandas as pd
+import pyogrio
+import shapely
 from shapely.geometry import mapping
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -45,7 +50,11 @@ NE_DIR = GAZ / "naturalearth"
 WORLD_SIMPLIFY_DEG = 0.03  # Natural Earth is in degrees
 WORLD_STATES_OF = {"United States of America"}  # countries drawn down to states/provinces
 SIMPLIFY_M = 4000  # tolerance in metres (layers are in a Lambert projection)
-DECIMALS = 2       # ~1 km
+DENSE_SIMPLIFY_M = 300  # tolerance in densely settled areas
+DENSE_WORLD_DEG = 0.004  # the same for Natural Earth (US states along the border)
+DENSE_KM2, DENSE_BUFFER_M = 500, 5000  # see the docstring
+DECIMALS = 3       # ~100 m
+TCP_GDB = next((GAZ / "TCP_CANADA_CSD_202306").glob("*.gdb"), None)
 DROP = {"Russia", "Greenland", "Iceland"}  # off the edge of the story; never filled
 
 RENAME = {
@@ -112,7 +121,38 @@ def fold(s):
     return " ".join(s.split())
 
 
-def build_world():
+def dense_mask():
+    """Where census subdivisions are small: a GeoSeries of one polygon in the TCP projection, or None."""
+    if TCP_GDB is None:
+        print("  ! no TCP geodatabase; boundaries are simplified the same way everywhere")
+        return None
+    parts, crs = [], None
+    for layer in pyogrio.list_layers(TCP_GDB)[:, 0]:
+        if not re.match(r"^CANADA_\d{4}_CSD$", layer):
+            continue
+        g = pyogrio.read_dataframe(TCP_GDB, layer=layer, columns=[])
+        crs = g.crs
+        parts.extend(g.geometry[g.geometry.area < DENSE_KM2 * 1e6].simplify(300))
+    mask = shapely.union_all(shapely.buffer(parts, DENSE_BUFFER_M, quad_segs=4)).simplify(2000)
+    print(f"  dense areas: {mask.area / 1e6:,.0f} km²")
+    return gpd.GeoSeries([mask], crs=crs)
+
+
+def polygons_only(geom):
+    parts = [p for p in shapely.get_parts(shapely.make_valid(geom)) if p.geom_type in ("Polygon", "MultiPolygon")]
+    return shapely.union_all(parts) if parts else shapely.Polygon()
+
+
+def simplify(geom, tol, dense_tol, mask):
+    """Simplify with `tol`, but with `dense_tol` inside `mask` (a shapely geometry or None)."""
+    coarse = geom.simplify(tol, preserve_topology=True)
+    if mask is None or not geom.intersects(mask):
+        return coarse
+    fine = geom.simplify(dense_tol, preserve_topology=True)
+    return polygons_only(shapely.union(fine.intersection(mask), coarse.difference(mask)))
+
+
+def build_world(mask=None):
     units_zip, states_zip = NE_DIR / "ne_50m_admin_0_map_units.zip", NE_DIR / "ne_50m_admin_1_states_provinces_lakes.zip"
     if not units_zip.exists():
         print(f"  ! {units_zip.relative_to(ROOT)} not found; skipping the world layer (see data/Gazetteers/README.md)")
@@ -122,7 +162,7 @@ def build_world():
     feats, names, by_admin = [], {}, {}
 
     def add(name, admin, kind, geom, aliases):
-        geom = geom.simplify(WORLD_SIMPLIFY_DEG, preserve_topology=True)
+        geom = simplify(geom, WORLD_SIMPLIFY_DEG, DENSE_WORLD_DEG, mask)
         if geom.is_empty:
             return
         i = len(feats)
@@ -149,8 +189,10 @@ def build_world():
 
 
 def main():
-    build_world()
+    dense = dense_mask()
+    build_world(dense.to_crs(4326).iloc[0] if dense is not None else None)
     files = layer_files()
+    mask = None
     lakes_zip = next(GAZ.glob("**/shapefiles_new/Lakes_poly.zip"), None)
     lakes = gpd.read_file(f"zip://{lakes_zip}").union_all() if lakes_zip else None
 
@@ -163,7 +205,9 @@ def main():
         g = g.dissolve(by=["name", "country"], as_index=False)[["name", "country", "geometry"]]
         if lakes is not None:
             g["geometry"] = g.geometry.difference(lakes)
-        g["geometry"] = g.geometry.simplify(SIMPLIFY_M, preserve_topology=True)
+        if mask is None and dense is not None:
+            mask = dense.to_crs(g.crs).iloc[0]
+        g["geometry"] = [simplify(x, SIMPLIFY_M, DENSE_SIMPLIFY_M, mask) for x in g.geometry]
         g = g[~g.geometry.is_empty].to_crs(4326)
         feats = []
         for _, r in g.iterrows():
